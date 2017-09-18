@@ -1,0 +1,1088 @@
+{
+"type": "FeatureCollection",
+
+"features": [
+  {
+    "type": "Feature",
+    "properties": {
+      "id": "2..0",
+      "borough_no": "2",
+      "borough": "Rodenkirchen",
+      "quarter": "",
+      "track_no": "",
+      "track_point": "0",
+      "track_sub": "",
+      "name": "Rodenkirchen #1",
+      "description": "",
+      "notes": "TESTMODUS",
+      "color": "#3300ff",
+      "successor": ""
+    },
+    "geometry": { "type": "Point", "coordinates": [ 6.9821449, 50.8987099 ]}
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "id": "2..0",
+      "borough_no": "2",
+      "borough": "Rodenkirchen",
+      "quarter": "",
+      "track_no": "",
+      "track_point": "0",
+      "track_sub": "",
+      "name": "Rodenkirchen #2",
+      "description": "",
+      "notes": "TESTMODUS",
+      "color": "#3300ff",
+      "successor": ""
+    },
+    "geometry": { "type": "Point", "coordinates": [ 6.9564228, 50.8601176 ]}
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "id": "2..0",
+      "borough_no": "2",
+      "borough": "Rodenkirchen",
+      "quarter": "",
+      "track_no": "",
+      "track_point": "0",
+      "track_sub": "",
+      "name": "Rodenkirchen #3 Benedinerinnenkloster",
+      "description": "",
+      "notes": "TESTMODUS",
+      "color": "#3300ff",
+      "successor": ""
+    },
+    "geometry": { "type": "Point", "coordinates": [ 6.9595962, 50.9073222 ]}
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "id": "2..0",
+      "borough_no": "2",
+      "borough": "Rodenkirchen",
+      "quarter": "",
+      "track_no": "",
+      "track_point": "0",
+      "track_sub": "",
+      "name": "Rodenkirchen #4",
+      "description": "",
+      "notes": "TESTMODUS",
+      "color": "#3300ff",
+      "successor": ""
+    },
+    "geometry": { "type": "Point", "coordinates": [ 6.9564228, 50.8601176 ]}
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "id": "3.?.1",
+      "borough_no": "3",
+      "borough": "Lindenthal",
+      "quarter": "Müngersdorf",
+      "track_no": "?",
+      "track_point": "1",
+      "track_sub": "",
+      "name": "St. Vitalis und Pfarrhaus",
+      "description": "1889/90 wurde die heutige Kirche, eine der ersten neuromanischen Kirchen Kölns, nach Plänen des Architekten Theodor Kremer errichtet. Neben der Kirche befindet sich das 1880 als Backsteinbau errichtete Pfarrhaus.",
+      "notes": "TESTMODUS",
+      "color": "#3300ff",
+      "successor": ""
+    },
+    "geometry": { "type": "Point", "coordinates": [ 6.87951744, 50.9399976 ]}
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "id": "3.?.2",
+      "borough_no": "3",
+      "borough": "Lindenthal",
+      "quarter": "Müngersdorf",
+      "track_no": "?",
+      "track_point": "2",
+      "track_sub": "",
+      "name": "Kirchenhof",
+      "description": "Von 1261 bis 1803 gehörte der Kirchenhof zu den Besitztümern der Zisterzienser-Abtei Altenberg.Das Herrenhaus mit Schopfwalmdach, dessen Inneres fast unverändert erhalten ist, datiert aus dem Jahr 1774. Nach der Säkularisation (1803) kam der Hof in Privatbesitz.",
+      "notes": "TESTMODUS",
+      "color": "#3300ff",
+      "successor": ""
+    },
+    "geometry": { "type": "Point", "coordinates": [ 6.87985995, 50.9394463 ]}
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "id": "3.?.3",
+      "borough_no": "3",
+      "borough": "Lindenthal",
+      "quarter": "Müngersdorf",
+      "track_no": "?",
+      "track_point": "3",
+      "track_sub": "",
+      "name": "Haus Fenger-Schöngen",
+      "description": "Die ursprünglich in Fachwerk und Backstein errichtete Anlage stammt aus dem 19. Jahrhundert.",
+      "notes": "TESTMODUS",
+      "color": "#3300ff",
+      "successor": ""
+    },
+    "geometry": { "type": "Point", "coordinates": [ 6.87863688, 50.9399296 ]}
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "id": "3.?.4",
+      "borough_no": "3",
+      "borough": "Lindenthal",
+      "quarter": "Müngersdorf",
+      "track_no": "?",
+      "track_point": "4",
+      "track_sub": "",
+      "name": "Marienhof",
+      "description": "Der traufständige Backsteinbau ist das Herrenhaus des ehemaligen  Petershofes, der in früheren Urkunden auch Marienhof oder Liebfrauenhof genannt wird. Das spätbarocke Herrenhaus datiert von 1792.",
+      "notes": "TESTMODUS",
+      "color": "#3300ff",
+      "successor": ""
+    },
+    "geometry": { "type": "Point", "coordinates": [ 6.87878, 50.94042 ]}
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "id": "3.?.5",
+      "borough_no": "3",
+      "borough": "Lindenthal",
+      "quarter": "Müngersdorf",
+      "track_no": "?",
+      "track_point": "5",
+      "track_sub": "",
+      "name": "Stadtvillen",
+      "description": "In direkter Nachbarschaft von kleinen Wohnhäusern und großen Hofanlagen entstanden Anfang des 20. Jahrhunderts die Häuser Belvederestraße 20, 22 und 24, aber auch andere Stadtvillen im alten Ortskern.",
+      "notes": "TESTMODUS",
+      "color": "#3300ff",
+      "successor": ""
+    },
+    "geometry": { "type": "Point", "coordinates": [ 6.8777001, 50.9410432 ]}
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "id": "3.?.6",
+      "borough_no": "3",
+      "borough": "Lindenthal",
+      "quarter": "Müngersdorf",
+      "track_no": "?",
+      "track_point": "6",
+      "track_sub": "",
+      "name": "Petershof",
+      "description": "Die in Backstein errichtete geschlossene Hofanlage wurde 1896 errichtet. Seit 1926 gehört der Hof der Stadt Köln und beherbergt seit 1945 eine städtische Kindertagesstätte.",
+      "notes": "TESTMODUS",
+      "color": "#3300ff",
+      "successor": ""
+    },
+    "geometry": { "type": "Point", "coordinates": [ 6.87737703, 50.9405283 ]}
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "id": "3.?.7",
+      "borough_no": "3",
+      "borough": "Lindenthal",
+      "quarter": "Müngersdorf",
+      "track_no": "?",
+      "track_point": "7",
+      "track_sub": "",
+      "name": "Haus Josef Haubrich",
+      "description": "Dieses markante Wohnhaus erbaute Wilhelm Riphahn in den Jahren 1951/52 im Bauhaus-Stil der 1920er-Jahre für den bedeutenden Kölner Rechtsanwalt und Kunstsammler Josef Haubrich (1889 bis 1961).",
+      "notes": "TESTMODUS",
+      "color": "#3300ff",
+      "successor": ""
+    },
+    "geometry": { "type": "Point", "coordinates": [ 6.87543, 50.93993 ]}
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "id": "3.?.8",
+      "borough_no": "3",
+      "borough": "Lindenthal",
+      "quarter": "Müngersdorf",
+      "track_no": "?",
+      "track_point": "8",
+      "track_sub": "",
+      "name": "Pesche Hüsje",
+      "description": "Fachwerkhäuser dieser Bauweise und Größe, in denen hauptsächlich Landarbeiter und Handwerker wohnten, waren einst ortsprägend für Müngersdorf. Errichtet wurde das &quot;Pesche Hüsje&quot; entweder um 1640 oder um 1710. Damit gehört es zu den ältesten Wohnhäusern Kölns.",
+      "notes": "TESTMODUS",
+      "color": "#3300ff",
+      "successor": ""
+    },
+    "geometry": { "type": "Point", "coordinates": [ 6.87538, 50.94181 ]}
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "id": "3.?.9",
+      "borough_no": "3",
+      "borough": "Lindenthal",
+      "quarter": "Müngersdorf",
+      "track_no": "?",
+      "track_point": "9",
+      "track_sub": "",
+      "name": "?",
+      "description": "1958/59 baute der Architekt Oswald Mathias Ungers (1926 bis 2007) sein Wohnhaus mit zwei Einliegerwohnungen und einem Büro. Zur Quadrather Straße schließt sich seit 1990 der Bibliothekskubus aus Basaltlava an. Hier befindet sich das &quot;Ungers Archiv für Architekturwissenschaft (UAA)&quot;.",
+      "notes": "TESTMODUS",
+      "color": "#3300ff",
+      "successor": ""
+    },
+    "geometry": { "type": "Point", "coordinates": [ 6.87504, 50.94264 ]}
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "id": "3.?.10",
+      "borough_no": "3",
+      "borough": "Lindenthal",
+      "quarter": "Müngersdorf",
+      "track_no": "?",
+      "track_point": "10",
+      "track_sub": "",
+      "name": "?",
+      "description": "1994 bis 96 errichtete Oswald Mathias Ungers hier für sich sein letztes Wohnhaus als architektonisches Manifest. Heute ist das Haus Sitz der &quot;Dr. Speck Literaturstiftung&quot;.",
+      "notes": "TESTMODUS",
+      "color": "#3300ff",
+      "successor": ""
+    },
+    "geometry": { "type": "Point", "coordinates": [ 6.87297, 50.94315 ]}
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "id": "3.?.11",
+      "borough_no": "3",
+      "borough": "Lindenthal",
+      "quarter": "Müngersdorf",
+      "track_no": "?",
+      "track_point": "11",
+      "track_sub": "",
+      "name": "?",
+      "description": "Der Architekt Theodor Edwin Merrill errichtete dieses Wohnhaus mit zwei Ateliers 1929 für die Bildhauerin Hildegard Domizlaff (1898 bis 1987) und die Malerin Helen Wiehen.",
+      "notes": "TESTMODUS",
+      "color": "#3300ff",
+      "successor": ""
+    },
+    "geometry": { "type": "Point", "coordinates": [ 6.87329, 50.94416 ]}
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "id": "3.?.12",
+      "borough_no": "3",
+      "borough": "Lindenthal",
+      "quarter": "Müngersdorf",
+      "track_no": "?",
+      "track_point": "12",
+      "track_sub": "",
+      "name": "Bahnhof Belvedere",
+      "description": "Der am 2. August 1839 eröffnete Bahnhof Belvedere, heute das älteste erhaltene Bahnhofsgebäude Deutschlands, ist die erste Station der weltweit ältes-ten grenzüberschreitenden Eisenbahnstrecke Köln\u2013Antwerpen.",
+      "notes": "TESTMODUS",
+      "color": "#3300ff",
+      "successor": ""
+    },
+    "geometry": { "type": "Point", "coordinates": [ 6.87161, 50.94699 ]}
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "id": "3.?.13",
+      "borough_no": "3",
+      "borough": "Lindenthal",
+      "quarter": "Müngersdorf",
+      "track_no": "?",
+      "track_point": "13",
+      "track_sub": "",
+      "name": "Haus Gerhard Marcks",
+      "description": "Dies war das Wohn- und Atelierhaus des Bildhauers und Bauhausmeisters Gerhard Marcks (1889 bis1981), das 1948/50 von Wilhelm Riphahn errichtet wurde.",
+      "notes": "TESTMODUS",
+      "color": "#3300ff",
+      "successor": ""
+    },
+    "geometry": { "type": "Point", "coordinates": [ 6.86926603, 50.9469639 ]}
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "id": "3.?.14",
+      "borough_no": "3",
+      "borough": "Lindenthal",
+      "quarter": "Müngersdorf",
+      "track_no": "?",
+      "track_point": "14",
+      "track_sub": "",
+      "name": "Freiluga / Zwischenwerk Va",
+      "description": "Auf dem Gelände des Zwischenwerks Va des ehemaligen preußischen Festungsrings entstand auf Initiative des Stadtschulrats Fritz Schu im  Jahr 1925 die Städtische Freiluft- und Gartenarbeitsschule (Freiluga).",
+      "notes": "TESTMODUS",
+      "color": "#3300ff",
+      "successor": ""
+    },
+    "geometry": { "type": "Point", "coordinates": [ 6.86927, 50.94828 ]}
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "id": "3.?.15",
+      "borough_no": "3",
+      "borough": "Lindenthal",
+      "quarter": "Müngersdorf",
+      "track_no": "?",
+      "track_point": "15",
+      "track_sub": "",
+      "name": "Schule",
+      "description": "Der mächtige Putzbau mit Backstein- und Fachwerkgliederungen ist in  seiner Architektur an den &quot;romantisch&quot; gruppierten spätmittelalterlichen Burgenbau angelehnt.",
+      "notes": "TESTMODUS",
+      "color": "#3300ff",
+      "successor": ""
+    },
+    "geometry": { "type": "Point", "coordinates": [ 6.87968, 50.94102 ]}
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "id": "3.?.16",
+      "borough_no": "3",
+      "borough": "Lindenthal",
+      "quarter": "Müngersdorf",
+      "track_no": "?",
+      "track_point": "16",
+      "track_sub": "",
+      "name": "Hof &quot;Im St.\u00a0Wendelin&quot;",
+      "description": "Dieses zweigeschossige Fachwerk-gebäude aus dem Anfang des 18. Jahrhunderts gehört zu den ältesten erhaltenen Gebäuden in Müngersdorf und wurde schon früh als Bauernschänke und Pferdetränke genutzt.",
+      "notes": "TESTMODUS",
+      "color": "#3300ff",
+      "successor": ""
+    },
+    "geometry": { "type": "Point", "coordinates": [ 6.8791, 50.94143 ]}
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "id": "3.?.17",
+      "borough_no": "3",
+      "borough": "Lindenthal",
+      "quarter": "Müngersdorf",
+      "track_no": "?",
+      "track_point": "17",
+      "track_sub": "",
+      "name": "Hermannshof / Hofgut Hartzheim",
+      "description": "Um 1870 ließ Heinrich Hartzheim den Hof in Backstein als geschlossene Hofanlage neu erbauen.",
+      "notes": "TESTMODUS",
+      "color": "#3300ff",
+      "successor": ""
+    },
+    "geometry": { "type": "Point", "coordinates": [ 6.87912708, 50.9419348 ]}
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "id": "3.?.18",
+      "borough_no": "3",
+      "borough": "Lindenthal",
+      "quarter": "Müngersdorf",
+      "track_no": "?",
+      "track_point": "18",
+      "track_sub": "",
+      "name": "Gashäuser",
+      "description": "Acht Gebäudeeinheiten wurden in unterschiedlicher Komposition aus Backsteinmauerwerk, gelben und roten Klinkern, verputzten Wandstücken und Fachwerk zusammengefügt.",
+      "notes": "TESTMODUS",
+      "color": "#3300ff",
+      "successor": ""
+    },
+    "geometry": { "type": "Point", "coordinates": [ 6.88546, 50.94693 ]}
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "id": "3.?.?",
+      "borough_no": "3",
+      "borough": "Lindenthal",
+      "quarter": "Müngersdorf",
+      "track_no": "?",
+      "track_point": "?",
+      "track_sub": "",
+      "name": "Wohnhaus Heinrich Böll",
+      "description": "",
+      "notes": "TESTMODUS",
+      "color": "#3300ff",
+      "successor": ""
+    },
+    "geometry": { "type": "Point", "coordinates": [ 6.87616736, 50.9415779 ]}
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "id": "3..0",
+      "borough_no": "3",
+      "borough": "Lindenthal",
+      "quarter": "",
+      "track_no": "",
+      "track_point": "0",
+      "track_sub": "",
+      "name": "Rodenkirchen #5",
+      "description": "",
+      "notes": "TESTMODUS",
+      "color": "#3300ff",
+      "successor": ""
+    },
+    "geometry": { "type": "Point", "coordinates": [ 6.8908092, 50.9118139 ]}
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "id": "7.1.1",
+      "borough_no": "7",
+      "borough": "Porz",
+      "quarter": "Libur",
+      "track_no": "1",
+      "track_point": "1",
+      "track_sub": "",
+      "name": "Urbanuskreuz",
+      "description": "Das Urbanuskreuz wurde 1729 zusammen mit fünf Sommerlinden an der alten Bonner Straße errichtet. 1948 wurde der Standort zur Urbanusstraße verlegt. Das Kreuz wurde dem heiligen Urban, Schutzpatron der Weinreben, gewidmet.",
+      "notes": "TESTMODUS",
+      "color": "#FFF200",
+      "successor": ""
+    },
+    "geometry": { "type": "Point", "coordinates": [ 7.064892, 50.84439 ]}
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "id": "7.1.2",
+      "borough_no": "7",
+      "borough": "Porz",
+      "quarter": "Libur",
+      "track_no": "1",
+      "track_point": "2",
+      "track_sub": "",
+      "name": "Stompeler Kreuz",
+      "description": "Ein typisches Feldkreuz, dass 1906 mit 3 Rosskastanien errichtet worden ist.",
+      "notes": "TESTMODUS",
+      "color": "#FFF200",
+      "successor": ""
+    },
+    "geometry": { "type": "Point", "coordinates": [ 7.065319, 50.840288 ]}
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "id": "7.1.3",
+      "borough_no": "7",
+      "borough": "Porz",
+      "quarter": "Libur",
+      "track_no": "1",
+      "track_point": "3",
+      "track_sub": "",
+      "name": "Bröhls Kreuz",
+      "description": "Gedenkkreuz von 1882 für die Eheleute Jodokus Bröhl und Klara Küster. Zwei höllandische Linden sind Begleitbäume (Naturdenkmal). Der Standort zeigt die Südseite der Allmende, des Gemeindeflures, an. Das Kreuz ist eine besonders sorgfältige bildhauerische Arbeit mit durchgearbeiteter Konsole, Profilen und Nischeneinfassung. In der Nische steht eine Muttergottesstatue.",
+      "notes": "TESTMODUS",
+      "color": "#FFF200",
+      "successor": ""
+    },
+    "geometry": { "type": "Point", "coordinates": [ 7.070169, 50.836923 ]}
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "id": "7.1.4",
+      "borough_no": "7",
+      "borough": "Porz",
+      "quarter": "Libur",
+      "track_no": "1",
+      "track_point": "4",
+      "track_sub": "",
+      "name": "Hölser Kreuz",
+      "description": "Vorbei am Pleienpool (Kleih-Kuhle) steht das Wegekreuz an einer alten Kreuzung, die von Uckendorf über Stockum nach Spich führte. Gusseisenkreuz und Sandsteinsockel wurden 1787 von den namensgebenden Eheleuten errichtet. 1900 wurde es zerstört und wieder aufgebaut.",
+      "notes": "TESTMODUS",
+      "color": "#FFF200",
+      "successor": ""
+    },
+    "geometry": { "type": "Point", "coordinates": [ 7.073233, 50.834832 ]}
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "id": "7.1.5",
+      "borough_no": "7",
+      "borough": "Porz",
+      "quarter": "Libur",
+      "track_no": "1",
+      "track_point": "5",
+      "track_sub": "",
+      "name": "Pastor-Huthmacher-Straße",
+      "description": "Die Pastor-Huthmacher-Straße weist noch Zeugnisse der typischen älteren Bebauung (Ende 19. Jh.) des Weilers Libur auf (Nr. 2, 10, 16, 22). Eine einheitliche Fluchtlinie fehlt noch. Das Haus Nr.2 ist ein zweigeschossiges, giebelständiges Fachwerkhaus mit vorgesetztem Backsteingiebel aus dem 19. Jahrhundert; Nr.1O ein kleines, zweigeschossiges, traufständiges Backsteinhaus, erbaut um 1900; Nr.16 ein zweigeschossiges Fachwerkgehöft aus dem späten 18. Jahrhundert mit verputztem Erdgeschoß und einem Walmdach; Nr.22 ein zweigeschossiges Wohnhaus (1882 inschr. dat.) einer ehem. Hofanlage, mit einer mehrfarbigen Backsteinfassade, Mittelrisalit (ital. &quot;risalto&quot;: Vorsprung; Teil eines Gebäudes, der über dessen Fluchtlinie in ganzer Höhe hervortritt, man unterscheidet Mittel-‚ Seiten- und Eckrisalit) mit übergiebeltem Eingangsbereich und Madonna in einer Nische.",
+      "notes": "TESTMODUS",
+      "color": "#FFF200",
+      "successor": ""
+    },
+    "geometry": { "type": "Point", "coordinates": [ 7.069228, 50.837552 ]}
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "id": "7.1.6",
+      "borough_no": "7",
+      "borough": "Porz",
+      "quarter": "Libur",
+      "track_no": "1",
+      "track_point": "6",
+      "track_sub": "",
+      "name": "St. Margareta",
+      "description": "Katholische Pfarrkirche St. Margareta an der Pastor-Huthmacher-Straße, erbaut 1909–1911 nach Vorlagen des Pfarrers Hubert Huthmacher, eine neugotische dreischiffige Backsteinbasilika, der ursprüngliche Innenausstattung (steinerne Altäre, Kanzel, Orgelempore, Fenster, Skulpturen) gut erhalten blieben ist. 1981 nach denkmalpflegerischen Gesichtspunkten restauriert. Neben der Kirche der alte Friedhof mit bis auf das Jahr 1650 zurückgehenden Grabsteinen.",
+      "wiki": "https://de.wikipedia.org/wiki/St._Margareta_(K%C3%B6ln-Libur)",
+      "notes": "TESTMODUS",
+      "color": "#FFF200",
+      "successor": ""
+    },
+    "geometry": { "type": "Point", "coordinates": [ 7.069542, 50.837496 ]}
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "id": "7.1.7",
+      "borough_no": "7",
+      "borough": "Porz",
+      "quarter": "Libur",
+      "track_no": "1",
+      "track_point": "7",
+      "track_sub": "",
+      "name": "Margaretenkreuz",
+      "description": "Das Margaretenkreuz wurde 1874 gestiftet.",
+      "notes": "TESTMODUS",
+      "color": "#FFF200",
+      "successor": ""
+    },
+    "geometry": { "type": "Point", "coordinates": [ 7.069293, 50.838195 ]}
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "id": "7.1.8",
+      "borough_no": "7",
+      "borough": "Porz",
+      "quarter": "Libur",
+      "track_no": "1",
+      "track_point": "8",
+      "track_sub": "",
+      "name": "Ensemble Kuxgasse 2, 8, 10",
+      "description": "In der Kuxgasse hat sich das alte Liburer Ortsbild in einem Ensemble niedriger giebelständiger Häuser am besten erhalten: Margarethenhof (Nr. 2), eine erstmals 1492 erwähnte geschlossene Hofanlage mit Herrenhaus (um 1900); ein zweigeschossiges Fachwerkhaus (Nr. 8) vom Ende des 18. Jh, und eine kleine, heute veränderte Hofanlage aus dem 19. Jh. (Nr. 10).",
+      "notes": "TESTMODUS",
+      "color": "#FFF200",
+      "successor": ""
+    },
+    "geometry": { "type": "Point", "coordinates": [ 7.070730, 50.838070 ]}
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "id": "7.1.9",
+      "borough_no": "7",
+      "borough": "Porz",
+      "quarter": "Libur",
+      "track_no": "1",
+      "track_point": "9",
+      "track_sub": "",
+      "name": "Margaretenstraße",
+      "description": "Am Schnittpunkt mit der Kuxgasse gelegen gehört der im 19. Jh. errichtete Fachwerkbau Margaretenstraße 14, Wohnhaus eines Kleingehöfes, zum erhaltenen historischen Bestand der typisch dörflichen Bebauung dieser Straße.",
+      "notes": "TESTMODUS",
+      "color": "#FFF200",
+      "successor": ""
+    },
+    "geometry": { "type": "Point", "coordinates": [ 7.070876, 50.838766 ]}
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "id": "7.1.10",
+      "borough_no": "7",
+      "borough": "Porz",
+      "quarter": "Lind",
+      "track_no": "1",
+      "track_point": "10",
+      "track_sub": "",
+      "name": "Wegekreuz und Hofanlage",
+      "description": "An der Frankfurter Straße/Ecke Am Linder Kreuz steht das 1842 von Alois Böcker, Bürgermeister v. Wahn u. Merheim und Gutsbesitzer zu Lind, gestiftete Kreuz. An die ländliche Vergangenheit Linds erinnert die kleine geschlossene Hofanlage aus der 2. Hälfte des 19. Jh. mit zweigeschossigem Wohnhaus (Am Linder Kreuz 72).",
+      "notes": "TESTMODUS",
+      "color": "#FFF200",
+      "successor": ""
+    },
+    "geometry": { "type": "Point", "coordinates": [7.095154 , 50.846079]}
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "id": "7.1.21",
+      "borough_no": "7",
+      "borough": "Porz",
+      "quarter": "Urbach",
+      "track_no": "1",
+      "track_point": "21",
+      "track_sub": "",
+      "name": "",
+      "description": "",
+      "notes": "TESTMODUS",
+      "color": "#FFF200",
+      "successor": ""
+    },
+    "geometry": { "type": "Point", "coordinates": [ 7.079091, 50.887771 ]}
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "id": "7.1.22",
+      "borough_no": "7",
+      "borough": "Porz",
+      "quarter": "Urbach",
+      "track_no": "1",
+      "track_point": "22",
+      "track_sub": "",
+      "name": "Wohn- und Geschäftshäuser Frankfurter Str. 529",
+      "description": "Unmittelbar an der Kreuzung der beiden Urbacher Hauptstraßen gelegen, ist das 1903 erbaute zweigeschossige Wohn- und Geschäftshaus eines der wenigen im Ort erhaltenen Beispiele einer städtisch beeinflussten Architektur im Jugendstil.",
+      "notes": "TESTMODUS",
+      "color": "#FFF200",
+      "successor": ""
+    },
+    "geometry": { "type": "Point", "coordinates": [ 7.082797, 50.880528 ]}
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "id": "7.1.23",
+      "borough_no": "7",
+      "borough": "Porz",
+      "quarter": "Urbach",
+      "track_no": "1",
+      "track_point": "23",
+      "track_sub": "",
+      "name": "Ensemble Frankfurter Straße mit Ossenbach-Mühle",
+      "description": "Im historischen städtebaulichen Kontext ist das Ensemble ein- bis zweigeschossiger Häuser aus dem 19. u. beginnenden 20. Jh. zu betrachten: die ländl. geprägten Gebäude Nr. 511, 513 und die Nr. 519, die ehem. Issenbach-Müghle, ein eingeschossiges, giebelständiges Fachwerkhaus (Mitte 19. Jh.) mit langgestrecktem, traufständigen Anbau (1981–1983) Gesamtrestaurierung, sowie die Nr. 515, 527 u. 512 ländliche Bauten mit städtischen Einflüssen.",
+      "notes": "TESTMODUS",
+      "color": "#FFF200",
+      "successor": ""
+    },
+    "geometry": { "type": "Point", "coordinates": [ 7.082797, 50.880528 ]}
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "id": "7.1.24",
+      "borough_no": "7",
+      "borough": "Porz",
+      "quarter": "",
+      "track_no": "1",
+      "track_point": "24",
+      "track_sub": "",
+      "name": "Maarhof",
+      "description": "Der 1613 erstmals erwähnte Maarhof, Frankfurter Straße 540, eine geschlossene, vierflügelige Hofanlage des 18./19. Jh., besitzt ein zweigeschossiges Herrenhaus mit reicher Stuckfassade (1896) und Schopfwalmdach. Die ehem. Wirtschaftsgebäude sind aus Backstein. Nach Aufgabe der lanschwirtschftl. Nutzung erfolgten die innere und äußere Restaurierung und der Umbau der Stallungen zur Wohnanlage (1984/86). Der Maarhof bildete den Abschluss und Höhepunkt der Bebauung der Frankfurter Straße. Trotz aller Änderungen ist die Anlage ein unverzichtbarer Bestandteil der nur noch teilw. ländlichen Struktur des Ortes.",
+      "notes": "TESTMODUS",
+      "color": "#FFF200",
+      "successor": ""
+    },
+    "geometry": { "type": "Point", "coordinates": [ 7.082192, 50.882502 ]}
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "id": "7.1.25",
+      "borough_no": "7",
+      "borough": "Porz",
+      "quarter": "Urbach",
+      "track_no": "1",
+      "track_point": "25",
+      "track_sub": "",
+      "name": "St. Bartolomäus",
+      "description": "Die kathol. Pfarrkirche St. Bartholomäus, Frankfurter Straße 522, entstand 1879/80 nach Plänen H. Nagelschmidts als dreischiffige Hallenkirche mit Querschiff, Chorraum und drei Halbkreisenapsidden, erbaut in der Form des rheinisch-romanisierenden Rundbogenstils. Der Vierkantturm stammt a.d. Jahr 1899. Vom Turm des romanischen Vorgängerbaus ist der Ostbogen im heutigen Bau erhalten. Teile der Innenausstattung der alten Urbacher Pfarrkirche sind bewahrt geblieben. Der barocke Orgelprospekt stammt aus Klein-St. Martin in Köln. Hauptaltar und Ambo gestaltet von H. Gernot (1970); innere Farbgestaltung von 1978.",
+      "notes": "TESTMODUS",
+      "color": "#FFF200",
+      "successor": ""
+    },
+    "geometry": { "type": "Point", "coordinates": [ 7.082797, 50.880528 ]}
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "id": "7.1.26",
+      "borough_no": "7",
+      "borough": "Porz",
+      "quarter": "Urbach",
+      "track_no": "1",
+      "track_point": "26",
+      "track_sub": "",
+      "name": "",
+      "description": "",
+      "notes": "TESTMODUS",
+      "color": "#FFF200",
+      "successor": ""
+    },
+    "geometry": { "type": "Point", "coordinates": [ 7.082347, 50.879013 ]}
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "id": "7.1.27",
+      "borough_no": "7",
+      "borough": "Porz",
+      "quarter": "Urbach",
+      "track_no": "1",
+      "track_point": "27",
+      "track_sub": "",
+      "name": "Urbacher Friedhof",
+      "description": "Dieser typische Dorffriedhof wurde zur Zeit der Bürgermeisterei Heumar am Ortsrand errichtet. Die gemischt-konfessionelle Friedhof enthält Gräber der 60er und 70er Jahren des 19. Jh. Ein prächtiges Grabmal aus weißem Marmor (1982) des Urbacher Bürgermeisters Bernhard Sternenberg und seiner Frau Eva, geb. Balchoss sticht hervor. Auf dem Gelände zum Mühlenweg hin befindet sich das Ehrenmal der UdSSR für die im Zweiten Weltkrieg getöteten Zwangsarbeiter.",
+      "notes": "TESTMODUS",
+      "color": "#FFF200",
+      "successor": ""
+    },
+    "geometry": { "type": "Point", "coordinates": [ 7.082872, 50.878013 ]}
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "id": "7.1.28",
+      "borough_no": "7",
+      "borough": "Porz",
+      "quarter": "Urbach",
+      "track_no": "1",
+      "track_point": "28",
+      "track_sub": "",
+      "name": "Wohnhaus Frankfurter Straße 482",
+      "description": "Das 1880 errichtete zweigeschossige, traufständige Wohnhaus mit Backsteinfassade, Stichbögen, Ankersplinten erinnert noch an das ursprüngliche Straßenbild.",
+      "notes": "TESTMODUS",
+      "color": "#FFF200",
+      "successor": ""
+    },
+    "geometry": { "type": "Point", "coordinates": [ 7.082512, 50.877732 ]}
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "id": "7.2.6",
+      "borough_no": "7",
+      "borough": "Porz",
+      "quarter": "",
+      "track_no": "2",
+      "track_point": "6",
+      "track_sub": "",
+      "name": "Porz #1",
+      "description": "",
+      "notes": "TESTMODUS",
+      "color": "#00ACF3",
+      "successor": ""
+    },
+    "geometry": { "type": "Point", "coordinates": [ 7.02606, 50.861353 ]}
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "id": "7.2.9",
+      "borough_no": "7",
+      "borough": "Porz",
+      "quarter": "Langel",
+      "track_no": "2",
+      "track_point": "9",
+      "track_sub": "",
+      "name": "",
+      "description": "",
+      "notes": "TESTMODUS",
+      "color": "#00ACF3",
+      "successor": ""
+    },
+    "geometry": { "type": "Point", "coordinates": [ 7.004424, 50.846019 ]}
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "id": "7.2.10",
+      "borough_no": "7",
+      "borough": "Porz",
+      "quarter": "Langel",
+      "track_no": "2",
+      "track_point": "10",
+      "track_sub": "",
+      "name": "",
+      "description": "",
+      "notes": "TESTMODUS",
+      "color": "#00ACF3",
+      "successor": ""
+    },
+    "geometry": { "type": "Point", "coordinates": [ 7.005427, 50.846026 ]}
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "id": "7.2.11",
+      "borough_no": "7",
+      "borough": "Porz",
+      "quarter": "Langel",
+      "track_no": "2",
+      "track_point": "11",
+      "track_sub": "",
+      "name": "",
+      "description": "",
+      "notes": "TESTMODUS",
+      "color": "#00ACF3",
+      "successor": ""
+    },
+    "geometry": { "type": "Point", "coordinates": [ 7.006522, 50.847456 ]}
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "id": "7.2.12",
+      "borough_no": "7",
+      "borough": "Porz",
+      "quarter": "Langel",
+      "track_no": "2",
+      "track_point": "12",
+      "track_sub": "",
+      "name": "Sog. Friedenseiche (Naturdenkmal)",
+      "description": "Die &quot;Friedenseiche&quot; wurde zum Gedenken an den deutsch-französischen Krieg 1870/71 und die Reichsgrndung von 1871 an der Wegekreuzung vom ehem. Langeler Unterdorf nach Lülsdorf und vom Oberdorf nach Zündorf gepflanzt.",
+      "notes": "TESTMODUS",
+      "color": "#00ACF3",
+      "successor": ""
+    },
+    "geometry": { "type": "Point", "coordinates": [ 7.010136, 50.849376 ]}
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "id": "7.2.13",
+      "borough_no": "7",
+      "borough": "Porz",
+      "quarter": "",
+      "track_no": "2",
+      "track_point": "13",
+      "track_sub": "",
+      "name": "Porz #2",
+      "description": "",
+      "notes": "TESTMODUS",
+      "color": "#00ACF3",
+      "successor": ""
+    },
+    "geometry": { "type": "Point", "coordinates": [ 7.013392, 50.851029 ]}
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "id": "7.4.1",
+      "borough_no": "7",
+      "borough": "Porz",
+      "quarter": "Zündorf",
+      "track_no": "4",
+      "track_point": "1",
+      "track_sub": "",
+      "name": "Jüdischer Friedhof",
+      "description": "Aus der jüdischen Gemeinde gingen zahlreiche für Zündorf wichtige Unternehmer hervor. Eine Judengasse war hier 1825 und 1854 verzeichnet. 1880 entstand die bis 1938 bestehende Synagoge (Hauptstr. 159; heute ein Wohnhaus). Der ehemalige jüdische Friedhof ist zwischen Gartenweg und Hasenkaul gelegen<b/>Nach der Befreiung Deutschlands vom Nationalsozialismus 1945 ist die jüdische Gemeinde nicht wiederentstanden.",
+      "notes": "TESTMODUS",
+      "color": "#E486B9",
+      "successor": ""
+    },
+    "geometry": { "type": "Point", "coordinates": [ 7.059555, 50.871298 ]}
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "id": "7.4.6",
+      "borough_no": "7",
+      "borough": "Porz",
+      "quarter": "Zündorf",
+      "track_no": "4",
+      "track_point": "6",
+      "track_sub": "",
+      "name": "&quot;Kleines Teehaus&quot;",
+      "description": "Zwischen Turmhof und Markt steht an der Rheinpromenade neben einer Trauerweide (Naturdenkmal) das &quot;Kleine Teehaus&quot; der ehem. Brauerei Immendorff, ein Jugendstil-Pavillon aus dem Jahre 1910.",
+      "notes": "TESTMODUS",
+      "color": "#E486B9",
+      "successor": ""
+    },
+    "geometry": { "type": "Point", "coordinates": [ 7.043856, 50.870296 ]}
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "id": "7.4.7",
+      "borough_no": "7",
+      "borough": "Porz",
+      "quarter": "Zündorf",
+      "track_no": "4",
+      "track_point": "7",
+      "track_sub": "",
+      "name": "Groov",
+      "description": "Bis zur Mitte des 18. Jh. eine auch zum Weiden- und Weinanbau benutzte Rheininsel, versandete seit dem Beginn der systematischen Uferbefestigung im Jahre 1815 das Wasser zwischen der Groov und dem Ufer immer mehr. Heute ist die Groov eine Halbinsel (Obere u. Untere Groov), ein beliebtes Ausflugsziel und Freizeitgelände.",
+      "notes": "TESTMODUS",
+      "color": "#E486B9",
+      "successor": ""
+    },
+    "geometry": { "type": "Point", "coordinates": [ 7.040530, 50.869506 ]}
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "id": "7.4.8",
+      "borough_no": "7",
+      "borough": "Porz",
+      "quarter": "Zündorf",
+      "track_no": "4",
+      "track_point": "8",
+      "track_sub": "",
+      "name": "Marktplatz mit Nepomuk-Statue und Kriegerdenkmal",
+      "description": "",
+      "notes": "TESTMODUS",
+      "color": "#E486B9",
+      "successor": ""
+    },
+    "geometry": { "type": "Point", "coordinates": [ 7.0428073, 50.8697328 ]}
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "id": "7.4.11",
+      "borough_no": "7",
+      "borough": "Porz",
+      "quarter": "Zündorf",
+      "track_no": "4",
+      "track_point": "11",
+      "track_sub": "",
+      "name": "St. Michael",
+      "description": "St. Michael am Burgweg, die alte Pfarrkirche Niederzündorfs (11.–17. Jh.), auf einer leichten Anhöhe über einem alten Rheinarm gelegen, ist ein romanischer Saalbau mit reich verziertem Vierkantturm mit Rautenhelm (1170) im Westen, dreiseitigem Chor im Osten, Kapelle im Süden und Sakristei (1662) im Norden. Das nördl. Seitenschiff wurde 1906 abgebrochen. Im Innern 2 Tafelgemälde aus der Barthel Bruyn-Schule mit Kalvarienberg u. Anbetung der hl. 3 Könige (2. Hälfte 16. Jh.), ein merowingisches Ranklenrelief (7. Jh.) u. Grabsteine des 17. Jh. Der ummauerte Friedhofsbezirk ist mittelalterlichen Ursprungs; auf dem Eingangstor ein 1630 datiertes Grabkreuz.",
+      "wiki": "https://de.wikipedia.org/wiki/St._Michael_%28K%C3%B6ln-Z%C3%BCndorf%29",
+      "notes": "TESTMODUS",
+      "color": "#E486B9",
+      "successor": ""
+    },
+    "geometry": { "type": "Point", "coordinates": [ 7.042446, 50.868439 ]}
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "id": "7.4.12",
+      "borough_no": "7",
+      "borough": "Porz",
+      "quarter": "Zündorf",
+      "track_no": "4",
+      "track_point": "12",
+      "track_sub": "",
+      "name": "Historische Gebäude am Burgweg",
+      "description": "Das 1 1/2-geschossige Fachwerkhäuschen (mit verputzter Traufseite) Burgweg Nr. 9 datiert aus dem Jahr 1677. Der Bitzhof, Burgweg Nr. 12, stammt aus dem Jahre 1836. Das zweigeschossige Fachwerkhaus mit einläufiger Außentreppe wurde 1982 innen und außen aufwendig restauriert.",
+      "notes": "TESTMODUS",
+      "color": "#E486B9",
+      "successor": ""
+    },
+    "geometry": { "type": "Point", "coordinates": [ 7.042533, 50.868793 ]}
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "id": "7.4.14",
+      "borough_no": "7",
+      "borough": "Porz",
+      "quarter": "Zündorf",
+      "track_no": "4",
+      "track_point": "14",
+      "track_sub": "",
+      "name": "St. Mariä Geburt",
+      "description": "Die kathol. Pfarrkirche St. Mariä Geburt, Hauptstr. 141, 1895&frasl;97 nach den Plänen F. Langenbergs erbaut, ist eine dreischiffige neugotische Backstein-Hallenkirche mit mächtigem, das Ortsbild dominierenden schiefergedeckten Vierkantturm an der Eingangsseite. Im Inneren neben den Resten der originalen neugot. Ausstattung und Relikten as der alten Pfarrkirche (Holzskulptur der auf einer Mondsichel thronenden Muttergottes (eine moderne Ausstattung (v. G. Lossow) und seit 1962 von F. Pauli geschaffene Glasfenster. Neben der Kirche ein Wegkreuz (um 1800) aus farbig gefasstem Sandstein.",
+      "notes": "TESTMODUS",
+      "color": "#E486B9",
+      "successor": ""
+    },
+    "geometry": { "type": "Point", "coordinates": [ 7.042566, 50.867644 ]}
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "id": "7.4.18",
+      "borough_no": "7",
+      "borough": "Porz",
+      "quarter": "",
+      "track_no": "4",
+      "track_point": "18",
+      "track_sub": "",
+      "name": "Börschhof",
+      "description": "Der Börschhof (ehemaliger Abtshof), Hauptstraße 2, ist eine geschlossene Hofanlage von 1780/81 mit zweigeschossigem, fünfachsigem Herrenhaus und eingeschossigen Wirtschaftsgebäuden (alle in Backstein). Der Hof markiert die südliche Grenze Zündorfs und prägt zusammen mit den anderen Hofanlagen das Dorfbild entlang der Hauptstraße.",
+      "notes": "TESTMODUS",
+      "color": "#E486B9",
+      "successor": ""
+    },
+    "geometry": { "type": "Point", "coordinates": [ 7.033893, 50.860674 ]}
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "id": "7..0",
+      "borough_no": "7",
+      "borough": "Porz",
+      "quarter": "",
+      "track_no": "",
+      "track_point": "0",
+      "track_sub": "",
+      "name": "Porz #3",
+      "description": "",
+      "notes": "TESTMODUS",
+      "color": "#3300ff",
+      "successor": ""
+    },
+    "geometry": { "type": "Point", "coordinates": [ 7.0705685, 50.8384654 ]}
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "id": "7..0",
+      "borough_no": "7",
+      "borough": "Porz",
+      "quarter": "",
+      "track_no": "",
+      "track_point": "0",
+      "track_sub": "",
+      "name": "Porz #9",
+      "description": "",
+      "notes": "TESTMODUS",
+      "color": "#3300ff",
+      "successor": ""
+    },
+    "geometry": { "type": "Point", "coordinates": [ 7.0821775, 50.8824511 ]}
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "id": "7..0",
+      "borough_no": "7",
+      "borough": "Porz",
+      "quarter": "",
+      "track_no": "",
+      "track_point": "0",
+      "track_sub": "",
+      "name": "Porz #10",
+      "description": "",
+      "notes": "TESTMODUS",
+      "color": "#3300ff",
+      "successor": ""
+    },
+    "geometry": { "type": "Point", "coordinates": [ 7.0705605, 50.8384615 ]}
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "id": "7..0",
+      "borough_no": "7",
+      "borough": "Porz",
+      "quarter": "",
+      "track_no": "",
+      "track_point": "0",
+      "track_sub": "",
+      "name": "Porz #11 St. Margareta",
+      "description": "",
+      "notes": "TESTMODUS",
+      "color": "#3300ff",
+      "successor": ""
+    },
+    "geometry": { "type": "Point", "coordinates": [ 7.069263, 50.837481 ]}
+  }
+]
+}

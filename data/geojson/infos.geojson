@@ -1,0 +1,946 @@
+{
+"type": "FeatureCollection",
+
+"features": [
+  {
+    "type": "Feature",
+    "properties": {
+      "id": "2.2.7",
+      "borough_no": "2",
+      "borough": "Rodenkirchen",
+      "quarter": "Zollstock",
+      "track_no": "2",
+      "track_point": "7",
+      "track_sub": "",
+      "name": "Südfriedhof",
+      "description": "1901 eröffnet. Entwurf von A. Kowallek. Die landschaftliche Anlage mit Rundwegen und abwechlungsreichen Baum- und Gehölzgruppen ist ein Beispiel für den Stil des Historismus.<br/>Darin ein englischer, ein italienischer und ein deutscher Ehrenfriedhof, bedeutende Grabstätten von 1900 - 1940 und ein Hochkreuz. Die Einfriedung sowie die oktogonale Trauerkapelle sind 1905 - 1918 nach den Entwürfen von F. Bolte im neuromantischen Stil erbaut.",
+      "wiki": "https://de.wikipedia.org/wiki/S%C3%BCdfriedhof_%28K%C3%B6ln%29",
+      "additional_info": "<li><a target=\"_blank\" href=\"http://www.bilderbuch-koeln.de/Denkmale/201\">Denkmalliste</a></li>",
+      "notes": "Hier ist der Pfad noch nicht komplett erfasst.",
+      "color": "#E58100",
+      "successor": ""
+    },
+    "geometry": { "type": "Point", "coordinates": [ 6.943946560809015, 50.90067522526192 ]}
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "id": "2.4.1",
+      "borough_no": "2",
+      "borough": "Rodenkirchen",
+      "quarter": "Rodenkirchen",
+      "track_no": "4",
+      "track_point": "1",
+      "track_sub": "",
+      "name": "Autobahnbrücke",
+      "description": "Errichtet 1938 - 1941 durch P. Bonatz und F. Leonhardt im Zuge des Kölner Autobahnrings. Erste echte erdverankerte Kabelhängebrücke mit einer Mittelstützweite vom 378 m, seinerzeit weitestgespannte Hängebrücke Europas. Hauptmerkmale: monumentale Torsituation am Naturstein-Brückenkopf, Schlankheit der horizontalen Versteifungsträger, Spannweitenverhältnis zwischen den Trägern un den sie einrahmenden portalartigen Pylonen. 1945 Sprengung, 1952 - 1954 getreuer Wiederaufbau. Ab 1990 Verbreiterung der Brücke durch einen Zwillingsbau an der Nordseite.",
+      "wiki": "https://de.wikipedia.org/wiki/Rheinbr%C3%BCcke_K%C3%B6ln-Rodenkirchen",
+      "additional_info": "<li><a target=\"_blank\" href=\"http://www.bilderbuch-koeln.de/Denkmale/7837\">Denkmalliste</a></li>",
+      "color": "#E486B9",
+      "successor": "2.4.2"
+    },
+    "geometry": { "type": "Point", "coordinates": [ 6.988880587942347, 50.89773318249941 ]}
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "id": "2.4.2",
+      "borough_no": "2",
+      "borough": "Rodenkirchen",
+      "quarter": "Rodenkirchen",
+      "track_no": "4",
+      "track_point": "2",
+      "track_sub": "",
+      "name": "St. Maternus",
+      "description": "Erbaut 1863 - 1867 nach den Plänen von V. Statz auf dem Gelände des ehemaligen Kartäuserhofes. Dreischiffige Backstein-Hallenkirche mit eingezogenem Chor und Einturmfassade. Bei der Formensprache Rückgriff auf die Hochgotik des 13.&frasl;14. Jahrhunderts. Einziger Bauschmuck am Portal: Tympanon mit dem Hl. Maternus zwischen zwei Engeln vor einem Kölnpanorama. Türgriffbronzereliefs (innen) und Taufbeckendeckel (1978&frasl;79) von H. Kühnapfel. Madonna aus Alt-St. Maternus um 1470. Nebenliegendes, neugotisches ehemaliges Pfarrhaus um 1870.",
+      "wiki": "https://de.wikipedia.org/wiki/St._Maternus_(K%C3%B6ln)",
+      "additional_info": "<li><a target=\"_blank\" href=\"http://www.bilderbuch-koeln.de/Denkmale/915\">Denkmalliste Kirche</a></li><li><a target=\"_blank\" href=\"http://www.bilderbuch-koeln.de/Denkmale/5502\">Denkmalliste ehem. Pfarrhaus</a></li>",
+      "color": "#E486B9",
+      "successor": "2.4.3"
+    },
+    "geometry": { "type": "Point", "coordinates": [ 6.9917708, 50.8956883 ]}
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "id": "2.4.3",
+      "borough_no": "2",
+      "borough": "Rodenkirchen",
+      "quarter": "Rodenkirchen",
+      "track_no": "4",
+      "track_point": "3",
+      "track_sub": "",
+      "name": "Maternus-Bildstock",
+      "description": "",
+      "notes": "Hier konnten wir leider keine Infotafel mehr finden.",
+      "color": "#E486B9",
+      "successor": "2.4.4"
+    },
+    "geometry": { "type": "Point", "coordinates": [ 6.990123867898285, 50.89725921139025 ]}
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "id": "2.4.4",
+      "borough_no": "2",
+      "borough": "Rodenkirchen",
+      "quarter": "Rodenkirchen",
+      "track_no": "4",
+      "track_point": "4",
+      "track_sub": "",
+      "name": "Villa Malta",
+      "description": "Erbaut 1904&frasl;5 für den ehemaligen Bürgermeister E. Steisel. Die Jugendstil-Villa von den Architektenbrüdern Schauppmeyer hat das Aussehen einer Burg. Villen im sog. Burgenstil waren beliebt. Vielansichtiger Bau: Straßenfassade mit Treppengiebel, malerische asymmetrische Staffelung der Anbauten um hohen Aussichtsturm zur Rheinseite. Hieß zuerst &quot;Villa Angonia&quot;, später &quot;Villa Maria&quot; und seit 1975 nach vorletztem Besitzer, dem Malteserorden, &quot;Villa Malta&quot;.",
+      "wiki": "https://de.wikipedia.org/wiki/Villa_Malta_(K%C3%B6ln)",
+      "additional_info": "<li><a target=\"_blank\" href=\"http://www.bilderbuch-koeln.de/Denkmale/3938\">Denkmalliste</a></li>",
+      "color": "#E486B9",
+      "successor": "2.4.5"
+    },
+    "geometry": { "type": "Point", "coordinates": [ 6.9909433, 50.8964624 ]}
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "id": "2.4.5",
+      "borough_no": "2",
+      "borough": "Rodenkirchen",
+      "quarter": "Rodenkirchen",
+      "track_no": "4",
+      "track_point": "5",
+      "track_sub": "",
+      "name": "Umgebung von Alt-St. Maternus",
+      "description": "",
+      "wiki": "https://de.wikipedia.org/wiki/Alt_St._Maternus",
+      "additional_info": "<li><a target=\"_blank\" href=\"http://www.bilderbuch-koeln.de/Denkmale/938\">Denkmalliste Kirche</a></li><li><a target=\"_blank\" href=\"http://www.bilderbuch-koeln.de/Denkmale/3434\">Denkmalliste Friedhof</a></li><li><a target=\"_blank\" href=\"https://de.wikipedia.org/wiki/Kirchstra%C3%9Fe_13_(K%C3%B6ln)\">Wikipedia</a></li><li><a target=\"_blank\" href=\"http://www.bilderbuch-koeln.de/Denkmale/3455\">Denkmalliste Wohnhaus</a></li><li><a target=\"_blank\" href=\"http://www.bilderbuch-koeln.de/Denkmale/3572\">Denkmalliste Wohn- und Geschäftshaus</a></li>",
+      "notes": "Hier konnten wir leider keine Infotafel mehr finden und das Objekt nicht zuordnen. Der Text beschreibt das umliegende Gebiet.",
+      "color": "#E486B9",
+      "successor": "2.4.6"
+    },
+    "geometry": { "type": "Point", "coordinates": [ 6.9948528, 50.8954673 ]}
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "id": "2.4.6",
+      "borough_no": "2",
+      "borough": "Rodenkirchen",
+      "quarter": "Rodenkirchen",
+      "track_no": "4",
+      "track_point": "6",
+      "track_sub": "",
+      "name": "Villenensemble",
+      "description": "",
+      "notes": "Hier konnten wir leider keine Infotafel mehr finden und das Objekt nicht zuordnen.",
+      "color": "#E486B9",
+      "successor": "2.4.7"
+    },
+    "geometry": { "type": "Point", "coordinates": [ 6.99933608343288, 50.89348390401303 ]}
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "id": "2.4.7",
+      "borough_no": "2",
+      "borough": "Rodenkirchen",
+      "quarter": "Rodenkirchen",
+      "track_no": "4",
+      "track_point": "7",
+      "track_sub": "",
+      "name": "Haus Brügelmann",
+      "description": "",
+      "notes": "Hier konnten wir leider keine Infotafel mehr finden und das Objekt nicht zuordnen.",
+      "color": "#E486B9",
+      "successor": "2.4.8"
+    },
+    "geometry": { "type": "Point", "coordinates": [ 7.005154235274617, 50.8922971672357 ]}
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "id": "2.4.8",
+      "borough_no": "2",
+      "borough": "Rodenkirchen",
+      "quarter": "Rodenkirchen",
+      "track_no": "4",
+      "track_point": "8",
+      "track_sub": "",
+      "name": "St. Joseph",
+      "description": "1954 - 1956, letztes Werk des bekannten Kirchenarchitekten D. Böhm. Vollendung durch G. Böhm. Schlichter Backstein-Hallenbau. Blockhafte Fronttürme im Osten und Westen verweisen auf Taufbecken und Altar im Inneren. Farbverglasung in den Lichtöffnungen des Westturms von W. Teuwen, seitliche Fenster von H. Berke. Ausgrenzung eines Vorplatzes durch im Winkel ansetzende niedrige Gemeindebauten.",
+      "color": "#E486B9",
+      "successor": "2.4.9"
+    },
+    "geometry": { "type": "Point", "coordinates": [ 7.0025884, 50.8866024 ]}
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "id": "2.4.9",
+      "borough_no": "2",
+      "borough": "Rodenkirchen",
+      "quarter": "Rodenkirchen",
+      "track_no": "4",
+      "track_point": "9",
+      "track_sub": "",
+      "name": "Gut Schillingsrott (Lennartzhof)",
+      "description": "Einzige erhaltene geschlossene Hofanlage von ehemals zehn größeren Rodenkirchener Höfen. Erstnennung 1171. Vor der Säkularisation 1802 im Besitz des Kölner Stiftes St. Georg. Das heutige barocke Herrenhaus mit Straßen- und Hoffassade aus dem 18. Jahrhundert. Die Lindenbäume nehmen Bezug auf die Fensterachsen. Wappen über der Eingangstür. Wirtschaftsbauten in geschlämmtem Backstein z.Z. 1809 datiert. Seit 1972 Restaurierung durch Heinz D. Stuckmann.",
+      "additional_info": "<li><a target=\"_blank\" href=\"http://www.bilderbuch-koeln.de/Denkmale/225\">Denkmalliste</a></li>",
+      "color": "#E486B9",
+      "successor": "2.4.10"
+    },
+    "geometry": { "type": "Point", "coordinates": [ 6.991541745795261, 50.88342545469553 ]}
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "id": "2.4.10",
+      "borough_no": "2",
+      "borough": "Rodenkirchen",
+      "quarter": "Rodenkirchen",
+      "track_no": "4",
+      "track_point": "10",
+      "track_sub": "",
+      "name": "Diakonie-Dorf Michaelshoven",
+      "description": "Erbaut 1955 - 1959 nach den Plänen von Dr. E. te Reh. Im Mittelpunkt die zeltförmige Erzengel-Michael-Kirche in ovaler Parkanlage, anfänglich von sechs Häusern umgeben. Die zweiflügeligen, leicht gewinkelten Flachdachbauten besitzen abwechslungsreiche Eingangslösungen, die als kommunikative Zentren dienen. Programm war naturnahes Leben in dörflicher Gemeinschaft für Flüchtlinge, Ausgebombte und Jugendliche ohne Schulabschluss, später auch für Behinderte und Senioren.",
+      "wiki": "https://de.wikipedia.org/wiki/Diakonie_Michaelshoven",
+      "color": "#E486B9",
+      "successor": ""
+    },
+    "geometry": { "type": "Point", "coordinates": [ 7.0018152, 50.8774968 ]}
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "id": "7.2.1",
+      "borough_no": "7",
+      "borough": "Porz",
+      "quarter": "Deutz",
+      "track_no": "2",
+      "track_point": "1",
+      "track_sub": "",
+      "name": "Drehbrücke",
+      "description": "Die aus der Gründerzeit des Deutzer Hafens (Stadtbezirk 1) stammende Drehbrücke, ein technisches Denkmal, wurde 1907 errichtet und 1908 dem Verkehr übergeben. Ihre elektrisch gesteuerte, genietete Gitterträgerkonstruktion mit dem Steuerhäuschen aus Stahlblechen ist bis heute vollständig erhalten geblieben. Auf der von ihr ausgehenden Alfred-Schütte-Allee erreicht man das Poller Rheinufer mit dem in den 20er Jahren angelegten öffentlichen Grünbereich mit Sportanlagen.",
+      "wiki": "https://de.wikipedia.org/wiki/Deutzer_Drehbr%C3%BCcke",
+      "additional_info": "<li><a target=\"_blank\" href=\"http://www.bilderbuch-koeln.de/Denkmale/4\">Denkmalliste</a></li>",
+      "notes": "Hier ist der Pfad noch nicht komplett erfasst.",
+      "color": "#00ACF3",
+      "successor": "7.2.2"
+    },
+    "geometry": { "type": "Point", "coordinates": [ 6.97314244581821, 50.9277952838689 ]}
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "id": "7.2.2",
+      "borough_no": "7",
+      "borough": "Porz",
+      "quarter": "Westhoven",
+      "track_no": "2",
+      "track_point": "2",
+      "track_sub": "",
+      "name": "Nikolaus-Kapelle",
+      "description": "Die dem Schutzpatron der Schiffer geweihte, ehem. zur Abtei St. Heribert in Deutz gehörende Nikolaus-Kapelle, St. Agatha-Straße, wurde um 1100 errichtet. Der kleine romanische Saalbau (restauriert 1959-64) aus verputztem Tuff- und Kieselmauerwerk mit eingezogenem Rechteckchor, Fachwerkgiebel und einem Dachreiter liegt inmitten des ehem., bis 1929 benutzten Friedhofes mit alten Grabsteinen und Eisenkreuzen (restauriert 1987 vn der Bürgervereinigung Ensen-Westhoven).",
+      "wiki": "https://de.wikipedia.org/wiki/Nikolaus-Kapelle_%28K%C3%B6ln%29",
+      "additional_info": "<li><a target=\"_blank\" href=\"http://www.bilderbuch-koeln.de/Denkmale/1295\">Denkmalliste</a></li>",
+      "notes": "Hier ist der Pfad noch nicht komplett erfasst.",
+      "color": "#00ACF3",
+      "successor": "7.2.4"
+    },
+    "geometry": { "type": "Point", "coordinates": [ 7.0162521, 50.8968724 ]}
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "id": "7.2.4",
+      "borough_no": "7",
+      "borough": "Porz",
+      "quarter": "Porz",
+      "track_no": "2",
+      "track_point": "4",
+      "track_sub": "",
+      "name": "Rheinuferpromenade",
+      "description": "Die Rheinuferpromenade, Friedrich-Ebert-Ufer, mit Ufermauer, Treppenaufgang, Fahrkartenpavillon für die Schiffahrt, Löwenmonument und schmiedeeisernen Laternen wurde zwischen 1907 u. 1912 angelegt.",
+      "additional_info": "<li><a target=\"_blank\" href=\"http://www.bilderbuch-koeln.de/Denkmale/538\">Denkmalliste</a></li>",
+      "notes": "Hier ist der Pfad noch nicht komplett erfasst.",
+      "color": "#00ACF3",
+      "successor": "7.2.5"
+    },
+    "geometry": { "type": "Point", "coordinates": [ 7.054029, 50.8846978 ]}
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "id": "7.2.5",
+      "borough_no": "7",
+      "borough": "Porz",
+      "quarter": "Porz",
+      "track_no": "2",
+      "track_point": "5",
+      "track_sub": "",
+      "name": "Porzer Rathaus",
+      "description": "Das Porzer Rathaus, Friedrich-Ebert-Ufer 64, ein dreigeschossiger mächtiger, siebenachsiger Bau mit wuchtigem Turm und Arkaden im Erdgeschoß, entstand 1909&frasl;10 nach Plänen des Regierungsbaumeisters Moritz. Der Erweiterungsbau mit Werksteinfassade stammt aus den Jahren 1955&frasl;56; weitere Neubauten aus den 70er und 80er Jahren. Heute ist das Porzer Rathaus Sitz der Bezirksvertretung des Stadtbezirks 7 und der Bezirksverwaltung.",
+      "notes": "Hier ist der Pfad noch nicht komplett erfasst.",
+      "color": "#00ACF3",
+      "successor": "7.2.7"
+    },
+    "geometry": { "type": "Point", "coordinates": [ 7.054216878078211, 50.88506916119908 ]}
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "id": "7.2.7",
+      "borough_no": "7",
+      "borough": "Porz",
+      "quarter": "Langel",
+      "track_no": "2",
+      "track_point": "7",
+      "track_sub": "",
+      "name": "Fronhof",
+      "description": "Begrenzt von der Frongasse, Rosengasse und Lülsdorfer Straße liegt der erstmals 965, dann 1225 im Urbar von St. Pantaleon in Köln erwähnte Fronhof. 1633 wurde der damals 178 Morgen große Hof, Zentrum eines grundherrschaftlichen Hofverbandes mit einer größeren Anzahl abhängiger Höfe, von einem Feuer vernichtet. Die danach neu entstandene Anlage ging 1803 in den Besitz des preußischen Staates über, der sie 1820 an die Gebrüder Immendorff verkaufte. Der nach starken Beschädigungen im Zweiten Weltkrieg wiederaufgebaute, heute teilw. veränderte Fronhof ist der Mittelpunkt des Langeler Oberdorfes in unmittelbarer Nachbarschaft der Kirche St. Clemens.",
+      "notes": "Hier ist der Pfad noch nicht komplett erfasst.",
+      "color": "#00ACF3",
+      "successor": "7.2.8"
+    },
+    "geometry": { "type": "Point", "coordinates": [ 7.0034458, 50.846453 ]}
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "id": "7.2.8",
+      "borough_no": "7",
+      "borough": "Porz",
+      "quarter": "Langel",
+      "track_no": "2",
+      "track_point": "8",
+      "track_sub": "",
+      "name": "St. Clemens",
+      "description": "Kathol. Pfarrkirche St. Clemens, Lülsdorfer Straße 114, erbaut 1890/91 von Langeler Steinmetzen und Maurern nach Plänen H. Nagelschmidts, eine neugotische dreischiffige Backstein-Hallenkirche mit Schieferdach und Vierkantturm im Westen. Von der Innenausstattung sind 3 gotische Schnitzaltäre und der Orgelprospekt erhalten geblieben und 1982/83 mit einer passenden Kanzel aus Kürten-Bechern ergänzt worden. Wiederherstellung der im Krieg zerstörten Glasfenster in drei Phasen ab 1953 und der ursprgl. Neugotischen Ausmalung 1978/80. Ersetzung der mittleren Chorfenster 1990 durch eine Heiligenfiguren zeigende Buntverglasung im Nazarenerstil a. d. J. 1900. Restliche Fensterflächen 1990 von K. Dedy gestaltet.",
+      "wiki": "https://de.wikipedia.org/wiki/St._Clemens_(K%C3%B6ln-Langel)",
+      "notes": "Hier ist der Pfad noch nicht komplett erfasst.",
+      "color": "#00ACF3",
+      "successor": "7.2.14"
+    },
+    "geometry": { "type": "Point", "coordinates": [ 7.004207848206901, 50.845723969859634]}
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "id": "7.2.14",
+      "borough_no": "7",
+      "borough": "Porz",
+      "quarter": "Langel",
+      "track_no": "2",
+      "track_point": "14",
+      "track_sub": "",
+      "name": "ehem. Telegraphenstation",
+      "description": "Die ehemalige, 1832&frasl;33 erbaute, baulich stark veränderte Telegraphenstation, Loorweg 155, mit einem heute drei-, früher viergeschossigen Turm, war Teil der preußischen optischen Telegraphenlinie zwischen Berlin und Koblenz. Der Turm verband das Signal in Spich mit demjenigen auf dem Westwerk von St. Pantaleon in Köln.",
+      "additional_info": "<li><a target=\"_blank\" href=\"http://www.bilderbuch-koeln.de/Denkmale/4905\">Denkmalliste</a></li>",
+      "notes": "Hier ist der Pfad noch nicht komplett erfasst.",
+      "color": "#00ACF3",
+      "successor": ""
+    },
+    "geometry": { "type": "Point", "coordinates": [ 7.0304862895066, 50.85895159419718 ]}
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "id": "7.3.1",
+      "borough_no": "7",
+      "borough": "Porz",
+      "quarter": "Poll",
+      "track_no": "3",
+      "track_point": "1",
+      "track_sub": "",
+      "name": "Milchmädchensiedlung",
+      "description": "Auf einem durch die Siegburger Straße, die Eisenbahnstrecke und den Friedhof begrenzten Areal (Rolshover Kirchweg, Allerseelenstraße, An den Maien) wurde 1919-21 nach Plänen von E. Mewes die &quot;Milchmädchensiedlung&quot; im Heimatstil städtischer Prägung nach dem Konzept des &quot;stadtnahen Wohnens im Grünen&quot; errichtet. Mit ihr wurde die letzte reine Einfamilienhaus-Siedlung in Köln geschaffen. Städtebaulicher Mittelpunkt ist der Efeuplatz mit &quot;Milchmädchen&quot;-Plastik (um 1922). Obwohl heute im Erscheinungsbild startk verändert, sind ursprl. Aufbau und Gliederung der Siedlung weiterhin gut zu erkennen.",
+      "additional_info": "<li><a target=\"_blank\" href=\"http://www.bilderbuch-koeln.de/Denkmale/532\">Denkmalliste</a></li>",
+      "notes": "Hier konnten wir leider keine Infotafel mehr finden. Der Text beschreibt das umliegende Gebiet.",
+      "color": "#95C51F",
+      "successor": "7.3.2"
+    },
+    "geometry": { "type": "Point", "coordinates": [ 6.986746, 50.921618 ]}
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "id": "7.3.2",
+      "borough_no": "7",
+      "borough": "Porz",
+      "quarter": "Poll",
+      "track_no": "3",
+      "track_point": "2",
+      "track_sub": "",
+      "name": "Siedlung Altenberger Kreuzweg",
+      "description": "Die Siedlung Altenberger Kreuzweg wurde 1927-29 nach den Plänen von E. Mewes auf den Grundriß eines unregelmäßigen Fünfecks (Am Altenberger Kreuz, Im Mittelfeld, Siegburger Straße, Bahnstraße) als Ergänzung der Milchmädchensiedlung aus zu symmetrischen Reihen geordneten 15 Mehr- und Einfamilienhäusern errichtet. Städtebaulicher Mittelpunkt ist die Dreifaltigkeitskirche, Am Altenberger Kreuz, neu geschaffen von K. Band 1951-54 unter Einbeziehung der Mauerreste der kriegszerstörten Vorgängerin.",
+      "notes": "Hier konnten wir leider keine Infotafel mehr finden. Der Text beschreibt das umliegende Gebiet.",
+      "color": "#95C51F",
+      "successor": "7.3.3"
+    },
+    "geometry": { "type": "Point", "coordinates": [ 6.988911, 50.919366 ]}
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "id": "7.3.3",
+      "borough_no": "7",
+      "borough": "Porz",
+      "quarter": "Poll",
+      "track_no": "3",
+      "track_point": "3",
+      "track_sub": "",
+      "name": "Wegekreuz",
+      "description": "",
+      "additional_info": "<li><a target=\"_blank\" href=\"http://www.bilderbuch-koeln.de/Denkmale/568\">Denkmalliste</a></li>",
+      "notes": "Hier konnten wir leider keine Infotafel mehr finden und das Objekt nicht zuordnen.",
+      "color": "#95C51F",
+      "successor": "7.3.4"
+    },
+    "geometry": { "type": "Point", "coordinates": [ 6.994814, 50.917005 ]}
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "id": "7.3.4",
+      "borough_no": "7",
+      "borough": "Porz",
+      "quarter": "Poll",
+      "track_no": "3",
+      "track_point": "4",
+      "track_sub": "",
+      "name": "Rolshover Hof",
+      "description": "",
+      "additional_info": "<li><a target=\"_blank\" href=\"http://www.bilderbuch-koeln.de/Denkmale/2518\">Denkmalliste</a></li>",
+      "notes": "Hier konnten wir leider keine Infotafel mehr finden und das Objekt nicht zuordnen.",
+      "color": "#95C51F",
+      "successor": "7.3.5"
+    },
+    "geometry": { "type": "Point", "coordinates": [ 6.995943, 50.91811 ]}
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "id": "7.3.5",
+      "borough_no": "7",
+      "borough": "Porz",
+      "quarter": "Poll",
+      "track_no": "3",
+      "track_point": "5",
+      "track_sub": "",
+      "name": "Bildstock",
+      "description": "",
+      "additional_info": "<li><a target=\"_blank\" href=\"http://www.bilderbuch-koeln.de/Denkmale/567\">Denkmalliste</a></li>",
+      "notes": "Hier konnten wir leider keine Infotafel mehr finden und das Objekt nicht zuordnen.",
+      "color": "#95C51F",
+      "successor": "7.3.6a"
+    },
+    "geometry": { "type": "Point", "coordinates": [ 6.998688, 50.919933 ]}
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "id": "7.3.6a",
+      "borough_no": "7",
+      "borough": "Porz",
+      "quarter": "Poll",
+      "track_no": "3",
+      "track_point": "6",
+      "track_sub": "a",
+      "name": "Histor. Gebäudegruppe Auf dem Sandberg (Teil 1)",
+      "description": "Das vorstädtische Siedlungswachstum zu Beginn des 20. Jh. und die bauästhetischen Bedürfnisse der Bauherren der Zeit dokumentiert die historische Gebäudegruppe auf dem Sandberg, 92, 96, 98, 112, 114, 116 und 99, […]",
+      "color": "#95C51F",
+      "successor": "7.3.6b"
+    },
+    "geometry": { "type": "Point", "coordinates": [ 6.994455896216291, 50.91596186495499 ]}
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "id": "7.3.6b",
+      "borough_no": "7",
+      "borough": "Porz",
+      "quarter": "Poll",
+      "track_no": "3",
+      "track_point": "6",
+      "track_sub": "b",
+      "name": "Histor. Gebäudegruppe Auf dem Sandberg (Teil 2)",
+      "description": "[…] während die Nr. 18 sowie die Nr. 21-21c (drei für einen drei Generationen umfassenden Familienverbund hintereinander errichtete Bauten) an den älteren, dörflichen Charakter Polls bis in die 2. Hälfte des 19. Jh. erinnern.",
+      "color": "#95C51F",
+      "successor": "7.3.7"
+    },
+    "geometry": { "type": "Point", "coordinates": [ 6.993309698951081, 50.912869670057404 ]}
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "id": "7.3.7",
+      "borough_no": "7",
+      "borough": "Porz",
+      "quarter": "Poll",
+      "track_no": "3",
+      "track_point": "7",
+      "track_sub": "",
+      "name": "Alte Poller Schule",
+      "description": "Das um 1900 erbaute Schulhaus, Poller Hauptstraße 61-65, hat eine reich verzierte mehrfarbige Backsteinfassade.",
+      "additional_info": "<li><a target=\"_blank\" href=\"http://www.bilderbuch-koeln.de/Denkmale/5520\">Denkmalliste</a></li>",
+      "color": "#95C51F",
+      "successor": "7.3.8"
+    },
+    "geometry": { "type": "Point", "coordinates": [ 6.9926245, 50.9117067 ]}
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "id": "7.3.8",
+      "borough_no": "7",
+      "borough": "Porz",
+      "quarter": "Poll",
+      "track_no": "3",
+      "track_point": "8",
+      "track_sub": "",
+      "name": "Backstein- u. Fachwerkhäuser des 19. Jh.",
+      "description": "Ein Ensemble ein- bis zweigeschossiger, meist giebelständiger Backstin- und Fachwerkhäuser des 19. Jh. (teilweise erneuert) bilden die Bauten Poller Hauptstraße 33, 37, 43-47, 51, 53, 46-50, während ... [Fortsetzung siehe 3.9]",
+      "color": "#95C51F",
+      "successor": "7.3.9"
+    },
+    "geometry": { "type": "Point", "coordinates": [ 6.9920208, 50.9116623 ]}
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "id": "7.3.9",
+      "borough_no": "7",
+      "borough": "Porz",
+      "quarter": "Poll",
+      "track_no": "3",
+      "track_point": "9",
+      "track_sub": "",
+      "name": "&quot;Gründerzeitliche&quot; Häuser",
+      "description": "[Fortsetzung zu 3.8] ... die Salmstraße noch eine Anzahl &quot;gründerzeitlicher&quot;, zwischen 1880 und 1912 errichteter zweigeschossiger Häuser mit Stuck-, Backstein- und Putzfassaden aufweist (Nr. 73-85, 91, 74, 76, 94).",
+      "notes": "Haus Nr. 94 existiert mittlerweile nicht mehr.",
+      "color": "#95C51F",
+      "successor": "7.3.10a"
+    },
+    "geometry": { "type": "Point", "coordinates": [ 6.9898126, 50.9120614 ]}
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "id": "7.3.10a",
+      "borough_no": "7",
+      "borough": "Porz",
+      "quarter": "Poll",
+      "track_no": "3",
+      "track_point": "10",
+      "track_sub": "a",
+      "name": "St. Joseph",
+      "description": "Im Ortskern wurde die kathol. Pfarrkirche St. Joseph, Kirchplatz 1a, nach Plänen H. Nagelschmidts 1862-64 als ursprgl. neugotische dreischiffige Backsteinbasilika erbaut und nach schwerer Kriegszerstörung unter Beibehaltung der Umfassungsmauern und der unteren Geschosse des Westturmes seit 1951 von A. Hauk und M. Krantz neu errichtet. Die Chorausstattung hat 1955 H. Rheindorf geschaffen.",
+      "additional_info": "<li><a target=\"_blank\" href=\"http://www.bilderbuch-koeln.de/Denkmale/1278\">Denkmalliste</a></li>",
+      "color": "#95C51F",
+      "successor": "7.3.10b"
+    },
+    "geometry": { "type": "Point", "coordinates": [ 6.988987817869263, 50.91062439502396 ]}
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "id": "7.3.10b",
+      "borough_no": "7",
+      "borough": "Porz",
+      "quarter": "Poll",
+      "track_no": "3",
+      "track_point": "10",
+      "track_sub": "b",
+      "name": "Pestkreuz",
+      "description": "Am Kirchplatz/Ecke Poller Hauptstraße ein Pestkreuz (1666) aus Trachyt, seit 1891 an seinem jetzigen Ort.",
+      "additional_info": "<li><a target=\"_blank\" href=\"http://www.bilderbuch-koeln.de/Denkmale/565\">Denkmalliste</a></li>",
+      "color": "#95C51F",
+      "successor": "7.3.11"
+    },
+    "geometry": { "type": "Point", "coordinates": [ 6.9886726, 50.9109369 ]}
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "id": "7.3.11",
+      "borough_no": "7",
+      "borough": "Porz",
+      "quarter": "-",
+      "track_no": "3",
+      "track_point": "11",
+      "track_sub": "",
+      "name": "Wasserwerk",
+      "description": "",
+      "wiki": "https://de.wikipedia.org/wiki/Wasserwerk_Westhoven",
+      "additional_info": "<li><a target=\"_blank\" href=\"http://www.bilderbuch-koeln.de/Denkmale/7670\">Denkmalliste</a></li>",
+      "notes": "Hier konnten wir leider keine Infotafel mehr finden.",
+      "color": "#95C51F",
+      "successor": "7.3.12"
+    },
+    "geometry": { "type": "Point", "coordinates": [ 7.012646, 50.9077943 ]}
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "id": "7.3.12",
+      "borough_no": "7",
+      "borough": "Porz",
+      "quarter": "-",
+      "track_no": "3",
+      "track_point": "12",
+      "track_sub": "",
+      "name": "Engelshof",
+      "description": "",
+      "wiki": "https://de.wikipedia.org/wiki/Hofanlage_Gut_Engelshof_(K%C3%B6ln)",
+      "additional_info": "<li><a target=\"_blank\" href=\"http://www.bilderbuch-koeln.de/Denkmale/561\">Denkmalliste</a></li>",
+      "notes": "Hier konnten wir leider keine Infotafel mehr finden.",
+      "color": "#95C51F",
+      "successor": "7.3.13"
+    },
+    "geometry": { "type": "Point", "coordinates": [ 7.0206985565, 50.9005305041 ]}
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "id": "7.3.13",
+      "borough_no": "7",
+      "borough": "Porz",
+      "quarter": "-",
+      "track_no": "3",
+      "track_point": "13",
+      "track_sub": "",
+      "name": "",
+      "description": "",
+      "notes": "Hier konnten wir leider keine Infotafel mehr finden.",
+      "color": "#95C51F",
+      "successor": "7.3.14"
+    },
+    "geometry": { "type": "Point", "coordinates": [ 7.019391, 50.900284 ]}
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "id": "7.3.14",
+      "borough_no": "7",
+      "borough": "Porz",
+      "quarter": "-",
+      "track_no": "3",
+      "track_point": "14",
+      "track_sub": "",
+      "name": "",
+      "description": "",
+      "notes": "Hier konnten wir leider keine Infotafel mehr finden.",
+      "color": "#95C51F",
+      "successor": "7.3.15"
+    },
+    "geometry": { "type": "Point", "coordinates": [ 7.024274, 50.897625 ]}
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "id": "7.3.15",
+      "borough_no": "7",
+      "borough": "Porz",
+      "quarter": "Ensen",
+      "track_no": "3",
+      "track_point": "15",
+      "track_sub": "",
+      "name": "Amerikakreuz",
+      "description": "Am Marktplatz steht das 4,20 m hohe sog. Amerikakreuz, aus Sandstein, gestiftet 1869 vom Amerika-Auswanderer Balthasar Schmitz, dessen Eltern an der Stelle des heutigen Marktplatzes einen eigenen Hof bewirtschafteten.",
+      "additional_info": "<li><a target=\"_blank\" href=\"http://www.bilderbuch-koeln.de/Denkmale/526\">Denkmalliste</a></li>",
+      "color": "#95C51F",
+      "successor": "7.3.16"
+    },
+    "geometry": { "type": "Point", "coordinates": [ 7.0286681157953685, 50.897884921400255 ]}
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "id": "7.3.16",
+      "borough_no": "7",
+      "borough": "Porz",
+      "quarter": "Ensen",
+      "track_no": "3",
+      "track_point": "16",
+      "track_sub": "",
+      "name": "St. Laurentius",
+      "description": "Kathol. Pfarrkirche St. Laurentius, Kölner Straße, 1894-96 von Th. Kremer als neugotische, dreischiffige Stufenhalle mit eingezogenem Chor, Satteldach mit Quergiebeln und Dachreiter und einem Vierkantturm errichtet. Wiederaufbau und Erneuerung der Innenausstattung nach Kriegszerstörung 1951. Die reiche, sich in den Dachzonen von Langhaus und Turm konzentrierende Detailbildung macht den Bau trotz eher bescheidener Ausmaße zum Blickfang vom Rheinufer her.<br/>An der Kirche das 1932 errichtete Kriegerdenkmal (Entwurf H. Euler/Westhoven) für die Gefallenen des Ersten Weltkriegs, eine Stele aus grob gehauenen Backsteinquadern.",
+      "wiki": "https://de.wikipedia.org/wiki/St._Laurentius_%28K%C3%B6ln-Ensen%29",
+      "additional_info": "<li><a target=\"_blank\" href=\"http://www.bilderbuch-koeln.de/Denkmale/1284\">Denkmalliste Kirche</a></li><li><a target=\"_blank\" href=\"http://www.bilderbuch-koeln.de/Denkmale/5834\">Denkmalliste Denkmal</a></li><li><a target=\"_blank\" href=\"http://www.bilderbuch-koeln.de/Denkmale/545\">Denkmalliste Allee</a></li>",
+      "color": "#95C51F",
+      "successor": "7.3.17"
+    },
+    "geometry": { "type": "Point", "coordinates": [ 7.0342918, 50.8971235 ]}
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "id": "7.3.17",
+      "borough_no": "7",
+      "borough": "Porz",
+      "quarter": "Ensen",
+      "track_no": "3",
+      "track_point": "17",
+      "track_sub": "",
+      "name": "",
+      "description": "",
+      "notes": "Hier konnten wir leider keine Infotafel mehr finden.",
+      "color": "#95C51F",
+      "successor": "7.3.18"
+    },
+    "geometry": { "type": "Point", "coordinates": [ 7.0354888, 50.8977613 ]}
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "id": "7.3.18",
+      "borough_no": "7",
+      "borough": "Porz",
+      "quarter": "Ensen",
+      "track_no": "3",
+      "track_point": "18",
+      "track_sub": "",
+      "name": "Alexianer-Krankenhaus-Komplex",
+      "description": "Das Alexianer-Krankenhaus, Kölner Str. 64, wurde 1905-08 auf dem Gelände des Gutes &quot;Rotes Haus&quot; vom Kölner Diözesan-Baumeister H. Renard als Klinik für psychisch Kranke errichtet. Kernstück der Symmetrischen Mehrflügelanlage inmitten eines Parks ist der dreigeschossige Mittelriegel mit Backstein- und Putzfassade im &quot;Bergischen Barock&quot;, inspiriert von den Schloßbauten des 17. u. 18. Jh. im bergischen Teil des Rheinlandes.",
+      "additional_info": "<li><a target=\"_blank\" href=\"http://www.bilderbuch-koeln.de/Denkmale/1285\">Denkmalliste</a></li>",
+      "color": "#95C51F",
+      "successor": "7.3.19"
+    },
+    "geometry": { "type": "Point", "coordinates": [ 7.0426783, 50.8972251 ]}
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "id": "7.3.19",
+      "borough_no": "7",
+      "borough": "Porz",
+      "quarter": "Ensen",
+      "track_no": "3",
+      "track_point": "19",
+      "track_sub": "",
+      "name": "zwei Villen",
+      "description": "Die beiden zum Alexianer-Komplex gehörenden zweigeschossigen Villen, Kölner Str. 60 u. 62 in verwinkelter Bauweise mit Stuck- bzw. Putzfassaden, wurden 1905 erbaut.",
+      "additional_info": "<li><a target=\"_blank\" href=\"http://www.bilderbuch-koeln.de/Denkmale/8246\">Denkmalliste Nr. 60</a></li><li><a target=\"_blank\" href=\"http://www.bilderbuch-koeln.de/Denkmale/8247\">Denkmalliste Nr. 62</a></li>",
+      "color": "#95C51F",
+      "successor": "7.3.20"
+    },
+    "geometry": { "type": "Point", "coordinates": [ 7.0422445, 50.8968888 ]}
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "id": "7.3.20",
+      "borough_no": "7",
+      "borough": "Porz",
+      "quarter": "Gremberghoven",
+      "track_no": "3",
+      "track_point": "20",
+      "track_sub": "",
+      "name": "Siedlung Gremberghoven",
+      "description": "Ein typisches Beispiel für Arbeitersiedlungen im 1. Drittel des 20. Jh. ist die Siedlung Gremberghoven, 1919-22 nach der Idee der Gartenstadt mit großen Gärten zur Selbstversorgung nach M. Kießlings für die bediensteten des Rangierbahnhofs Gremberg (angelegt 1917-24) errichtet. Ein- bis dreigeschossige Ein- u. Mehrfamilienhäuser mit Putzfassaden vereinen sich mit Straßen und Gärten auf dem ellipsenförmigen Siedlungsgrundriß zu einem großräumigen, symmetrisch gegliederten Rondell. Wiederaufbau 1951 nach Kriegszerstörungen mit gewissen Veränderungen.",
+      "notes": "Der Text beschreibt das umliegende Gebiet.",
+      "color": "#95C51F",
+      "successor": "7.3.21"
+    },
+    "geometry": { "type": "Point", "coordinates": [ 7.0526617, 50.9038232 ]}
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "id": "7.3.21",
+      "borough_no": "7",
+      "borough": "Porz",
+      "quarter": "Gremberghoven",
+      "track_no": "3",
+      "track_point": "21",
+      "track_sub": "",
+      "name": "",
+      "description": "",
+      "notes": "Hier konnten wir leider keine Infotafel mehr finden.",
+      "color": "#95C51F",
+      "successor": "7.3.22"
+    },
+    "geometry": { "type": "Point", "coordinates": [ 7.063396, 50.90513 ]}
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "id": "7.3.22",
+      "borough_no": "7",
+      "borough": "Porz",
+      "quarter": "Porz",
+      "track_no": "3",
+      "track_point": "22",
+      "track_sub": "",
+      "name": "Schöffenkreuz",
+      "description": "An das alte dörfliche Porz erinnert das sog. Schöffenkreuz aus Trachyt, gestiftet 1667 vom Schöffen Bertram Hermans und seiner Ehefrau Margriet.",
+      "additional_info": "<li><a target=\"_blank\" href=\"http://www.bilderbuch-koeln.de/Denkmale/577\">Denkmalliste</a></li>",
+      "color": "#95C51F",
+      "successor": "7.3.23"
+    },
+    "geometry": { "type": "Point", "coordinates": [ 7.0529418, 50.8879931 ]}
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "id": "7.3.23",
+      "borough_no": "7",
+      "borough": "Porz",
+      "quarter": "Porz",
+      "track_no": "3",
+      "track_point": "23",
+      "track_sub": "",
+      "name": "",
+      "description": "",
+      "notes": "Hier war das Gelände leider nicht zugänglich.",
+      "color": "#95C51F",
+      "successor": "7.3.24"
+    },
+    "geometry": { "type": "Point", "coordinates": [ 7.055765877901066, 50.88647417062454 ]}
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "id": "7.3.24",
+      "borough_no": "7",
+      "borough": "Porz",
+      "quarter": "Porz",
+      "track_no": "3",
+      "track_point": "24",
+      "track_sub": "",
+      "name": "St. Josef",
+      "description": "",
+      "additional_info": "<li><a target=\"_blank\" href=\"http://www.bilderbuch-koeln.de/Denkmale/1323\">Denkmalliste</a></li>",
+      "notes": "Hier konnten wir leider keine Infotafel mehr finden.",
+      "color": "#95C51F",
+      "successor": "7.3.25"
+    },
+    "geometry": { "type": "Point", "coordinates": [ 7.055740192099906, 50.88418135407096 ]}
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "id": "7.3.25",
+      "borough_no": "7",
+      "borough": "Porz",
+      "quarter": "Porz",
+      "track_no": "3",
+      "track_point": "25",
+      "track_sub": "",
+      "name": "Wohn- u. Geschäftshaus",
+      "description": "1912 ließ Bäckermeister Billstein sein dreigeschossiges Wohn- und Geschäftshaus, Hauptstr. 398, mit rückwärtiger Backstube bauen. Die breite Stuckfassade mit geschungenem Ziergiebel und farbigem Blumendekor, eine reizvolle Mischung aus Jugendstil und Barock, macht das Haus zu einem der auffälligsten der Straße.",
+      "additional_info": "<li><a target=\"_blank\" href=\"http://www.bilderbuch-koeln.de/Denkmale/6331\">Denkmalliste</a></li>",
+      "color": "#95C51F",
+      "successor": "7.3.26"
+    },
+    "geometry": { "type": "Point", "coordinates": [ 7.055657828857665, 50.88357150349143 ]}
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "id": "7.3.26",
+      "borough_no": "7",
+      "borough": "Porz",
+      "quarter": "Porz",
+      "track_no": "3",
+      "track_point": "26",
+      "track_sub": "",
+      "name": "Wohnhaus",
+      "description": "Um 1900 entstand das zweigeschossige Wohnhaus Hauptstr. 388 mit Mittelgiebel und Zahnfries am Traufgesims. Es ist das einzige hier erhaltene mit einer zweifarbigen Backsteinfassade, mit der es sich sowohl an die frühere dörfliche Bebauung als auch mit der dekorativen Gestaltung an die städtische Architektur anpaßt. Zum historischen Ansemble gehören auch die Häuser Nr. 352, 368, 394, 327.",
+      "additional_info": "<li><a target=\"_blank\" href=\"http://www.bilderbuch-koeln.de/Denkmale/6048\">Denkmalliste Nr. 388</a></li><li><a target=\"_blank\" href=\"http://www.bilderbuch-koeln.de/Denkmale/543\">Denkmalliste Nr. 352</a></li><li><a target=\"_blank\" href=\"http://www.bilderbuch-koeln.de/Denkmale/8244\">Denkmalliste Nr. 394</a></li><li><a target=\"_blank\" href=\"http://www.bilderbuch-koeln.de/Denkmale/8276\">Denkmalliste Nr. 327</a></li>",
+      "color": "#95C51F",
+      "successor": "7.3.27"
+    },
+    "geometry": { "type": "Point", "coordinates": [ 7.0556422, 50.8833698 ]}
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "id": "7.3.27",
+      "borough_no": "7",
+      "borough": "Porz",
+      "quarter": "Porz",
+      "track_no": "3",
+      "track_point": "27",
+      "track_sub": "",
+      "name": "Villa Dr. Hollstein, Villa Ahren, Villa Broischer",
+      "description": "Zum historischen Ensemble der Hauptstraße gehören die Villa Dr. Hollstein (Nr. 303), die Villa Ahren (Nr. 305) sowie die Villa Broischer (Nr. 307), die am südlichen Ortsrand des alten Porz in bevorzugter Lage nahe am Rhein liegen. Sie wurden zwischen 1900 (Villa Dr. Hollstein) und 1912 errichtet. Trotz mancher Modernisierungsmaßname ist ihr aufwendiger Wohnstand noch ablesbar. Die Villa Dr. Hollstein besitzt noch den Vorgarten, die originalen schmiedeeisernen Tore mit dem Einfriedungsgitter, sowie die Remise. In den Villengärten stehen noch drei Blutbuchen als Naturdenkmäler.",
+      "additional_info": "<li><a target=\"_blank\" href=\"http://www.bilderbuch-koeln.de/Denkmale/8160\">Denkmalliste</a></li>",
+      "color": "#95C51F",
+      "successor": "7.3.28"
+    },
+    "geometry": { "type": "Point", "coordinates": [ 7.055240459227818, 50.88032299056969 ]}
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "id": "7.3.28",
+      "borough_no": "7",
+      "borough": "Porz",
+      "quarter": "Porz",
+      "track_no": "3",
+      "track_point": "28",
+      "track_sub": "",
+      "name": "Lukaskirche",
+      "description": "Die evangel. Lukaskirche, Mühlenstr. 2, wurde 1914 von M. Benirschke als Saalkirche mit Rechteckchor und jugendstilgeprägtem, an J. M. Olbrichs Darmstädter Hochzeits-Turm erinnernden Fassadenturm geschaffen. Die expressionistische, sehr farbige Innenausstattung stammt von H. Derckum (vollendet 1927). 1977-80 erfolgte die denkmalpflegerische Wiederherstellung des unsprünglichen Zustandes durch die Architekten Thon und Baedorf.",
+      "wiki": "https://de.wikipedia.org/wiki/Lukaskirche_%28K%C3%B6ln-Porz%29",
+      "additional_info": "<li><a target=\"_blank\" href=\"http://www.bilderbuch-koeln.de/Denkmale/929\">Denkmalliste</a></li>",
+      "color": "#95C51F",
+      "successor": "7.3.29"
+    },
+    "geometry": { "type": "Point", "coordinates": [ 7.055655728020915, 50.88059777263491 ]}
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "id": "7.3.29",
+      "borough_no": "7",
+      "borough": "Porz",
+      "quarter": "Porz",
+      "track_no": "3",
+      "track_point": "29",
+      "track_sub": "",
+      "name": "Straßenbahnwartehalle",
+      "description": "Aus der ersten Wiederaufbauphase nach dem Zweiten Weltkrieg verfügt Köln über eine Anzahl von Gebäuden von hoher architektonischer Qualität. Die teilweise leichte, beschwingte Flachdacharchitektur mit organischer Linienführung und gegliedertem Sichtbetonstützwerk wurde auch auf kleine Bauten wie die Straßenbahnwartehalle mit Kiosk, Mühlenstr. o. Nr., übertragen. Sie wurde 1952 über einem gekurvten Grundriß pavillonartig mit großen Fenstern und einem besondere Akzente setzenden, weitvorkragenden Flachdach errichtet.",
+      "additional_info": "<li><a target=\"_blank\" href=\"http://www.bilderbuch-koeln.de/Denkmale/5031\">Denkmalliste</a></li>",
+      "color": "#95C51F",
+      "successor": "7.3.30"
+    },
+    "geometry": { "type": "Point", "coordinates": [ 7.0586979, 50.8832938 ]}
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "id": "7.3.30",
+      "borough_no": "7",
+      "borough": "Porz",
+      "quarter": "Porz",
+      "track_no": "3",
+      "track_point": "30",
+      "track_sub": "",
+      "name": "Germania-Siedlung",
+      "description": "Die Germania-Siedlung (Bahnhofstr.&frasl;Concordiaplatz&frasl;Germaniastr.&frasl;Glasstr.) wurde zwischen 1899 und 1903 abseits der Bürgermeisterei Porz auf rautenförmigem Grundriß angelegt, ein Ensemble aus Fabrik, Direktorenvilla und Park (Concordiaplatz), Meisterhäusern (Germaniastr.), Angestellten- und Arbeiterhäusern (Glasstr.) für die Belegschaft der Germania-Spiegelglaswerke. Anlage und Architektur der Häuser spiegelten die zeitgenössische berufsständische Gliederung des Werks und die soziale Hierarchie der Bewohner wieder; je höher ihr Status, desto näher an der Fabrik wohnten sie! Die noch nahezu geschlossen erhaltene Siedlung von seltener gestalterischer und architektonischer Vielfalt ist die einzige ihrer Art in Köln.",
+      "notes": "Der Text beschreibt das umliegende Gebiet.",
+      "color": "#95C51F",
+      "successor": "7.3.31"
+    },
+    "geometry": { "type": "Point", "coordinates": [ 7.0622739, 50.8826081 ]}
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "id": "7.3.31",
+      "borough_no": "7",
+      "borough": "Porz",
+      "quarter": "Porz",
+      "track_no": "3",
+      "track_point": "31",
+      "track_sub": "",
+      "name": "Bahnhof Porz",
+      "description": "",
+      "additional_info": "<li><a target=\"_blank\" href=\"http://www.bilderbuch-koeln.de/Denkmale/4777\">Denkmalliste</a></li>",
+      "notes": "Hier konnten wir leider keine Infotafel mehr finden.",
+      "color": "#95C51F",
+      "successor": ""
+    },
+    "geometry": { "type": "Point", "coordinates": [ 7.064818336712283, 50.88147079285061 ]}
+  }
+]
+}
