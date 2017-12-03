@@ -5,16 +5,33 @@
   {
     "type": "Feature",
     "properties": {
+      "id": "2.1.0",
+      "borough_no": "2",
+      "borough": "Rodenkirchen",
+      "quarter": "",
+      "track_no": "1",
+      "track_point": "0",
+      "track_subpt": "",
+      "title": "Start Tour 1",
+      "description": "Die circa 5 km lange Tour führt vom Palais Oppenheim in Bayenthal zur Großmarkthalle in Raderberg.",
+      "color": "#ffffff",
+      "successor": "2.1.1"
+    },
+    "geometry": { "type": "Point", "coordinates": [ 6.9760147, 50.9085628 ]}
+  },
+  {
+    "type": "Feature",
+    "properties": {
       "id": "2.4.0",
       "borough_no": "2",
       "borough": "Rodenkirchen",
-      "quarter": "Rodenkirchen",
+      "quarter": "",
       "track_no": "4",
       "track_point": "0",
-      "track_sub": "",
-      "name": "Start Tour 4",
+      "track_subpt": "",
+      "title": "Start Tour 4",
       "description": "Der Pfad Rodenkirchen 4 führt über ca. 7 km durch Rodenkirchen.<br/>Startpunkt ist die Autobahnbrücke und Endpunkt im Diakonie-Dorf Michaelshoven.",
-      "color": "#FFFFFF",
+      "color": "#ffffff",
       "successor": "2.4.1"
     },
     "geometry": { "type": "Point", "coordinates": [ 6.988519, 50.897948 ]}
@@ -25,16 +42,33 @@
       "id": "7.3.0",
       "borough_no": "7",
       "borough": "Porz",
-      "quarter": "Porz",
+      "quarter": "",
       "track_no": "3",
       "track_point": "0",
-      "track_sub": "",
-      "name": "Start Tour 3",
+      "track_subpt": "",
+      "title": "Start Tour 3",
       "description": "Der Pfad Proz 3 führt über Kalk, Poll, Westhofen, Ensen und Gremberghoven nach Porz.<br/>Startpunkt ist an der S-Bahn Haltestelle Trimbornstraße und Endpunkt nahe der Haltestelle Porz(Rhein).<br/><br/><i>Es ist zu beachten, dass der Pfad durch einige Einbahnstraßen entgegen der Fahrtrichtung führt. Hier bitte vom Fahrrad absteigen.</i>",
-      "color": "#FFFFFF",
+      "color": "#ffffff",
       "successor": "7.3.1"
     },
     "geometry": { "type": "Point", "coordinates": [ 6.9975187988, 50.9350904129 ]}
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "id": "7.4.0",
+      "borough_no": "7",
+      "borough": "Porz",
+      "quarter": "",
+      "track_no": "4",
+      "track_point": "0",
+      "track_subpt": "",
+      "title": "Start Tour 4",
+      "description": "Die Tour durch Zündorf ist etwa 6 km lang und startet an der Haltestelle Rosenhügel der Linie 7. Endpunkt ist dann die Haltestelle Zündorf.<br/>Die Reihenfolge einiger Infotafeln wurde für einen besseren Wegverlauf umsortiert.",
+      "color": "#ffffff",
+      "successor": "7.4.1"
+    },
+    "geometry": { "type": "Point", "coordinates": [ 7.0602817, 50.8743422 ]}
   }
 ]
 }

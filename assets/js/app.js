@@ -67,7 +67,11 @@ function getInfoTextContent(feature){
     content += "\
 <br/><small><a onclick=\"showAttribution();\" href=\"#\">Quellen/Beitragende<a></small>";
   } else {
-    content += "<b>" + feature.properties.name + "</b> - " + feature.properties.borough + " " + feature.properties.track_no + "." + feature.properties.track_point + " (" + feature.properties.quarter + ")" + "<br/>";
+    if (feature.properties.track_point == "0"){
+      content += "<b>" + feature.properties.borough + " " + feature.properties.title + "</b><br/>";
+    } else {
+      content += "<b>" + feature.properties.title + "</b> - " + feature.properties.borough + " " + feature.properties.track_no + "." + feature.properties.track_point + " (" + feature.properties.quarter + ")" + "<br/>";
+    }
      
     content += feature.properties.description;
     
@@ -77,19 +81,22 @@ function getInfoTextContent(feature){
       content += "<i>Hinweise der Redaktion</i>:<br/>";
       content += feature.properties.notes;
     }
-    if (feature.properties.wiki || feature.properties.info) {
+    if (feature.properties.internal_notes) {
+      if (content.length > 0)
+        content += "<br/><br/>";
+      content += "<i>Interne Hinweise</i>:<br/>";
+      content += feature.properties.internal_notes;
+    }
+    if (feature.properties.additional_info) {
       if (content.length > 0)
         content += "<br/><br/>";
       content += "<i>Weitere Informationen</i>:<br/><ul>";
     }
-    if (feature.properties.wiki) {
-      content += "<li><a target=\"_blank\" href=\"" + feature.properties.wiki + "\">Wikipedia</a></li>";
-    }
-    if (feature.properties.info) {
-      content += feature.properties.info;
+    if (feature.properties.additional_info) {
+      content += feature.properties.additional_info;
     }
       
-    if (feature.properties.wiki || feature.properties.info) {
+    if (feature.properties.additional_info) {
       content += "</ul>";
     } else if (feature.properties.successor) {
       content += "<br/><br/>";
@@ -99,7 +106,7 @@ function getInfoTextContent(feature){
     }
     content += "<br/><br/><small>\
     <a href=\"#\" rel=\"nofollow\" onclick=\"this.href='mailto:' + 'ch_finke' + '@' + 'web.de' + '?subject=Kulturpfade Köln (" + 
-    feature.properties.borough_no + "." + feature.properties.track_no + "." + feature.properties.track_point + feature.properties.track_sub
+    feature.properties.borough_no + "." + feature.properties.track_no + "." + feature.properties.track_point + feature.properties.track_subpt
     + ")'\">\
     Feedback</a></small>";
   }
@@ -118,8 +125,8 @@ $(document).on("click", ".feature-row", function(e) {
 if ( !("ontouchstart" in window) ) {
   $(document).on("mouseover", ".feature-row", function(e) {
     highlight.clearLayers().addLayer(L.circleMarker([$(this).attr("lat"), $(this).attr("lng")], highlightStyle));
-    //var layer = infos.getLayer($(this).attr("id")); //# +
-    //layer.bringToFront(); //# +
+    var layer = infos.getLayer($(this).attr("id")); //# +
+    layer.bringToFront(); //# +
   });
 }
 
@@ -180,7 +187,7 @@ function syncSidebar() {
   infos.eachLayer(function (layer) {
     if (map.hasLayer(infoLayer)) {
       if (map.getBounds().contains(layer.getLatLng())) {
-        $("#feature-list tbody").append('<tr class="feature-row" id="' + L.stamp(layer) + '" lat="' + layer.getLatLng().lat + '" lng="' + layer.getLatLng().lng + '"><td style="background-color:' + layer.feature.properties.color + ';"></td><td class="feature-name">' + layer.feature.properties.borough + ' ' + layer.feature.properties.track_no + '.' + layer.feature.properties.track_point + ' ' + layer.feature.properties.name + ' (' + layer.feature.properties.quarter + ')' + '</td><td style="vertical-align: middle;"><i class="fa fa-chevron-right pull-right"></i></td></tr>');
+        $("#feature-list tbody").append('<tr class="feature-row" id="' + L.stamp(layer) + '" lat="' + layer.getLatLng().lat + '" lng="' + layer.getLatLng().lng + '"><td style="background-color:' + layer.feature.properties.color + ';"></td><td class="feature-name">' + layer.feature.properties.borough + ' ' + layer.feature.properties.track_no + '.' + layer.feature.properties.track_point + ' ' + layer.feature.properties.title + ' (' + layer.feature.properties.quarter + ')' + '</td><td style="vertical-align: middle;"><i class="fa fa-chevron-right pull-right"></i></td></tr>');
       }
     }
   });
@@ -188,7 +195,7 @@ function syncSidebar() {
   starts.eachLayer(function (layer) {
     if (map.hasLayer(startLayer)) {
       if (map.getBounds().contains(layer.getLatLng())) {
-        $("#feature-list tbody").append('<tr class="feature-row" id="' + L.stamp(layer) + '" lat="' + layer.getLatLng().lat + '" lng="' + layer.getLatLng().lng + '"><td></td><td class="feature-name">' + layer.feature.properties.borough + ' ' + layer.feature.properties.track_no + '.' + layer.feature.properties.track_point + ' ' + layer.feature.properties.name + ' (' + layer.feature.properties.quarter + ')' + '</td><td style="vertical-align: middle;"><i class="fa fa-chevron-right pull-right"></i></td></tr>');
+        $("#feature-list tbody").append('<tr class="feature-row" id="' + L.stamp(layer) + '" lat="' + layer.getLatLng().lat + '" lng="' + layer.getLatLng().lng + '"><td></td><td class="feature-name">' + layer.feature.properties.borough + ' ' + layer.feature.properties.title + '</td><td style="vertical-align: middle;"><i class="fa fa-chevron-right pull-right"></i></td></tr>');
       }
     }
   });
@@ -259,7 +266,7 @@ var buildings = L.geoJson(null, {
       return {
         color: feature.properties.color,
         weight: 3,
-        opacity: 0.8,
+        opacity: 1,
         fill: true,
         fillColor: feature.properties.color,
         clickable: false
@@ -299,15 +306,22 @@ var infos = L.geoJson(null, {
       var content = getInfoTextContent(feature) ;
       layer.on({
         click: function (e) {
-          $("#feature-title").html(feature.properties.borough + " " + feature.properties.track_no + "." + feature.properties.track_point + " " + feature.properties.name + " (" + feature.properties.quarter + ")");
+          $("#feature-title").html(feature.properties.borough + " " + feature.properties.track_no + "." + feature.properties.track_point + " " + feature.properties.title + " (" + feature.properties.quarter + ")");
           $("#feature-info").html(content);
           $("#featureModal").modal("show");
           highlight.clearLayers().addLayer(L.circleMarker([feature.geometry.coordinates[1], feature.geometry.coordinates[0]], highlightStyle));
+        },
+        mouseover: function (e) {
+          var title = feature.properties.borough + " " + feature.properties.track_no + "." + feature.properties.track_point + " " + feature.properties.title + " (" + feature.properties.quarter + ")";
+          Tip(title);
+        },
+        mouseout: function (e) {
+          UnTip();
         }
       });
-      $("#feature-list tbody").append('<tr class="feature-row" id="' + L.stamp(layer) + '" lat="' + layer.getLatLng().lat + '" lng="' + layer.getLatLng().lng + '"><td style="vertical-align: middle;"><img width="16" height="18" src="assets/img/theater.png"></td><td class="feature-name">' + layer.feature.properties.borough + ' ' + layer.feature.properties.track_no + '.' + layer.feature.properties.track_point + ' ' + layer.feature.properties.name + ' (' + layer.feature.properties.quarter + ')' + '</td><td style="vertical-align: middle;"><i class="fa fa-chevron-right pull-right"></i></td></tr>');
+      $("#feature-list tbody").append('<tr class="feature-row" id="' + L.stamp(layer) + '" lat="' + layer.getLatLng().lat + '" lng="' + layer.getLatLng().lng + '"><td style="vertical-align: middle;"><img width="16" height="18" src="assets/img/theater.png"></td><td class="feature-name">' + layer.feature.properties.borough + ' ' + layer.feature.properties.track_no + '.' + layer.feature.properties.track_point + ' ' + layer.feature.properties.title + ' (' + layer.feature.properties.quarter + ')' + '</td><td style="vertical-align: middle;"><i class="fa fa-chevron-right pull-right"></i></td></tr>');
       infoSearch.push({
-        name: layer.feature.properties.borough + " " + layer.feature.properties.track_no + "." + layer.feature.properties.track_point + " " + layer.feature.properties.name + " (" + layer.feature.properties.quarter + ")",
+        name: layer.feature.properties.borough + " " + layer.feature.properties.track_no + "." + layer.feature.properties.track_point + " " + layer.feature.properties.title + " (" + layer.feature.properties.quarter + ")",
         source: "Infos",
         id: L.stamp(layer),
         lat: layer.feature.geometry.coordinates[1],
@@ -353,15 +367,22 @@ var starts = L.geoJson(null, {
       var content = getInfoTextContent(feature);
       layer.on({
         click: function (e) {
-          $("#feature-title").html(feature.properties.borough + " " + feature.properties.track_no + "." + feature.properties.track_point + " " + feature.properties.name + " (" + feature.properties.quarter + ")");
+          $("#feature-title").html(feature.properties.borough + " " + feature.properties.title);
           $("#feature-info").html(content);
           $("#featureModal").modal("show");
           highlight.clearLayers().addLayer(L.circleMarker([feature.geometry.coordinates[1], feature.geometry.coordinates[0]], highlightStyle));
+        },
+        mouseover: function (e) {
+          var title = feature.properties.borough + " " + feature.properties.title
+          Tip(title);
+        },
+        mouseout: function (e) {
+          UnTip();
         }
       });
-      $("#feature-list tbody").append('<tr class="feature-row" id="' + L.stamp(layer) + '" lat="' + layer.getLatLng().lat + '" lng="' + layer.getLatLng().lng + '"><td style="vertical-align: middle;"><img width="16" height="18" src="assets/img/museum.png"></td><td class="feature-name">' + layer.feature.properties.borough + ' ' + layer.feature.properties.track_no + '.' + layer.feature.properties.track_point + ' ' + layer.feature.properties.name + ' (' + layer.feature.properties.quarter + ')' + '</td><td style="vertical-align: middle;"><i class="fa fa-chevron-right pull-right"></i></td></tr>');
+      $("#feature-list tbody").append('<tr class="feature-row" id="' + L.stamp(layer) + '" lat="' + layer.getLatLng().lat + '" lng="' + layer.getLatLng().lng + '"><td style="vertical-align: middle;"><img width="16" height="18" src="assets/img/museum.png"></td><td class="feature-name">' + layer.feature.properties.borough + ' ' + layer.feature.properties.title + '</td><td style="vertical-align: middle;"><i class="fa fa-chevron-right pull-right"></i></td></tr>');     
       startSearch.push({
-        name: layer.feature.properties.borough + " " + layer.feature.properties.track_no + "." + layer.feature.properties.track_point + " " + layer.feature.properties.name + " (" + layer.feature.properties.quarter + ")",
+        name: layer.feature.properties.borough + " " + layer.feature.properties.title,
         source: "starts",
         id: L.stamp(layer),
         lat: layer.feature.geometry.coordinates[1],
@@ -375,13 +396,12 @@ $.getJSON("./data/geojson/starts.geojson", function (data) {
 });
 
 map = L.map("map", {
-  layers: [mapnik, markerClusters, startLayer, buildings, tracks, highlight],
+  layers: [mapnik, tracks, buildings, markerClusters, startLayer, highlight],
   zoomControl: false,
   attributionControl: false
 });
 
 // START HERE
-
 
 /* Layer control listeners that allow for a single markerClusters layer */
 map.on("overlayadd", function(e) {
@@ -512,8 +532,15 @@ $(document).one("ajaxStop", function () {
   fitBounds();
   featureList = new List("features", {valueNames: ["feature-name"]});
   featureList.sort("feature-name", {order:"asc"});
-
-  $("#welcomeModal").modal("show");
+  
+  // Fix 
+  markerClusters.removeLayer(starts);
+  markerClusters.addLayer(starts);
+  syncSidebar();
+  
+  if (getQueryVariable('test') == false) {
+    $("#welcomeModal").modal("show");
+  } 
   $(".navbar-collapse.in").collapse("hide");
 
   var boroughsBH = new Bloodhound({
