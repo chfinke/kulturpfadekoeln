@@ -21,6 +21,29 @@
     <link rel="stylesheet" href="assets/css/app.css">
 
     <link rel="icon" type="image/x-icon" href="https://www.koeln.de/favicon.ico">
+    
+    <link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.0.3/cookieconsent.min.css" />
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.0.3/cookieconsent.min.js"></script>
+
+    <script>
+    window.addEventListener("load", function(){
+    window.cookieconsent.initialise({
+      "palette": {
+        "popup": {
+          "background": "#000"
+        },
+        "button": {
+          "background": "#f1d600"
+        }
+      },
+      "content": {
+        "message": "Diese Website wird auf Servern von <a target=\"_blank\" href=\"https://www.github.com/\">Github Inc.</a>, 88 Colin P Kelly Jr St, San Francisco, CA 94107, USA gehostet. Beachten Sie daher die <a target=\"_blank\" href=\"https://help.github.com/articles/github-privacy-statement/\">GitHub Privacy Policy</a>.<br/>Wenn Sie die Website weiter nutzen, stimmen Sie der Verwendung von Cookies zu.",
+        "dismiss": "OK",
+        "link": "Mehr zu Cookies ..."
+      }
+    })});
+    </script>
+    
   </head>
 
   <body>
@@ -110,7 +133,9 @@
           <div class="modal-body">
             <div class="tab-content" id="aboutTabsContent">
               <div class="tab-pane fade active in" id="welcome">
-                <p>Die Kulturpfade Köln sind eine Reihe von Rad- bzw. Wanderwegen im Kölner Stadtgebiet. Die Pfade sind mit Informationstafeln aufbereitet und führen an sehenswürdigen Plätzen und Gebäuden entlang.</p><p>Allerdings ist der Weg nicht ausgeschildert und einige Informationstafeln existieren nicht mehr. Daher soll diese Seite die Informationen vervollständigen und in einer nutzbaren Form darstellen.</p><p><b>Neuigkeiten</b><br>Die Routen Porz 4 (pink) und Rodenkirchen 1 (grün) wurden hinzugefügt.</p><br><small><a onclick="showAttribution();" href="#">Quellen/Beitragende</a>
+                <p>Die Kulturpfade Köln sind eine Reihe von Rad- bzw. Wanderwegen im Kölner Stadtgebiet. Die Pfade sind mit Informationstafeln aufbereitet und führen an sehenswürdigen Plätzen und Gebäuden entlang.</p><p>Allerdings ist der Weg nicht ausgeschildert und einige Informationstafeln existieren nicht mehr. Daher soll diese Seite die Informationen vervollständigen und in einer nutzbaren Form darstellen.</p>
+                <!--<p><b>Neuigkeiten</b><br>Die Routen Porz 4 (pink) und Rodenkirchen 1 (grün) wurden hinzugefügt.</p>-->
+                <br><small><a onclick="showAttribution();" href="#">Quellen/Beitragende</a>
               </div>
             </div>
           </div>
