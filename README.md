@@ -1,6 +1,8 @@
 # kulturpfadekoeln
 *Interaktive Karte der Kulturpfade in Köln*
 
+**Aktuell wird dieses Projekt nicht weitergeführt und ist daher offline**
+
 Die Kulturpfade Köln sind eine Reihe von Rad- bzw. Wanderwegen im Kölner Stadtgebiet. Die Pfade sind mit Informationstafeln aufbereitet und führen an sehenswürdigen Plätzen und Gebäuden entlang.
 
 Allerdings ist der Weg nicht ausgeschildert und einige Informationstafeln existieren nicht mehr. Daher soll dieses Projekt die Routen vervollständigen und in einer nutzbaren Form darstellen.
