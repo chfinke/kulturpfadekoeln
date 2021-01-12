@@ -1,0 +1,18 @@
+<app-header>
+  <a [routerLink]="['/']">Kulturpfade Köln</a>
+</app-header>
+
+<app-track-info
+  [track]=track
+  [startingPoint]=startingPoint
+></app-track-info>
+
+<app-point-teaser
+  *ngFor="let point of points"
+  [trackId]=trackId
+  [point]="point"
+></app-point-teaser>
+
+<div class="wrapper">
+  <app-track-done></app-track-done>
+</div>

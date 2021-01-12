@@ -1,0 +1,39 @@
+<app-header>
+  <ng-container *ngIf="!filteredTrack">
+    <a [routerLink]="['/']">Kulturpfade Köln</a>
+  </ng-container>
+  <ng-container *ngIf="filteredTrack">
+    <a [routerLink]="['/overview']" [queryParams]="{track: filteredTrack.boroughNo+'.'+filteredTrack.trackNo}">
+      Kulturpfad {{ filteredTrack.boroughNo }}.{{ filteredTrack.trackNo }}
+      {{ filteredTrack.borough }}<span class="u-font-size-x-small">{{ filteredTrack.incomplete ? ' (unvollständig)' : '' }}</span>
+    </a>
+  </ng-container>
+</app-header>
+
+<app-map
+  [trackId]="filteredTrackId"
+  (detail)="onDetail($event);"
+>
+<div class="map__info wrapper" *ngIf="detailPoint">
+  <div class="map__info__close" (click)="onClose()" title="Infoblock schließen [Alt+Shift+x]" accesskey="x">
+    <span class="u-only-portrait">&#9660;</span>
+    <span class="u-only-landscape">&#9668;</span>
+  </div>
+  <!-- @TODO smooth transition between map and info -->
+  <div id="map-info-content" class="map__info__content">
+      <app-point-text
+        [track]="detailTrack"
+        [point]="detailPoint"
+      ></app-point-text>
+      <app-point-navigation
+        [track]="detailTrack"
+        [point]="detailPoint"
+        [mapQueryParams]="queryParams"
+        (detail)="onDetail($event);"
+      ></app-point-navigation>
+      <app-track-done
+        *ngIf="!detailPoint.successor"
+      ></app-track-done>
+    </div>
+  </div>
+</app-map>
