@@ -1,6 +1,6 @@
 import { Component, Input } from '@angular/core';
 
-import { Track, Point } from 'src/app/map/data.service';
+import { Track, Point } from '../../core/data.service';
 
 @Component({
   selector: 'app-track-teaser',

@@ -1,6 +1,6 @@
 import { Component, Input } from '@angular/core';
 
-import { Point } from 'src/app/map/data.service';
+import { Point } from '../../core/data.service';
 
 @Component({
   selector: 'app-point-teaser',

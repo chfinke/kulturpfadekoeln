@@ -7,9 +7,7 @@ import * as LGPX from 'leaflet-gpx';
 import 'leaflet.locatecontrol';
 
 import { MapService } from '../map.service';
-import { DataService, PointBuildingsState, PointMapPositionState } from '../data.service';
-
-import { Data } from '../data.service';
+import { DataService, PointBuildingsState, PointMapPositionState, Data } from '../../core/data.service';
 import { environment } from 'src/environments/environment';
 
 @Component({

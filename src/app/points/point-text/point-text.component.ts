@@ -2,7 +2,7 @@ import { Component, Input, OnChanges } from '@angular/core';
 
 import { DomSanitizer, SafeUrl } from '@angular/platform-browser';
 
-import { MonumentNoItem, Point, Track, WikiItem, PointWiki, PointMonumentNo, PointWikiState, PointMonumentNoState } from '../../map/data.service';
+import { MonumentNoItem, Point, Track, WikiItem, PointWiki, PointMonumentNo, PointWikiState, PointMonumentNoState } from '../../core/data.service';
 
 @Component({
   selector: 'app-point-text',

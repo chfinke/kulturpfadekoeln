@@ -3,7 +3,7 @@ import { Injectable } from '@angular/core';
 import * as L from 'leaflet';
 import { throwError } from 'rxjs';
 
-import { Point } from './data.service';
+import { Point } from '../core/data.service';
 
 @Injectable()
 export class MapService {

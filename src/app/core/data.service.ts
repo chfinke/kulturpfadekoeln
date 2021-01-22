@@ -170,7 +170,6 @@ export class DataService {
     });
   }
 
-
   async getTracks(): Promise<TracksWithPoints> {
     if (!this.data) {
       await this.load();

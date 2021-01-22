@@ -1,7 +1,7 @@
 import { ActivatedRoute, Router, Params } from '@angular/router';
 import { Component } from '@angular/core';
 
-import { DataService, Point, Track } from '../data.service';
+import { DataService, Point, Track } from '../../core/data.service';
 import { MapService } from '../map.service';
 
 @Component({

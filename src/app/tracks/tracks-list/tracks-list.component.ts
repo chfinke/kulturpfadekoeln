@@ -1,6 +1,6 @@
 import { Component, Input } from '@angular/core';
 
-import { TrackWithPoints } from 'src/app/map/data.service';
+import { TrackWithPoints } from '../../core/data.service';
 
 @Component({
   selector: 'app-tracks-list',

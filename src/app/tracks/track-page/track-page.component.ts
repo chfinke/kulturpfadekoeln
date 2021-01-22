@@ -1,7 +1,7 @@
 import { Component } from '@angular/core';
 import { Params, ActivatedRoute } from '@angular/router';
 
-import { DataService, Track, Point } from 'src/app/map/data.service';
+import { DataService, Track, Point } from '../../core/data.service';
 
 @Component({
   selector: 'app-track-page',

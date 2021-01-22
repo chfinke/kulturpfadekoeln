@@ -1,6 +1,6 @@
 import { Component } from '@angular/core';
 
-import { DataService, TrackWithPoints } from 'src/app/map/data.service';
+import { DataService, TrackWithPoints } from '../../core/data.service';
 
 @Component({
   selector: 'app-home-page',

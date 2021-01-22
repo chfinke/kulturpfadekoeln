@@ -1,7 +1,7 @@
 import { Component, Input, Output, EventEmitter } from '@angular/core';
 import { Params } from '@angular/router';
 
-import { Point, Track } from '../../map/data.service';
+import { Point, Track } from '../../core/data.service';
 
 @Component({
   selector: 'app-point-navigation',
