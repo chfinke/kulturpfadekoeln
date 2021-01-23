@@ -1,0 +1,32 @@
+<ng-container
+  *ngFor="let track of tracks"
+>
+  <h2 id="{{track?.boroughNo}}.{{track?.trackNo}}">{{track?.boroughNo}}.{{track?.trackNo}} {{track?.borough}}
+    <span
+      *ngIf="track.inactive || track.incomplete"
+      class="u-font-size-small"
+    >
+      (<ng-container *ngIf="track.inactive">inaktiv</ng-container><ng-container *ngIf="track.inactive && track.incomplete">, </ng-container><ng-container *ngIf="track.incomplete">in Arbeit</ng-container>)
+    </span>
+    <a
+      *ngIf="expanded !== undefined && expanded !== track?.boroughNo+'.'+track?.trackNo"
+      [routerLink]="['/edit']" [queryParams]="{track: track?.boroughNo+'.'+track?.trackNo}"
+      class="u-font-size-small"
+    >
+      [anzeigen]
+    </a>
+  </h2>
+
+  <ng-container
+    *ngFor="let item of track.points | keyvalue"
+  >
+    <app-point-teaser-edit
+      *ngIf="expanded === undefined || expanded === track?.boroughNo+'.'+track?.trackNo"
+      [trackId]="track.id"
+      [trackInactive]="track.inactive"
+      [point]="item.value"
+    >
+    </app-point-teaser-edit>
+  </ng-container>
+
+</ng-container>

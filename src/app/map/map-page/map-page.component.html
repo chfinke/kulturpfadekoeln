@@ -5,7 +5,7 @@
   <ng-container *ngIf="filteredTrack">
     <a [routerLink]="['/overview']" [queryParams]="{track: filteredTrack.boroughNo+'.'+filteredTrack.trackNo}">
       Kulturpfad {{ filteredTrack.boroughNo }}.{{ filteredTrack.trackNo }}
-      {{ filteredTrack.borough }}<span class="u-font-size-x-small">{{ filteredTrack.incomplete ? ' (unvollständig)' : '' }}</span>
+      {{ filteredTrack.borough }}<span class="u-font-size-x-small">{{ filteredTrack.incomplete ? ' (in Arbeit)' : '' }}</span>
     </a>
   </ng-container>
 </app-header>

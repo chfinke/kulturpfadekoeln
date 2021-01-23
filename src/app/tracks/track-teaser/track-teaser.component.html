@@ -1,5 +1,5 @@
 <h2>{{track?.boroughNo}}.{{track?.trackNo}} {{track?.borough}}
-  <span class="u-font-size-small">{{ track.incomplete ? ' (unvollständig)' : '' }}</span>
+  <span class="u-font-size-small">{{ track.incomplete ? ' (in Arbeit)' : '' }}</span>
 </h2>
 <app-map-static
   [id]="track?.boroughNo+'.'+track?.trackNo"
