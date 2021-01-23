@@ -861,6 +861,1491 @@
           }
         }
       }
+    },
+    "9.1": {
+      "boroughNo": 9,
+      "borough": "Mülheim",
+      "trackNo": 1,
+      "color": "",
+      "inactive": true,
+      "points": {
+        "9.1.1": {
+          "trackPoint": 1,
+          "trackSubpt": "",
+          "quarter": "",
+          "predecessor": "",
+          "successor": "9.1.2",
+          "inactive": true,
+          "title": "Clemenskirche",
+          "description": {
+            "state": "#unknown",
+            "value": ""
+          },
+          "mapPosition": {
+            "state": "#unknown",
+            "value": [ ]
+          },
+          "buildings": {
+            "state": "#unknown"
+          },
+          "info": {
+            "state": "#unknown"
+          },
+          "notes": "",
+          "wiki": {
+            "state": "#unknown"
+          },
+          "monumentNo": {
+            "state": "#unknown"
+          }
+        },
+        "9.1.2": {
+          "trackPoint": 2,
+          "trackSubpt": "",
+          "quarter": "",
+          "predecessor": "9.1.1",
+          "successor": "9.1.3",
+          "inactive": true,
+          "title": "Barockbauten",
+          "description": {
+            "state": "#unknown",
+            "value": ""
+          },
+          "mapPosition": {
+            "state": "#unknown",
+            "value": [ ]
+          },
+          "buildings": {
+            "state": "#unknown"
+          },
+          "info": {
+            "state": "#unknown"
+          },
+          "notes": "",
+          "wiki": {
+            "state": "#unknown"
+          },
+          "monumentNo": {
+            "state": "#unknown"
+          }
+        },
+        "9.1.3": {
+          "trackPoint": 3,
+          "trackSubpt": "",
+          "quarter": "",
+          "predecessor": "9.1.2",
+          "successor": "9.1.4",
+          "inactive": true,
+          "title": "Pferdebahnstation, Stadtbrunnen Mülheimia",
+          "description": {
+            "state": "#unknown",
+            "value": ""
+          },
+          "mapPosition": {
+            "state": "#unknown",
+            "value": [ ]
+          },
+          "buildings": {
+            "state": "#unknown"
+          },
+          "info": {
+            "state": "#unknown"
+          },
+          "notes": "",
+          "wiki": {
+            "state": "#unknown"
+          },
+          "monumentNo": {
+            "state": "#unknown"
+          }
+        },
+        "9.1.4": {
+          "trackPoint": 4,
+          "trackSubpt": "",
+          "quarter": "",
+          "predecessor": "9.1.3",
+          "successor": "9.1.5",
+          "inactive": true,
+          "title": "Gründerzeitliche Wohnbauten, St. Antoniuskirche",
+          "description": {
+            "state": "#unknown",
+            "value": ""
+          },
+          "mapPosition": {
+            "state": "#unknown",
+            "value": [ ]
+          },
+          "buildings": {
+            "state": "#unknown"
+          },
+          "info": {
+            "state": "#unknown"
+          },
+          "notes": "",
+          "wiki": {
+            "state": "#unknown"
+          },
+          "monumentNo": {
+            "state": "#unknown"
+          }
+        },
+        "9.1.5": {
+          "trackPoint": 5,
+          "trackSubpt": "",
+          "quarter": "",
+          "predecessor": "9.1.4",
+          "successor": "9.1.6",
+          "inactive": true,
+          "title": "Werkbauten des Carlswerks",
+          "description": {
+            "state": "#unknown",
+            "value": ""
+          },
+          "mapPosition": {
+            "state": "#unknown",
+            "value": [ ]
+          },
+          "buildings": {
+            "state": "#unknown"
+          },
+          "info": {
+            "state": "#unknown"
+          },
+          "notes": "",
+          "wiki": {
+            "state": "#unknown"
+          },
+          "monumentNo": {
+            "state": "#unknown"
+          }
+        },
+        "9.1.6": {
+          "trackPoint": 6,
+          "trackSubpt": "",
+          "quarter": "",
+          "predecessor": "9.1.5",
+          "successor": "9.1.7",
+          "inactive": true,
+          "title": "F & G-Siedlung",
+          "description": {
+            "state": "#unknown",
+            "value": ""
+          },
+          "mapPosition": {
+            "state": "#unknown",
+            "value": [ ]
+          },
+          "buildings": {
+            "state": "#unknown"
+          },
+          "info": {
+            "state": "#unknown"
+          },
+          "notes": "",
+          "wiki": {
+            "state": "#unknown"
+          },
+          "monumentNo": {
+            "state": "#unknown"
+          }
+        },
+        "9.1.7": {
+          "trackPoint": 7,
+          "trackSubpt": "",
+          "quarter": "",
+          "predecessor": "9.1.6",
+          "successor": "9.1.8",
+          "inactive": true,
+          "title": "Villa Hahnenburg",
+          "description": {
+            "state": "#unknown",
+            "value": ""
+          },
+          "mapPosition": {
+            "state": "#unknown",
+            "value": [ ]
+          },
+          "buildings": {
+            "state": "#unknown"
+          },
+          "info": {
+            "state": "#unknown"
+          },
+          "notes": "",
+          "wiki": {
+            "state": "#unknown"
+          },
+          "monumentNo": {
+            "state": "#unknown"
+          }
+        },
+        "9.1.8": {
+          "trackPoint": 8,
+          "trackSubpt": "",
+          "quarter": "",
+          "predecessor": "9.1.7",
+          "successor": "9.1.9",
+          "inactive": true,
+          "title": "Evangelischer Friedhof",
+          "description": {
+            "state": "#unknown",
+            "value": ""
+          },
+          "mapPosition": {
+            "state": "#unknown",
+            "value": [ ]
+          },
+          "buildings": {
+            "state": "#unknown"
+          },
+          "info": {
+            "state": "#unknown"
+          },
+          "notes": "",
+          "wiki": {
+            "state": "#unknown"
+          },
+          "monumentNo": {
+            "state": "#unknown"
+          }
+        },
+        "9.1.9": {
+          "trackPoint": 9,
+          "trackSubpt": "",
+          "quarter": "",
+          "predecessor": "9.1.8",
+          "successor": "9.1.10",
+          "inactive": true,
+          "title": "Genovevabrunnen",
+          "description": {
+            "state": "#unknown",
+            "value": ""
+          },
+          "mapPosition": {
+            "state": "#unknown",
+            "value": [ ]
+          },
+          "buildings": {
+            "state": "#unknown"
+          },
+          "info": {
+            "state": "#unknown"
+          },
+          "notes": "",
+          "wiki": {
+            "state": "#unknown"
+          },
+          "monumentNo": {
+            "state": "#unknown"
+          }
+        },
+        "9.1.10": {
+          "trackPoint": 10,
+          "trackSubpt": "",
+          "quarter": "",
+          "predecessor": "9.1.9",
+          "successor": "9.1.11",
+          "inactive": true,
+          "title": "Lutherkirche",
+          "description": {
+            "state": "#unknown",
+            "value": ""
+          },
+          "mapPosition": {
+            "state": "#unknown",
+            "value": [ ]
+          },
+          "buildings": {
+            "state": "#unknown"
+          },
+          "info": {
+            "state": "#unknown"
+          },
+          "notes": "",
+          "wiki": {
+            "state": "#unknown"
+          },
+          "monumentNo": {
+            "state": "#unknown"
+          }
+        },
+        "9.1.11": {
+          "trackPoint": 11,
+          "trackSubpt": "",
+          "quarter": "",
+          "predecessor": "9.1.10",
+          "successor": "9.1.12",
+          "inactive": true,
+          "title": "Liebfrauenlirche",
+          "description": {
+            "state": "#unknown",
+            "value": ""
+          },
+          "mapPosition": {
+            "state": "#unknown",
+            "value": [ ]
+          },
+          "buildings": {
+            "state": "#unknown"
+          },
+          "info": {
+            "state": "#unknown"
+          },
+          "notes": "",
+          "wiki": {
+            "state": "#unknown"
+          },
+          "monumentNo": {
+            "state": "#unknown"
+          }
+        },
+        "9.1.12": {
+          "trackPoint": 12,
+          "trackSubpt": "",
+          "quarter": "",
+          "predecessor": "9.1.11",
+          "successor": "9.1.13",
+          "inactive": true,
+          "title": "Bärenhof",
+          "description": {
+            "state": "#unknown",
+            "value": ""
+          },
+          "mapPosition": {
+            "state": "#unknown",
+            "value": [ ]
+          },
+          "buildings": {
+            "state": "#unknown"
+          },
+          "info": {
+            "state": "#unknown"
+          },
+          "notes": "",
+          "wiki": {
+            "state": "#unknown"
+          },
+          "monumentNo": {
+            "state": "#unknown"
+          }
+        },
+        "9.1.13": {
+          "trackPoint": 13,
+          "trackSubpt": "",
+          "quarter": "",
+          "predecessor": "9.1.12",
+          "successor": "9.1.14",
+          "inactive": true,
+          "title": "Friedenskirche",
+          "description": {
+            "state": "#unknown",
+            "value": ""
+          },
+          "mapPosition": {
+            "state": "#unknown",
+            "value": [ ]
+          },
+          "buildings": {
+            "state": "#unknown"
+          },
+          "info": {
+            "state": "#unknown"
+          },
+          "notes": "",
+          "wiki": {
+            "state": "#unknown"
+          },
+          "monumentNo": {
+            "state": "#unknown"
+          }
+        },
+        "9.1.14": {
+          "trackPoint": 14,
+          "trackSubpt": "",
+          "quarter": "",
+          "predecessor": "9.1.13",
+          "successor": "",
+          "inactive": true,
+          "title": "Stadtmauertor",
+          "description": {
+            "state": "#unknown",
+            "value": ""
+          },
+          "mapPosition": {
+            "state": "#unknown",
+            "value": [ ]
+          },
+          "buildings": {
+            "state": "#unknown"
+          },
+          "info": {
+            "state": "#unknown"
+          },
+          "notes": "",
+          "wiki": {
+            "state": "#unknown"
+          },
+          "monumentNo": {
+            "state": "#unknown"
+          }
+        }
+      }
+    },
+    "9.2": {
+      "boroughNo": 9,
+      "borough": "Mülheim",
+      "trackNo": 2,
+      "color": "",
+      "inactive": true,
+      "points": {
+        "9.2.15": {
+          "trackPoint": 15,
+          "trackSubpt": "",
+          "quarter": "",
+          "predecessor": "",
+          "successor": "9.2.16",
+          "inactive": true,
+          "title": "Kath. Pfarrgemeinde St. Maria Geburt",
+          "description": {
+            "state": "#unknown",
+            "value": ""
+          },
+          "mapPosition": {
+            "state": "#unknown",
+            "value": []
+          },
+          "buildings": {
+            "state": "#unknown"
+          },
+          "info": {
+            "state": "#unknown"
+          },
+          "notes": "",
+          "wiki": {
+            "state": "#unknown"
+          },
+          "monumentNo": {
+            "state": "#unknown"
+          }
+        },
+        "9.2.16": {
+          "trackPoint": 16,
+          "trackSubpt": "",
+          "quarter": "",
+          "predecessor": "9.2.15",
+          "successor": "9.2.17",
+          "inactive": true,
+          "title": "Stammheim",
+          "description": {
+            "state": "#unknown",
+            "value": ""
+          },
+          "mapPosition": {
+            "state": "#unknown",
+            "value": []
+          },
+          "buildings": {
+            "state": "#unknown"
+          },
+          "info": {
+            "state": "#unknown"
+          },
+          "notes": "",
+          "wiki": {
+            "state": "#unknown"
+          },
+          "monumentNo": {
+            "state": "#unknown"
+          }
+        },
+        "9.2.17": {
+          "trackPoint": 17,
+          "trackSubpt": "",
+          "quarter": "",
+          "predecessor": "9.2.16",
+          "successor": "9.2.18",
+          "inactive": true,
+          "title": "Telefraphenstation Köln-Flittard",
+          "description": {
+            "state": "#unknown",
+            "value": ""
+          },
+          "mapPosition": {
+            "state": "#unknown",
+            "value": []
+          },
+          "buildings": {
+            "state": "#unknown"
+          },
+          "info": {
+            "state": "#unknown"
+          },
+          "notes": "",
+          "wiki": {
+            "state": "#unknown"
+          },
+          "monumentNo": {
+            "state": "#unknown"
+          }
+        },
+        "9.2.18": {
+          "trackPoint": 18,
+          "trackSubpt": "",
+          "quarter": "",
+          "predecessor": "9.2.17",
+          "successor": "9.2.19",
+          "inactive": true,
+          "title": "Flittard mit Bongartzhof",
+          "description": {
+            "state": "#unknown",
+            "value": ""
+          },
+          "mapPosition": {
+            "state": "#unknown",
+            "value": []
+          },
+          "buildings": {
+            "state": "#unknown"
+          },
+          "info": {
+            "state": "#unknown"
+          },
+          "notes": "",
+          "wiki": {
+            "state": "#unknown"
+          },
+          "monumentNo": {
+            "state": "#unknown"
+          }
+        },
+        "9.2.19": {
+          "trackPoint": 19,
+          "trackSubpt": "",
+          "quarter": "",
+          "predecessor": "9.2.18",
+          "successor": "9.2.20",
+          "inactive": true,
+          "title": "Kath. Pfarrgemeinde St. Hubertus",
+          "description": {
+            "state": "#unknown",
+            "value": ""
+          },
+          "mapPosition": {
+            "state": "#unknown",
+            "value": []
+          },
+          "buildings": {
+            "state": "#unknown"
+          },
+          "info": {
+            "state": "#unknown"
+          },
+          "notes": "",
+          "wiki": {
+            "state": "#unknown"
+          },
+          "monumentNo": {
+            "state": "#unknown"
+          }
+        },
+        "9.2.20": {
+          "trackPoint": 20,
+          "trackSubpt": "",
+          "quarter": "",
+          "predecessor": "9.2.19",
+          "successor": "9.2.21",
+          "inactive": true,
+          "title": "Wasservögelreservat",
+          "description": {
+            "state": "#unknown",
+            "value": ""
+          },
+          "mapPosition": {
+            "state": "#unknown",
+            "value": []
+          },
+          "buildings": {
+            "state": "#unknown"
+          },
+          "info": {
+            "state": "#unknown"
+          },
+          "notes": "",
+          "wiki": {
+            "state": "#unknown"
+          },
+          "monumentNo": {
+            "state": "#unknown"
+          }
+        },
+        "9.2.21": {
+          "trackPoint": 21,
+          "trackSubpt": "",
+          "quarter": "",
+          "predecessor": "9.2.20",
+          "successor": "9.2.22",
+          "inactive": true,
+          "title": "Paulinenhof",
+          "description": {
+            "state": "#unknown",
+            "value": ""
+          },
+          "mapPosition": {
+            "state": "#unknown",
+            "value": []
+          },
+          "buildings": {
+            "state": "#unknown"
+          },
+          "info": {
+            "state": "#unknown"
+          },
+          "notes": "",
+          "wiki": {
+            "state": "#unknown"
+          },
+          "monumentNo": {
+            "state": "#unknown"
+          }
+        },
+        "9.2.22": {
+          "trackPoint": 22,
+          "trackSubpt": "",
+          "quarter": "",
+          "predecessor": "9.2.21",
+          "successor": "9.2.23",
+          "inactive": true,
+          "title": "Hochmittelalterliche Niederungsburg beim ehemaligen Hof Kurtekotten (???)",
+          "description": {
+            "state": "#unknown",
+            "value": ""
+          },
+          "mapPosition": {
+            "state": "#unknown",
+            "value": []
+          },
+          "buildings": {
+            "state": "#unknown"
+          },
+          "info": {
+            "state": "#unknown"
+          },
+          "notes": "",
+          "wiki": {
+            "state": "#unknown"
+          },
+          "monumentNo": {
+            "state": "#unknown"
+          }
+        },
+        "9.2.23": {
+          "trackPoint": 23,
+          "trackSubpt": "",
+          "quarter": "",
+          "predecessor": "9.2.22",
+          "successor": "9.2.24",
+          "inactive": true,
+          "title": "Kunstfeld (???)",
+          "description": {
+            "state": "#unknown",
+            "value": ""
+          },
+          "mapPosition": {
+            "state": "#unknown",
+            "value": []
+          },
+          "buildings": {
+            "state": "#unknown"
+          },
+          "info": {
+            "state": "#unknown"
+          },
+          "notes": "",
+          "wiki": {
+            "state": "#unknown"
+          },
+          "monumentNo": {
+            "state": "#unknown"
+          }
+        },
+        "9.2.24": {
+          "trackPoint": 24,
+          "trackSubpt": "",
+          "quarter": "",
+          "predecessor": "9.2.23",
+          "successor": "9.2.25",
+          "inactive": true,
+          "title": "Katholische Pfarrgemeinde St. Nikolaus",
+          "description": {
+            "state": "#unknown",
+            "value": ""
+          },
+          "mapPosition": {
+            "state": "#unknown",
+            "value": []
+          },
+          "buildings": {
+            "state": "#unknown"
+          },
+          "info": {
+            "state": "#unknown"
+          },
+          "notes": "",
+          "wiki": {
+            "state": "#unknown"
+          },
+          "monumentNo": {
+            "state": "#unknown"
+          }
+        },
+        "9.2.25": {
+          "trackPoint": 25,
+          "trackSubpt": "",
+          "quarter": "",
+          "predecessor": "9.2.24",
+          "successor": "9.2.26",
+          "inactive": true,
+          "title": "Bruder-Klaus-Siedlung",
+          "description": {
+            "state": "#unknown",
+            "value": ""
+          },
+          "mapPosition": {
+            "state": "#unknown",
+            "value": []
+          },
+          "buildings": {
+            "state": "#unknown"
+          },
+          "info": {
+            "state": "#unknown"
+          },
+          "notes": "",
+          "wiki": {
+            "state": "#unknown"
+          },
+          "monumentNo": {
+            "state": "#unknown"
+          }
+        },
+        "9.2.26": {
+          "trackPoint": 26,
+          "trackSubpt": "",
+          "quarter": "",
+          "predecessor": "9.2.25",
+          "successor": "9.2.27",
+          "inactive": true,
+          "title": "Grünanlage auf Zwischenwerk XI b",
+          "description": {
+            "state": "#unknown",
+            "value": ""
+          },
+          "mapPosition": {
+            "state": "#unknown",
+            "value": []
+          },
+          "buildings": {
+            "state": "#unknown"
+          },
+          "info": {
+            "state": "#unknown"
+          },
+          "notes": "",
+          "wiki": {
+            "state": "#unknown"
+          },
+          "monumentNo": {
+            "state": "#unknown"
+          }
+        },
+        "9.2.27": {
+          "trackPoint": 27,
+          "trackSubpt": "",
+          "quarter": "",
+          "predecessor": "9.2.26",
+          "successor": "",
+          "inactive": true,
+          "title": "Grünanlage um Fort XI",
+          "description": {
+            "state": "#unknown",
+            "value": ""
+          },
+          "mapPosition": {
+            "state": "#unknown",
+            "value": []
+          },
+          "buildings": {
+            "state": "#unknown"
+          },
+          "info": {
+            "state": "#unknown"
+          },
+          "notes": "",
+          "wiki": {
+            "state": "#unknown"
+          },
+          "monumentNo": {
+            "state": "#unknown"
+          }
+        }
+      }
+    },
+    "9.3": {
+      "boroughNo": 9,
+      "borough": "Mülheim",
+      "trackNo": 3,
+      "color": "",
+      "inactive": true,
+      "points": {
+        "9.3.28": {
+          "trackPoint": 28,
+          "trackSubpt": "",
+          "quarter": "",
+          "predecessor": "",
+          "successor": "9.3.29",
+          "inactive": true,
+          "title": "Hügelgräber",
+          "description": {
+            "state": "#unknown",
+            "value": ""
+          },
+          "mapPosition": {
+            "state": "#unknown",
+            "value": []
+          },
+          "buildings": {
+            "state": "#unknown"
+          },
+          "info": {
+            "state": "#unknown"
+          },
+          "notes": "",
+          "wiki": {
+            "state": "#unknown"
+          },
+          "monumentNo": {
+            "state": "#unknown"
+          }
+        },
+        "9.3.29": {
+          "trackPoint": 29,
+          "trackSubpt": "",
+          "quarter": "",
+          "predecessor": "9.3.28",
+          "successor": "9.3.30",
+          "inactive": true,
+          "title": "Katholische Pfarrkirche St. Joseph",
+          "description": {
+            "state": "#unknown",
+            "value": ""
+          },
+          "mapPosition": {
+            "state": "#unknown",
+            "value": []
+          },
+          "buildings": {
+            "state": "#unknown"
+          },
+          "info": {
+            "state": "#unknown"
+          },
+          "notes": "",
+          "wiki": {
+            "state": "#unknown"
+          },
+          "monumentNo": {
+            "state": "#unknown"
+          }
+        },
+        "9.3.30": {
+          "trackPoint": 30,
+          "trackSubpt": "",
+          "quarter": "",
+          "predecessor": "9.3.29",
+          "successor": "9.3.31",
+          "inactive": true,
+          "title": "Evangelische Tersteegenkirche",
+          "description": {
+            "state": "#unknown",
+            "value": ""
+          },
+          "mapPosition": {
+            "state": "#unknown",
+            "value": []
+          },
+          "buildings": {
+            "state": "#unknown"
+          },
+          "info": {
+            "state": "#unknown"
+          },
+          "notes": "",
+          "wiki": {
+            "state": "#unknown"
+          },
+          "monumentNo": {
+            "state": "#unknown"
+          }
+        },
+        "9.3.31": {
+          "trackPoint": 31,
+          "trackSubpt": "",
+          "quarter": "",
+          "predecessor": "9.3.30",
+          "successor": "9.3.32",
+          "inactive": true,
+          "title": "Wildpark und Arboretum",
+          "description": {
+            "state": "#unknown",
+            "value": ""
+          },
+          "mapPosition": {
+            "state": "#unknown",
+            "value": []
+          },
+          "buildings": {
+            "state": "#unknown"
+          },
+          "info": {
+            "state": "#unknown"
+          },
+          "notes": "",
+          "wiki": {
+            "state": "#unknown"
+          },
+          "monumentNo": {
+            "state": "#unknown"
+          }
+        },
+        "9.3.32": {
+          "trackPoint": 32,
+          "trackSubpt": "",
+          "quarter": "",
+          "predecessor": "9.3.31",
+          "successor": "9.3.33",
+          "inactive": true,
+          "title": "Haus Haan",
+          "description": {
+            "state": "#unknown",
+            "value": ""
+          },
+          "mapPosition": {
+            "state": "#unknown",
+            "value": []
+          },
+          "buildings": {
+            "state": "#unknown"
+          },
+          "info": {
+            "state": "#unknown"
+          },
+          "notes": "",
+          "wiki": {
+            "state": "#unknown"
+          },
+          "monumentNo": {
+            "state": "#unknown"
+          }
+        },
+        "9.3.33": {
+          "trackPoint": 33,
+          "trackSubpt": "",
+          "quarter": "",
+          "predecessor": "9.3.32",
+          "successor": "",
+          "inactive": true,
+          "title": "Finnensiedlung",
+          "description": {
+            "state": "#unknown",
+            "value": ""
+          },
+          "mapPosition": {
+            "state": "#unknown",
+            "value": []
+          },
+          "buildings": {
+            "state": "#unknown"
+          },
+          "info": {
+            "state": "#unknown"
+          },
+          "notes": "",
+          "wiki": {
+            "state": "#unknown"
+          },
+          "monumentNo": {
+            "state": "#unknown"
+          }
+        }
+      }
+    },
+    "9.4": {
+      "boroughNo": 9,
+      "borough": "Mülheim",
+      "trackNo": 4,
+      "color": "",
+      "inactive": true,
+      "points": {
+        "9.4.34": {
+          "trackPoint": 34,
+          "trackSubpt": "",
+          "quarter": "",
+          "predecessor": "",
+          "successor": "9.4.35",
+          "inactive": true,
+          "title": "Mülheimer Stadtgarten",
+          "description": {
+            "state": "#unknown",
+            "value": ""
+          },
+          "mapPosition": {
+            "state": "#unknown",
+            "value": []
+          },
+          "buildings": {
+            "state": "#unknown"
+          },
+          "info": {
+            "state": "#unknown"
+          },
+          "notes": "",
+          "wiki": {
+            "state": "#unknown"
+          },
+          "monumentNo": {
+            "state": "#unknown"
+          }
+        },
+        "9.4.35": {
+          "trackPoint": 35,
+          "trackSubpt": "",
+          "quarter": "",
+          "predecessor": "9.4.34",
+          "successor": "9.4.36",
+          "inactive": true,
+          "title": "Märchenbrunnen",
+          "description": {
+            "state": "#unknown",
+            "value": ""
+          },
+          "mapPosition": {
+            "state": "#unknown",
+            "value": []
+          },
+          "buildings": {
+            "state": "#unknown"
+          },
+          "info": {
+            "state": "#unknown"
+          },
+          "notes": "",
+          "wiki": {
+            "state": "#unknown"
+          },
+          "monumentNo": {
+            "state": "#unknown"
+          }
+        },
+        "9.4.36": {
+          "trackPoint": 36,
+          "trackSubpt": "",
+          "quarter": "",
+          "predecessor": "9.4.35",
+          "successor": "9.4.37",
+          "inactive": true,
+          "title": "Friedhofskapelle St. Mauritius",
+          "description": {
+            "state": "#unknown",
+            "value": ""
+          },
+          "mapPosition": {
+            "state": "#unknown",
+            "value": []
+          },
+          "buildings": {
+            "state": "#unknown"
+          },
+          "info": {
+            "state": "#unknown"
+          },
+          "notes": "",
+          "wiki": {
+            "state": "#unknown"
+          },
+          "monumentNo": {
+            "state": "#unknown"
+          }
+        },
+        "9.4.37": {
+          "trackPoint": 37,
+          "trackSubpt": "",
+          "quarter": "",
+          "predecessor": "9.4.36",
+          "successor": "9.4.38",
+          "inactive": true,
+          "title": "Burg Herl, Herler Mühle",
+          "description": {
+            "state": "#unknown",
+            "value": ""
+          },
+          "mapPosition": {
+            "state": "#unknown",
+            "value": []
+          },
+          "buildings": {
+            "state": "#unknown"
+          },
+          "info": {
+            "state": "#unknown"
+          },
+          "notes": "",
+          "wiki": {
+            "state": "#unknown"
+          },
+          "monumentNo": {
+            "state": "#unknown"
+          }
+        },
+        "9.4.38": {
+          "trackPoint": 38,
+          "trackSubpt": "",
+          "quarter": "",
+          "predecessor": "9.4.37",
+          "successor": "9.4.39",
+          "inactive": true,
+          "title": "Isenburg",
+          "description": {
+            "state": "#unknown",
+            "value": ""
+          },
+          "mapPosition": {
+            "state": "#unknown",
+            "value": []
+          },
+          "buildings": {
+            "state": "#unknown"
+          },
+          "info": {
+            "state": "#unknown"
+          },
+          "notes": "",
+          "wiki": {
+            "state": "#unknown"
+          },
+          "monumentNo": {
+            "state": "#unknown"
+          }
+        },
+        "9.4.39": {
+          "trackPoint": 39,
+          "trackSubpt": "",
+          "quarter": "",
+          "predecessor": "9.4.38",
+          "successor": "9.4.40",
+          "inactive": true,
+          "title": "Katholische Pfarrgeeinde St. Maria Himmelfahrt",
+          "description": {
+            "state": "#unknown",
+            "value": ""
+          },
+          "mapPosition": {
+            "state": "#unknown",
+            "value": []
+          },
+          "buildings": {
+            "state": "#unknown"
+          },
+          "info": {
+            "state": "#unknown"
+          },
+          "notes": "",
+          "wiki": {
+            "state": "#unknown"
+          },
+          "monumentNo": {
+            "state": "#unknown"
+          }
+        },
+        "9.4.40": {
+          "trackPoint": 40,
+          "trackSubpt": "",
+          "quarter": "",
+          "predecessor": "9.4.39",
+          "successor": "9.4.41",
+          "inactive": true,
+          "title": "Märchensiedlung",
+          "description": {
+            "state": "#unknown",
+            "value": ""
+          },
+          "mapPosition": {
+            "state": "#unknown",
+            "value": []
+          },
+          "buildings": {
+            "state": "#unknown"
+          },
+          "info": {
+            "state": "#unknown"
+          },
+          "notes": "",
+          "wiki": {
+            "state": "#unknown"
+          },
+          "monumentNo": {
+            "state": "#unknown"
+          }
+        },
+        "9.4.41": {
+          "trackPoint": 41,
+          "trackSubpt": "",
+          "quarter": "",
+          "predecessor": "9.4.40",
+          "successor": "9.4.42",
+          "inactive": true,
+          "title": "Gut Iddelsfeld, Iddelsfelder Mühle",
+          "description": {
+            "state": "#unknown",
+            "value": ""
+          },
+          "mapPosition": {
+            "state": "#unknown",
+            "value": []
+          },
+          "buildings": {
+            "state": "#unknown"
+          },
+          "info": {
+            "state": "#unknown"
+          },
+          "notes": "",
+          "wiki": {
+            "state": "#unknown"
+          },
+          "monumentNo": {
+            "state": "#unknown"
+          }
+        },
+        "9.4.42": {
+          "trackPoint": 42,
+          "trackSubpt": "",
+          "quarter": "",
+          "predecessor": "9.4.41",
+          "successor": "9.4.43",
+          "inactive": true,
+          "title": "Thurner Hof",
+          "description": {
+            "state": "#unknown",
+            "value": ""
+          },
+          "mapPosition": {
+            "state": "#unknown",
+            "value": []
+          },
+          "buildings": {
+            "state": "#unknown"
+          },
+          "info": {
+            "state": "#unknown"
+          },
+          "notes": "",
+          "wiki": {
+            "state": "#unknown"
+          },
+          "monumentNo": {
+            "state": "#unknown"
+          }
+        },
+        "9.4.43": {
+          "trackPoint": 43,
+          "trackSubpt": "",
+          "quarter": "",
+          "predecessor": "9.4.42",
+          "successor": "",
+          "inactive": true,
+          "title": "Strunden",
+          "description": {
+            "state": "#unknown",
+            "value": ""
+          },
+          "mapPosition": {
+            "state": "#unknown",
+            "value": []
+          },
+          "buildings": {
+            "state": "#unknown"
+          },
+          "info": {
+            "state": "#unknown"
+          },
+          "notes": "",
+          "wiki": {
+            "state": "#unknown"
+          },
+          "monumentNo": {
+            "state": "#unknown"
+          }
+        }
+      }
+    },
+    "9.5": {
+      "boroughNo": 9,
+      "borough": "Mülheim",
+      "trackNo": 5,
+      "color": "",
+      "inactive": true,
+      "points": {
+        "9.5.44": {
+          "trackPoint": 44,
+          "trackSubpt": "",
+          "quarter": "",
+          "predecessor": "",
+          "successor": "9.5.45",
+          "inactive": true,
+          "title": "Frühzeitliche Grabhügel",
+          "description": {
+            "state": "#unknown",
+            "value": ""
+          },
+          "mapPosition": {
+            "state": "#unknown",
+            "value": []
+          },
+          "buildings": {
+            "state": "#unknown"
+          },
+          "info": {
+            "state": "#unknown"
+          },
+          "notes": "",
+          "wiki": {
+            "state": "#unknown"
+          },
+          "monumentNo": {
+            "state": "#unknown"
+          }
+        },
+        "9.5.45": {
+          "trackPoint": 45,
+          "trackSubpt": "",
+          "quarter": "",
+          "predecessor": "9.5.44",
+          "successor": "9.5.46",
+          "inactive": true,
+          "title": "Evangelische Christuskirche",
+          "description": {
+            "state": "#unknown",
+            "value": ""
+          },
+          "mapPosition": {
+            "state": "#unknown",
+            "value": []
+          },
+          "buildings": {
+            "state": "#unknown"
+          },
+          "info": {
+            "state": "#unknown"
+          },
+          "notes": "",
+          "wiki": {
+            "state": "#unknown"
+          },
+          "monumentNo": {
+            "state": "#unknown"
+          }
+        },
+        "9.5.46": {
+          "trackPoint": 46,
+          "trackSubpt": "",
+          "quarter": "",
+          "predecessor": "9.5.45",
+          "successor": "9.5.47",
+          "inactive": true,
+          "title": "Katholische Pfarrkirche St. Norbert",
+          "description": {
+            "state": "#unknown",
+            "value": ""
+          },
+          "mapPosition": {
+            "state": "#unknown",
+            "value": []
+          },
+          "buildings": {
+            "state": "#unknown"
+          },
+          "info": {
+            "state": "#unknown"
+          },
+          "notes": "",
+          "wiki": {
+            "state": "#unknown"
+          },
+          "monumentNo": {
+            "state": "#unknown"
+          }
+        },
+        "9.5.47": {
+          "trackPoint": 47,
+          "trackSubpt": "",
+          "quarter": "",
+          "predecessor": "9.5.46",
+          "successor": "9.5.48",
+          "inactive": true,
+          "title": "Katholische Pfarrkirche St. Joseph",
+          "description": {
+            "state": "#unknown",
+            "value": ""
+          },
+          "mapPosition": {
+            "state": "#unknown",
+            "value": []
+          },
+          "buildings": {
+            "state": "#unknown"
+          },
+          "info": {
+            "state": "#unknown"
+          },
+          "notes": "",
+          "wiki": {
+            "state": "#unknown"
+          },
+          "monumentNo": {
+            "state": "#unknown"
+          }
+        },
+        "9.5.48": {
+          "trackPoint": 48,
+          "trackSubpt": "",
+          "quarter": "",
+          "predecessor": "9.5.47",
+          "successor": "",
+          "inactive": true,
+          "title": "Straßenbahnhof Thielenbruch",
+          "description": {
+            "state": "#unknown",
+            "value": ""
+          },
+          "mapPosition": {
+            "state": "#unknown",
+            "value": []
+          },
+          "buildings": {
+            "state": "#unknown"
+          },
+          "info": {
+            "state": "#unknown"
+          },
+          "notes": "",
+          "wiki": {
+            "state": "#unknown"
+          },
+          "monumentNo": {
+            "state": "#unknown"
+          }
+        }
+      }
     }
   }
 }
