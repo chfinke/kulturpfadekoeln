@@ -31,7 +31,7 @@
           },
           "color": {
             "description": "Anzeigefarbe",
-            "enum": ["#95C51F", "#E58100", "#FFF200", "#00ACF3", "#E486B9"]
+            "enum": ["#95C51F", "#E58100", "#FFF200", "#00ACF3", "#E486B9", ""]
           },
           "points": {
             "description": "Liste der Infotafeln",
