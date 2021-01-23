@@ -164,6 +164,7 @@ export class MapComponent implements AfterViewInit {
           }
         }
 
+        /* buildings disabled
         if (point.buildings.state !== PointBuildingsState.Ok) {
           if (environment.production === false) {
             console.warn('mapBuildings not displayed:', pointId, point.buildings.state, point.buildings.value);
@@ -195,6 +196,7 @@ export class MapComponent implements AfterViewInit {
             buildings.addTo(this.mapService.map);
           }
         }
+        */
       });
     });
     // @TODO change z-index of buildings
