@@ -12,7 +12,7 @@ export class HomePageComponent {
 
   constructor(private dataService: DataService) {
     this.dataService.getTracks().then((tracks) => {
-      this.tracks = Object.values(tracks);
+      this.tracks = Object.values(tracks).filter(track => !track.inactive);
     });
   }
 

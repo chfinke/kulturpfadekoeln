@@ -12,6 +12,7 @@ export interface Track {
   borough: string;
   trackNo: number;
   color: string;
+  inactive?: boolean;
   incomplete?: boolean;
 }
 
