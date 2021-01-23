@@ -1,0 +1,13 @@
+{
+  "name": "kulturpfadekoeln",
+  "version": "0.0.0",
+  "scripts": {
+    "lint-data": "jsonlint src/assets/data/data.json --quiet --validate src/assets/data/schema.json"
+  },
+  "private": true,
+  "dependencies": {
+  },
+  "devDependencies": {
+    "jsonlint": "^1.6.3"
+  }
+}
