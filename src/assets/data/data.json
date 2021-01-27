@@ -318,7 +318,7 @@
           "successor": "2.1.11",
           "title": "Be&shy;ne&shy;dik&shy;ti&shy;ner&shy;innen&shy;klos&shy;ter",
           "description": {
-            "state": "#unknown",
+            "state": "#ok",
             "value": "Erbaut 1894/95. Das Herz-Jesu-Kloster ist eine um einen Innenhof geschlossene neugotische Anlage in umfriedetem großen Garten. Das Tympanon des Hauptportals zeigt die &quot;Anbetung des Lammes&quot;, eine Szene aus der Offenbarung des Johannes. In der Kapelle, die nur der Offentlichkeit zugänglich ist, Flügelaltar aus dem 16. Jahrhundert. Nach Kriegsbeschädigung Wiederherstellung der Anlage bis 1969."
           },
           "mapPosition": {
@@ -693,7 +693,7 @@
             "state": "#unknown"
           },
           "mapPosition": {
-            "state": "#unknown",
+            "state": "#check",
             "value": [ 6.99933608343288, 50.89348390401303 ]
           },
           "buildings": {
@@ -721,7 +721,7 @@
             "state": "#unknown"
           },
           "mapPosition": {
-            "state": "#unknown",
+            "state": "#check",
             "value": [ 7.005154235274617, 50.8922971672357 ]
           },
           "buildings": {
@@ -869,14 +869,14 @@
       "color": "",
       "inactive": true,
       "points": {
-        "9.1.1": {
-          "trackPoint": 1,
+        "9.1.0": {
+          "trackPoint": 0,
           "trackSubpt": "",
           "quarter": "",
           "predecessor": "",
-          "successor": "9.1.2",
+          "successor": "9.1.1",
           "inactive": true,
-          "title": "Clemenskirche",
+          "title": "Start",
           "description": {
             "state": "#unknown",
             "value": ""
@@ -894,6 +894,36 @@
           "notes": "",
           "wiki": {
             "state": "#unknown"
+          },
+          "monumentNo": {
+            "state": "#unknown"
+          }
+        },
+        "9.1.1": {
+          "trackPoint": 1,
+          "trackSubpt": "",
+          "quarter": "",
+          "predecessor": "9.1.0",
+          "successor": "9.1.2",
+          "title": "Cle&shy;mens&shy;kir&shy;che",
+          "description": {
+            "state": "#n/a",
+            "value": ""
+          },
+          "mapPosition": {
+            "state": "#ok",
+            "value": [ 6.99804866095323,  50.96425897302989 ]
+          },
+          "buildings": {
+            "state": "#unknown"
+          },
+          "info": {
+            "state": "#unknown"
+          },
+          "notes": "Hier konnten wir leider keine Infotafel mehr finden.",
+          "wiki": {
+            "state": "#ok",
+            "value": "St._Clemens_(Köln-Mülheim)"
           },
           "monumentNo": {
             "state": "#unknown"
@@ -904,16 +934,15 @@
           "trackSubpt": "",
           "quarter": "",
           "predecessor": "9.1.1",
-          "successor": "9.1.3",
-          "inactive": true,
-          "title": "Barockbauten",
+          "successor": "9.1.3a",
+          "title": "Ba&shy;rock&shy;bau&shy;ten",
           "description": {
-            "state": "#unknown",
+            "state": "#n/a",
             "value": ""
           },
           "mapPosition": {
-            "state": "#unknown",
-            "value": [ ]
+            "state": "#ok",
+            "value": [ 6.999206287949653, 50.964112985761794 ]
           },
           "buildings": {
             "state": "#unknown"
@@ -921,29 +950,59 @@
           "info": {
             "state": "#unknown"
           },
-          "notes": "",
+          "notes": "Hier konnten wir leider keine Infotafel mehr finden.",
           "wiki": {
             "state": "#unknown"
           },
           "monumentNo": {
             "state": "#unknown"
           }
-        },
-        "9.1.3": {
+        },        
+        "9.1.3a": {
           "trackPoint": 3,
           "trackSubpt": "",
           "quarter": "",
           "predecessor": "9.1.2",
           "successor": "9.1.4",
-          "inactive": true,
-          "title": "Pferdebahnstation, Stadtbrunnen Mülheimia",
+          "title": "Stadt&shy;brun&shy;nen Mül&shy;hei&shy;mi&shy;a",
           "description": {
-            "state": "#unknown",
-            "value": ""
+            "state": "#ok",
+            "value": "1884 vom Bildhauer Wilhelm Albermann entworfen. Geschenk des Verschönerungsvereins Mülheim und des Geheimen Baurats Hermann Pflaume. Anstelle einer ehemaligen städtischen Pumpe aufgestellt. Die personifizierte Stadt Mülheim (Mülheimia) auf einem Säulenbündel. Drei mittelalterlich gekleidete Knaben unterhalb als Symbol für Mülheimer Wirtschaftszweige: Handel, Industrie und Landwirtschaft"
           },
           "mapPosition": {
-            "state": "#unknown",
-            "value": [ ]
+            "state": "#ok",
+            "value": [ 7.0006685, 50,9669071 ]
+          },
+          "buildings": {
+            "state": "#unknown"
+          },
+          "info": {
+            "state": "#unknown"
+          },
+          "notes": "",
+          "wiki": {
+            "state": "#ok",
+            "value": "K%C3%B6lner_Brunnen#Rechtsrheinisch"
+          },
+          "monumentNo": {
+            "state": "ok",
+            "value": 674
+          }
+        },
+        "9.1.3b": {
+          "trackPoint": 3,
+          "trackSubpt": "b",
+          "quarter": "",
+          "predecessor": "9.1.3a",
+          "successor": "9.1.4",
+          "title": "Pfer&shy;de&shy;bahn&shy;sta&shy;tion",
+          "description": {
+            "state": "#ok",
+            "value": "Krahnenstraße 1. Endstation der Pferdebahn. Pferdeköpfe als Ausdruck für die Nutzung des Gebäudes. Einstige Toreinfahrt heute verplast."
+          },
+          "mapPosition": {
+            "state": "#ok",
+            "value": [ 7.00068, 50.96705 ]
           },
           "buildings": {
             "state": "#unknown"
@@ -956,24 +1015,24 @@
             "state": "#unknown"
           },
           "monumentNo": {
-            "state": "#unknown"
+            "state": "#ok",
+            "value": 8319
           }
         },
         "9.1.4": {
           "trackPoint": 4,
           "trackSubpt": "",
           "quarter": "",
-          "predecessor": "9.1.3",
+          "predecessor": "9.1.3b",
           "successor": "9.1.5",
-          "inactive": true,
-          "title": "Gründerzeitliche Wohnbauten, St. Antoniuskirche",
+          "title": "Grün&shy;der&shy;zeit&shy;li&shy;che Wohn&shy;bau&shy;ten, St. An&shy;to&shy;ni&shy;us&shy;kir&shy;che",
           "description": {
-            "state": "#unknown",
+            "state": "#na",
             "value": ""
           },
           "mapPosition": {
-            "state": "#unknown",
-            "value": [ ]
+            "state": "#ok",
+            "value": [ 7.01026, 50.97442 ]
           },
           "buildings": {
             "state": "#unknown"
@@ -981,12 +1040,13 @@
           "info": {
             "state": "#unknown"
           },
-          "notes": "",
+          "notes": "Hier konnten wir leider keine Infotafel mehr finden.",
           "wiki": {
             "state": "#unknown"
           },
           "monumentNo": {
-            "state": "#unknown"
+            "state": "#ok",
+            "value": 1554
           }
         },
         "9.1.5": {
@@ -1943,7 +2003,8 @@
             "state": "#unknown"
           },
           "monumentNo": {
-            "state": "#unknown"
+            "state": "#ok",
+            "value": 689
           }
         },
         "9.4.36": {
