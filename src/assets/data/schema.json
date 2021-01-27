@@ -27,7 +27,14 @@
           },
           "trackNo": {
             "description": "Pfad-Nr",
-            "type": "integer"
+            "anyOf": [
+              {
+                "type": "number"
+              },
+              {
+                "type": "string"
+              }
+            ]
           },
           "color": {
             "description": "Anzeigefarbe",

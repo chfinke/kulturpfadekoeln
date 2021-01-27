@@ -402,7 +402,7 @@
           "trackSubpt": "",
           "quarter": "",
           "predecessor": "",
-          "successor": "",
+          "successor": "2.2.1",
           "title": "Start Kul&shy;tur&shy;pfad 2.2 Ro&shy;den&shy;kir&shy;chen",
           "description": {
             "state": "#unknown",
@@ -425,12 +425,192 @@
             "state": "#n/a"
           }
         },
+        "2.2.1": {
+          "trackPoint": 1,
+          "trackSubpt": "",
+          "quarter": "",
+          "predecessor": "2.2.0",
+          "successor": "2.2.2",
+          "inactive": true,
+          "title": "Wohnblock Pohlingstraße",
+          "description": {
+            "state": "#unknown",
+            "value": ""
+          },
+          "mapPosition": {
+            "state": "#unknown",
+            "value": []
+          },
+          "buildings": {
+            "state": "#unknown"
+          },
+          "info": {
+            "state": "#unknown"
+          },
+          "notes": "",
+          "wiki": {
+            "state": "#unknown"
+          },
+          "monumentNo": {
+            "state": "#unknown"
+          }
+        },
+        "2.2.2": {
+          "trackPoint": 2,
+          "trackSubpt": "",
+          "quarter": "",
+          "predecessor": "2.2.1",
+          "successor": "2.2.3",
+          "inactive": true,
+          "title": "Vorgebirksplatz",
+          "description": {
+            "state": "#unknown",
+            "value": ""
+          },
+          "mapPosition": {
+            "state": "#unknown",
+            "value": []
+          },
+          "buildings": {
+            "state": "#unknown"
+          },
+          "info": {
+            "state": "#unknown"
+          },
+          "notes": "",
+          "wiki": {
+            "state": "#unknown"
+          },
+          "monumentNo": {
+            "state": "#unknown"
+          }
+        },
+        "2.2.3": {
+          "trackPoint": 3,
+          "trackSubpt": "",
+          "quarter": "",
+          "predecessor": "2.2.2",
+          "successor": "2.2.4",
+          "inactive": true,
+          "title": "Theophanoplatz",
+          "description": {
+            "state": "#unknown",
+            "value": ""
+          },
+          "mapPosition": {
+            "state": "#unknown",
+            "value": []
+          },
+          "buildings": {
+            "state": "#unknown"
+          },
+          "info": {
+            "state": "#unknown"
+          },
+          "notes": "",
+          "wiki": {
+            "state": "#unknown"
+          },
+          "monumentNo": {
+            "state": "#unknown"
+          }
+        },
+        "2.2.4": {
+          "trackPoint": 4,
+          "trackSubpt": "",
+          "quarter": "",
+          "predecessor": "2.2.3",
+          "successor": "2.2.5",
+          "inactive": true,
+          "title": "St. Pius",
+          "description": {
+            "state": "#unknown",
+            "value": ""
+          },
+          "mapPosition": {
+            "state": "#unknown",
+            "value": []
+          },
+          "buildings": {
+            "state": "#unknown"
+          },
+          "info": {
+            "state": "#unknown"
+          },
+          "notes": "",
+          "wiki": {
+            "state": "#unknown"
+          },
+          "monumentNo": {
+            "state": "#unknown"
+          }
+        },
+        "2.2.5": {
+          "trackPoint": 5,
+          "trackSubpt": "",
+          "quarter": "",
+          "predecessor": "2.2.4",
+          "successor": "2.2.6",
+          "inactive": true,
+          "title": "Melanchthon-Kirche",
+          "description": {
+            "state": "#unknown",
+            "value": ""
+          },
+          "mapPosition": {
+            "state": "#unknown",
+            "value": []
+          },
+          "buildings": {
+            "state": "#unknown"
+          },
+          "info": {
+            "state": "#unknown"
+          },
+          "notes": "",
+          "wiki": {
+            "state": "#unknown"
+          },
+          "monumentNo": {
+            "state": "#unknown"
+          }
+        },
+        "2.2.6": {
+          "trackPoint": 6,
+          "trackSubpt": "",
+          "quarter": "",
+          "predecessor": "2.2.5",
+          "successor": "2.2.7",
+          "inactive": true,
+          "title": "Siedlung Zollstock",
+          "description": {
+            "state": "#unknown",
+            "value": ""
+          },
+          "mapPosition": {
+            "state": "#unknown",
+            "value": []
+          },
+          "buildings": {
+            "state": "#unknown"
+          },
+          "info": {
+            "state": "#unknown"
+          },
+          "notes": "",
+          "wiki": {
+            "state": "#unknown"
+          },
+          "monumentNo": {
+            "state": "#unknown"
+          }
+        },
         "2.2.7": {
           "trackPoint": 7,
           "trackSubpt": "",
           "quarter": "Zollstock",
-          "predecessor": "",
-          "successor": "",
+          "predecessor": "2.2.6",
+          "successor": "2.2.8",
           "title": "Süd&shy;fried&shy;hof",
           "description": {
             "state": "#ok",
@@ -454,6 +634,467 @@
           "monumentNo": {
             "state": "#ok",
             "value": 201
+          }
+        },
+        "2.2.8": {
+          "trackPoint": 8,
+          "trackSubpt": "",
+          "quarter": "",
+          "predecessor": "2.2.7",
+          "successor": "2.2.9",
+          "inactive": true,
+          "title": "Äußerer Grüngürtel",
+          "description": {
+            "state": "#unknown",
+            "value": ""
+          },
+          "mapPosition": {
+            "state": "#unknown",
+            "value": []
+          },
+          "buildings": {
+            "state": "#unknown"
+          },
+          "info": {
+            "state": "#unknown"
+          },
+          "notes": "",
+          "wiki": {
+            "state": "#unknown"
+          },
+          "monumentNo": {
+            "state": "#unknown"
+          }
+        },
+        "2.2.9": {
+          "trackPoint": 9,
+          "trackSubpt": "",
+          "quarter": "",
+          "predecessor": "2.2.8",
+          "successor": "2.2.10",
+          "inactive": true,
+          "title": "Arbeiterhäuser Schulze-Delitzsch-Straße",
+          "description": {
+            "state": "#unknown",
+            "value": ""
+          },
+          "mapPosition": {
+            "state": "#unknown",
+            "value": []
+          },
+          "buildings": {
+            "state": "#unknown"
+          },
+          "info": {
+            "state": "#unknown"
+          },
+          "notes": "",
+          "wiki": {
+            "state": "#unknown"
+          },
+          "monumentNo": {
+            "state": "#unknown"
+          }
+        },
+        "2.2.10": {
+          "trackPoint": 10,
+          "trackSubpt": "",
+          "quarter": "",
+          "predecessor": "2.2.9",
+          "successor": "2.2.11",
+          "inactive": true,
+          "title": "Volkspark",
+          "description": {
+            "state": "#unknown",
+            "value": ""
+          },
+          "mapPosition": {
+            "state": "#unknown",
+            "value": []
+          },
+          "buildings": {
+            "state": "#unknown"
+          },
+          "info": {
+            "state": "#unknown"
+          },
+          "notes": "",
+          "wiki": {
+            "state": "#unknown"
+          },
+          "monumentNo": {
+            "state": "#unknown"
+          }
+        },
+        "2.2.11": {
+          "trackPoint": 11,
+          "trackSubpt": "",
+          "quarter": "",
+          "predecessor": "2.2.10",
+          "successor": "",
+          "inactive": true,
+          "title": "Wasserwerk Hochkirchen",
+          "description": {
+            "state": "#unknown",
+            "value": ""
+          },
+          "mapPosition": {
+            "state": "#unknown",
+            "value": []
+          },
+          "buildings": {
+            "state": "#unknown"
+          },
+          "info": {
+            "state": "#unknown"
+          },
+          "notes": "",
+          "wiki": {
+            "state": "#unknown"
+          },
+          "monumentNo": {
+            "state": "#unknown"
+          }
+        }
+
+
+      }
+    },
+    "2.3": {
+      "boroughNo": 2,
+      "borough": "Rodenkirchen",
+      "trackNo": 3,
+      "color": "",
+      "inactive": true,
+      "points": {
+        "2.3.0": {
+          "trackPoint": 0,
+          "trackSubpt": "",
+          "quarter": "",
+          "predecessor": "",
+          "successor": "2.3.1",
+          "inactive": true,
+          "title": "Start Kulturpfad 2.3 Marienburg",
+          "description": {
+            "state": "#unknown",
+            "value": ""
+          },
+          "mapPosition": {
+            "state": "#unknown",
+            "value": []
+          },
+          "buildings": {
+            "state": "#unknown"
+          },
+          "info": {
+            "state": "#unknown"
+          },
+          "notes": "",
+          "wiki": {
+            "state": "#unknown"
+          },
+          "monumentNo": {
+            "state": "#unknown"
+          }
+        },
+        "2.3.1": {
+          "trackPoint": 1,
+          "trackSubpt": "",
+          "quarter": "",
+          "predecessor": "2.3.0",
+          "successor": "2.3.2",
+          "inactive": true,
+          "title": "Bismarkturm",
+          "description": {
+            "state": "#unknown",
+            "value": ""
+          },
+          "mapPosition": {
+            "state": "#unknown",
+            "value": []
+          },
+          "buildings": {
+            "state": "#unknown"
+          },
+          "info": {
+            "state": "#unknown"
+          },
+          "notes": "",
+          "wiki": {
+            "state": "#unknown"
+          },
+          "monumentNo": {
+            "state": "#unknown"
+          }
+        },
+        "2.3.2": {
+          "trackPoint": 2,
+          "trackSubpt": "",
+          "quarter": "",
+          "predecessor": "2.3.1",
+          "successor": "2.3.3",
+          "inactive": true,
+          "title": "Villenviertel Marienburg",
+          "description": {
+            "state": "#unknown",
+            "value": ""
+          },
+          "mapPosition": {
+            "state": "#unknown",
+            "value": []
+          },
+          "buildings": {
+            "state": "#unknown"
+          },
+          "info": {
+            "state": "#unknown"
+          },
+          "notes": "",
+          "wiki": {
+            "state": "#unknown"
+          },
+          "monumentNo": {
+            "state": "#unknown"
+          }
+        },
+        "2.3.3": {
+          "trackPoint": 3,
+          "trackSubpt": "",
+          "quarter": "",
+          "predecessor": "2.3.2",
+          "successor": "2.3.4",
+          "inactive": true,
+          "title": "Marienburger Straße 11 und die \"Marienburg\"",
+          "description": {
+            "state": "#unknown",
+            "value": ""
+          },
+          "mapPosition": {
+            "state": "#unknown",
+            "value": []
+          },
+          "buildings": {
+            "state": "#unknown"
+          },
+          "info": {
+            "state": "#unknown"
+          },
+          "notes": "",
+          "wiki": {
+            "state": "#unknown"
+          },
+          "monumentNo": {
+            "state": "#unknown"
+          }
+        },
+        "2.3.4": {
+          "trackPoint": 4,
+          "trackSubpt": "",
+          "quarter": "",
+          "predecessor": "2.3.3",
+          "successor": "2.3.5",
+          "inactive": true,
+          "title": "Villa Vorster",
+          "description": {
+            "state": "#unknown",
+            "value": ""
+          },
+          "mapPosition": {
+            "state": "#unknown",
+            "value": []
+          },
+          "buildings": {
+            "state": "#unknown"
+          },
+          "info": {
+            "state": "#unknown"
+          },
+          "notes": "",
+          "wiki": {
+            "state": "#unknown"
+          },
+          "monumentNo": {
+            "state": "#unknown"
+          }
+        },
+        "2.3.5": {
+          "trackPoint": 5,
+          "trackSubpt": "",
+          "quarter": "",
+          "predecessor": "2.3.4",
+          "successor": "2.3.6",
+          "inactive": true,
+          "title": "Zwischenwerk VIIIb",
+          "description": {
+            "state": "#unknown",
+            "value": ""
+          },
+          "mapPosition": {
+            "state": "#unknown",
+            "value": []
+          },
+          "buildings": {
+            "state": "#unknown"
+          },
+          "info": {
+            "state": "#unknown"
+          },
+          "notes": "",
+          "wiki": {
+            "state": "#unknown"
+          },
+          "monumentNo": {
+            "state": "#unknown"
+          }
+        },
+        "2.3.6": {
+          "trackPoint": 6,
+          "trackSubpt": "",
+          "quarter": "",
+          "predecessor": "2.3.5",
+          "successor": "2.3.7",
+          "inactive": true,
+          "title": "Allerheiligen-Kirche",
+          "description": {
+            "state": "#unknown",
+            "value": ""
+          },
+          "mapPosition": {
+            "state": "#unknown",
+            "value": []
+          },
+          "buildings": {
+            "state": "#unknown"
+          },
+          "info": {
+            "state": "#unknown"
+          },
+          "notes": "",
+          "wiki": {
+            "state": "#unknown"
+          },
+          "monumentNo": {
+            "state": "#unknown"
+          }
+        },
+        "2.3.7": {
+          "trackPoint": 7,
+          "trackSubpt": "",
+          "quarter": "",
+          "predecessor": "2.3.6",
+          "successor": "2.3.8",
+          "inactive": true,
+          "title": "Südpark",
+          "description": {
+            "state": "#unknown",
+            "value": ""
+          },
+          "mapPosition": {
+            "state": "#unknown",
+            "value": []
+          },
+          "buildings": {
+            "state": "#unknown"
+          },
+          "info": {
+            "state": "#unknown"
+          },
+          "notes": "",
+          "wiki": {
+            "state": "#unknown"
+          },
+          "monumentNo": {
+            "state": "#unknown"
+          }
+        },
+        "2.3.8": {
+          "trackPoint": 8,
+          "trackSubpt": "",
+          "quarter": "",
+          "predecessor": "2.3.7",
+          "successor": "2.3.9",
+          "inactive": true,
+          "title": "Goethestraße",
+          "description": {
+            "state": "#unknown",
+            "value": ""
+          },
+          "mapPosition": {
+            "state": "#unknown",
+            "value": []
+          },
+          "buildings": {
+            "state": "#unknown"
+          },
+          "info": {
+            "state": "#unknown"
+          },
+          "notes": "",
+          "wiki": {
+            "state": "#unknown"
+          },
+          "monumentNo": {
+            "state": "#unknown"
+          }
+        },
+        "2.3.9": {
+          "trackPoint": 9,
+          "trackSubpt": "",
+          "quarter": "",
+          "predecessor": "2.3.8",
+          "successor": "2.3.10",
+          "inactive": true,
+          "title": "Ev. Reformationskirche",
+          "description": {
+            "state": "#unknown",
+            "value": ""
+          },
+          "mapPosition": {
+            "state": "#unknown",
+            "value": []
+          },
+          "buildings": {
+            "state": "#unknown"
+          },
+          "info": {
+            "state": "#unknown"
+          },
+          "notes": "",
+          "wiki": {
+            "state": "#unknown"
+          },
+          "monumentNo": {
+            "state": "#unknown"
+          }
+        },
+        "2.3.10": {
+          "trackPoint": 10,
+          "trackSubpt": "",
+          "quarter": "",
+          "predecessor": "2.3.9",
+          "successor": "",
+          "inactive": true,
+          "title": "Pferdmengesstraße",
+          "description": {
+            "state": "#unknown",
+            "value": ""
+          },
+          "mapPosition": {
+            "state": "#unknown",
+            "value": []
+          },
+          "buildings": {
+            "state": "#unknown"
+          },
+          "info": {
+            "state": "#unknown"
+          },
+          "notes": "",
+          "wiki": {
+            "state": "#unknown"
+          },
+          "monumentNo": {
+            "state": "#unknown"
           }
         }
       }
@@ -862,6 +1503,6671 @@
         }
       }
     },
+    "2.5": {
+      "boroughNo": 2,
+      "borough": "Rodenkirchen",
+      "trackNo": 5,
+      "color": "",
+      "inactive": true,
+      "points": {
+        "2.5.0": {
+          "trackPoint": 0,
+          "trackSubpt": "",
+          "quarter": "",
+          "predecessor": "",
+          "successor": "2.5.1",
+          "inactive": true,
+          "title": "",
+          "description": {
+            "state": "#unknown",
+            "value": ""
+          },
+          "mapPosition": {
+            "state": "#unknown",
+            "value": []
+          },
+          "buildings": {
+            "state": "#unknown"
+          },
+          "info": {
+            "state": "#unknown"
+          },
+          "notes": "",
+          "wiki": {
+            "state": "#unknown"
+          },
+          "monumentNo": {
+            "state": "#unknown"
+          }
+        },
+        "2.5.1": {
+          "trackPoint": 1,
+          "trackSubpt": "",
+          "quarter": "",
+          "predecessor": "2.5.0",
+          "successor": "2.5.2",
+          "inactive": true,
+          "title": "Villenvorort",
+          "description": {
+            "state": "#unknown",
+            "value": ""
+          },
+          "mapPosition": {
+            "state": "#unknown",
+            "value": []
+          },
+          "buildings": {
+            "state": "#unknown"
+          },
+          "info": {
+            "state": "#unknown"
+          },
+          "notes": "",
+          "wiki": {
+            "state": "#unknown"
+          },
+          "monumentNo": {
+            "state": "#unknown"
+          }
+        },
+        "2.5.2": {
+          "trackPoint": 2,
+          "trackSubpt": "",
+          "quarter": "",
+          "predecessor": "2.5.1",
+          "successor": "2.5.3",
+          "inactive": true,
+          "title": "Laubenhaus",
+          "description": {
+            "state": "#unknown",
+            "value": ""
+          },
+          "mapPosition": {
+            "state": "#unknown",
+            "value": []
+          },
+          "buildings": {
+            "state": "#unknown"
+          },
+          "info": {
+            "state": "#unknown"
+          },
+          "notes": "",
+          "wiki": {
+            "state": "#unknown"
+          },
+          "monumentNo": {
+            "state": "#unknown"
+          }
+        },
+        "2.5.3": {
+          "trackPoint": 3,
+          "trackSubpt": "",
+          "quarter": "",
+          "predecessor": "2.5.2",
+          "successor": "2.5.4",
+          "inactive": true,
+          "title": "Mühle",
+          "description": {
+            "state": "#unknown",
+            "value": ""
+          },
+          "mapPosition": {
+            "state": "#unknown",
+            "value": []
+          },
+          "buildings": {
+            "state": "#unknown"
+          },
+          "info": {
+            "state": "#unknown"
+          },
+          "notes": "",
+          "wiki": {
+            "state": "#unknown"
+          },
+          "monumentNo": {
+            "state": "#unknown"
+          }
+        },
+        "2.5.4": {
+          "trackPoint": 4,
+          "trackSubpt": "",
+          "quarter": "",
+          "predecessor": "2.5.3",
+          "successor": "2.5.5",
+          "inactive": true,
+          "title": "Villenkolonie",
+          "description": {
+            "state": "#unknown",
+            "value": ""
+          },
+          "mapPosition": {
+            "state": "#unknown",
+            "value": []
+          },
+          "buildings": {
+            "state": "#unknown"
+          },
+          "info": {
+            "state": "#unknown"
+          },
+          "notes": "",
+          "wiki": {
+            "state": "#unknown"
+          },
+          "monumentNo": {
+            "state": "#unknown"
+          }
+        },
+        "2.5.5": {
+          "trackPoint": 5,
+          "trackSubpt": "",
+          "quarter": "",
+          "predecessor": "2.5.4",
+          "successor": "2.5.6",
+          "inactive": true,
+          "title": "Falderhof",
+          "description": {
+            "state": "#unknown",
+            "value": ""
+          },
+          "mapPosition": {
+            "state": "#unknown",
+            "value": []
+          },
+          "buildings": {
+            "state": "#unknown"
+          },
+          "info": {
+            "state": "#unknown"
+          },
+          "notes": "",
+          "wiki": {
+            "state": "#unknown"
+          },
+          "monumentNo": {
+            "state": "#unknown"
+          }
+        },
+        "2.5.6": {
+          "trackPoint": 6,
+          "trackSubpt": "",
+          "quarter": "",
+          "predecessor": "2.5.5",
+          "successor": "2.5.7",
+          "inactive": true,
+          "title": "St. Remigius",
+          "description": {
+            "state": "#unknown",
+            "value": ""
+          },
+          "mapPosition": {
+            "state": "#unknown",
+            "value": []
+          },
+          "buildings": {
+            "state": "#unknown"
+          },
+          "info": {
+            "state": "#unknown"
+          },
+          "notes": "",
+          "wiki": {
+            "state": "#unknown"
+          },
+          "monumentNo": {
+            "state": "#unknown"
+          }
+        },
+        "2.5.7": {
+          "trackPoint": 7,
+          "trackSubpt": "",
+          "quarter": "",
+          "predecessor": "2.5.6",
+          "successor": "2.5.8",
+          "inactive": true,
+          "title": "Pfarrkirche St. Georg",
+          "description": {
+            "state": "#unknown",
+            "value": ""
+          },
+          "mapPosition": {
+            "state": "#unknown",
+            "value": []
+          },
+          "buildings": {
+            "state": "#unknown"
+          },
+          "info": {
+            "state": "#unknown"
+          },
+          "notes": "",
+          "wiki": {
+            "state": "#unknown"
+          },
+          "monumentNo": {
+            "state": "#unknown"
+          }
+        },
+        "2.5.8": {
+          "trackPoint": 8,
+          "trackSubpt": "",
+          "quarter": "",
+          "predecessor": "2.5.7",
+          "successor": "",
+          "inactive": true,
+          "title": "Kapelle St. Georg",
+          "description": {
+            "state": "#unknown",
+            "value": ""
+          },
+          "mapPosition": {
+            "state": "#unknown",
+            "value": []
+          },
+          "buildings": {
+            "state": "#unknown"
+          },
+          "info": {
+            "state": "#unknown"
+          },
+          "notes": "",
+          "wiki": {
+            "state": "#unknown"
+          },
+          "monumentNo": {
+            "state": "#unknown"
+          }
+        }
+      }
+    },
+    "3.1": {
+      "boroughNo": 3,
+      "borough": "Lindenthal",
+      "trackNo": 1,
+      "color": "",
+      "inactive": true,
+      "points": {
+        "3.1.0": {
+          "trackPoint": 0,
+          "trackSubpt": "",
+          "quarter": "",
+          "predecessor": "",
+          "successor": "3.1.1",
+          "inactive": true,
+          "title": "",
+          "description": {
+            "state": "#unknown",
+            "value": ""
+          },
+          "mapPosition": {
+            "state": "#unknown",
+            "value": []
+          },
+          "buildings": {
+            "state": "#unknown"
+          },
+          "info": {
+            "state": "#unknown"
+          },
+          "notes": "",
+          "wiki": {
+            "state": "#unknown"
+          },
+          "monumentNo": {
+            "state": "#unknown"
+          }
+        },
+        "3.1.1": {
+          "trackPoint": 1,
+          "trackSubpt": "",
+          "quarter": "",
+          "predecessor": "3.1.0",
+          "successor": "3.1.2",
+          "inactive": true,
+          "title": "Stadion",
+          "description": {
+            "state": "#unknown",
+            "value": ""
+          },
+          "mapPosition": {
+            "state": "#unknown",
+            "value": []
+          },
+          "buildings": {
+            "state": "#unknown"
+          },
+          "info": {
+            "state": "#unknown"
+          },
+          "notes": "",
+          "wiki": {
+            "state": "#unknown"
+          },
+          "monumentNo": {
+            "state": "#unknown"
+          }
+        },
+        "3.1.2": {
+          "trackPoint": 2,
+          "trackSubpt": "",
+          "quarter": "",
+          "predecessor": "3.1.1",
+          "successor": "3.1.3",
+          "inactive": true,
+          "title": "Statthalterhof",
+          "description": {
+            "state": "#unknown",
+            "value": ""
+          },
+          "mapPosition": {
+            "state": "#unknown",
+            "value": []
+          },
+          "buildings": {
+            "state": "#unknown"
+          },
+          "info": {
+            "state": "#unknown"
+          },
+          "notes": "",
+          "wiki": {
+            "state": "#unknown"
+          },
+          "monumentNo": {
+            "state": "#unknown"
+          }
+        },
+        "3.1.3": {
+          "trackPoint": 3,
+          "trackSubpt": "",
+          "quarter": "",
+          "predecessor": "3.1.2",
+          "successor": "3.1.4",
+          "inactive": true,
+          "title": "Dorfkirche (Junkersdorf)",
+          "description": {
+            "state": "#unknown",
+            "value": ""
+          },
+          "mapPosition": {
+            "state": "#unknown",
+            "value": []
+          },
+          "buildings": {
+            "state": "#unknown"
+          },
+          "info": {
+            "state": "#unknown"
+          },
+          "notes": "",
+          "wiki": {
+            "state": "#unknown"
+          },
+          "monumentNo": {
+            "state": "#unknown"
+          }
+        },
+        "3.1.4": {
+          "trackPoint": 4,
+          "trackSubpt": "",
+          "quarter": "",
+          "predecessor": "3.1.3",
+          "successor": "3.1.5",
+          "inactive": true,
+          "title": "Fronhof",
+          "description": {
+            "state": "#unknown",
+            "value": ""
+          },
+          "mapPosition": {
+            "state": "#unknown",
+            "value": []
+          },
+          "buildings": {
+            "state": "#unknown"
+          },
+          "info": {
+            "state": "#unknown"
+          },
+          "notes": "",
+          "wiki": {
+            "state": "#unknown"
+          },
+          "monumentNo": {
+            "state": "#unknown"
+          }
+        },
+        "3.1.5": {
+          "trackPoint": 5,
+          "trackSubpt": "",
+          "quarter": "",
+          "predecessor": "3.1.4",
+          "successor": "3.1.6",
+          "inactive": true,
+          "title": "Üsdorfer Kapelle",
+          "description": {
+            "state": "#unknown",
+            "value": ""
+          },
+          "mapPosition": {
+            "state": "#unknown",
+            "value": []
+          },
+          "buildings": {
+            "state": "#unknown"
+          },
+          "info": {
+            "state": "#unknown"
+          },
+          "notes": "",
+          "wiki": {
+            "state": "#unknown"
+          },
+          "monumentNo": {
+            "state": "#unknown"
+          }
+        },
+        "3.1.6": {
+          "trackPoint": 6,
+          "trackSubpt": "",
+          "quarter": "",
+          "predecessor": "3.1.5",
+          "successor": "3.1.7",
+          "inactive": true,
+          "title": "Römische Grabkammer",
+          "description": {
+            "state": "#unknown",
+            "value": ""
+          },
+          "mapPosition": {
+            "state": "#unknown",
+            "value": []
+          },
+          "buildings": {
+            "state": "#unknown"
+          },
+          "info": {
+            "state": "#unknown"
+          },
+          "notes": "",
+          "wiki": {
+            "state": "#unknown"
+          },
+          "monumentNo": {
+            "state": "#unknown"
+          }
+        },
+        "3.1.7": {
+          "trackPoint": 7,
+          "trackSubpt": "",
+          "quarter": "",
+          "predecessor": "3.1.6",
+          "successor": "3.1.8",
+          "inactive": true,
+          "title": "St. Mariien (alte Weidener Kirche)",
+          "description": {
+            "state": "#unknown",
+            "value": ""
+          },
+          "mapPosition": {
+            "state": "#unknown",
+            "value": []
+          },
+          "buildings": {
+            "state": "#unknown"
+          },
+          "info": {
+            "state": "#unknown"
+          },
+          "notes": "",
+          "wiki": {
+            "state": "#unknown"
+          },
+          "monumentNo": {
+            "state": "#unknown"
+          }
+        },
+        "3.1.8": {
+          "trackPoint": 8,
+          "trackSubpt": "",
+          "quarter": "",
+          "predecessor": "3.1.7",
+          "successor": "3.1.9",
+          "inactive": true,
+          "title": "Odemshof",
+          "description": {
+            "state": "#unknown",
+            "value": ""
+          },
+          "mapPosition": {
+            "state": "#unknown",
+            "value": []
+          },
+          "buildings": {
+            "state": "#unknown"
+          },
+          "info": {
+            "state": "#unknown"
+          },
+          "notes": "",
+          "wiki": {
+            "state": "#unknown"
+          },
+          "monumentNo": {
+            "state": "#unknown"
+          }
+        },
+        "3.1.9": {
+          "trackPoint": 9,
+          "trackSubpt": "",
+          "quarter": "",
+          "predecessor": "3.1.8",
+          "successor": "3.1.10",
+          "inactive": true,
+          "title": "Mertenshof",
+          "description": {
+            "state": "#unknown",
+            "value": ""
+          },
+          "mapPosition": {
+            "state": "#unknown",
+            "value": []
+          },
+          "buildings": {
+            "state": "#unknown"
+          },
+          "info": {
+            "state": "#unknown"
+          },
+          "notes": "",
+          "wiki": {
+            "state": "#unknown"
+          },
+          "monumentNo": {
+            "state": "#unknown"
+          }
+        },
+        "3.1.10": {
+          "trackPoint": 10,
+          "trackSubpt": "",
+          "quarter": "",
+          "predecessor": "3.1.9",
+          "successor": "3.1.11",
+          "inactive": true,
+          "title": "Keuschhof",
+          "description": {
+            "state": "#unknown",
+            "value": ""
+          },
+          "mapPosition": {
+            "state": "#unknown",
+            "value": []
+          },
+          "buildings": {
+            "state": "#unknown"
+          },
+          "info": {
+            "state": "#unknown"
+          },
+          "notes": "",
+          "wiki": {
+            "state": "#unknown"
+          },
+          "monumentNo": {
+            "state": "#unknown"
+          }
+        },
+        "3.1.11": {
+          "trackPoint": 11,
+          "trackSubpt": "",
+          "quarter": "",
+          "predecessor": "3.1.10",
+          "successor": "3.1.12",
+          "inactive": true,
+          "title": "St. Severin",
+          "description": {
+            "state": "#unknown",
+            "value": ""
+          },
+          "mapPosition": {
+            "state": "#unknown",
+            "value": []
+          },
+          "buildings": {
+            "state": "#unknown"
+          },
+          "info": {
+            "state": "#unknown"
+          },
+          "notes": "",
+          "wiki": {
+            "state": "#unknown"
+          },
+          "monumentNo": {
+            "state": "#unknown"
+          }
+        },
+        "3.1.12": {
+          "trackPoint": 12,
+          "trackSubpt": "",
+          "quarter": "",
+          "predecessor": "3.1.11",
+          "successor": "3.1.13",
+          "inactive": true,
+          "title": "Haus Közal",
+          "description": {
+            "state": "#unknown",
+            "value": ""
+          },
+          "mapPosition": {
+            "state": "#unknown",
+            "value": []
+          },
+          "buildings": {
+            "state": "#unknown"
+          },
+          "info": {
+            "state": "#unknown"
+          },
+          "notes": "",
+          "wiki": {
+            "state": "#unknown"
+          },
+          "monumentNo": {
+            "state": "#unknown"
+          }
+        },
+        "3.1.13": {
+          "trackPoint": 13,
+          "trackSubpt": "",
+          "quarter": "",
+          "predecessor": "3.1.12",
+          "successor": "3.1.14",
+          "inactive": true,
+          "title": "Mertenshof",
+          "description": {
+            "state": "#unknown",
+            "value": ""
+          },
+          "mapPosition": {
+            "state": "#unknown",
+            "value": []
+          },
+          "buildings": {
+            "state": "#unknown"
+          },
+          "info": {
+            "state": "#unknown"
+          },
+          "notes": "",
+          "wiki": {
+            "state": "#unknown"
+          },
+          "monumentNo": {
+            "state": "#unknown"
+          }
+        },
+        "3.1.14": {
+          "trackPoint": 14,
+          "trackSubpt": "",
+          "quarter": "",
+          "predecessor": "3.1.13",
+          "successor": "3.1.15",
+          "inactive": true,
+          "title": "St. Jakobus",
+          "description": {
+            "state": "#unknown",
+            "value": ""
+          },
+          "mapPosition": {
+            "state": "#unknown",
+            "value": []
+          },
+          "buildings": {
+            "state": "#unknown"
+          },
+          "info": {
+            "state": "#unknown"
+          },
+          "notes": "",
+          "wiki": {
+            "state": "#unknown"
+          },
+          "monumentNo": {
+            "state": "#unknown"
+          }
+        },
+        "3.1.15": {
+          "trackPoint": 15,
+          "trackSubpt": "",
+          "quarter": "",
+          "predecessor": "3.1.14",
+          "successor": "",
+          "inactive": true,
+          "title": "Burghof",
+          "description": {
+            "state": "#unknown",
+            "value": ""
+          },
+          "mapPosition": {
+            "state": "#unknown",
+            "value": []
+          },
+          "buildings": {
+            "state": "#unknown"
+          },
+          "info": {
+            "state": "#unknown"
+          },
+          "notes": "",
+          "wiki": {
+            "state": "#unknown"
+          },
+          "monumentNo": {
+            "state": "#unknown"
+          }
+        }
+      }
+    },
+    "3.2": {
+      "boroughNo": 3,
+      "borough": "Lindenthal",
+      "trackNo": 2,
+      "color": "",
+      "inactive": true,
+      "points": {
+        "3.2.0": {
+          "trackPoint": 0,
+          "trackSubpt": "",
+          "quarter": "",
+          "predecessor": "",
+          "successor": "3.2.1",
+          "inactive": true,
+          "title": "",
+          "description": {
+            "state": "#unknown",
+            "value": ""
+          },
+          "mapPosition": {
+            "state": "#unknown",
+            "value": []
+          },
+          "buildings": {
+            "state": "#unknown"
+          },
+          "info": {
+            "state": "#unknown"
+          },
+          "notes": "",
+          "wiki": {
+            "state": "#unknown"
+          },
+          "monumentNo": {
+            "state": "#unknown"
+          }
+        },
+        "3.2.1": {
+          "trackPoint": 1,
+          "trackSubpt": "",
+          "quarter": "",
+          "predecessor": "3.2.0",
+          "successor": "3.2.2",
+          "inactive": true,
+          "title": "Komarhof",
+          "description": {
+            "state": "#unknown",
+            "value": ""
+          },
+          "mapPosition": {
+            "state": "#unknown",
+            "value": []
+          },
+          "buildings": {
+            "state": "#unknown"
+          },
+          "info": {
+            "state": "#unknown"
+          },
+          "notes": "",
+          "wiki": {
+            "state": "#unknown"
+          },
+          "monumentNo": {
+            "state": "#unknown"
+          }
+        },
+        "3.2.2": {
+          "trackPoint": 2,
+          "trackSubpt": "",
+          "quarter": "",
+          "predecessor": "3.2.1",
+          "successor": "3.2.3",
+          "inactive": true,
+          "title": "Klettenbergpark",
+          "description": {
+            "state": "#unknown",
+            "value": ""
+          },
+          "mapPosition": {
+            "state": "#unknown",
+            "value": []
+          },
+          "buildings": {
+            "state": "#unknown"
+          },
+          "info": {
+            "state": "#unknown"
+          },
+          "notes": "",
+          "wiki": {
+            "state": "#unknown"
+          },
+          "monumentNo": {
+            "state": "#unknown"
+          }
+        },
+        "3.2.3": {
+          "trackPoint": 3,
+          "trackSubpt": "",
+          "quarter": "",
+          "predecessor": "3.2.2",
+          "successor": "3.2.4",
+          "inactive": true,
+          "title": "Römische Wasserleitung (Berrenrather Straße)",
+          "description": {
+            "state": "#unknown",
+            "value": ""
+          },
+          "mapPosition": {
+            "state": "#unknown",
+            "value": []
+          },
+          "buildings": {
+            "state": "#unknown"
+          },
+          "info": {
+            "state": "#unknown"
+          },
+          "notes": "",
+          "wiki": {
+            "state": "#unknown"
+          },
+          "monumentNo": {
+            "state": "#unknown"
+          }
+        },
+        "3.2.4": {
+          "trackPoint": 4,
+          "trackSubpt": "",
+          "quarter": "",
+          "predecessor": "3.2.3",
+          "successor": "3.2.5",
+          "inactive": true,
+          "title": "Römischer Schlammfang",
+          "description": {
+            "state": "#unknown",
+            "value": ""
+          },
+          "mapPosition": {
+            "state": "#unknown",
+            "value": []
+          },
+          "buildings": {
+            "state": "#unknown"
+          },
+          "info": {
+            "state": "#unknown"
+          },
+          "notes": "",
+          "wiki": {
+            "state": "#unknown"
+          },
+          "monumentNo": {
+            "state": "#unknown"
+          }
+        },
+        "3.2.5": {
+          "trackPoint": 5,
+          "trackSubpt": "",
+          "quarter": "",
+          "predecessor": "3.2.4",
+          "successor": "3.2.6",
+          "inactive": true,
+          "title": "Äußerer Grüngürtel / Decksteiner Weiher",
+          "description": {
+            "state": "#check",
+            "value": "Der Äußere Grüngürtel im Abschnitt Decksteiner Weiher entstand 1926 - 1929 im Rahmen von Beschäftigungsmaßnahmen für Kölner Arbeitslose. Ein städtebaulicher Entwurf von Fritz Schumacher, der hier allgemeein einen Grünbereich von Kleingärten, Sport-, Wald- und  Wiesenflächen vorgesehen hatte, sowie ein daran anknüpfender gärtnerischer Entwurf von Theodor Nußbaum. Der langgestreckte, im Grundriss asymmetrische Descksteiner Weiher mit dem kanalartigen Mittelstück und den begleitenden Alleen bildet den gestalterischen Höhepunkt in der Abfolge von verschiedenen Grünräumen."
+          },
+          "mapPosition": {
+            "state": "#unknown",
+            "value": []
+          },
+          "buildings": {
+            "state": "#unknown"
+          },
+          "info": {
+            "state": "#unknown"
+          },
+          "notes": "",
+          "wiki": {
+            "state": "#unknown"
+          },
+          "monumentNo": {
+            "state": "#unknown"
+          }
+        },
+        "3.2.6": {
+          "trackPoint": 6,
+          "trackSubpt": "",
+          "quarter": "",
+          "predecessor": "3.2.5",
+          "successor": "3.2.7",
+          "inactive": true,
+          "title": "Fort VI",
+          "description": {
+            "state": "#unknown",
+            "value": ""
+          },
+          "mapPosition": {
+            "state": "#unknown",
+            "value": []
+          },
+          "buildings": {
+            "state": "#unknown"
+          },
+          "info": {
+            "state": "#unknown"
+          },
+          "notes": "",
+          "wiki": {
+            "state": "#unknown"
+          },
+          "monumentNo": {
+            "state": "#unknown"
+          }
+        },
+        "3.2.7": {
+          "trackPoint": 7,
+          "trackSubpt": "",
+          "quarter": "",
+          "predecessor": "3.2.6",
+          "successor": "3.2.8",
+          "inactive": true,
+          "title": "Stüttgenhof",
+          "description": {
+            "state": "#unknown",
+            "value": ""
+          },
+          "mapPosition": {
+            "state": "#unknown",
+            "value": []
+          },
+          "buildings": {
+            "state": "#unknown"
+          },
+          "info": {
+            "state": "#unknown"
+          },
+          "notes": "",
+          "wiki": {
+            "state": "#unknown"
+          },
+          "monumentNo": {
+            "state": "#unknown"
+          }
+        },
+        "3.2.8": {
+          "trackPoint": 8,
+          "trackSubpt": "",
+          "quarter": "",
+          "predecessor": "3.2.7",
+          "successor": "3.2.9",
+          "inactive": true,
+          "title": "Burg Horbell",
+          "description": {
+            "state": "#unknown",
+            "value": ""
+          },
+          "mapPosition": {
+            "state": "#unknown",
+            "value": []
+          },
+          "buildings": {
+            "state": "#unknown"
+          },
+          "info": {
+            "state": "#unknown"
+          },
+          "notes": "",
+          "wiki": {
+            "state": "#unknown"
+          },
+          "monumentNo": {
+            "state": "#unknown"
+          }
+        },
+        "3.2.9": {
+          "trackPoint": 9,
+          "trackSubpt": "",
+          "quarter": "",
+          "predecessor": "3.2.8",
+          "successor": "",
+          "inactive": true,
+          "title": "Marsdorfer Höfe",
+          "description": {
+            "state": "#unknown",
+            "value": ""
+          },
+          "mapPosition": {
+            "state": "#unknown",
+            "value": []
+          },
+          "buildings": {
+            "state": "#unknown"
+          },
+          "info": {
+            "state": "#unknown"
+          },
+          "notes": "",
+          "wiki": {
+            "state": "#unknown"
+          },
+          "monumentNo": {
+            "state": "#unknown"
+          }
+        }
+      }
+    },
+    "3.3alt": {
+      "boroughNo": 3,
+      "borough": "Lindenthal",
+      "trackNo": "3alt",
+      "color": "",
+      "inactive": true,
+      "points": {
+        "3.3alt.0": {
+          "trackPoint": 0,
+          "trackSubpt": "",
+          "quarter": "",
+          "predecessor": "",
+          "successor": "3.3alt.1",
+          "inactive": true,
+          "title": "",
+          "description": {
+            "state": "#unknown",
+            "value": ""
+          },
+          "mapPosition": {
+            "state": "#unknown",
+            "value": []
+          },
+          "buildings": {
+            "state": "#unknown"
+          },
+          "info": {
+            "state": "#unknown"
+          },
+          "notes": "",
+          "wiki": {
+            "state": "#unknown"
+          },
+          "monumentNo": {
+            "state": "#unknown"
+          }
+        },
+        "3.3alt.1": {
+          "trackPoint": 1,
+          "trackSubpt": "",
+          "quarter": "",
+          "predecessor": "3.3alt.0",
+          "successor": "3.3alt.2",
+          "inactive": true,
+          "title": "St. Vitalis und Pfarrhaus",
+          "description": {
+            "state": "#unknown",
+            "value": ""
+          },
+          "mapPosition": {
+            "state": "#unknown",
+            "value": []
+          },
+          "buildings": {
+            "state": "#unknown"
+          },
+          "info": {
+            "state": "#unknown"
+          },
+          "notes": "",
+          "wiki": {
+            "state": "#unknown"
+          },
+          "monumentNo": {
+            "state": "#unknown"
+          }
+        },
+        "3.3alt.2": {
+          "trackPoint": 2,
+          "trackSubpt": "",
+          "quarter": "",
+          "predecessor": "3.3alt.1",
+          "successor": "3.3alt.3",
+          "inactive": true,
+          "title": "Kirchenhof",
+          "description": {
+            "state": "#unknown",
+            "value": ""
+          },
+          "mapPosition": {
+            "state": "#unknown",
+            "value": []
+          },
+          "buildings": {
+            "state": "#unknown"
+          },
+          "info": {
+            "state": "#unknown"
+          },
+          "notes": "",
+          "wiki": {
+            "state": "#unknown"
+          },
+          "monumentNo": {
+            "state": "#unknown"
+          }
+        },
+        "3.3alt.3": {
+          "trackPoint": 3,
+          "trackSubpt": "",
+          "quarter": "",
+          "predecessor": "3.3alt.2",
+          "successor": "3.3alt.4",
+          "inactive": true,
+          "title": "Haus Fenger-Schöngen",
+          "description": {
+            "state": "#unknown",
+            "value": ""
+          },
+          "mapPosition": {
+            "state": "#unknown",
+            "value": []
+          },
+          "buildings": {
+            "state": "#unknown"
+          },
+          "info": {
+            "state": "#unknown"
+          },
+          "notes": "",
+          "wiki": {
+            "state": "#unknown"
+          },
+          "monumentNo": {
+            "state": "#unknown"
+          }
+        },
+        "3.3alt.4": {
+          "trackPoint": 4,
+          "trackSubpt": "",
+          "quarter": "",
+          "predecessor": "3.3alt.3",
+          "successor": "3.3alt.5",
+          "inactive": true,
+          "title": "Marienhof",
+          "description": {
+            "state": "#unknown",
+            "value": ""
+          },
+          "mapPosition": {
+            "state": "#unknown",
+            "value": []
+          },
+          "buildings": {
+            "state": "#unknown"
+          },
+          "info": {
+            "state": "#unknown"
+          },
+          "notes": "",
+          "wiki": {
+            "state": "#unknown"
+          },
+          "monumentNo": {
+            "state": "#unknown"
+          }
+        },
+        "3.3alt.5": {
+          "trackPoint": 5,
+          "trackSubpt": "",
+          "quarter": "",
+          "predecessor": "3.3alt.4",
+          "successor": "3.3alt.6",
+          "inactive": true,
+          "title": "Petershof",
+          "description": {
+            "state": "#unknown",
+            "value": ""
+          },
+          "mapPosition": {
+            "state": "#unknown",
+            "value": []
+          },
+          "buildings": {
+            "state": "#unknown"
+          },
+          "info": {
+            "state": "#unknown"
+          },
+          "notes": "",
+          "wiki": {
+            "state": "#unknown"
+          },
+          "monumentNo": {
+            "state": "#unknown"
+          }
+        },
+        "3.3alt.6": {
+          "trackPoint": 6,
+          "trackSubpt": "",
+          "quarter": "",
+          "predecessor": "3.3alt.5",
+          "successor": "3.3alt.7",
+          "inactive": true,
+          "title": "Äußerer Grüngürtel",
+          "description": {
+            "state": "#unknown",
+            "value": ""
+          },
+          "mapPosition": {
+            "state": "#unknown",
+            "value": []
+          },
+          "buildings": {
+            "state": "#unknown"
+          },
+          "info": {
+            "state": "#unknown"
+          },
+          "notes": "",
+          "wiki": {
+            "state": "#unknown"
+          },
+          "monumentNo": {
+            "state": "#unknown"
+          }
+        },
+        "3.3alt.7": {
+          "trackPoint": 7,
+          "trackSubpt": "",
+          "quarter": "",
+          "predecessor": "3.3alt.6",
+          "successor": "3.3alt.8",
+          "inactive": true,
+          "title": "Pesche Hüsje",
+          "description": {
+            "state": "#unknown",
+            "value": ""
+          },
+          "mapPosition": {
+            "state": "#unknown",
+            "value": []
+          },
+          "buildings": {
+            "state": "#unknown"
+          },
+          "info": {
+            "state": "#unknown"
+          },
+          "notes": "",
+          "wiki": {
+            "state": "#unknown"
+          },
+          "monumentNo": {
+            "state": "#unknown"
+          }
+        },
+        "3.3alt.8": {
+          "trackPoint": 8,
+          "trackSubpt": "",
+          "quarter": "",
+          "predecessor": "3.3alt.7",
+          "successor": "3.3alt.9",
+          "inactive": true,
+          "title": "Haus Belvedere",
+          "description": {
+            "state": "#unknown",
+            "value": ""
+          },
+          "mapPosition": {
+            "state": "#unknown",
+            "value": []
+          },
+          "buildings": {
+            "state": "#unknown"
+          },
+          "info": {
+            "state": "#unknown"
+          },
+          "notes": "",
+          "wiki": {
+            "state": "#unknown"
+          },
+          "monumentNo": {
+            "state": "#unknown"
+          }
+        },
+        "3.3alt.9": {
+          "trackPoint": 9,
+          "trackSubpt": "",
+          "quarter": "",
+          "predecessor": "3.3alt.8",
+          "successor": "3.3alt.10",
+          "inactive": true,
+          "title": "Schule",
+          "description": {
+            "state": "#unknown",
+            "value": ""
+          },
+          "mapPosition": {
+            "state": "#unknown",
+            "value": []
+          },
+          "buildings": {
+            "state": "#unknown"
+          },
+          "info": {
+            "state": "#unknown"
+          },
+          "notes": "",
+          "wiki": {
+            "state": "#unknown"
+          },
+          "monumentNo": {
+            "state": "#unknown"
+          }
+        },
+        "3.3alt.10": {
+          "trackPoint": 10,
+          "trackSubpt": "",
+          "quarter": "",
+          "predecessor": "3.3alt.9",
+          "successor": "3.3alt.11",
+          "inactive": true,
+          "title": "Hartzheim-Hof",
+          "description": {
+            "state": "#unknown",
+            "value": ""
+          },
+          "mapPosition": {
+            "state": "#unknown",
+            "value": []
+          },
+          "buildings": {
+            "state": "#unknown"
+          },
+          "info": {
+            "state": "#unknown"
+          },
+          "notes": "",
+          "wiki": {
+            "state": "#unknown"
+          },
+          "monumentNo": {
+            "state": "#unknown"
+          }
+        },
+        "3.3alt.11": {
+          "trackPoint": 11,
+          "trackSubpt": "",
+          "quarter": "",
+          "predecessor": "3.3alt.10",
+          "successor": "",
+          "inactive": true,
+          "title": "Gashäuser",
+          "description": {
+            "state": "#unknown",
+            "value": ""
+          },
+          "mapPosition": {
+            "state": "#unknown",
+            "value": []
+          },
+          "buildings": {
+            "state": "#unknown"
+          },
+          "info": {
+            "state": "#unknown"
+          },
+          "notes": "",
+          "wiki": {
+            "state": "#unknown"
+          },
+          "monumentNo": {
+            "state": "#unknown"
+          }
+        }
+      }
+    },
+    "3.3neu": {
+      "boroughNo": 3,
+      "borough": "Lindenthal",
+      "trackNo": "3neu",
+      "color": "",
+      "inactive": true,
+      "points": {
+        "3.3neu.0": {
+          "trackPoint": 0,
+          "trackSubpt": "",
+          "quarter": "",
+          "predecessor": "",
+          "successor": "3.3neu.1",
+          "inactive": true,
+          "title": "",
+          "description": {
+            "state": "#unknown",
+            "value": ""
+          },
+          "mapPosition": {
+            "state": "#unknown",
+            "value": []
+          },
+          "buildings": {
+            "state": "#unknown"
+          },
+          "info": {
+            "state": "#unknown"
+          },
+          "notes": "",
+          "wiki": {
+            "state": "#unknown"
+          },
+          "monumentNo": {
+            "state": "#unknown"
+          }
+        },
+        "3.3neu.1": {
+          "trackPoint": 1,
+          "trackSubpt": "",
+          "quarter": "",
+          "predecessor": "3.3neu.0",
+          "successor": "3.3neu.2",
+          "inactive": true,
+          "title": "St. Vitalis | Pfarrhaus",
+          "description": {
+            "state": "#unknown",
+            "value": ""
+          },
+          "mapPosition": {
+            "state": "#unknown",
+            "value": []
+          },
+          "buildings": {
+            "state": "#unknown"
+          },
+          "info": {
+            "state": "#unknown"
+          },
+          "notes": "",
+          "wiki": {
+            "state": "#unknown"
+          },
+          "monumentNo": {
+            "state": "#unknown"
+          }
+        },
+        "3.3neu.2": {
+          "trackPoint": 2,
+          "trackSubpt": "",
+          "quarter": "",
+          "predecessor": "3.3neu.1",
+          "successor": "3.3neu.3",
+          "inactive": true,
+          "title": "Kirchenhof",
+          "description": {
+            "state": "#unknown",
+            "value": ""
+          },
+          "mapPosition": {
+            "state": "#unknown",
+            "value": []
+          },
+          "buildings": {
+            "state": "#unknown"
+          },
+          "info": {
+            "state": "#unknown"
+          },
+          "notes": "",
+          "wiki": {
+            "state": "#unknown"
+          },
+          "monumentNo": {
+            "state": "#unknown"
+          }
+        },
+        "3.3neu.3": {
+          "trackPoint": 3,
+          "trackSubpt": "",
+          "quarter": "",
+          "predecessor": "3.3neu.2",
+          "successor": "3.3neu.4",
+          "inactive": true,
+          "title": "Haus Fenger-Schöngen",
+          "description": {
+            "state": "#unknown",
+            "value": ""
+          },
+          "mapPosition": {
+            "state": "#unknown",
+            "value": []
+          },
+          "buildings": {
+            "state": "#unknown"
+          },
+          "info": {
+            "state": "#unknown"
+          },
+          "notes": "",
+          "wiki": {
+            "state": "#unknown"
+          },
+          "monumentNo": {
+            "state": "#unknown"
+          }
+        },
+        "3.3neu.4": {
+          "trackPoint": 4,
+          "trackSubpt": "",
+          "quarter": "",
+          "predecessor": "3.3neu.3",
+          "successor": "3.3neu.5",
+          "inactive": true,
+          "title": "Marienhof",
+          "description": {
+            "state": "#unknown",
+            "value": ""
+          },
+          "mapPosition": {
+            "state": "#unknown",
+            "value": []
+          },
+          "buildings": {
+            "state": "#unknown"
+          },
+          "info": {
+            "state": "#unknown"
+          },
+          "notes": "",
+          "wiki": {
+            "state": "#unknown"
+          },
+          "monumentNo": {
+            "state": "#unknown"
+          }
+        },
+        "3.3neu.5": {
+          "trackPoint": 5,
+          "trackSubpt": "",
+          "quarter": "",
+          "predecessor": "3.3neu.4",
+          "successor": "3.3neu.6",
+          "inactive": true,
+          "title": "Stadtvillen (Belvederestraße 20, 22, 24)",
+          "description": {
+            "state": "#unknown",
+            "value": ""
+          },
+          "mapPosition": {
+            "state": "#unknown",
+            "value": []
+          },
+          "buildings": {
+            "state": "#unknown"
+          },
+          "info": {
+            "state": "#unknown"
+          },
+          "notes": "",
+          "wiki": {
+            "state": "#unknown"
+          },
+          "monumentNo": {
+            "state": "#unknown"
+          }
+        },
+        "3.3neu.6": {
+          "trackPoint": 6,
+          "trackSubpt": "",
+          "quarter": "",
+          "predecessor": "3.3neu.5",
+          "successor": "3.3neu.7",
+          "inactive": true,
+          "title": "Petershof (Belvederestraße 17)",
+          "description": {
+            "state": "#unknown",
+            "value": ""
+          },
+          "mapPosition": {
+            "state": "#unknown",
+            "value": []
+          },
+          "buildings": {
+            "state": "#unknown"
+          },
+          "info": {
+            "state": "#unknown"
+          },
+          "notes": "",
+          "wiki": {
+            "state": "#unknown"
+          },
+          "monumentNo": {
+            "state": "#unknown"
+          }
+        },
+        "3.3neu.7": {
+          "trackPoint": 7,
+          "trackSubpt": "",
+          "quarter": "",
+          "predecessor": "3.3neu.6",
+          "successor": "3.3neu.8",
+          "inactive": true,
+          "title": "Haus Josef Haubrich",
+          "description": {
+            "state": "#unknown",
+            "value": ""
+          },
+          "mapPosition": {
+            "state": "#unknown",
+            "value": []
+          },
+          "buildings": {
+            "state": "#unknown"
+          },
+          "info": {
+            "state": "#unknown"
+          },
+          "notes": "",
+          "wiki": {
+            "state": "#unknown"
+          },
+          "monumentNo": {
+            "state": "#unknown"
+          }
+        },
+        "3.3neu.8": {
+          "trackPoint": 8,
+          "trackSubpt": "",
+          "quarter": "",
+          "predecessor": "3.3neu.7",
+          "successor": "3.3neu.9",
+          "inactive": true,
+          "title": "Pesche Hüsje",
+          "description": {
+            "state": "#unknown",
+            "value": ""
+          },
+          "mapPosition": {
+            "state": "#unknown",
+            "value": []
+          },
+          "buildings": {
+            "state": "#unknown"
+          },
+          "info": {
+            "state": "#unknown"
+          },
+          "notes": "",
+          "wiki": {
+            "state": "#unknown"
+          },
+          "monumentNo": {
+            "state": "#unknown"
+          }
+        },
+        "3.3neu.9": {
+          "trackPoint": 9,
+          "trackSubpt": "",
+          "quarter": "",
+          "predecessor": "3.3neu.8",
+          "successor": "3.3neu.10",
+          "inactive": true,
+          "title": "Haus und Büro O.M. Ungers",
+          "description": {
+            "state": "#unknown",
+            "value": ""
+          },
+          "mapPosition": {
+            "state": "#unknown",
+            "value": []
+          },
+          "buildings": {
+            "state": "#unknown"
+          },
+          "info": {
+            "state": "#unknown"
+          },
+          "notes": "",
+          "wiki": {
+            "state": "#unknown"
+          },
+          "monumentNo": {
+            "state": "#unknown"
+          }
+        },
+        "3.3neu.10": {
+          "trackPoint": 10,
+          "trackSubpt": "",
+          "quarter": "",
+          "predecessor": "3.3neu.9",
+          "successor": "3.3neu.11",
+          "inactive": true,
+          "title": "Das Haus ohne Eigenschaften",
+          "description": {
+            "state": "#unknown",
+            "value": ""
+          },
+          "mapPosition": {
+            "state": "#unknown",
+            "value": []
+          },
+          "buildings": {
+            "state": "#unknown"
+          },
+          "info": {
+            "state": "#unknown"
+          },
+          "notes": "",
+          "wiki": {
+            "state": "#unknown"
+          },
+          "monumentNo": {
+            "state": "#unknown"
+          }
+        },
+        "3.3neu.11": {
+          "trackPoint": 11,
+          "trackSubpt": "",
+          "quarter": "",
+          "predecessor": "3.3neu.10",
+          "successor": "3.3neu.12",
+          "inactive": true,
+          "title": "Haus Hildegard Domizlaff",
+          "description": {
+            "state": "#unknown",
+            "value": ""
+          },
+          "mapPosition": {
+            "state": "#unknown",
+            "value": []
+          },
+          "buildings": {
+            "state": "#unknown"
+          },
+          "info": {
+            "state": "#unknown"
+          },
+          "notes": "",
+          "wiki": {
+            "state": "#unknown"
+          },
+          "monumentNo": {
+            "state": "#unknown"
+          }
+        },
+        "3.3neu.12": {
+          "trackPoint": 12,
+          "trackSubpt": "",
+          "quarter": "",
+          "predecessor": "3.3neu.11",
+          "successor": "3.3neu.13",
+          "inactive": true,
+          "title": "Bahnhof Belvedere (Belvederestraße 147)",
+          "description": {
+            "state": "#unknown",
+            "value": ""
+          },
+          "mapPosition": {
+            "state": "#unknown",
+            "value": []
+          },
+          "buildings": {
+            "state": "#unknown"
+          },
+          "info": {
+            "state": "#unknown"
+          },
+          "notes": "",
+          "wiki": {
+            "state": "#unknown"
+          },
+          "monumentNo": {
+            "state": "#unknown"
+          }
+        },
+        "3.3neu.13": {
+          "trackPoint": 13,
+          "trackSubpt": "",
+          "quarter": "",
+          "predecessor": "3.3neu.12",
+          "successor": "3.3neu.14",
+          "inactive": true,
+          "title": "Haus Gerhard Marcks",
+          "description": {
+            "state": "#unknown",
+            "value": ""
+          },
+          "mapPosition": {
+            "state": "#unknown",
+            "value": []
+          },
+          "buildings": {
+            "state": "#unknown"
+          },
+          "info": {
+            "state": "#unknown"
+          },
+          "notes": "",
+          "wiki": {
+            "state": "#unknown"
+          },
+          "monumentNo": {
+            "state": "#unknown"
+          }
+        },
+        "3.3neu.14": {
+          "trackPoint": 14,
+          "trackSubpt": "",
+          "quarter": "",
+          "predecessor": "3.3neu.13",
+          "successor": "3.3neu.15",
+          "inactive": true,
+          "title": "Freiluga | Zwischenwerk Va",
+          "description": {
+            "state": "#unknown",
+            "value": ""
+          },
+          "mapPosition": {
+            "state": "#unknown",
+            "value": []
+          },
+          "buildings": {
+            "state": "#unknown"
+          },
+          "info": {
+            "state": "#unknown"
+          },
+          "notes": "",
+          "wiki": {
+            "state": "#unknown"
+          },
+          "monumentNo": {
+            "state": "#unknown"
+          }
+        },
+        "3.3neu.15": {
+          "trackPoint": 15,
+          "trackSubpt": "",
+          "quarter": "",
+          "predecessor": "3.3neu.14",
+          "successor": "3.3neu.16",
+          "inactive": true,
+          "title": "Schule",
+          "description": {
+            "state": "#unknown",
+            "value": ""
+          },
+          "mapPosition": {
+            "state": "#unknown",
+            "value": []
+          },
+          "buildings": {
+            "state": "#unknown"
+          },
+          "info": {
+            "state": "#unknown"
+          },
+          "notes": "",
+          "wiki": {
+            "state": "#unknown"
+          },
+          "monumentNo": {
+            "state": "#unknown"
+          }
+        },
+        "3.3neu.16": {
+          "trackPoint": 16,
+          "trackSubpt": "",
+          "quarter": "",
+          "predecessor": "3.3neu.15",
+          "successor": "3.3neu.17",
+          "inactive": true,
+          "title": "Hof Im St. Wendelin",
+          "description": {
+            "state": "#unknown",
+            "value": ""
+          },
+          "mapPosition": {
+            "state": "#unknown",
+            "value": []
+          },
+          "buildings": {
+            "state": "#unknown"
+          },
+          "info": {
+            "state": "#unknown"
+          },
+          "notes": "",
+          "wiki": {
+            "state": "#unknown"
+          },
+          "monumentNo": {
+            "state": "#unknown"
+          }
+        },
+        "3.3neu.17": {
+          "trackPoint": 17,
+          "trackSubpt": "",
+          "quarter": "",
+          "predecessor": "3.3neu.16",
+          "successor": "3.3neu.18",
+          "inactive": true,
+          "title": "Hermannshof | Hofgut Hartzheim",
+          "description": {
+            "state": "#unknown",
+            "value": ""
+          },
+          "mapPosition": {
+            "state": "#unknown",
+            "value": []
+          },
+          "buildings": {
+            "state": "#unknown"
+          },
+          "info": {
+            "state": "#unknown"
+          },
+          "notes": "",
+          "wiki": {
+            "state": "#unknown"
+          },
+          "monumentNo": {
+            "state": "#unknown"
+          }
+        },
+        "3.3neu.18": {
+          "trackPoint": 18,
+          "trackSubpt": "",
+          "quarter": "",
+          "predecessor": "3.3neu.17",
+          "successor": "",
+          "inactive": true,
+          "title": "Gashäuser",
+          "description": {
+            "state": "#unknown",
+            "value": ""
+          },
+          "mapPosition": {
+            "state": "#unknown",
+            "value": []
+          },
+          "buildings": {
+            "state": "#unknown"
+          },
+          "info": {
+            "state": "#unknown"
+          },
+          "notes": "",
+          "wiki": {
+            "state": "#unknown"
+          },
+          "monumentNo": {
+            "state": "#unknown"
+          }
+        }
+      }
+    },
+    "3.4": {
+      "boroughNo": 3,
+      "borough": "Lindenthal",
+      "trackNo": 4,
+      "color": "",
+      "inactive": true,
+      "points": {}
+    },
+    "3.5": {
+      "boroughNo": 3,
+      "borough": "Lindenthal",
+      "trackNo": 5,
+      "color": "",
+      "inactive": true,
+      "points": {
+        "3.5.0": {
+          "trackPoint": 0,
+          "trackSubpt": "",
+          "quarter": "",
+          "predecessor": "",
+          "successor": "3.5.1",
+          "inactive": true,
+          "title": "",
+          "description": {
+            "state": "#unknown",
+            "value": ""
+          },
+          "mapPosition": {
+            "state": "#unknown",
+            "value": []
+          },
+          "buildings": {
+            "state": "#unknown"
+          },
+          "info": {
+            "state": "#unknown"
+          },
+          "notes": "",
+          "wiki": {
+            "state": "#unknown"
+          },
+          "monumentNo": {
+            "state": "#unknown"
+          }
+        },
+        "3.5.1": {
+          "trackPoint": 1,
+          "trackSubpt": "",
+          "quarter": "",
+          "predecessor": "3.5.0",
+          "successor": "3.5.2",
+          "inactive": true,
+          "title": "Aachener Weiher",
+          "description": {
+            "state": "#unknown",
+            "value": ""
+          },
+          "mapPosition": {
+            "state": "#unknown",
+            "value": []
+          },
+          "buildings": {
+            "state": "#unknown"
+          },
+          "info": {
+            "state": "#unknown"
+          },
+          "notes": "",
+          "wiki": {
+            "state": "#unknown"
+          },
+          "monumentNo": {
+            "state": "#unknown"
+          }
+        },
+        "3.5.2": {
+          "trackPoint": 2,
+          "trackSubpt": "",
+          "quarter": "",
+          "predecessor": "3.5.1",
+          "successor": "3.5.3",
+          "inactive": true,
+          "title": "Kanalanlage Lindenthal",
+          "description": {
+            "state": "#unknown",
+            "value": ""
+          },
+          "mapPosition": {
+            "state": "#unknown",
+            "value": []
+          },
+          "buildings": {
+            "state": "#unknown"
+          },
+          "info": {
+            "state": "#unknown"
+          },
+          "notes": "",
+          "wiki": {
+            "state": "#unknown"
+          },
+          "monumentNo": {
+            "state": "#unknown"
+          }
+        },
+        "3.5.3": {
+          "trackPoint": 3,
+          "trackSubpt": "",
+          "quarter": "",
+          "predecessor": "3.5.2",
+          "successor": "3.5.4",
+          "inactive": true,
+          "title": "Friedhof Melaten",
+          "description": {
+            "state": "#unknown",
+            "value": ""
+          },
+          "mapPosition": {
+            "state": "#unknown",
+            "value": []
+          },
+          "buildings": {
+            "state": "#unknown"
+          },
+          "info": {
+            "state": "#unknown"
+          },
+          "notes": "",
+          "wiki": {
+            "state": "#unknown"
+          },
+          "monumentNo": {
+            "state": "#unknown"
+          }
+        },
+        "3.5.4": {
+          "trackPoint": 4,
+          "trackSubpt": "",
+          "quarter": "",
+          "predecessor": "3.5.3",
+          "successor": "3.5.5",
+          "inactive": true,
+          "title": "Christi Auferstehung",
+          "description": {
+            "state": "#unknown",
+            "value": ""
+          },
+          "mapPosition": {
+            "state": "#unknown",
+            "value": []
+          },
+          "buildings": {
+            "state": "#unknown"
+          },
+          "info": {
+            "state": "#unknown"
+          },
+          "notes": "",
+          "wiki": {
+            "state": "#unknown"
+          },
+          "monumentNo": {
+            "state": "#unknown"
+          }
+        },
+        "3.5.5": {
+          "trackPoint": 5,
+          "trackSubpt": "",
+          "quarter": "",
+          "predecessor": "3.5.4",
+          "successor": "3.5.6",
+          "inactive": true,
+          "title": "Karl-Schwering-Platz",
+          "description": {
+            "state": "#unknown",
+            "value": ""
+          },
+          "mapPosition": {
+            "state": "#unknown",
+            "value": []
+          },
+          "buildings": {
+            "state": "#unknown"
+          },
+          "info": {
+            "state": "#unknown"
+          },
+          "notes": "",
+          "wiki": {
+            "state": "#unknown"
+          },
+          "monumentNo": {
+            "state": "#unknown"
+          }
+        },
+        "3.5.6": {
+          "trackPoint": 6,
+          "trackSubpt": "",
+          "quarter": "",
+          "predecessor": "3.5.5",
+          "successor": "3.5.7",
+          "inactive": true,
+          "title": "St.Stephan",
+          "description": {
+            "state": "#unknown",
+            "value": ""
+          },
+          "mapPosition": {
+            "state": "#unknown",
+            "value": []
+          },
+          "buildings": {
+            "state": "#unknown"
+          },
+          "info": {
+            "state": "#unknown"
+          },
+          "notes": "",
+          "wiki": {
+            "state": "#unknown"
+          },
+          "monumentNo": {
+            "state": "#unknown"
+          }
+        },
+        "3.5.7": {
+          "trackPoint": 7,
+          "trackSubpt": "",
+          "quarter": "",
+          "predecessor": "3.5.6",
+          "successor": "3.5.8",
+          "inactive": true,
+          "title": "Villenbebauung Lindenthal (Theresienstraße)",
+          "description": {
+            "state": "#unknown",
+            "value": ""
+          },
+          "mapPosition": {
+            "state": "#unknown",
+            "value": []
+          },
+          "buildings": {
+            "state": "#unknown"
+          },
+          "info": {
+            "state": "#unknown"
+          },
+          "notes": "",
+          "wiki": {
+            "state": "#unknown"
+          },
+          "monumentNo": {
+            "state": "#unknown"
+          }
+        },
+        "3.5.8": {
+          "trackPoint": 8,
+          "trackSubpt": "",
+          "quarter": "",
+          "predecessor": "3.5.7",
+          "successor": "3.5.9",
+          "inactive": true,
+          "title": "Feuerwache (Gleueler Straße)",
+          "description": {
+            "state": "#unknown",
+            "value": ""
+          },
+          "mapPosition": {
+            "state": "#unknown",
+            "value": []
+          },
+          "buildings": {
+            "state": "#unknown"
+          },
+          "info": {
+            "state": "#unknown"
+          },
+          "notes": "",
+          "wiki": {
+            "state": "#unknown"
+          },
+          "monumentNo": {
+            "state": "#unknown"
+          }
+        },
+        "3.5.9": {
+          "trackPoint": 9,
+          "trackSubpt": "",
+          "quarter": "",
+          "predecessor": "3.5.8",
+          "successor": "",
+          "inactive": true,
+          "title": "Krieler Dom und Schule",
+          "description": {
+            "state": "#unknown",
+            "value": ""
+          },
+          "mapPosition": {
+            "state": "#unknown",
+            "value": []
+          },
+          "buildings": {
+            "state": "#unknown"
+          },
+          "info": {
+            "state": "#unknown"
+          },
+          "notes": "",
+          "wiki": {
+            "state": "#unknown"
+          },
+          "monumentNo": {
+            "state": "#unknown"
+          }
+        }
+      }
+    },
+    "3.6": {
+      "boroughNo": 3,
+      "borough": "Lindenthal",
+      "trackNo": 6,
+      "color": "",
+      "inactive": true,
+      "points": {
+        "3.6.0": {
+          "trackPoint": 0,
+          "trackSubpt": "",
+          "quarter": "",
+          "predecessor": "",
+          "successor": "3.6.1",
+          "inactive": true,
+          "title": "",
+          "description": {
+            "state": "#unknown",
+            "value": ""
+          },
+          "mapPosition": {
+            "state": "#unknown",
+            "value": []
+          },
+          "buildings": {
+            "state": "#unknown"
+          },
+          "info": {
+            "state": "#unknown"
+          },
+          "notes": "",
+          "wiki": {
+            "state": "#unknown"
+          },
+          "monumentNo": {
+            "state": "#unknown"
+          }
+        },
+        "3.6.1": {
+          "trackPoint": 1,
+          "trackSubpt": "",
+          "quarter": "",
+          "predecessor": "3.6.0",
+          "successor": "3.6.2",
+          "inactive": true,
+          "title": "Pauliplatz",
+          "description": {
+            "state": "#unknown",
+            "value": ""
+          },
+          "mapPosition": {
+            "state": "#unknown",
+            "value": []
+          },
+          "buildings": {
+            "state": "#unknown"
+          },
+          "info": {
+            "state": "#unknown"
+          },
+          "notes": "",
+          "wiki": {
+            "state": "#unknown"
+          },
+          "monumentNo": {
+            "state": "#unknown"
+          }
+        },
+        "3.6.2": {
+          "trackPoint": 2,
+          "trackSubpt": "",
+          "quarter": "",
+          "predecessor": "3.6.1",
+          "successor": "3.6.3",
+          "inactive": true,
+          "title": "St. Joseph",
+          "description": {
+            "state": "#unknown",
+            "value": ""
+          },
+          "mapPosition": {
+            "state": "#unknown",
+            "value": []
+          },
+          "buildings": {
+            "state": "#unknown"
+          },
+          "info": {
+            "state": "#unknown"
+          },
+          "notes": "",
+          "wiki": {
+            "state": "#unknown"
+          },
+          "monumentNo": {
+            "state": "#unknown"
+          }
+        },
+        "3.6.3": {
+          "trackPoint": 3,
+          "trackSubpt": "",
+          "quarter": "",
+          "predecessor": "3.6.2",
+          "successor": "3.6.4",
+          "inactive": true,
+          "title": "Am Morsdorfer Hof (Villenbebauung)",
+          "description": {
+            "state": "#unknown",
+            "value": ""
+          },
+          "mapPosition": {
+            "state": "#unknown",
+            "value": []
+          },
+          "buildings": {
+            "state": "#unknown"
+          },
+          "info": {
+            "state": "#unknown"
+          },
+          "notes": "",
+          "wiki": {
+            "state": "#unknown"
+          },
+          "monumentNo": {
+            "state": "#unknown"
+          }
+        },
+        "3.6.4": {
+          "trackPoint": 4,
+          "trackSubpt": "",
+          "quarter": "",
+          "predecessor": "3.6.3",
+          "successor": "3.6.5",
+          "inactive": true,
+          "title": "Stadtwald",
+          "description": {
+            "state": "#unknown",
+            "value": ""
+          },
+          "mapPosition": {
+            "state": "#unknown",
+            "value": []
+          },
+          "buildings": {
+            "state": "#unknown"
+          },
+          "info": {
+            "state": "#unknown"
+          },
+          "notes": "",
+          "wiki": {
+            "state": "#unknown"
+          },
+          "monumentNo": {
+            "state": "#unknown"
+          }
+        },
+        "3.6.5": {
+          "trackPoint": 5,
+          "trackSubpt": "",
+          "quarter": "",
+          "predecessor": "3.6.4",
+          "successor": "3.6.6",
+          "inactive": true,
+          "title": "Heiligenhäuschen (Dürener Straße / Dorfstraße)",
+          "description": {
+            "state": "#unknown",
+            "value": ""
+          },
+          "mapPosition": {
+            "state": "#unknown",
+            "value": []
+          },
+          "buildings": {
+            "state": "#unknown"
+          },
+          "info": {
+            "state": "#unknown"
+          },
+          "notes": "",
+          "wiki": {
+            "state": "#unknown"
+          },
+          "monumentNo": {
+            "state": "#unknown"
+          }
+        },
+        "3.6.6": {
+          "trackPoint": 6,
+          "trackSubpt": "",
+          "quarter": "",
+          "predecessor": "3.6.5",
+          "successor": "3.6.7",
+          "inactive": true,
+          "title": "St.-Elisabeth-Krankenhaus und -Kirche",
+          "description": {
+            "state": "#unknown",
+            "value": ""
+          },
+          "mapPosition": {
+            "state": "#unknown",
+            "value": []
+          },
+          "buildings": {
+            "state": "#unknown"
+          },
+          "info": {
+            "state": "#unknown"
+          },
+          "notes": "",
+          "wiki": {
+            "state": "#unknown"
+          },
+          "monumentNo": {
+            "state": "#unknown"
+          }
+        },
+        "3.6.7": {
+          "trackPoint": 7,
+          "trackSubpt": "",
+          "quarter": "",
+          "predecessor": "3.6.6",
+          "successor": "3.6.8",
+          "inactive": true,
+          "title": "Wohnhäuser von Konrad Adenauer",
+          "description": {
+            "state": "#unknown",
+            "value": ""
+          },
+          "mapPosition": {
+            "state": "#unknown",
+            "value": []
+          },
+          "buildings": {
+            "state": "#unknown"
+          },
+          "info": {
+            "state": "#unknown"
+          },
+          "notes": "",
+          "wiki": {
+            "state": "#unknown"
+          },
+          "monumentNo": {
+            "state": "#unknown"
+          }
+        },
+        "3.6.8": {
+          "trackPoint": 8,
+          "trackSubpt": "",
+          "quarter": "",
+          "predecessor": "3.6.7",
+          "successor": "3.6.9",
+          "inactive": true,
+          "title": "Kitschburg",
+          "description": {
+            "state": "#unknown",
+            "value": ""
+          },
+          "mapPosition": {
+            "state": "#unknown",
+            "value": []
+          },
+          "buildings": {
+            "state": "#unknown"
+          },
+          "info": {
+            "state": "#unknown"
+          },
+          "notes": "",
+          "wiki": {
+            "state": "#unknown"
+          },
+          "monumentNo": {
+            "state": "#unknown"
+          }
+        },
+        "3.6.9": {
+          "trackPoint": 9,
+          "trackSubpt": "",
+          "quarter": "",
+          "predecessor": "3.6.8",
+          "successor": "",
+          "inactive": true,
+          "title": "Villa Meirowsky",
+          "description": {
+            "state": "#unknown",
+            "value": ""
+          },
+          "mapPosition": {
+            "state": "#unknown",
+            "value": []
+          },
+          "buildings": {
+            "state": "#unknown"
+          },
+          "info": {
+            "state": "#unknown"
+          },
+          "notes": "",
+          "wiki": {
+            "state": "#unknown"
+          },
+          "monumentNo": {
+            "state": "#unknown"
+          }
+        }
+      }
+    },
+    "7.1": {
+      "boroughNo": 7,
+      "borough": "Porz",
+      "trackNo": 1,
+      "color": "",
+      "inactive": true,
+      "points": {
+        "7.1.0": {
+          "trackPoint": 0,
+          "trackSubpt": "",
+          "quarter": "",
+          "predecessor": "",
+          "successor": "7.1.1",
+          "inactive": true,
+          "title": "",
+          "description": {
+            "state": "#unknown",
+            "value": ""
+          },
+          "mapPosition": {
+            "state": "#unknown",
+            "value": []
+          },
+          "buildings": {
+            "state": "#unknown"
+          },
+          "info": {
+            "state": "#unknown"
+          },
+          "notes": "",
+          "wiki": {
+            "state": "#unknown"
+          },
+          "monumentNo": {
+            "state": "#unknown"
+          }
+        },
+        "7.1.1": {
+          "trackPoint": 1,
+          "trackSubpt": "",
+          "quarter": "",
+          "predecessor": "7.1.0",
+          "successor": "7.1.2",
+          "inactive": true,
+          "title": "Urbanuskreuz",
+          "description": {
+            "state": "#unknown",
+            "value": ""
+          },
+          "mapPosition": {
+            "state": "#unknown",
+            "value": []
+          },
+          "buildings": {
+            "state": "#unknown"
+          },
+          "info": {
+            "state": "#unknown"
+          },
+          "notes": "",
+          "wiki": {
+            "state": "#unknown"
+          },
+          "monumentNo": {
+            "state": "#unknown"
+          }
+        },
+        "7.1.2": {
+          "trackPoint": 2,
+          "trackSubpt": "",
+          "quarter": "",
+          "predecessor": "7.1.1",
+          "successor": "7.1.3",
+          "inactive": true,
+          "title": "Stompeler Kreuz",
+          "description": {
+            "state": "#unknown",
+            "value": ""
+          },
+          "mapPosition": {
+            "state": "#unknown",
+            "value": []
+          },
+          "buildings": {
+            "state": "#unknown"
+          },
+          "info": {
+            "state": "#unknown"
+          },
+          "notes": "",
+          "wiki": {
+            "state": "#unknown"
+          },
+          "monumentNo": {
+            "state": "#unknown"
+          }
+        },
+        "7.1.3": {
+          "trackPoint": 3,
+          "trackSubpt": "",
+          "quarter": "",
+          "predecessor": "7.1.2",
+          "successor": "7.1.4",
+          "inactive": true,
+          "title": "Bröhls Kreuz",
+          "description": {
+            "state": "#unknown",
+            "value": ""
+          },
+          "mapPosition": {
+            "state": "#unknown",
+            "value": []
+          },
+          "buildings": {
+            "state": "#unknown"
+          },
+          "info": {
+            "state": "#unknown"
+          },
+          "notes": "",
+          "wiki": {
+            "state": "#unknown"
+          },
+          "monumentNo": {
+            "state": "#unknown"
+          }
+        },
+        "7.1.4": {
+          "trackPoint": 4,
+          "trackSubpt": "",
+          "quarter": "",
+          "predecessor": "7.1.3",
+          "successor": "7.1.5",
+          "inactive": true,
+          "title": "Hölser Kreuz",
+          "description": {
+            "state": "#unknown",
+            "value": ""
+          },
+          "mapPosition": {
+            "state": "#unknown",
+            "value": []
+          },
+          "buildings": {
+            "state": "#unknown"
+          },
+          "info": {
+            "state": "#unknown"
+          },
+          "notes": "",
+          "wiki": {
+            "state": "#unknown"
+          },
+          "monumentNo": {
+            "state": "#unknown"
+          }
+        },
+        "7.1.5": {
+          "trackPoint": 5,
+          "trackSubpt": "",
+          "quarter": "",
+          "predecessor": "7.1.4",
+          "successor": "7.1.6",
+          "inactive": true,
+          "title": "Pastor-Huthmacher-Straße",
+          "description": {
+            "state": "#unknown",
+            "value": ""
+          },
+          "mapPosition": {
+            "state": "#unknown",
+            "value": []
+          },
+          "buildings": {
+            "state": "#unknown"
+          },
+          "info": {
+            "state": "#unknown"
+          },
+          "notes": "",
+          "wiki": {
+            "state": "#unknown"
+          },
+          "monumentNo": {
+            "state": "#unknown"
+          }
+        },
+        "7.1.6": {
+          "trackPoint": 6,
+          "trackSubpt": "",
+          "quarter": "",
+          "predecessor": "7.1.5",
+          "successor": "7.1.7",
+          "inactive": true,
+          "title": "St. Margareta",
+          "description": {
+            "state": "#unknown",
+            "value": ""
+          },
+          "mapPosition": {
+            "state": "#unknown",
+            "value": []
+          },
+          "buildings": {
+            "state": "#unknown"
+          },
+          "info": {
+            "state": "#unknown"
+          },
+          "notes": "",
+          "wiki": {
+            "state": "#unknown"
+          },
+          "monumentNo": {
+            "state": "#unknown"
+          }
+        },
+        "7.1.7": {
+          "trackPoint": 7,
+          "trackSubpt": "",
+          "quarter": "",
+          "predecessor": "7.1.6",
+          "successor": "7.1.8",
+          "inactive": true,
+          "title": "Margaretenkreuz",
+          "description": {
+            "state": "#unknown",
+            "value": ""
+          },
+          "mapPosition": {
+            "state": "#unknown",
+            "value": []
+          },
+          "buildings": {
+            "state": "#unknown"
+          },
+          "info": {
+            "state": "#unknown"
+          },
+          "notes": "",
+          "wiki": {
+            "state": "#unknown"
+          },
+          "monumentNo": {
+            "state": "#unknown"
+          }
+        },
+        "7.1.8": {
+          "trackPoint": 8,
+          "trackSubpt": "",
+          "quarter": "",
+          "predecessor": "7.1.7",
+          "successor": "7.1.9",
+          "inactive": true,
+          "title": "Ensemble Kuxgasse 2, 8, 10",
+          "description": {
+            "state": "#unknown",
+            "value": ""
+          },
+          "mapPosition": {
+            "state": "#unknown",
+            "value": []
+          },
+          "buildings": {
+            "state": "#unknown"
+          },
+          "info": {
+            "state": "#unknown"
+          },
+          "notes": "",
+          "wiki": {
+            "state": "#unknown"
+          },
+          "monumentNo": {
+            "state": "#unknown"
+          }
+        },
+        "7.1.9": {
+          "trackPoint": 9,
+          "trackSubpt": "",
+          "quarter": "",
+          "predecessor": "7.1.8",
+          "successor": "7.1.10",
+          "inactive": true,
+          "title": "Margaretenstraße",
+          "description": {
+            "state": "#unknown",
+            "value": ""
+          },
+          "mapPosition": {
+            "state": "#unknown",
+            "value": []
+          },
+          "buildings": {
+            "state": "#unknown"
+          },
+          "info": {
+            "state": "#unknown"
+          },
+          "notes": "",
+          "wiki": {
+            "state": "#unknown"
+          },
+          "monumentNo": {
+            "state": "#unknown"
+          }
+        },
+        "7.1.10": {
+          "trackPoint": 10,
+          "trackSubpt": "",
+          "quarter": "",
+          "predecessor": "7.1.9",
+          "successor": "7.1.11",
+          "inactive": true,
+          "title": "Wegkreuz und Hofanlage",
+          "description": {
+            "state": "#unknown",
+            "value": ""
+          },
+          "mapPosition": {
+            "state": "#unknown",
+            "value": []
+          },
+          "buildings": {
+            "state": "#unknown"
+          },
+          "info": {
+            "state": "#unknown"
+          },
+          "notes": "",
+          "wiki": {
+            "state": "#unknown"
+          },
+          "monumentNo": {
+            "state": "#unknown"
+          }
+        },
+        "7.1.11": {
+          "trackPoint": 11,
+          "trackSubpt": "",
+          "quarter": "",
+          "predecessor": "7.1.10",
+          "successor": "7.1.12",
+          "inactive": true,
+          "title": "",
+          "description": {
+            "state": "#unknown",
+            "value": ""
+          },
+          "mapPosition": {
+            "state": "#unknown",
+            "value": []
+          },
+          "buildings": {
+            "state": "#unknown"
+          },
+          "info": {
+            "state": "#unknown"
+          },
+          "notes": "",
+          "wiki": {
+            "state": "#unknown"
+          },
+          "monumentNo": {
+            "state": "#unknown"
+          }
+        },
+        "7.1.12": {
+          "trackPoint": 12,
+          "trackSubpt": "",
+          "quarter": "",
+          "predecessor": "7.1.11",
+          "successor": "7.1.13",
+          "inactive": true,
+          "title": "",
+          "description": {
+            "state": "#unknown",
+            "value": ""
+          },
+          "mapPosition": {
+            "state": "#unknown",
+            "value": []
+          },
+          "buildings": {
+            "state": "#unknown"
+          },
+          "info": {
+            "state": "#unknown"
+          },
+          "notes": "",
+          "wiki": {
+            "state": "#unknown"
+          },
+          "monumentNo": {
+            "state": "#unknown"
+          }
+        },
+        "7.1.13": {
+          "trackPoint": 13,
+          "trackSubpt": "",
+          "quarter": "",
+          "predecessor": "7.1.12",
+          "successor": "7.1.14",
+          "inactive": true,
+          "title": "",
+          "description": {
+            "state": "#unknown",
+            "value": ""
+          },
+          "mapPosition": {
+            "state": "#unknown",
+            "value": []
+          },
+          "buildings": {
+            "state": "#unknown"
+          },
+          "info": {
+            "state": "#unknown"
+          },
+          "notes": "",
+          "wiki": {
+            "state": "#unknown"
+          },
+          "monumentNo": {
+            "state": "#unknown"
+          }
+        },
+        "7.1.14": {
+          "trackPoint": 14,
+          "trackSubpt": "",
+          "quarter": "",
+          "predecessor": "7.1.13",
+          "successor": "7.1.15",
+          "inactive": true,
+          "title": "",
+          "description": {
+            "state": "#unknown",
+            "value": ""
+          },
+          "mapPosition": {
+            "state": "#unknown",
+            "value": []
+          },
+          "buildings": {
+            "state": "#unknown"
+          },
+          "info": {
+            "state": "#unknown"
+          },
+          "notes": "",
+          "wiki": {
+            "state": "#unknown"
+          },
+          "monumentNo": {
+            "state": "#unknown"
+          }
+        },
+        "7.1.15": {
+          "trackPoint": 15,
+          "trackSubpt": "",
+          "quarter": "",
+          "predecessor": "7.1.14",
+          "successor": "7.1.16",
+          "inactive": true,
+          "title": "",
+          "description": {
+            "state": "#unknown",
+            "value": ""
+          },
+          "mapPosition": {
+            "state": "#unknown",
+            "value": []
+          },
+          "buildings": {
+            "state": "#unknown"
+          },
+          "info": {
+            "state": "#unknown"
+          },
+          "notes": "",
+          "wiki": {
+            "state": "#unknown"
+          },
+          "monumentNo": {
+            "state": "#unknown"
+          }
+        },
+        "7.1.16": {
+          "trackPoint": 16,
+          "trackSubpt": "",
+          "quarter": "",
+          "predecessor": "7.1.15",
+          "successor": "7.1.17",
+          "inactive": true,
+          "title": "",
+          "description": {
+            "state": "#unknown",
+            "value": ""
+          },
+          "mapPosition": {
+            "state": "#unknown",
+            "value": []
+          },
+          "buildings": {
+            "state": "#unknown"
+          },
+          "info": {
+            "state": "#unknown"
+          },
+          "notes": "",
+          "wiki": {
+            "state": "#unknown"
+          },
+          "monumentNo": {
+            "state": "#unknown"
+          }
+        },
+        "7.1.17": {
+          "trackPoint": 17,
+          "trackSubpt": "",
+          "quarter": "",
+          "predecessor": "7.1.16",
+          "successor": "7.1.18",
+          "inactive": true,
+          "title": "",
+          "description": {
+            "state": "#unknown",
+            "value": ""
+          },
+          "mapPosition": {
+            "state": "#unknown",
+            "value": []
+          },
+          "buildings": {
+            "state": "#unknown"
+          },
+          "info": {
+            "state": "#unknown"
+          },
+          "notes": "",
+          "wiki": {
+            "state": "#unknown"
+          },
+          "monumentNo": {
+            "state": "#unknown"
+          }
+        },
+        "7.1.18": {
+          "trackPoint": 18,
+          "trackSubpt": "",
+          "quarter": "",
+          "predecessor": "7.1.17",
+          "successor": "7.1.19",
+          "inactive": true,
+          "title": "",
+          "description": {
+            "state": "#unknown",
+            "value": ""
+          },
+          "mapPosition": {
+            "state": "#unknown",
+            "value": []
+          },
+          "buildings": {
+            "state": "#unknown"
+          },
+          "info": {
+            "state": "#unknown"
+          },
+          "notes": "",
+          "wiki": {
+            "state": "#unknown"
+          },
+          "monumentNo": {
+            "state": "#unknown"
+          }
+        },
+        "7.1.19": {
+          "trackPoint": 19,
+          "trackSubpt": "",
+          "quarter": "",
+          "predecessor": "7.1.18",
+          "successor": "7.1.20",
+          "inactive": true,
+          "title": "",
+          "description": {
+            "state": "#unknown",
+            "value": ""
+          },
+          "mapPosition": {
+            "state": "#unknown",
+            "value": []
+          },
+          "buildings": {
+            "state": "#unknown"
+          },
+          "info": {
+            "state": "#unknown"
+          },
+          "notes": "",
+          "wiki": {
+            "state": "#unknown"
+          },
+          "monumentNo": {
+            "state": "#unknown"
+          }
+        },
+        "7.1.20": {
+          "trackPoint": 20,
+          "trackSubpt": "",
+          "quarter": "",
+          "predecessor": "7.1.19",
+          "successor": "7.1.21",
+          "inactive": true,
+          "title": "",
+          "description": {
+            "state": "#unknown",
+            "value": ""
+          },
+          "mapPosition": {
+            "state": "#unknown",
+            "value": []
+          },
+          "buildings": {
+            "state": "#unknown"
+          },
+          "info": {
+            "state": "#unknown"
+          },
+          "notes": "",
+          "wiki": {
+            "state": "#unknown"
+          },
+          "monumentNo": {
+            "state": "#unknown"
+          }
+        },
+        "7.1.21": {
+          "trackPoint": 21,
+          "trackSubpt": "",
+          "quarter": "",
+          "predecessor": "7.1.20",
+          "successor": "7.1.22",
+          "inactive": true,
+          "title": "",
+          "description": {
+            "state": "#unknown",
+            "value": ""
+          },
+          "mapPosition": {
+            "state": "#unknown",
+            "value": []
+          },
+          "buildings": {
+            "state": "#unknown"
+          },
+          "info": {
+            "state": "#unknown"
+          },
+          "notes": "",
+          "wiki": {
+            "state": "#unknown"
+          },
+          "monumentNo": {
+            "state": "#unknown"
+          }
+        },
+        "7.1.22": {
+          "trackPoint": 22,
+          "trackSubpt": "",
+          "quarter": "",
+          "predecessor": "7.1.21",
+          "successor": "7.1.23",
+          "inactive": true,
+          "title": "Wohn- und Geschäftshaus Frankfurter Straße 529",
+          "description": {
+            "state": "#unknown",
+            "value": ""
+          },
+          "mapPosition": {
+            "state": "#unknown",
+            "value": []
+          },
+          "buildings": {
+            "state": "#unknown"
+          },
+          "info": {
+            "state": "#unknown"
+          },
+          "notes": "",
+          "wiki": {
+            "state": "#unknown"
+          },
+          "monumentNo": {
+            "state": "#unknown"
+          }
+        },
+        "7.1.23": {
+          "trackPoint": 23,
+          "trackSubpt": "",
+          "quarter": "",
+          "predecessor": "7.1.22",
+          "successor": "7.1.24",
+          "inactive": true,
+          "title": "Ensemble Frankfurter Straße mit Ossenbach-Mühle",
+          "description": {
+            "state": "#unknown",
+            "value": ""
+          },
+          "mapPosition": {
+            "state": "#unknown",
+            "value": []
+          },
+          "buildings": {
+            "state": "#unknown"
+          },
+          "info": {
+            "state": "#unknown"
+          },
+          "notes": "",
+          "wiki": {
+            "state": "#unknown"
+          },
+          "monumentNo": {
+            "state": "#unknown"
+          }
+        },
+        "7.1.24": {
+          "trackPoint": 24,
+          "trackSubpt": "",
+          "quarter": "",
+          "predecessor": "7.1.23",
+          "successor": "7.1.25",
+          "inactive": true,
+          "title": "Maarhof",
+          "description": {
+            "state": "#unknown",
+            "value": ""
+          },
+          "mapPosition": {
+            "state": "#unknown",
+            "value": []
+          },
+          "buildings": {
+            "state": "#unknown"
+          },
+          "info": {
+            "state": "#unknown"
+          },
+          "notes": "",
+          "wiki": {
+            "state": "#unknown"
+          },
+          "monumentNo": {
+            "state": "#unknown"
+          }
+        },
+        "7.1.25": {
+          "trackPoint": 25,
+          "trackSubpt": "",
+          "quarter": "",
+          "predecessor": "7.1.24",
+          "successor": "7.1.26",
+          "inactive": true,
+          "title": "St. Bartholomäus",
+          "description": {
+            "state": "#unknown",
+            "value": ""
+          },
+          "mapPosition": {
+            "state": "#unknown",
+            "value": []
+          },
+          "buildings": {
+            "state": "#unknown"
+          },
+          "info": {
+            "state": "#unknown"
+          },
+          "notes": "",
+          "wiki": {
+            "state": "#unknown"
+          },
+          "monumentNo": {
+            "state": "#unknown"
+          }
+        },
+        "7.1.26": {
+          "trackPoint": 26,
+          "trackSubpt": "",
+          "quarter": "",
+          "predecessor": "7.1.25",
+          "successor": "7.1.27",
+          "inactive": true,
+          "title": "",
+          "description": {
+            "state": "#unknown",
+            "value": ""
+          },
+          "mapPosition": {
+            "state": "#unknown",
+            "value": []
+          },
+          "buildings": {
+            "state": "#unknown"
+          },
+          "info": {
+            "state": "#unknown"
+          },
+          "notes": "",
+          "wiki": {
+            "state": "#unknown"
+          },
+          "monumentNo": {
+            "state": "#unknown"
+          }
+        },
+        "7.1.27": {
+          "trackPoint": 27,
+          "trackSubpt": "",
+          "quarter": "",
+          "predecessor": "7.1.26",
+          "successor": "7.1.28",
+          "inactive": true,
+          "title": "Urbacher Friedhof",
+          "description": {
+            "state": "#unknown",
+            "value": ""
+          },
+          "mapPosition": {
+            "state": "#unknown",
+            "value": []
+          },
+          "buildings": {
+            "state": "#unknown"
+          },
+          "info": {
+            "state": "#unknown"
+          },
+          "notes": "",
+          "wiki": {
+            "state": "#unknown"
+          },
+          "monumentNo": {
+            "state": "#unknown"
+          }
+        },
+        "7.1.28": {
+          "trackPoint": 28,
+          "trackSubpt": "",
+          "quarter": "",
+          "predecessor": "7.1.27",
+          "successor": "7.1.29",
+          "inactive": true,
+          "title": "",
+          "description": {
+            "state": "#unknown",
+            "value": ""
+          },
+          "mapPosition": {
+            "state": "#unknown",
+            "value": []
+          },
+          "buildings": {
+            "state": "#unknown"
+          },
+          "info": {
+            "state": "#unknown"
+          },
+          "notes": "",
+          "wiki": {
+            "state": "#unknown"
+          },
+          "monumentNo": {
+            "state": "#unknown"
+          }
+        },
+        "7.1.29": {
+          "trackPoint": 29,
+          "trackSubpt": "",
+          "quarter": "",
+          "predecessor": "7.1.28",
+          "successor": "7.1.30",
+          "inactive": true,
+          "title": "",
+          "description": {
+            "state": "#unknown",
+            "value": ""
+          },
+          "mapPosition": {
+            "state": "#unknown",
+            "value": []
+          },
+          "buildings": {
+            "state": "#unknown"
+          },
+          "info": {
+            "state": "#unknown"
+          },
+          "notes": "",
+          "wiki": {
+            "state": "#unknown"
+          },
+          "monumentNo": {
+            "state": "#unknown"
+          }
+        },
+        "7.1.30": {
+          "trackPoint": 30,
+          "trackSubpt": "",
+          "quarter": "",
+          "predecessor": "7.1.29",
+          "successor": "7.1.31",
+          "inactive": true,
+          "title": "",
+          "description": {
+            "state": "#unknown",
+            "value": ""
+          },
+          "mapPosition": {
+            "state": "#unknown",
+            "value": []
+          },
+          "buildings": {
+            "state": "#unknown"
+          },
+          "info": {
+            "state": "#unknown"
+          },
+          "notes": "",
+          "wiki": {
+            "state": "#unknown"
+          },
+          "monumentNo": {
+            "state": "#unknown"
+          }
+        },
+        "7.1.31": {
+          "trackPoint": 31,
+          "trackSubpt": "",
+          "quarter": "",
+          "predecessor": "7.1.30",
+          "successor": "7.1.32",
+          "inactive": true,
+          "title": "",
+          "description": {
+            "state": "#unknown",
+            "value": ""
+          },
+          "mapPosition": {
+            "state": "#unknown",
+            "value": []
+          },
+          "buildings": {
+            "state": "#unknown"
+          },
+          "info": {
+            "state": "#unknown"
+          },
+          "notes": "",
+          "wiki": {
+            "state": "#unknown"
+          },
+          "monumentNo": {
+            "state": "#unknown"
+          }
+        },
+        "7.1.32": {
+          "trackPoint": 32,
+          "trackSubpt": "",
+          "quarter": "",
+          "predecessor": "7.1.31",
+          "successor": "7.1.33",
+          "inactive": true,
+          "title": "",
+          "description": {
+            "state": "#unknown",
+            "value": ""
+          },
+          "mapPosition": {
+            "state": "#unknown",
+            "value": []
+          },
+          "buildings": {
+            "state": "#unknown"
+          },
+          "info": {
+            "state": "#unknown"
+          },
+          "notes": "",
+          "wiki": {
+            "state": "#unknown"
+          },
+          "monumentNo": {
+            "state": "#unknown"
+          }
+        },
+        "7.1.33": {
+          "trackPoint": 33,
+          "trackSubpt": "",
+          "quarter": "",
+          "predecessor": "7.1.32",
+          "successor": "7.1.34",
+          "inactive": true,
+          "title": "Haus Sophia",
+          "description": {
+            "state": "#unknown",
+            "value": ""
+          },
+          "mapPosition": {
+            "state": "#unknown",
+            "value": []
+          },
+          "buildings": {
+            "state": "#unknown"
+          },
+          "info": {
+            "state": "#unknown"
+          },
+          "notes": "",
+          "wiki": {
+            "state": "#unknown"
+          },
+          "monumentNo": {
+            "state": "#unknown"
+          }
+        },
+        "7.1.34": {
+          "trackPoint": 34,
+          "trackSubpt": "",
+          "quarter": "",
+          "predecessor": "7.1.33",
+          "successor": "7.1.35",
+          "inactive": true,
+          "title": "St. Aegidius",
+          "description": {
+            "state": "#unknown",
+            "value": ""
+          },
+          "mapPosition": {
+            "state": "#unknown",
+            "value": []
+          },
+          "buildings": {
+            "state": "#unknown"
+          },
+          "info": {
+            "state": "#unknown"
+          },
+          "notes": "",
+          "wiki": {
+            "state": "#unknown"
+          },
+          "monumentNo": {
+            "state": "#unknown"
+          }
+        },
+        "7.1.99": {
+          "trackPoint": 99,
+          "trackSubpt": "",
+          "quarter": "",
+          "predecessor": "7.1.34",
+          "successor": "",
+          "inactive": true,
+          "title": "...",
+          "description": {
+            "state": "#unknown",
+            "value": ""
+          },
+          "mapPosition": {
+            "state": "#unknown",
+            "value": []
+          },
+          "buildings": {
+            "state": "#unknown"
+          },
+          "info": {
+            "state": "#unknown"
+          },
+          "notes": "",
+          "wiki": {
+            "state": "#unknown"
+          },
+          "monumentNo": {
+            "state": "#unknown"
+          }
+        }
+      }
+    },
+    "7.2": {
+      "boroughNo": 7,
+      "borough": "Porz",
+      "trackNo": 2,
+      "color": "",
+      "inactive": true,
+      "points": {
+        "7.2.0": {
+          "trackPoint": 0,
+          "trackSubpt": "",
+          "quarter": "",
+          "predecessor": "",
+          "successor": "7.2.1",
+          "inactive": true,
+          "title": "",
+          "description": {
+            "state": "#unknown",
+            "value": ""
+          },
+          "mapPosition": {
+            "state": "#unknown",
+            "value": []
+          },
+          "buildings": {
+            "state": "#unknown"
+          },
+          "info": {
+            "state": "#unknown"
+          },
+          "notes": "",
+          "wiki": {
+            "state": "#unknown"
+          },
+          "monumentNo": {
+            "state": "#unknown"
+          }
+        },
+        "7.2.1": {
+          "trackPoint": 1,
+          "trackSubpt": "",
+          "quarter": "",
+          "predecessor": "7.2.0",
+          "successor": "7.2.2",
+          "inactive": true,
+          "title": "Drehbrücke",
+          "description": {
+            "state": "#unknown",
+            "value": ""
+          },
+          "mapPosition": {
+            "state": "#unknown",
+            "value": []
+          },
+          "buildings": {
+            "state": "#unknown"
+          },
+          "info": {
+            "state": "#unknown"
+          },
+          "notes": "",
+          "wiki": {
+            "state": "#unknown"
+          },
+          "monumentNo": {
+            "state": "#unknown"
+          }
+        },
+        "7.2.2": {
+          "trackPoint": 2,
+          "trackSubpt": "",
+          "quarter": "",
+          "predecessor": "7.2.1",
+          "successor": "7.2.3",
+          "inactive": true,
+          "title": "Nikolaus-Kapelle",
+          "description": {
+            "state": "#unknown",
+            "value": ""
+          },
+          "mapPosition": {
+            "state": "#unknown",
+            "value": []
+          },
+          "buildings": {
+            "state": "#unknown"
+          },
+          "info": {
+            "state": "#unknown"
+          },
+          "notes": "",
+          "wiki": {
+            "state": "#unknown"
+          },
+          "monumentNo": {
+            "state": "#unknown"
+          }
+        },
+        "7.2.3": {
+          "trackPoint": 3,
+          "trackSubpt": "",
+          "quarter": "",
+          "predecessor": "7.2.2",
+          "successor": "7.2.4",
+          "inactive": true,
+          "title": "",
+          "description": {
+            "state": "#unknown",
+            "value": ""
+          },
+          "mapPosition": {
+            "state": "#unknown",
+            "value": []
+          },
+          "buildings": {
+            "state": "#unknown"
+          },
+          "info": {
+            "state": "#unknown"
+          },
+          "notes": "",
+          "wiki": {
+            "state": "#unknown"
+          },
+          "monumentNo": {
+            "state": "#unknown"
+          }
+        },
+        "7.2.4": {
+          "trackPoint": 4,
+          "trackSubpt": "",
+          "quarter": "",
+          "predecessor": "7.2.3",
+          "successor": "7.2.5",
+          "inactive": true,
+          "title": "Rheinuferpromenade",
+          "description": {
+            "state": "#unknown",
+            "value": ""
+          },
+          "mapPosition": {
+            "state": "#unknown",
+            "value": []
+          },
+          "buildings": {
+            "state": "#unknown"
+          },
+          "info": {
+            "state": "#unknown"
+          },
+          "notes": "",
+          "wiki": {
+            "state": "#unknown"
+          },
+          "monumentNo": {
+            "state": "#unknown"
+          }
+        },
+        "7.2.5": {
+          "trackPoint": 5,
+          "trackSubpt": "",
+          "quarter": "",
+          "predecessor": "7.2.4",
+          "successor": "7.2.6",
+          "inactive": true,
+          "title": "Porzer Rathaus",
+          "description": {
+            "state": "#unknown",
+            "value": ""
+          },
+          "mapPosition": {
+            "state": "#unknown",
+            "value": []
+          },
+          "buildings": {
+            "state": "#unknown"
+          },
+          "info": {
+            "state": "#unknown"
+          },
+          "notes": "",
+          "wiki": {
+            "state": "#unknown"
+          },
+          "monumentNo": {
+            "state": "#unknown"
+          }
+        },
+        "7.2.6": {
+          "trackPoint": 6,
+          "trackSubpt": "",
+          "quarter": "",
+          "predecessor": "7.2.5",
+          "successor": "7.2.7",
+          "inactive": true,
+          "title": "",
+          "description": {
+            "state": "#unknown",
+            "value": ""
+          },
+          "mapPosition": {
+            "state": "#unknown",
+            "value": []
+          },
+          "buildings": {
+            "state": "#unknown"
+          },
+          "info": {
+            "state": "#unknown"
+          },
+          "notes": "",
+          "wiki": {
+            "state": "#unknown"
+          },
+          "monumentNo": {
+            "state": "#unknown"
+          }
+        },
+        "7.2.7": {
+          "trackPoint": 7,
+          "trackSubpt": "",
+          "quarter": "",
+          "predecessor": "7.2.6",
+          "successor": "7.2.8",
+          "inactive": true,
+          "title": "Fronhof",
+          "description": {
+            "state": "#unknown",
+            "value": ""
+          },
+          "mapPosition": {
+            "state": "#unknown",
+            "value": []
+          },
+          "buildings": {
+            "state": "#unknown"
+          },
+          "info": {
+            "state": "#unknown"
+          },
+          "notes": "",
+          "wiki": {
+            "state": "#unknown"
+          },
+          "monumentNo": {
+            "state": "#unknown"
+          }
+        },
+        "7.2.8": {
+          "trackPoint": 8,
+          "trackSubpt": "",
+          "quarter": "",
+          "predecessor": "7.2.7",
+          "successor": "7.2.9",
+          "inactive": true,
+          "title": "St. Clemens",
+          "description": {
+            "state": "#unknown",
+            "value": ""
+          },
+          "mapPosition": {
+            "state": "#unknown",
+            "value": []
+          },
+          "buildings": {
+            "state": "#unknown"
+          },
+          "info": {
+            "state": "#unknown"
+          },
+          "notes": "",
+          "wiki": {
+            "state": "#unknown"
+          },
+          "monumentNo": {
+            "state": "#unknown"
+          }
+        },
+        "7.2.9": {
+          "trackPoint": 9,
+          "trackSubpt": "",
+          "quarter": "",
+          "predecessor": "7.2.8",
+          "successor": "7.2.10",
+          "inactive": true,
+          "title": "",
+          "description": {
+            "state": "#unknown",
+            "value": ""
+          },
+          "mapPosition": {
+            "state": "#unknown",
+            "value": []
+          },
+          "buildings": {
+            "state": "#unknown"
+          },
+          "info": {
+            "state": "#unknown"
+          },
+          "notes": "",
+          "wiki": {
+            "state": "#unknown"
+          },
+          "monumentNo": {
+            "state": "#unknown"
+          }
+        },
+        "7.2.10": {
+          "trackPoint": 10,
+          "trackSubpt": "",
+          "quarter": "",
+          "predecessor": "7.2.9",
+          "successor": "7.2.11",
+          "inactive": true,
+          "title": "",
+          "description": {
+            "state": "#unknown",
+            "value": ""
+          },
+          "mapPosition": {
+            "state": "#unknown",
+            "value": []
+          },
+          "buildings": {
+            "state": "#unknown"
+          },
+          "info": {
+            "state": "#unknown"
+          },
+          "notes": "",
+          "wiki": {
+            "state": "#unknown"
+          },
+          "monumentNo": {
+            "state": "#unknown"
+          }
+        },
+        "7.2.11": {
+          "trackPoint": 11,
+          "trackSubpt": "",
+          "quarter": "",
+          "predecessor": "7.2.10",
+          "successor": "7.2.12",
+          "inactive": true,
+          "title": "",
+          "description": {
+            "state": "#unknown",
+            "value": ""
+          },
+          "mapPosition": {
+            "state": "#unknown",
+            "value": []
+          },
+          "buildings": {
+            "state": "#unknown"
+          },
+          "info": {
+            "state": "#unknown"
+          },
+          "notes": "",
+          "wiki": {
+            "state": "#unknown"
+          },
+          "monumentNo": {
+            "state": "#unknown"
+          }
+        },
+        "7.2.12": {
+          "trackPoint": 12,
+          "trackSubpt": "",
+          "quarter": "",
+          "predecessor": "7.2.11",
+          "successor": "7.2.13",
+          "inactive": true,
+          "title": "Sog. Friedenseiche (Naturdenkmal)",
+          "description": {
+            "state": "#unknown",
+            "value": ""
+          },
+          "mapPosition": {
+            "state": "#unknown",
+            "value": []
+          },
+          "buildings": {
+            "state": "#unknown"
+          },
+          "info": {
+            "state": "#unknown"
+          },
+          "notes": "",
+          "wiki": {
+            "state": "#unknown"
+          },
+          "monumentNo": {
+            "state": "#unknown"
+          }
+        },
+        "7.2.13": {
+          "trackPoint": 13,
+          "trackSubpt": "",
+          "quarter": "",
+          "predecessor": "7.2.12",
+          "successor": "7.2.14",
+          "inactive": true,
+          "title": "",
+          "description": {
+            "state": "#unknown",
+            "value": ""
+          },
+          "mapPosition": {
+            "state": "#unknown",
+            "value": []
+          },
+          "buildings": {
+            "state": "#unknown"
+          },
+          "info": {
+            "state": "#unknown"
+          },
+          "notes": "",
+          "wiki": {
+            "state": "#unknown"
+          },
+          "monumentNo": {
+            "state": "#unknown"
+          }
+        },
+        "7.2.14": {
+          "trackPoint": 14,
+          "trackSubpt": "",
+          "quarter": "",
+          "predecessor": "7.2.13",
+          "successor": "7.2.15",
+          "inactive": true,
+          "title": "ehem. Telegraphenstation",
+          "description": {
+            "state": "#unknown",
+            "value": ""
+          },
+          "mapPosition": {
+            "state": "#unknown",
+            "value": []
+          },
+          "buildings": {
+            "state": "#unknown"
+          },
+          "info": {
+            "state": "#unknown"
+          },
+          "notes": "",
+          "wiki": {
+            "state": "#unknown"
+          },
+          "monumentNo": {
+            "state": "#unknown"
+          }
+        },
+        "7.2.99": {
+          "trackPoint": 99,
+          "trackSubpt": "",
+          "quarter": "",
+          "predecessor": "7.2.14",
+          "successor": "",
+          "inactive": true,
+          "title": "...",
+          "description": {
+            "state": "#unknown",
+            "value": ""
+          },
+          "mapPosition": {
+            "state": "#unknown",
+            "value": []
+          },
+          "buildings": {
+            "state": "#unknown"
+          },
+          "info": {
+            "state": "#unknown"
+          },
+          "notes": "",
+          "wiki": {
+            "state": "#unknown"
+          },
+          "monumentNo": {
+            "state": "#unknown"
+          }
+        }
+      }
+    },
+    "7.3": {
+      "boroughNo": 7,
+      "borough": "Porz",
+      "trackNo": 3,
+      "color": "",
+      "inactive": true,
+      "points": {
+        "7.3.0": {
+          "trackPoint": 0,
+          "trackSubpt": "",
+          "quarter": "",
+          "predecessor": "",
+          "successor": "7.3.1",
+          "inactive": true,
+          "title": "",
+          "description": {
+            "state": "#unknown",
+            "value": ""
+          },
+          "mapPosition": {
+            "state": "#unknown",
+            "value": []
+          },
+          "buildings": {
+            "state": "#unknown"
+          },
+          "info": {
+            "state": "#unknown"
+          },
+          "notes": "",
+          "wiki": {
+            "state": "#unknown"
+          },
+          "monumentNo": {
+            "state": "#unknown"
+          }
+        },
+        "7.3.1": {
+          "trackPoint": 1,
+          "trackSubpt": "",
+          "quarter": "",
+          "predecessor": "7.3.0",
+          "successor": "7.3.2",
+          "inactive": true,
+          "title": "Milchmädchensiedlung",
+          "description": {
+            "state": "#unknown",
+            "value": ""
+          },
+          "mapPosition": {
+            "state": "#unknown",
+            "value": []
+          },
+          "buildings": {
+            "state": "#unknown"
+          },
+          "info": {
+            "state": "#unknown"
+          },
+          "notes": "",
+          "wiki": {
+            "state": "#unknown"
+          },
+          "monumentNo": {
+            "state": "#unknown"
+          }
+        },
+        "7.3.2": {
+          "trackPoint": 2,
+          "trackSubpt": "",
+          "quarter": "",
+          "predecessor": "7.3.1",
+          "successor": "7.3.3",
+          "inactive": true,
+          "title": "Siedlung Altenberger Kreuzweg",
+          "description": {
+            "state": "#unknown",
+            "value": ""
+          },
+          "mapPosition": {
+            "state": "#unknown",
+            "value": []
+          },
+          "buildings": {
+            "state": "#unknown"
+          },
+          "info": {
+            "state": "#unknown"
+          },
+          "notes": "",
+          "wiki": {
+            "state": "#unknown"
+          },
+          "monumentNo": {
+            "state": "#unknown"
+          }
+        },
+        "7.3.3": {
+          "trackPoint": 3,
+          "trackSubpt": "",
+          "quarter": "",
+          "predecessor": "7.3.2",
+          "successor": "7.3.4",
+          "inactive": true,
+          "title": "Wegekreuz",
+          "description": {
+            "state": "#unknown",
+            "value": ""
+          },
+          "mapPosition": {
+            "state": "#unknown",
+            "value": []
+          },
+          "buildings": {
+            "state": "#unknown"
+          },
+          "info": {
+            "state": "#unknown"
+          },
+          "notes": "",
+          "wiki": {
+            "state": "#unknown"
+          },
+          "monumentNo": {
+            "state": "#unknown"
+          }
+        },
+        "7.3.4": {
+          "trackPoint": 4,
+          "trackSubpt": "",
+          "quarter": "",
+          "predecessor": "7.3.3",
+          "successor": "7.3.5",
+          "inactive": true,
+          "title": "Rolshover Hof",
+          "description": {
+            "state": "#unknown",
+            "value": ""
+          },
+          "mapPosition": {
+            "state": "#unknown",
+            "value": []
+          },
+          "buildings": {
+            "state": "#unknown"
+          },
+          "info": {
+            "state": "#unknown"
+          },
+          "notes": "",
+          "wiki": {
+            "state": "#unknown"
+          },
+          "monumentNo": {
+            "state": "#unknown"
+          }
+        },
+        "7.3.5": {
+          "trackPoint": 5,
+          "trackSubpt": "",
+          "quarter": "",
+          "predecessor": "7.3.4",
+          "successor": "7.3.6",
+          "inactive": true,
+          "title": "Bildstock",
+          "description": {
+            "state": "#unknown",
+            "value": ""
+          },
+          "mapPosition": {
+            "state": "#unknown",
+            "value": []
+          },
+          "buildings": {
+            "state": "#unknown"
+          },
+          "info": {
+            "state": "#unknown"
+          },
+          "notes": "",
+          "wiki": {
+            "state": "#unknown"
+          },
+          "monumentNo": {
+            "state": "#unknown"
+          }
+        },
+        "7.3.6": {
+          "trackPoint": 6,
+          "trackSubpt": "",
+          "quarter": "",
+          "predecessor": "7.3.5",
+          "successor": "7.3.7",
+          "inactive": true,
+          "title": "Histor. Gebäudegruppe Auf dem Sandberg",
+          "description": {
+            "state": "#unknown",
+            "value": ""
+          },
+          "mapPosition": {
+            "state": "#unknown",
+            "value": []
+          },
+          "buildings": {
+            "state": "#unknown"
+          },
+          "info": {
+            "state": "#unknown"
+          },
+          "notes": "",
+          "wiki": {
+            "state": "#unknown"
+          },
+          "monumentNo": {
+            "state": "#unknown"
+          }
+        },
+        "7.3.7": {
+          "trackPoint": 7,
+          "trackSubpt": "",
+          "quarter": "",
+          "predecessor": "7.3.6",
+          "successor": "7.3.8",
+          "inactive": true,
+          "title": "Alte Poller Schule",
+          "description": {
+            "state": "#unknown",
+            "value": ""
+          },
+          "mapPosition": {
+            "state": "#unknown",
+            "value": []
+          },
+          "buildings": {
+            "state": "#unknown"
+          },
+          "info": {
+            "state": "#unknown"
+          },
+          "notes": "",
+          "wiki": {
+            "state": "#unknown"
+          },
+          "monumentNo": {
+            "state": "#unknown"
+          }
+        },
+        "7.3.8": {
+          "trackPoint": 8,
+          "trackSubpt": "",
+          "quarter": "",
+          "predecessor": "7.3.7",
+          "successor": "7.3.9",
+          "inactive": true,
+          "title": "Backstein- u. Fachwerkhäuser des 19. Jh.",
+          "description": {
+            "state": "#unknown",
+            "value": ""
+          },
+          "mapPosition": {
+            "state": "#unknown",
+            "value": []
+          },
+          "buildings": {
+            "state": "#unknown"
+          },
+          "info": {
+            "state": "#unknown"
+          },
+          "notes": "",
+          "wiki": {
+            "state": "#unknown"
+          },
+          "monumentNo": {
+            "state": "#unknown"
+          }
+        },
+        "7.3.9": {
+          "trackPoint": 9,
+          "trackSubpt": "",
+          "quarter": "",
+          "predecessor": "7.3.8",
+          "successor": "7.3.10",
+          "inactive": true,
+          "title": "&quot;Gründerzeitliche&quot; Häuser",
+          "description": {
+            "state": "#unknown",
+            "value": ""
+          },
+          "mapPosition": {
+            "state": "#unknown",
+            "value": []
+          },
+          "buildings": {
+            "state": "#unknown"
+          },
+          "info": {
+            "state": "#unknown"
+          },
+          "notes": "",
+          "wiki": {
+            "state": "#unknown"
+          },
+          "monumentNo": {
+            "state": "#unknown"
+          }
+        },
+        "7.3.10": {
+          "trackPoint": 10,
+          "trackSubpt": "",
+          "quarter": "",
+          "predecessor": "7.3.9",
+          "successor": "7.3.11",
+          "inactive": true,
+          "title": "St. Joseph",
+          "description": {
+            "state": "#unknown",
+            "value": ""
+          },
+          "mapPosition": {
+            "state": "#unknown",
+            "value": []
+          },
+          "buildings": {
+            "state": "#unknown"
+          },
+          "info": {
+            "state": "#unknown"
+          },
+          "notes": "",
+          "wiki": {
+            "state": "#unknown"
+          },
+          "monumentNo": {
+            "state": "#unknown"
+          }
+        },
+        "7.3.11": {
+          "trackPoint": 11,
+          "trackSubpt": "",
+          "quarter": "",
+          "predecessor": "7.3.10",
+          "successor": "7.3.12",
+          "inactive": true,
+          "title": "Wasserwerk",
+          "description": {
+            "state": "#unknown",
+            "value": ""
+          },
+          "mapPosition": {
+            "state": "#unknown",
+            "value": []
+          },
+          "buildings": {
+            "state": "#unknown"
+          },
+          "info": {
+            "state": "#unknown"
+          },
+          "notes": "",
+          "wiki": {
+            "state": "#unknown"
+          },
+          "monumentNo": {
+            "state": "#unknown"
+          }
+        },
+        "7.3.12": {
+          "trackPoint": 12,
+          "trackSubpt": "",
+          "quarter": "",
+          "predecessor": "7.3.11",
+          "successor": "7.3.13",
+          "inactive": true,
+          "title": "Engelshof",
+          "description": {
+            "state": "#unknown",
+            "value": ""
+          },
+          "mapPosition": {
+            "state": "#unknown",
+            "value": []
+          },
+          "buildings": {
+            "state": "#unknown"
+          },
+          "info": {
+            "state": "#unknown"
+          },
+          "notes": "",
+          "wiki": {
+            "state": "#unknown"
+          },
+          "monumentNo": {
+            "state": "#unknown"
+          }
+        },
+        "7.3.13": {
+          "trackPoint": 13,
+          "trackSubpt": "",
+          "quarter": "",
+          "predecessor": "7.3.12",
+          "successor": "7.3.14",
+          "inactive": true,
+          "title": "",
+          "description": {
+            "state": "#unknown",
+            "value": ""
+          },
+          "mapPosition": {
+            "state": "#unknown",
+            "value": []
+          },
+          "buildings": {
+            "state": "#unknown"
+          },
+          "info": {
+            "state": "#unknown"
+          },
+          "notes": "",
+          "wiki": {
+            "state": "#unknown"
+          },
+          "monumentNo": {
+            "state": "#unknown"
+          }
+        },
+        "7.3.14": {
+          "trackPoint": 14,
+          "trackSubpt": "",
+          "quarter": "",
+          "predecessor": "7.3.13",
+          "successor": "7.3.15",
+          "inactive": true,
+          "title": "",
+          "description": {
+            "state": "#unknown",
+            "value": ""
+          },
+          "mapPosition": {
+            "state": "#unknown",
+            "value": []
+          },
+          "buildings": {
+            "state": "#unknown"
+          },
+          "info": {
+            "state": "#unknown"
+          },
+          "notes": "",
+          "wiki": {
+            "state": "#unknown"
+          },
+          "monumentNo": {
+            "state": "#unknown"
+          }
+        },
+        "7.3.15": {
+          "trackPoint": 15,
+          "trackSubpt": "",
+          "quarter": "",
+          "predecessor": "7.3.14",
+          "successor": "7.3.16",
+          "inactive": true,
+          "title": "Amerikakreuz",
+          "description": {
+            "state": "#unknown",
+            "value": ""
+          },
+          "mapPosition": {
+            "state": "#unknown",
+            "value": []
+          },
+          "buildings": {
+            "state": "#unknown"
+          },
+          "info": {
+            "state": "#unknown"
+          },
+          "notes": "",
+          "wiki": {
+            "state": "#unknown"
+          },
+          "monumentNo": {
+            "state": "#unknown"
+          }
+        },
+        "7.3.16": {
+          "trackPoint": 16,
+          "trackSubpt": "",
+          "quarter": "",
+          "predecessor": "7.3.15",
+          "successor": "7.3.17",
+          "inactive": true,
+          "title": "St. Laurentius",
+          "description": {
+            "state": "#unknown",
+            "value": ""
+          },
+          "mapPosition": {
+            "state": "#unknown",
+            "value": []
+          },
+          "buildings": {
+            "state": "#unknown"
+          },
+          "info": {
+            "state": "#unknown"
+          },
+          "notes": "",
+          "wiki": {
+            "state": "#unknown"
+          },
+          "monumentNo": {
+            "state": "#unknown"
+          }
+        },
+        "7.3.17": {
+          "trackPoint": 17,
+          "trackSubpt": "",
+          "quarter": "",
+          "predecessor": "7.3.16",
+          "successor": "7.3.18",
+          "inactive": true,
+          "title": "",
+          "description": {
+            "state": "#unknown",
+            "value": ""
+          },
+          "mapPosition": {
+            "state": "#unknown",
+            "value": []
+          },
+          "buildings": {
+            "state": "#unknown"
+          },
+          "info": {
+            "state": "#unknown"
+          },
+          "notes": "",
+          "wiki": {
+            "state": "#unknown"
+          },
+          "monumentNo": {
+            "state": "#unknown"
+          }
+        },
+        "7.3.18": {
+          "trackPoint": 18,
+          "trackSubpt": "",
+          "quarter": "",
+          "predecessor": "7.3.17",
+          "successor": "7.3.19",
+          "inactive": true,
+          "title": "Alexianer-Krankenhaus-Komplex",
+          "description": {
+            "state": "#unknown",
+            "value": ""
+          },
+          "mapPosition": {
+            "state": "#unknown",
+            "value": []
+          },
+          "buildings": {
+            "state": "#unknown"
+          },
+          "info": {
+            "state": "#unknown"
+          },
+          "notes": "",
+          "wiki": {
+            "state": "#unknown"
+          },
+          "monumentNo": {
+            "state": "#unknown"
+          }
+        },
+        "7.3.19": {
+          "trackPoint": 19,
+          "trackSubpt": "",
+          "quarter": "",
+          "predecessor": "7.3.18",
+          "successor": "7.3.20",
+          "inactive": true,
+          "title": "zwei Villen",
+          "description": {
+            "state": "#unknown",
+            "value": ""
+          },
+          "mapPosition": {
+            "state": "#unknown",
+            "value": []
+          },
+          "buildings": {
+            "state": "#unknown"
+          },
+          "info": {
+            "state": "#unknown"
+          },
+          "notes": "",
+          "wiki": {
+            "state": "#unknown"
+          },
+          "monumentNo": {
+            "state": "#unknown"
+          }
+        },
+        "7.3.20": {
+          "trackPoint": 20,
+          "trackSubpt": "",
+          "quarter": "",
+          "predecessor": "7.3.19",
+          "successor": "7.3.21",
+          "inactive": true,
+          "title": "Siedlung Gremberghoven",
+          "description": {
+            "state": "#unknown",
+            "value": ""
+          },
+          "mapPosition": {
+            "state": "#unknown",
+            "value": []
+          },
+          "buildings": {
+            "state": "#unknown"
+          },
+          "info": {
+            "state": "#unknown"
+          },
+          "notes": "",
+          "wiki": {
+            "state": "#unknown"
+          },
+          "monumentNo": {
+            "state": "#unknown"
+          }
+        },
+        "7.3.21": {
+          "trackPoint": 21,
+          "trackSubpt": "",
+          "quarter": "",
+          "predecessor": "7.3.20",
+          "successor": "7.3.22",
+          "inactive": true,
+          "title": "",
+          "description": {
+            "state": "#unknown",
+            "value": ""
+          },
+          "mapPosition": {
+            "state": "#unknown",
+            "value": []
+          },
+          "buildings": {
+            "state": "#unknown"
+          },
+          "info": {
+            "state": "#unknown"
+          },
+          "notes": "",
+          "wiki": {
+            "state": "#unknown"
+          },
+          "monumentNo": {
+            "state": "#unknown"
+          }
+        },
+        "7.3.22": {
+          "trackPoint": 22,
+          "trackSubpt": "",
+          "quarter": "",
+          "predecessor": "7.3.21",
+          "successor": "7.3.23",
+          "inactive": true,
+          "title": "Schöffenkreuz",
+          "description": {
+            "state": "#unknown",
+            "value": ""
+          },
+          "mapPosition": {
+            "state": "#unknown",
+            "value": []
+          },
+          "buildings": {
+            "state": "#unknown"
+          },
+          "info": {
+            "state": "#unknown"
+          },
+          "notes": "",
+          "wiki": {
+            "state": "#unknown"
+          },
+          "monumentNo": {
+            "state": "#unknown"
+          }
+        },
+        "7.3.23": {
+          "trackPoint": 23,
+          "trackSubpt": "",
+          "quarter": "",
+          "predecessor": "7.3.22",
+          "successor": "7.3.24",
+          "inactive": true,
+          "title": "",
+          "description": {
+            "state": "#unknown",
+            "value": ""
+          },
+          "mapPosition": {
+            "state": "#unknown",
+            "value": []
+          },
+          "buildings": {
+            "state": "#unknown"
+          },
+          "info": {
+            "state": "#unknown"
+          },
+          "notes": "",
+          "wiki": {
+            "state": "#unknown"
+          },
+          "monumentNo": {
+            "state": "#unknown"
+          }
+        },
+        "7.3.24": {
+          "trackPoint": 24,
+          "trackSubpt": "",
+          "quarter": "",
+          "predecessor": "7.3.23",
+          "successor": "7.3.25",
+          "inactive": true,
+          "title": "",
+          "description": {
+            "state": "#unknown",
+            "value": ""
+          },
+          "mapPosition": {
+            "state": "#unknown",
+            "value": []
+          },
+          "buildings": {
+            "state": "#unknown"
+          },
+          "info": {
+            "state": "#unknown"
+          },
+          "notes": "",
+          "wiki": {
+            "state": "#unknown"
+          },
+          "monumentNo": {
+            "state": "#unknown"
+          }
+        },
+        "7.3.25": {
+          "trackPoint": 25,
+          "trackSubpt": "",
+          "quarter": "",
+          "predecessor": "7.3.24",
+          "successor": "7.3.26",
+          "inactive": true,
+          "title": "Wohn- u. Geschäftshaus",
+          "description": {
+            "state": "#unknown",
+            "value": ""
+          },
+          "mapPosition": {
+            "state": "#unknown",
+            "value": []
+          },
+          "buildings": {
+            "state": "#unknown"
+          },
+          "info": {
+            "state": "#unknown"
+          },
+          "notes": "",
+          "wiki": {
+            "state": "#unknown"
+          },
+          "monumentNo": {
+            "state": "#unknown"
+          }
+        },
+        "7.3.26": {
+          "trackPoint": 26,
+          "trackSubpt": "",
+          "quarter": "",
+          "predecessor": "7.3.25",
+          "successor": "7.3.27",
+          "inactive": true,
+          "title": "Wohnhaus",
+          "description": {
+            "state": "#unknown",
+            "value": ""
+          },
+          "mapPosition": {
+            "state": "#unknown",
+            "value": []
+          },
+          "buildings": {
+            "state": "#unknown"
+          },
+          "info": {
+            "state": "#unknown"
+          },
+          "notes": "",
+          "wiki": {
+            "state": "#unknown"
+          },
+          "monumentNo": {
+            "state": "#unknown"
+          }
+        },
+        "7.3.27": {
+          "trackPoint": 27,
+          "trackSubpt": "",
+          "quarter": "",
+          "predecessor": "7.3.26",
+          "successor": "7.3.28",
+          "inactive": true,
+          "title": "Villa Dr. Hollstein, Villa Ahren, Villa Broischer",
+          "description": {
+            "state": "#unknown",
+            "value": ""
+          },
+          "mapPosition": {
+            "state": "#unknown",
+            "value": []
+          },
+          "buildings": {
+            "state": "#unknown"
+          },
+          "info": {
+            "state": "#unknown"
+          },
+          "notes": "",
+          "wiki": {
+            "state": "#unknown"
+          },
+          "monumentNo": {
+            "state": "#unknown"
+          }
+        },
+        "7.3.28": {
+          "trackPoint": 28,
+          "trackSubpt": "",
+          "quarter": "",
+          "predecessor": "7.3.27",
+          "successor": "7.3.29",
+          "inactive": true,
+          "title": "Lukaskirche",
+          "description": {
+            "state": "#unknown",
+            "value": ""
+          },
+          "mapPosition": {
+            "state": "#unknown",
+            "value": []
+          },
+          "buildings": {
+            "state": "#unknown"
+          },
+          "info": {
+            "state": "#unknown"
+          },
+          "notes": "",
+          "wiki": {
+            "state": "#unknown"
+          },
+          "monumentNo": {
+            "state": "#unknown"
+          }
+        },
+        "7.3.29": {
+          "trackPoint": 29,
+          "trackSubpt": "",
+          "quarter": "",
+          "predecessor": "7.3.28",
+          "successor": "7.3.30",
+          "inactive": true,
+          "title": "Straßenbahnwartehalle",
+          "description": {
+            "state": "#unknown",
+            "value": ""
+          },
+          "mapPosition": {
+            "state": "#unknown",
+            "value": []
+          },
+          "buildings": {
+            "state": "#unknown"
+          },
+          "info": {
+            "state": "#unknown"
+          },
+          "notes": "",
+          "wiki": {
+            "state": "#unknown"
+          },
+          "monumentNo": {
+            "state": "#unknown"
+          }
+        },
+        "7.3.30": {
+          "trackPoint": 30,
+          "trackSubpt": "",
+          "quarter": "",
+          "predecessor": "7.3.29",
+          "successor": "7.3.31",
+          "inactive": true,
+          "title": "Germania-Siedlung",
+          "description": {
+            "state": "#unknown",
+            "value": ""
+          },
+          "mapPosition": {
+            "state": "#unknown",
+            "value": []
+          },
+          "buildings": {
+            "state": "#unknown"
+          },
+          "info": {
+            "state": "#unknown"
+          },
+          "notes": "",
+          "wiki": {
+            "state": "#unknown"
+          },
+          "monumentNo": {
+            "state": "#unknown"
+          }
+        },
+        "7.3.31": {
+          "trackPoint": 31,
+          "trackSubpt": "",
+          "quarter": "",
+          "predecessor": "7.3.30",
+          "successor": "",
+          "inactive": true,
+          "title": "Bahnhof Porz",
+          "description": {
+            "state": "#unknown",
+            "value": ""
+          },
+          "mapPosition": {
+            "state": "#unknown",
+            "value": []
+          },
+          "buildings": {
+            "state": "#unknown"
+          },
+          "info": {
+            "state": "#unknown"
+          },
+          "notes": "",
+          "wiki": {
+            "state": "#unknown"
+          },
+          "monumentNo": {
+            "state": "#unknown"
+          }
+        }
+      }
+    },
+    "7.4": {
+      "boroughNo": 7,
+      "borough": "Porz",
+      "trackNo": 4,
+      "color": "",
+      "inactive": true,
+      "points": {
+        "7.4.0": {
+          "trackPoint": 0,
+          "trackSubpt": "",
+          "quarter": "",
+          "predecessor": "",
+          "successor": "7.4.1",
+          "inactive": true,
+          "title": "",
+          "description": {
+            "state": "#unknown",
+            "value": ""
+          },
+          "mapPosition": {
+            "state": "#unknown",
+            "value": []
+          },
+          "buildings": {
+            "state": "#unknown"
+          },
+          "info": {
+            "state": "#unknown"
+          },
+          "notes": "",
+          "wiki": {
+            "state": "#unknown"
+          },
+          "monumentNo": {
+            "state": "#unknown"
+          }
+        },
+        "7.4.1": {
+          "trackPoint": 1,
+          "trackSubpt": "",
+          "quarter": "",
+          "predecessor": "7.4.0",
+          "successor": "7.4.2",
+          "inactive": true,
+          "title": "Jüdischer Friedhof",
+          "description": {
+            "state": "#unknown",
+            "value": ""
+          },
+          "mapPosition": {
+            "state": "#unknown",
+            "value": []
+          },
+          "buildings": {
+            "state": "#unknown"
+          },
+          "info": {
+            "state": "#unknown"
+          },
+          "notes": "",
+          "wiki": {
+            "state": "#unknown"
+          },
+          "monumentNo": {
+            "state": "#unknown"
+          }
+        },
+        "7.4.2": {
+          "trackPoint": 2,
+          "trackSubpt": "",
+          "quarter": "",
+          "predecessor": "7.4.1",
+          "successor": "7.4.3",
+          "inactive": true,
+          "title": "Turmhof und Werturm",
+          "description": {
+            "state": "#unknown",
+            "value": ""
+          },
+          "mapPosition": {
+            "state": "#unknown",
+            "value": []
+          },
+          "buildings": {
+            "state": "#unknown"
+          },
+          "info": {
+            "state": "#unknown"
+          },
+          "notes": "",
+          "wiki": {
+            "state": "#unknown"
+          },
+          "monumentNo": {
+            "state": "#unknown"
+          }
+        },
+        "7.4.3": {
+          "trackPoint": 3,
+          "trackSubpt": "",
+          "quarter": "",
+          "predecessor": "7.4.2",
+          "successor": "7.4.4",
+          "inactive": true,
+          "title": "ehem. Wohnhaus Pelletier",
+          "description": {
+            "state": "#unknown",
+            "value": ""
+          },
+          "mapPosition": {
+            "state": "#unknown",
+            "value": []
+          },
+          "buildings": {
+            "state": "#unknown"
+          },
+          "info": {
+            "state": "#unknown"
+          },
+          "notes": "",
+          "wiki": {
+            "state": "#unknown"
+          },
+          "monumentNo": {
+            "state": "#unknown"
+          }
+        },
+        "7.4.4": {
+          "trackPoint": 4,
+          "trackSubpt": "",
+          "quarter": "",
+          "predecessor": "7.4.3",
+          "successor": "7.4.5",
+          "inactive": true,
+          "title": "Fachwerkhaus",
+          "description": {
+            "state": "#unknown",
+            "value": ""
+          },
+          "mapPosition": {
+            "state": "#unknown",
+            "value": []
+          },
+          "buildings": {
+            "state": "#unknown"
+          },
+          "info": {
+            "state": "#unknown"
+          },
+          "notes": "",
+          "wiki": {
+            "state": "#unknown"
+          },
+          "monumentNo": {
+            "state": "#unknown"
+          }
+        },
+        "7.4.5": {
+          "trackPoint": 5,
+          "trackSubpt": "",
+          "quarter": "",
+          "predecessor": "7.4.4",
+          "successor": "7.4.6",
+          "inactive": true,
+          "title": "Siedlung Gütergasse",
+          "description": {
+            "state": "#unknown",
+            "value": ""
+          },
+          "mapPosition": {
+            "state": "#unknown",
+            "value": []
+          },
+          "buildings": {
+            "state": "#unknown"
+          },
+          "info": {
+            "state": "#unknown"
+          },
+          "notes": "",
+          "wiki": {
+            "state": "#unknown"
+          },
+          "monumentNo": {
+            "state": "#unknown"
+          }
+        },
+        "7.4.6": {
+          "trackPoint": 6,
+          "trackSubpt": "",
+          "quarter": "",
+          "predecessor": "7.4.5",
+          "successor": "7.4.7",
+          "inactive": true,
+          "title": "&quot;Kleines Teehaus&quot;",
+          "description": {
+            "state": "#unknown",
+            "value": ""
+          },
+          "mapPosition": {
+            "state": "#unknown",
+            "value": []
+          },
+          "buildings": {
+            "state": "#unknown"
+          },
+          "info": {
+            "state": "#unknown"
+          },
+          "notes": "",
+          "wiki": {
+            "state": "#unknown"
+          },
+          "monumentNo": {
+            "state": "#unknown"
+          }
+        },
+        "7.4.7": {
+          "trackPoint": 7,
+          "trackSubpt": "",
+          "quarter": "",
+          "predecessor": "7.4.6",
+          "successor": "7.4.8",
+          "inactive": true,
+          "title": "Groov",
+          "description": {
+            "state": "#unknown",
+            "value": ""
+          },
+          "mapPosition": {
+            "state": "#unknown",
+            "value": []
+          },
+          "buildings": {
+            "state": "#unknown"
+          },
+          "info": {
+            "state": "#unknown"
+          },
+          "notes": "",
+          "wiki": {
+            "state": "#unknown"
+          },
+          "monumentNo": {
+            "state": "#unknown"
+          }
+        },
+        "7.4.8": {
+          "trackPoint": 8,
+          "trackSubpt": "",
+          "quarter": "",
+          "predecessor": "7.4.7",
+          "successor": "7.4.9",
+          "inactive": true,
+          "title": "Marktplatz mit Nepomuk-Statue und Kriegerdenkmal",
+          "description": {
+            "state": "#unknown",
+            "value": ""
+          },
+          "mapPosition": {
+            "state": "#unknown",
+            "value": []
+          },
+          "buildings": {
+            "state": "#unknown"
+          },
+          "info": {
+            "state": "#unknown"
+          },
+          "notes": "",
+          "wiki": {
+            "state": "#unknown"
+          },
+          "monumentNo": {
+            "state": "#unknown"
+          }
+        },
+        "7.4.9": {
+          "trackPoint": 9,
+          "trackSubpt": "",
+          "quarter": "",
+          "predecessor": "7.4.8",
+          "successor": "7.4.10",
+          "inactive": true,
+          "title": "Enggasse",
+          "description": {
+            "state": "#unknown",
+            "value": ""
+          },
+          "mapPosition": {
+            "state": "#unknown",
+            "value": []
+          },
+          "buildings": {
+            "state": "#unknown"
+          },
+          "info": {
+            "state": "#unknown"
+          },
+          "notes": "",
+          "wiki": {
+            "state": "#unknown"
+          },
+          "monumentNo": {
+            "state": "#unknown"
+          }
+        },
+        "7.4.10": {
+          "trackPoint": 10,
+          "trackSubpt": "",
+          "quarter": "",
+          "predecessor": "7.4.9",
+          "successor": "7.4.11",
+          "inactive": true,
+          "title": "Marktstraße",
+          "description": {
+            "state": "#unknown",
+            "value": ""
+          },
+          "mapPosition": {
+            "state": "#unknown",
+            "value": []
+          },
+          "buildings": {
+            "state": "#unknown"
+          },
+          "info": {
+            "state": "#unknown"
+          },
+          "notes": "",
+          "wiki": {
+            "state": "#unknown"
+          },
+          "monumentNo": {
+            "state": "#unknown"
+          }
+        },
+        "7.4.11": {
+          "trackPoint": 11,
+          "trackSubpt": "",
+          "quarter": "",
+          "predecessor": "7.4.10",
+          "successor": "7.4.12",
+          "inactive": true,
+          "title": "St. Michael",
+          "description": {
+            "state": "#unknown",
+            "value": ""
+          },
+          "mapPosition": {
+            "state": "#unknown",
+            "value": []
+          },
+          "buildings": {
+            "state": "#unknown"
+          },
+          "info": {
+            "state": "#unknown"
+          },
+          "notes": "",
+          "wiki": {
+            "state": "#unknown"
+          },
+          "monumentNo": {
+            "state": "#unknown"
+          }
+        },
+        "7.4.12": {
+          "trackPoint": 12,
+          "trackSubpt": "",
+          "quarter": "",
+          "predecessor": "7.4.11",
+          "successor": "7.4.13",
+          "inactive": true,
+          "title": "Historische Gebäude am Burgweg",
+          "description": {
+            "state": "#unknown",
+            "value": ""
+          },
+          "mapPosition": {
+            "state": "#unknown",
+            "value": []
+          },
+          "buildings": {
+            "state": "#unknown"
+          },
+          "info": {
+            "state": "#unknown"
+          },
+          "notes": "",
+          "wiki": {
+            "state": "#unknown"
+          },
+          "monumentNo": {
+            "state": "#unknown"
+          }
+        },
+        "7.4.13": {
+          "trackPoint": 13,
+          "trackSubpt": "",
+          "quarter": "",
+          "predecessor": "7.4.12",
+          "successor": "7.4.14",
+          "inactive": true,
+          "title": "Fachwerkhaus",
+          "description": {
+            "state": "#unknown",
+            "value": ""
+          },
+          "mapPosition": {
+            "state": "#unknown",
+            "value": []
+          },
+          "buildings": {
+            "state": "#unknown"
+          },
+          "info": {
+            "state": "#unknown"
+          },
+          "notes": "",
+          "wiki": {
+            "state": "#unknown"
+          },
+          "monumentNo": {
+            "state": "#unknown"
+          }
+        },
+        "7.4.14": {
+          "trackPoint": 14,
+          "trackSubpt": "",
+          "quarter": "",
+          "predecessor": "7.4.13",
+          "successor": "7.4.15",
+          "inactive": true,
+          "title": "St. Mariä Geburt",
+          "description": {
+            "state": "#unknown",
+            "value": ""
+          },
+          "mapPosition": {
+            "state": "#unknown",
+            "value": []
+          },
+          "buildings": {
+            "state": "#unknown"
+          },
+          "info": {
+            "state": "#unknown"
+          },
+          "notes": "",
+          "wiki": {
+            "state": "#unknown"
+          },
+          "monumentNo": {
+            "state": "#unknown"
+          }
+        },
+        "7.4.15": {
+          "trackPoint": 15,
+          "trackSubpt": "",
+          "quarter": "",
+          "predecessor": "7.4.14",
+          "successor": "7.4.16",
+          "inactive": true,
+          "title": "Mellerhof",
+          "description": {
+            "state": "#unknown",
+            "value": ""
+          },
+          "mapPosition": {
+            "state": "#unknown",
+            "value": []
+          },
+          "buildings": {
+            "state": "#unknown"
+          },
+          "info": {
+            "state": "#unknown"
+          },
+          "notes": "",
+          "wiki": {
+            "state": "#unknown"
+          },
+          "monumentNo": {
+            "state": "#unknown"
+          }
+        },
+        "7.4.16": {
+          "trackPoint": 16,
+          "trackSubpt": "",
+          "quarter": "",
+          "predecessor": "7.4.15",
+          "successor": "7.4.17",
+          "inactive": true,
+          "title": "Olefshof",
+          "description": {
+            "state": "#unknown",
+            "value": ""
+          },
+          "mapPosition": {
+            "state": "#unknown",
+            "value": []
+          },
+          "buildings": {
+            "state": "#unknown"
+          },
+          "info": {
+            "state": "#unknown"
+          },
+          "notes": "",
+          "wiki": {
+            "state": "#unknown"
+          },
+          "monumentNo": {
+            "state": "#unknown"
+          }
+        },
+        "7.4.17": {
+          "trackPoint": 17,
+          "trackSubpt": "",
+          "quarter": "",
+          "predecessor": "7.4.16",
+          "successor": "7.4.18",
+          "inactive": true,
+          "title": "St. Martin",
+          "description": {
+            "state": "#unknown",
+            "value": ""
+          },
+          "mapPosition": {
+            "state": "#unknown",
+            "value": []
+          },
+          "buildings": {
+            "state": "#unknown"
+          },
+          "info": {
+            "state": "#unknown"
+          },
+          "notes": "",
+          "wiki": {
+            "state": "#unknown"
+          },
+          "monumentNo": {
+            "state": "#unknown"
+          }
+        },
+        "7.4.18": {
+          "trackPoint": 18,
+          "trackSubpt": "",
+          "quarter": "",
+          "predecessor": "7.4.17",
+          "successor": "7.4.19",
+          "inactive": true,
+          "title": "Börschhof",
+          "description": {
+            "state": "#unknown",
+            "value": ""
+          },
+          "mapPosition": {
+            "state": "#unknown",
+            "value": []
+          },
+          "buildings": {
+            "state": "#unknown"
+          },
+          "info": {
+            "state": "#unknown"
+          },
+          "notes": "",
+          "wiki": {
+            "state": "#unknown"
+          },
+          "monumentNo": {
+            "state": "#unknown"
+          }
+        },
+        "7.4.19": {
+          "trackPoint": 19,
+          "trackSubpt": "",
+          "quarter": "",
+          "predecessor": "7.4.18",
+          "successor": "",
+          "inactive": true,
+          "title": "Wegekreuz",
+          "description": {
+            "state": "#unknown",
+            "value": ""
+          },
+          "mapPosition": {
+            "state": "#unknown",
+            "value": []
+          },
+          "buildings": {
+            "state": "#unknown"
+          },
+          "info": {
+            "state": "#unknown"
+          },
+          "notes": "",
+          "wiki": {
+            "state": "#unknown"
+          },
+          "monumentNo": {
+            "state": "#unknown"
+          }
+        }
+      }
+    },
+    "8.M": {
+      "boroughNo": 8,
+      "borough": "Kalk",
+      "trackNo": "M",
+      "color": "",
+      "inactive": true,
+      "points": {
+        "8.M.0": {
+          "trackPoint": 0,
+          "trackSubpt": "",
+          "quarter": "",
+          "predecessor": "",
+          "successor": "8.M.1",
+          "inactive": true,
+          "title": "",
+          "description": {
+            "state": "#unknown",
+            "value": ""
+          },
+          "mapPosition": {
+            "state": "#unknown",
+            "value": []
+          },
+          "buildings": {
+            "state": "#unknown"
+          },
+          "info": {
+            "state": "#unknown"
+          },
+          "notes": "",
+          "wiki": {
+            "state": "#unknown"
+          },
+          "monumentNo": {
+            "state": "#unknown"
+          }
+        },
+        "8.M.1": {
+          "trackPoint": 1,
+          "trackSubpt": "",
+          "quarter": "",
+          "predecessor": "8.M.0",
+          "successor": "8.M.2",
+          "inactive": true,
+          "title": "",
+          "description": {
+            "state": "#unknown",
+            "value": ""
+          },
+          "mapPosition": {
+            "state": "#unknown",
+            "value": []
+          },
+          "buildings": {
+            "state": "#unknown"
+          },
+          "info": {
+            "state": "#unknown"
+          },
+          "notes": "",
+          "wiki": {
+            "state": "#unknown"
+          },
+          "monumentNo": {
+            "state": "#unknown"
+          }
+        },
+        "8.M.2": {
+          "trackPoint": 2,
+          "trackSubpt": "",
+          "quarter": "",
+          "predecessor": "8.M.1",
+          "successor": "8.M.3",
+          "inactive": true,
+          "title": "Gebäude um St. Gereon",
+          "description": {
+            "state": "#unknown",
+            "value": ""
+          },
+          "mapPosition": {
+            "state": "#unknown",
+            "value": []
+          },
+          "buildings": {
+            "state": "#unknown"
+          },
+          "info": {
+            "state": "#unknown"
+          },
+          "notes": "",
+          "wiki": {
+            "state": "#unknown"
+          },
+          "monumentNo": {
+            "state": "#unknown"
+          }
+        },
+        "8.M.3": {
+          "trackPoint": 3,
+          "trackSubpt": "",
+          "quarter": "",
+          "predecessor": "8.M.2",
+          "successor": "8.M.4",
+          "inactive": true,
+          "title": "Kath. Kirche St. Gereon",
+          "description": {
+            "state": "#unknown",
+            "value": ""
+          },
+          "mapPosition": {
+            "state": "#unknown",
+            "value": []
+          },
+          "buildings": {
+            "state": "#unknown"
+          },
+          "info": {
+            "state": "#unknown"
+          },
+          "notes": "",
+          "wiki": {
+            "state": "#unknown"
+          },
+          "monumentNo": {
+            "state": "#unknown"
+          }
+        },
+        "8.M.4": {
+          "trackPoint": 4,
+          "trackSubpt": "",
+          "quarter": "",
+          "predecessor": "8.M.3",
+          "successor": "8.M.5",
+          "inactive": true,
+          "title": "Fronhof",
+          "description": {
+            "state": "#unknown",
+            "value": ""
+          },
+          "mapPosition": {
+            "state": "#unknown",
+            "value": []
+          },
+          "buildings": {
+            "state": "#unknown"
+          },
+          "info": {
+            "state": "#unknown"
+          },
+          "notes": "",
+          "wiki": {
+            "state": "#unknown"
+          },
+          "monumentNo": {
+            "state": "#unknown"
+          }
+        },
+        "8.M.5": {
+          "trackPoint": 5,
+          "trackSubpt": "",
+          "quarter": "",
+          "predecessor": "8.M.4",
+          "successor": "8.M.6",
+          "inactive": true,
+          "title": "Historischer Ortskern",
+          "description": {
+            "state": "#unknown",
+            "value": ""
+          },
+          "mapPosition": {
+            "state": "#unknown",
+            "value": []
+          },
+          "buildings": {
+            "state": "#unknown"
+          },
+          "info": {
+            "state": "#unknown"
+          },
+          "notes": "",
+          "wiki": {
+            "state": "#unknown"
+          },
+          "monumentNo": {
+            "state": "#unknown"
+          }
+        },
+        "8.M.6": {
+          "trackPoint": 6,
+          "trackSubpt": "",
+          "quarter": "",
+          "predecessor": "8.M.5",
+          "successor": "8.M.7",
+          "inactive": true,
+          "title": "",
+          "description": {
+            "state": "#unknown",
+            "value": ""
+          },
+          "mapPosition": {
+            "state": "#unknown",
+            "value": []
+          },
+          "buildings": {
+            "state": "#unknown"
+          },
+          "info": {
+            "state": "#unknown"
+          },
+          "notes": "",
+          "wiki": {
+            "state": "#unknown"
+          },
+          "monumentNo": {
+            "state": "#unknown"
+          }
+        },
+        "8.M.7": {
+          "trackPoint": 7,
+          "trackSubpt": "",
+          "quarter": "",
+          "predecessor": "8.M.6",
+          "successor": "8.M.8",
+          "inactive": true,
+          "title": "Fachwerk-Wohnhaus",
+          "description": {
+            "state": "#unknown",
+            "value": ""
+          },
+          "mapPosition": {
+            "state": "#unknown",
+            "value": []
+          },
+          "buildings": {
+            "state": "#unknown"
+          },
+          "info": {
+            "state": "#unknown"
+          },
+          "notes": "",
+          "wiki": {
+            "state": "#unknown"
+          },
+          "monumentNo": {
+            "state": "#unknown"
+          }
+        },
+        "8.M.8": {
+          "trackPoint": 8,
+          "trackSubpt": "",
+          "quarter": "",
+          "predecessor": "8.M.7",
+          "successor": "8.M.9",
+          "inactive": true,
+          "title": "",
+          "description": {
+            "state": "#unknown",
+            "value": ""
+          },
+          "mapPosition": {
+            "state": "#unknown",
+            "value": []
+          },
+          "buildings": {
+            "state": "#unknown"
+          },
+          "info": {
+            "state": "#unknown"
+          },
+          "notes": "",
+          "wiki": {
+            "state": "#unknown"
+          },
+          "monumentNo": {
+            "state": "#unknown"
+          }
+        },
+        "8.M.9": {
+          "trackPoint": 9,
+          "trackSubpt": "",
+          "quarter": "",
+          "predecessor": "8.M.8",
+          "successor": "8.M.10",
+          "inactive": true,
+          "title": "Grülshof",
+          "description": {
+            "state": "#unknown",
+            "value": ""
+          },
+          "mapPosition": {
+            "state": "#unknown",
+            "value": []
+          },
+          "buildings": {
+            "state": "#unknown"
+          },
+          "info": {
+            "state": "#unknown"
+          },
+          "notes": "",
+          "wiki": {
+            "state": "#unknown"
+          },
+          "monumentNo": {
+            "state": "#unknown"
+          }
+        },
+        "8.M.10": {
+          "trackPoint": 10,
+          "trackSubpt": "",
+          "quarter": "",
+          "predecessor": "8.M.9",
+          "successor": "8.M.11",
+          "inactive": true,
+          "title": "Villa Ostmerheimer Straße 441",
+          "description": {
+            "state": "#unknown",
+            "value": ""
+          },
+          "mapPosition": {
+            "state": "#unknown",
+            "value": []
+          },
+          "buildings": {
+            "state": "#unknown"
+          },
+          "info": {
+            "state": "#unknown"
+          },
+          "notes": "",
+          "wiki": {
+            "state": "#unknown"
+          },
+          "monumentNo": {
+            "state": "#unknown"
+          }
+        },
+        "8.M.11": {
+          "trackPoint": 11,
+          "trackSubpt": "",
+          "quarter": "",
+          "predecessor": "8.M.10",
+          "successor": "8.M.12",
+          "inactive": true,
+          "title": "Fußballstadion",
+          "description": {
+            "state": "#unknown",
+            "value": ""
+          },
+          "mapPosition": {
+            "state": "#unknown",
+            "value": []
+          },
+          "buildings": {
+            "state": "#unknown"
+          },
+          "info": {
+            "state": "#unknown"
+          },
+          "notes": "",
+          "wiki": {
+            "state": "#unknown"
+          },
+          "monumentNo": {
+            "state": "#unknown"
+          }
+        },
+        "8.M.12": {
+          "trackPoint": 12,
+          "trackSubpt": "",
+          "quarter": "",
+          "predecessor": "8.M.11",
+          "successor": "8.M.13",
+          "inactive": true,
+          "title": "Ehemaliger Gemeindefriedhof",
+          "description": {
+            "state": "#unknown",
+            "value": ""
+          },
+          "mapPosition": {
+            "state": "#unknown",
+            "value": []
+          },
+          "buildings": {
+            "state": "#unknown"
+          },
+          "info": {
+            "state": "#unknown"
+          },
+          "notes": "",
+          "wiki": {
+            "state": "#unknown"
+          },
+          "monumentNo": {
+            "state": "#unknown"
+          }
+        },
+        "8.M.13": {
+          "trackPoint": 13,
+          "trackSubpt": "",
+          "quarter": "",
+          "predecessor": "8.M.12",
+          "successor": "8.M.14",
+          "inactive": true,
+          "title": "",
+          "description": {
+            "state": "#unknown",
+            "value": ""
+          },
+          "mapPosition": {
+            "state": "#unknown",
+            "value": []
+          },
+          "buildings": {
+            "state": "#unknown"
+          },
+          "info": {
+            "state": "#unknown"
+          },
+          "notes": "",
+          "wiki": {
+            "state": "#unknown"
+          },
+          "monumentNo": {
+            "state": "#unknown"
+          }
+        },
+        "8.M.14": {
+          "trackPoint": 14,
+          "trackSubpt": "",
+          "quarter": "",
+          "predecessor": "8.M.13",
+          "successor": "",
+          "inactive": true,
+          "title": "Kalker Friedhof",
+          "description": {
+            "state": "#unknown",
+            "value": ""
+          },
+          "mapPosition": {
+            "state": "#unknown",
+            "value": []
+          },
+          "buildings": {
+            "state": "#unknown"
+          },
+          "info": {
+            "state": "#unknown"
+          },
+          "notes": "",
+          "wiki": {
+            "state": "#unknown"
+          },
+          "monumentNo": {
+            "state": "#unknown"
+          }
+        }
+      }
+    },
+    "8.B": {
+      "boroughNo": 8,
+      "borough": "Kalk",
+      "trackNo": "B",
+      "color": "",
+      "inactive": true,
+      "points": {
+        "8.B.0": {
+          "trackPoint": 0,
+          "trackSubpt": "",
+          "quarter": "",
+          "predecessor": "",
+          "successor": "8.B.1",
+          "inactive": true,
+          "title": "",
+          "description": {
+            "state": "#unknown",
+            "value": ""
+          },
+          "mapPosition": {
+            "state": "#unknown",
+            "value": []
+          },
+          "buildings": {
+            "state": "#unknown"
+          },
+          "info": {
+            "state": "#unknown"
+          },
+          "notes": "",
+          "wiki": {
+            "state": "#unknown"
+          },
+          "monumentNo": {
+            "state": "#unknown"
+          }
+        },
+        "8.B.1": {
+          "trackPoint": 1,
+          "trackSubpt": "",
+          "quarter": "",
+          "predecessor": "8.B.0",
+          "successor": "8.B.2",
+          "inactive": true,
+          "title": "Katholische Pfarrkirche St. Hubertus",
+          "description": {
+            "state": "#unknown",
+            "value": ""
+          },
+          "mapPosition": {
+            "state": "#unknown",
+            "value": []
+          },
+          "buildings": {
+            "state": "#unknown"
+          },
+          "info": {
+            "state": "#unknown"
+          },
+          "notes": "",
+          "wiki": {
+            "state": "#unknown"
+          },
+          "monumentNo": {
+            "state": "#unknown"
+          }
+        },
+        "8.B.2": {
+          "trackPoint": 2,
+          "trackSubpt": "",
+          "quarter": "",
+          "predecessor": "8.B.1",
+          "successor": "8.B.3",
+          "inactive": true,
+          "title": "",
+          "description": {
+            "state": "#unknown",
+            "value": ""
+          },
+          "mapPosition": {
+            "state": "#unknown",
+            "value": []
+          },
+          "buildings": {
+            "state": "#unknown"
+          },
+          "info": {
+            "state": "#unknown"
+          },
+          "notes": "",
+          "wiki": {
+            "state": "#unknown"
+          },
+          "monumentNo": {
+            "state": "#unknown"
+          }
+        },
+        "8.B.3": {
+          "trackPoint": 3,
+          "trackSubpt": "",
+          "quarter": "",
+          "predecessor": "8.B.2",
+          "successor": "8.B.4",
+          "inactive": true,
+          "title": "",
+          "description": {
+            "state": "#unknown",
+            "value": ""
+          },
+          "mapPosition": {
+            "state": "#unknown",
+            "value": []
+          },
+          "buildings": {
+            "state": "#unknown"
+          },
+          "info": {
+            "state": "#unknown"
+          },
+          "notes": "",
+          "wiki": {
+            "state": "#unknown"
+          },
+          "monumentNo": {
+            "state": "#unknown"
+          }
+        },
+        "8.B.4": {
+          "trackPoint": 4,
+          "trackSubpt": "",
+          "quarter": "",
+          "predecessor": "8.B.3",
+          "successor": "8.B.5",
+          "inactive": true,
+          "title": "",
+          "description": {
+            "state": "#unknown",
+            "value": ""
+          },
+          "mapPosition": {
+            "state": "#unknown",
+            "value": []
+          },
+          "buildings": {
+            "state": "#unknown"
+          },
+          "info": {
+            "state": "#unknown"
+          },
+          "notes": "",
+          "wiki": {
+            "state": "#unknown"
+          },
+          "monumentNo": {
+            "state": "#unknown"
+          }
+        },
+        "8.B.5": {
+          "trackPoint": 5,
+          "trackSubpt": "",
+          "quarter": "",
+          "predecessor": "8.B.4",
+          "successor": "8.B.6",
+          "inactive": true,
+          "title": "",
+          "description": {
+            "state": "#unknown",
+            "value": ""
+          },
+          "mapPosition": {
+            "state": "#unknown",
+            "value": []
+          },
+          "buildings": {
+            "state": "#unknown"
+          },
+          "info": {
+            "state": "#unknown"
+          },
+          "notes": "",
+          "wiki": {
+            "state": "#unknown"
+          },
+          "monumentNo": {
+            "state": "#unknown"
+          }
+        },
+        "8.B.6": {
+          "trackPoint": 6,
+          "trackSubpt": "",
+          "quarter": "",
+          "predecessor": "8.B.5",
+          "successor": "8.B.7",
+          "inactive": true,
+          "title": "Brücker Marktplatz / Flehbachaue",
+          "description": {
+            "state": "#unknown",
+            "value": ""
+          },
+          "mapPosition": {
+            "state": "#unknown",
+            "value": []
+          },
+          "buildings": {
+            "state": "#unknown"
+          },
+          "info": {
+            "state": "#unknown"
+          },
+          "notes": "",
+          "wiki": {
+            "state": "#unknown"
+          },
+          "monumentNo": {
+            "state": "#unknown"
+          }
+        },
+        "8.B.7": {
+          "trackPoint": 7,
+          "trackSubpt": "",
+          "quarter": "",
+          "predecessor": "8.B.6",
+          "successor": "8.B.8",
+          "inactive": true,
+          "title": "",
+          "description": {
+            "state": "#unknown",
+            "value": ""
+          },
+          "mapPosition": {
+            "state": "#unknown",
+            "value": []
+          },
+          "buildings": {
+            "state": "#unknown"
+          },
+          "info": {
+            "state": "#unknown"
+          },
+          "notes": "",
+          "wiki": {
+            "state": "#unknown"
+          },
+          "monumentNo": {
+            "state": "#unknown"
+          }
+        },
+        "8.B.8": {
+          "trackPoint": 8,
+          "trackSubpt": "",
+          "quarter": "",
+          "predecessor": "8.B.7",
+          "successor": "8.B.9",
+          "inactive": true,
+          "title": "",
+          "description": {
+            "state": "#unknown",
+            "value": ""
+          },
+          "mapPosition": {
+            "state": "#unknown",
+            "value": []
+          },
+          "buildings": {
+            "state": "#unknown"
+          },
+          "info": {
+            "state": "#unknown"
+          },
+          "notes": "",
+          "wiki": {
+            "state": "#unknown"
+          },
+          "monumentNo": {
+            "state": "#unknown"
+          }
+        },
+        "8.B.9": {
+          "trackPoint": 9,
+          "trackSubpt": "",
+          "quarter": "",
+          "predecessor": "8.B.8",
+          "successor": "8.B.10",
+          "inactive": true,
+          "title": "",
+          "description": {
+            "state": "#unknown",
+            "value": ""
+          },
+          "mapPosition": {
+            "state": "#unknown",
+            "value": []
+          },
+          "buildings": {
+            "state": "#unknown"
+          },
+          "info": {
+            "state": "#unknown"
+          },
+          "notes": "",
+          "wiki": {
+            "state": "#unknown"
+          },
+          "monumentNo": {
+            "state": "#unknown"
+          }
+        },
+        "8.B.10": {
+          "trackPoint": 10,
+          "trackSubpt": "",
+          "quarter": "",
+          "predecessor": "8.B.9",
+          "successor": "8.B.11",
+          "inactive": true,
+          "title": "",
+          "description": {
+            "state": "#unknown",
+            "value": ""
+          },
+          "mapPosition": {
+            "state": "#unknown",
+            "value": []
+          },
+          "buildings": {
+            "state": "#unknown"
+          },
+          "info": {
+            "state": "#unknown"
+          },
+          "notes": "",
+          "wiki": {
+            "state": "#unknown"
+          },
+          "monumentNo": {
+            "state": "#unknown"
+          }
+        },
+        "8.B.11": {
+          "trackPoint": 11,
+          "trackSubpt": "",
+          "quarter": "",
+          "predecessor": "8.B.10",
+          "successor": "8.B.12",
+          "inactive": true,
+          "title": "",
+          "description": {
+            "state": "#unknown",
+            "value": ""
+          },
+          "mapPosition": {
+            "state": "#unknown",
+            "value": []
+          },
+          "buildings": {
+            "state": "#unknown"
+          },
+          "info": {
+            "state": "#unknown"
+          },
+          "notes": "",
+          "wiki": {
+            "state": "#unknown"
+          },
+          "monumentNo": {
+            "state": "#unknown"
+          }
+        },
+        "8.B.12": {
+          "trackPoint": 12,
+          "trackSubpt": "",
+          "quarter": "",
+          "predecessor": "8.B.11",
+          "successor": "",
+          "inactive": true,
+          "title": "",
+          "description": {
+            "state": "#unknown",
+            "value": ""
+          },
+          "mapPosition": {
+            "state": "#unknown",
+            "value": []
+          },
+          "buildings": {
+            "state": "#unknown"
+          },
+          "info": {
+            "state": "#unknown"
+          },
+          "notes": "",
+          "wiki": {
+            "state": "#unknown"
+          },
+          "monumentNo": {
+            "state": "#unknown"
+          }
+        }
+      }
+    },
     "9.1": {
       "boroughNo": 9,
       "borough": "Mülheim",
@@ -985,7 +8291,7 @@
             "value": "K%C3%B6lner_Brunnen#Rechtsrheinisch"
           },
           "monumentNo": {
-            "state": "ok",
+            "state": "#ok",
             "value": 674
           }
         },
@@ -1027,7 +8333,7 @@
           "successor": "9.1.5",
           "title": "Grün&shy;der&shy;zeit&shy;li&shy;che Wohn&shy;bau&shy;ten, St. An&shy;to&shy;ni&shy;us&shy;kir&shy;che",
           "description": {
-            "state": "#na",
+            "state": "#n/a",
             "value": ""
           },
           "mapPosition": {
@@ -1358,6 +8664,36 @@
       "color": "",
       "inactive": true,
       "points": {
+        "9.2.0": {
+          "trackPoint": 0,
+          "trackSubpt": "",
+          "quarter": "",
+          "predecessor": "",
+          "successor": "9.2.15",
+          "inactive": true,
+          "title": "Start",
+          "description": {
+            "state": "#unknown",
+            "value": ""
+          },
+          "mapPosition": {
+            "state": "#unknown",
+            "value": [ ]
+          },
+          "buildings": {
+            "state": "#unknown"
+          },
+          "info": {
+            "state": "#unknown"
+          },
+          "notes": "",
+          "wiki": {
+            "state": "#unknown"
+          },
+          "monumentNo": {
+            "state": "#unknown"
+          }
+        },
         "9.2.15": {
           "trackPoint": 15,
           "trackSubpt": "",
@@ -1575,7 +8911,7 @@
           "predecessor": "9.2.21",
           "successor": "9.2.23",
           "inactive": true,
-          "title": "Hochmittelalterliche Niederungsburg beim ehemaligen Hof Kurtekotten (???)",
+          "title": "Hochmittelalterliche Niederungsburg beim ehemaligen Hof Kurtekotten",
           "description": {
             "state": "#unknown",
             "value": ""
@@ -1605,7 +8941,7 @@
           "predecessor": "9.2.22",
           "successor": "9.2.24",
           "inactive": true,
-          "title": "Kunstfeld (???)",
+          "title": "Kunstfeld",
           "description": {
             "state": "#unknown",
             "value": ""
@@ -1757,6 +9093,36 @@
       "color": "",
       "inactive": true,
       "points": {
+        "9.3.0": {
+          "trackPoint": 0,
+          "trackSubpt": "",
+          "quarter": "",
+          "predecessor": "",
+          "successor": "9.3.28",
+          "inactive": true,
+          "title": "Start",
+          "description": {
+            "state": "#unknown",
+            "value": ""
+          },
+          "mapPosition": {
+            "state": "#unknown",
+            "value": [ ]
+          },
+          "buildings": {
+            "state": "#unknown"
+          },
+          "info": {
+            "state": "#unknown"
+          },
+          "notes": "",
+          "wiki": {
+            "state": "#unknown"
+          },
+          "monumentNo": {
+            "state": "#unknown"
+          }
+        },
         "9.3.28": {
           "trackPoint": 28,
           "trackSubpt": "",
@@ -1946,6 +9312,36 @@
       "color": "",
       "inactive": true,
       "points": {
+        "9.4.0": {
+          "trackPoint": 0,
+          "trackSubpt": "",
+          "quarter": "",
+          "predecessor": "",
+          "successor": "9.4.34",
+          "inactive": true,
+          "title": "Start",
+          "description": {
+            "state": "#unknown",
+            "value": ""
+          },
+          "mapPosition": {
+            "state": "#unknown",
+            "value": [ ]
+          },
+          "buildings": {
+            "state": "#unknown"
+          },
+          "info": {
+            "state": "#unknown"
+          },
+          "notes": "",
+          "wiki": {
+            "state": "#unknown"
+          },
+          "monumentNo": {
+            "state": "#unknown"
+          }
+        },
         "9.4.34": {
           "trackPoint": 34,
           "trackSubpt": "",
@@ -2256,6 +9652,36 @@
       "color": "",
       "inactive": true,
       "points": {
+        "9.5.0": {
+          "trackPoint": 0,
+          "trackSubpt": "",
+          "quarter": "",
+          "predecessor": "",
+          "successor": "9.5.44",
+          "inactive": true,
+          "title": "Start",
+          "description": {
+            "state": "#unknown",
+            "value": ""
+          },
+          "mapPosition": {
+            "state": "#unknown",
+            "value": [ ]
+          },
+          "buildings": {
+            "state": "#unknown"
+          },
+          "info": {
+            "state": "#unknown"
+          },
+          "notes": "",
+          "wiki": {
+            "state": "#unknown"
+          },
+          "monumentNo": {
+            "state": "#unknown"
+          }
+        },
         "9.5.44": {
           "trackPoint": 44,
           "trackSubpt": "",
