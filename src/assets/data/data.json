@@ -428,7 +428,7 @@
         "2.2.1": {
           "trackPoint": 1,
           "trackSubpt": "",
-          "quarter": "",
+          "quarter": "Zollstock",
           "predecessor": "2.2.0",
           "successor": "2.2.2",
           "inactive": true,
@@ -458,7 +458,7 @@
         "2.2.2": {
           "trackPoint": 2,
           "trackSubpt": "",
-          "quarter": "",
+          "quarter": "Zollstock",
           "predecessor": "2.2.1",
           "successor": "2.2.3",
           "inactive": true,
@@ -488,7 +488,7 @@
         "2.2.3": {
           "trackPoint": 3,
           "trackSubpt": "",
-          "quarter": "",
+          "quarter": "Zollstock",
           "predecessor": "2.2.2",
           "successor": "2.2.4",
           "inactive": true,
@@ -518,7 +518,7 @@
         "2.2.4": {
           "trackPoint": 4,
           "trackSubpt": "",
-          "quarter": "",
+          "quarter": "Zollstock",
           "predecessor": "2.2.3",
           "successor": "2.2.5",
           "inactive": true,
@@ -548,7 +548,7 @@
         "2.2.5": {
           "trackPoint": 5,
           "trackSubpt": "",
-          "quarter": "",
+          "quarter": "Zollstock",
           "predecessor": "2.2.4",
           "successor": "2.2.6",
           "inactive": true,
@@ -578,7 +578,7 @@
         "2.2.6": {
           "trackPoint": 6,
           "trackSubpt": "",
-          "quarter": "",
+          "quarter": "Zollstock",
           "predecessor": "2.2.5",
           "successor": "2.2.7",
           "inactive": true,
@@ -639,7 +639,7 @@
         "2.2.8": {
           "trackPoint": 8,
           "trackSubpt": "",
-          "quarter": "",
+          "quarter": "Zollstock",
           "predecessor": "2.2.7",
           "successor": "2.2.9",
           "inactive": true,
@@ -669,7 +669,7 @@
         "2.2.9": {
           "trackPoint": 9,
           "trackSubpt": "",
-          "quarter": "",
+          "quarter": "Raderthal",
           "predecessor": "2.2.8",
           "successor": "2.2.10",
           "inactive": true,
@@ -699,7 +699,7 @@
         "2.2.10": {
           "trackPoint": 10,
           "trackSubpt": "",
-          "quarter": "",
+          "quarter": "Raderthal",
           "predecessor": "2.2.9",
           "successor": "2.2.11",
           "inactive": true,
@@ -729,7 +729,7 @@
         "2.2.11": {
           "trackPoint": 11,
           "trackSubpt": "",
-          "quarter": "",
+          "quarter": "Raderthal",
           "predecessor": "2.2.10",
           "successor": "",
           "inactive": true,
@@ -756,8 +756,6 @@
             "state": "#unknown"
           }
         }
-
-
       }
     },
     "2.3": {
@@ -780,8 +778,8 @@
             "value": ""
           },
           "mapPosition": {
-            "state": "#unknown",
-            "value": []
+            "state": "#check",
+            "value": [ 6.9775286, 50.9066641 ]
           },
           "buildings": {
             "state": "#unknown"
@@ -800,7 +798,7 @@
         "2.3.1": {
           "trackPoint": 1,
           "trackSubpt": "",
-          "quarter": "",
+          "quarter": "Marienburg",
           "predecessor": "2.3.0",
           "successor": "2.3.2",
           "inactive": true,
@@ -810,8 +808,8 @@
             "value": ""
           },
           "mapPosition": {
-            "state": "#unknown",
-            "value": []
+            "state": "#check",
+            "value": [ 6.9771879, 50.9065304 ]
           },
           "buildings": {
             "state": "#unknown"
@@ -830,7 +828,7 @@
         "2.3.2": {
           "trackPoint": 2,
           "trackSubpt": "",
-          "quarter": "",
+          "quarter": "Marienburg",
           "predecessor": "2.3.1",
           "successor": "2.3.3",
           "inactive": true,
@@ -840,8 +838,8 @@
             "value": ""
           },
           "mapPosition": {
-            "state": "#unknown",
-            "value": []
+            "state": "#check",
+            "value": [ 6.973889, 50.9051519 ]
           },
           "buildings": {
             "state": "#unknown"
@@ -851,7 +849,8 @@
           },
           "notes": "",
           "wiki": {
-            "state": "#unknown"
+            "state": "#ok",
+            "value": "Villenkolonie_Köln-Marienburg"
           },
           "monumentNo": {
             "state": "#unknown"
@@ -860,18 +859,18 @@
         "2.3.3": {
           "trackPoint": 3,
           "trackSubpt": "",
-          "quarter": "",
+          "quarter": "Marienburg",
           "predecessor": "2.3.2",
           "successor": "2.3.4",
           "inactive": true,
-          "title": "Marienburger Straße 11 und die \"Marienburg\"",
+          "title": "Marienburger Str. 11 und die &quot;Marienburg&quot;",
           "description": {
             "state": "#unknown",
             "value": ""
           },
           "mapPosition": {
-            "state": "#unknown",
-            "value": []
+            "state": "#check",
+            "value": [ 6.978558946834916, 50.90225039952023 ]
           },
           "buildings": {
             "state": "#unknown"
@@ -890,7 +889,7 @@
         "2.3.4": {
           "trackPoint": 4,
           "trackSubpt": "",
-          "quarter": "",
+          "quarter": "Marienburg",
           "predecessor": "2.3.3",
           "successor": "2.3.5",
           "inactive": true,
@@ -900,8 +899,8 @@
             "value": ""
           },
           "mapPosition": {
-            "state": "#unknown",
-            "value": []
+            "state": "#check",
+            "value": [ 6.977727, 50.9009304 ]
           },
           "buildings": {
             "state": "#unknown"
@@ -920,7 +919,7 @@
         "2.3.5": {
           "trackPoint": 5,
           "trackSubpt": "",
-          "quarter": "",
+          "quarter": "Marienburg",
           "predecessor": "2.3.4",
           "successor": "2.3.6",
           "inactive": true,
@@ -930,8 +929,8 @@
             "value": ""
           },
           "mapPosition": {
-            "state": "#unknown",
-            "value": []
+            "state": "#check",
+            "value": [ 6.9821429, 50.8987378 ]
           },
           "buildings": {
             "state": "#unknown"
@@ -950,7 +949,7 @@
         "2.3.6": {
           "trackPoint": 6,
           "trackSubpt": "",
-          "quarter": "",
+          "quarter": "Marienburg",
           "predecessor": "2.3.5",
           "successor": "2.3.7",
           "inactive": true,
@@ -960,8 +959,8 @@
             "value": ""
           },
           "mapPosition": {
-            "state": "#unknown",
-            "value": []
+            "state": "#check",
+            "value": [ 6.9674690064341, 50.89430467480777 ]
           },
           "buildings": {
             "state": "#unknown"
@@ -980,7 +979,7 @@
         "2.3.7": {
           "trackPoint": 7,
           "trackSubpt": "",
-          "quarter": "",
+          "quarter": "Marienburg",
           "predecessor": "2.3.6",
           "successor": "2.3.8",
           "inactive": true,
@@ -990,8 +989,8 @@
             "value": ""
           },
           "mapPosition": {
-            "state": "#unknown",
-            "value": []
+            "state": "#check",
+            "value": [ 6.9720697, 50.8959464 ]
           },
           "buildings": {
             "state": "#unknown"
@@ -1010,7 +1009,7 @@
         "2.3.8": {
           "trackPoint": 8,
           "trackSubpt": "",
-          "quarter": "",
+          "quarter": "Marienburg",
           "predecessor": "2.3.7",
           "successor": "2.3.9",
           "inactive": true,
@@ -1020,8 +1019,8 @@
             "value": ""
           },
           "mapPosition": {
-            "state": "#unknown",
-            "value": []
+            "state": "#check",
+            "value": [ 6.9720708, 50.897366 ]
           },
           "buildings": {
             "state": "#unknown"
@@ -1040,7 +1039,7 @@
         "2.3.9": {
           "trackPoint": 9,
           "trackSubpt": "",
-          "quarter": "",
+          "quarter": "Marienburg",
           "predecessor": "2.3.8",
           "successor": "2.3.10",
           "inactive": true,
@@ -1050,8 +1049,8 @@
             "value": ""
           },
           "mapPosition": {
-            "state": "#unknown",
-            "value": []
+            "state": "#check",
+            "value": [ 6.9699772, 50.9019877 ]
           },
           "buildings": {
             "state": "#unknown"
@@ -1070,7 +1069,7 @@
         "2.3.10": {
           "trackPoint": 10,
           "trackSubpt": "",
-          "quarter": "",
+          "quarter": "Marienburg",
           "predecessor": "2.3.9",
           "successor": "",
           "inactive": true,
@@ -1080,8 +1079,8 @@
             "value": ""
           },
           "mapPosition": {
-            "state": "#unknown",
-            "value": []
+            "state": "#check",
+            "value": [ 6.971805301704725, 50.904102715717514 ]
           },
           "buildings": {
             "state": "#unknown"
@@ -1543,7 +1542,7 @@
         "2.5.1": {
           "trackPoint": 1,
           "trackSubpt": "",
-          "quarter": "",
+          "quarter": "Hahnwald",
           "predecessor": "2.5.0",
           "successor": "2.5.2",
           "inactive": true,
@@ -1573,7 +1572,7 @@
         "2.5.2": {
           "trackPoint": 2,
           "trackSubpt": "",
-          "quarter": "",
+          "quarter": "Godorf",
           "predecessor": "2.5.1",
           "successor": "2.5.3",
           "inactive": true,
@@ -1603,7 +1602,7 @@
         "2.5.3": {
           "trackPoint": 3,
           "trackSubpt": "",
-          "quarter": "",
+          "quarter": "Godorf",
           "predecessor": "2.5.2",
           "successor": "2.5.4",
           "inactive": true,
@@ -1633,7 +1632,7 @@
         "2.5.4": {
           "trackPoint": 4,
           "trackSubpt": "",
-          "quarter": "",
+          "quarter": "Sürth",
           "predecessor": "2.5.3",
           "successor": "2.5.5",
           "inactive": true,
@@ -1663,7 +1662,7 @@
         "2.5.5": {
           "trackPoint": 5,
           "trackSubpt": "",
-          "quarter": "",
+          "quarter": "Sürth",
           "predecessor": "2.5.4",
           "successor": "2.5.6",
           "inactive": true,
@@ -1693,7 +1692,7 @@
         "2.5.6": {
           "trackPoint": 6,
           "trackSubpt": "",
-          "quarter": "",
+          "quarter": "Sürth",
           "predecessor": "2.5.5",
           "successor": "2.5.7",
           "inactive": true,
@@ -1723,7 +1722,7 @@
         "2.5.7": {
           "trackPoint": 7,
           "trackSubpt": "",
-          "quarter": "",
+          "quarter": "Weiß",
           "predecessor": "2.5.6",
           "successor": "2.5.8",
           "inactive": true,
@@ -1753,7 +1752,7 @@
         "2.5.8": {
           "trackPoint": 8,
           "trackSubpt": "",
-          "quarter": "",
+          "quarter": "Weiß",
           "predecessor": "2.5.7",
           "successor": "",
           "inactive": true,
@@ -2989,18 +2988,18 @@
         "3.3neu.1": {
           "trackPoint": 1,
           "trackSubpt": "",
-          "quarter": "",
+          "quarter": "Müngersdorf",
           "predecessor": "3.3neu.0",
           "successor": "3.3neu.2",
           "inactive": true,
-          "title": "St. Vitalis | Pfarrhaus",
+          "title": "St. Vitalis und Pfarrhaus",
           "description": {
-            "state": "#unknown",
-            "value": ""
+            "state": "#check",
+            "value": "1889/90 wurde die heutige Kirche, eine der ersten neuromanischen Kirchen Kölns, nach Plänen des Architekten Theodor Kremer errichtet. Neben der Kirche befindet sich das 1880 als Backsteinbau errichtete Pfarrhaus."
           },
           "mapPosition": {
-            "state": "#unknown",
-            "value": []
+            "state": "#check",
+            "value": [ 6.87951744, 50.9399976 ]
           },
           "buildings": {
             "state": "#unknown"
@@ -3019,18 +3018,18 @@
         "3.3neu.2": {
           "trackPoint": 2,
           "trackSubpt": "",
-          "quarter": "",
+          "quarter": "Müngersdorf",
           "predecessor": "3.3neu.1",
           "successor": "3.3neu.3",
           "inactive": true,
           "title": "Kirchenhof",
           "description": {
-            "state": "#unknown",
-            "value": ""
+            "state": "#check",
+            "value": "Von 1261 bis 1803 gehörte der Kirchenhof zu den Besitztümern der Zisterzienser-Abtei Altenberg.Das Herrenhaus mit Schopfwalmdach, dessen Inneres fast unverändert erhalten ist, datiert aus dem Jahr 1774. Nach der Säkularisation (1803) kam der Hof in Privatbesitz."
           },
           "mapPosition": {
-            "state": "#unknown",
-            "value": []
+            "state": "#check",
+            "value": [ 6.87985995, 50.9394463 ]
           },
           "buildings": {
             "state": "#unknown"
@@ -3049,18 +3048,18 @@
         "3.3neu.3": {
           "trackPoint": 3,
           "trackSubpt": "",
-          "quarter": "",
+          "quarter": "Müngersdorf",
           "predecessor": "3.3neu.2",
           "successor": "3.3neu.4",
           "inactive": true,
           "title": "Haus Fenger-Schöngen",
           "description": {
-            "state": "#unknown",
-            "value": ""
+            "state": "#check",
+            "value": "Die ursprünglich in Fachwerk und Backstein errichtete Anlage stammt aus dem 19. Jahrhundert."
           },
           "mapPosition": {
-            "state": "#unknown",
-            "value": []
+            "state": "#check",
+            "value": [ 6.87863688, 50.9399296 ]
           },
           "buildings": {
             "state": "#unknown"
@@ -3079,18 +3078,18 @@
         "3.3neu.4": {
           "trackPoint": 4,
           "trackSubpt": "",
-          "quarter": "",
+          "quarter": "Müngersdorf",
           "predecessor": "3.3neu.3",
           "successor": "3.3neu.5",
           "inactive": true,
           "title": "Marienhof",
           "description": {
-            "state": "#unknown",
-            "value": ""
+            "state": "#check",
+            "value": "Der traufständige Backsteinbau ist das Herrenhaus des ehemaligen  Petershofes, der in früheren Urkunden auch Marienhof oder Liebfrauenhof genannt wird. Das spätbarocke Herrenhaus datiert von 1792."
           },
           "mapPosition": {
-            "state": "#unknown",
-            "value": []
+            "state": "#check",
+            "value": [ 6.87878, 50.94042 ]
           },
           "buildings": {
             "state": "#unknown"
@@ -3109,18 +3108,18 @@
         "3.3neu.5": {
           "trackPoint": 5,
           "trackSubpt": "",
-          "quarter": "",
+          "quarter": "Müngersdorf",
           "predecessor": "3.3neu.4",
           "successor": "3.3neu.6",
           "inactive": true,
-          "title": "Stadtvillen (Belvederestraße 20, 22, 24)",
+          "title": "Stadtvillen",
           "description": {
-            "state": "#unknown",
-            "value": ""
+            "state": "#check",
+            "value": "In direkter Nachbarschaft von kleinen Wohnhäusern und großen Hofanlagen entstanden Anfang des 20. Jahrhunderts die Häuser Belvederestraße 20, 22 und 24, aber auch andere Stadtvillen im alten Ortskern."
           },
           "mapPosition": {
-            "state": "#unknown",
-            "value": []
+            "state": "#check",
+            "value": [ 6.8777001, 50.9410432 ]
           },
           "buildings": {
             "state": "#unknown"
@@ -3139,18 +3138,18 @@
         "3.3neu.6": {
           "trackPoint": 6,
           "trackSubpt": "",
-          "quarter": "",
+          "quarter": "Müngersdorf",
           "predecessor": "3.3neu.5",
           "successor": "3.3neu.7",
           "inactive": true,
-          "title": "Petershof (Belvederestraße 17)",
+          "title": "Petershof",
           "description": {
-            "state": "#unknown",
-            "value": ""
+            "state": "#check",
+            "value": "Die in Backstein errichtete geschlossene Hofanlage wurde 1896 errichtet. Seit 1926 gehört der Hof der Stadt Köln und beherbergt seit 1945 eine städtische Kindertagesstätte."
           },
           "mapPosition": {
-            "state": "#unknown",
-            "value": []
+            "state": "#check",
+            "value": [ 6.87737703, 50.9405283 ]
           },
           "buildings": {
             "state": "#unknown"
@@ -3169,18 +3168,18 @@
         "3.3neu.7": {
           "trackPoint": 7,
           "trackSubpt": "",
-          "quarter": "",
+          "quarter": "Müngersdorf",
           "predecessor": "3.3neu.6",
           "successor": "3.3neu.8",
           "inactive": true,
           "title": "Haus Josef Haubrich",
           "description": {
-            "state": "#unknown",
-            "value": ""
+            "state": "#check",
+            "value": "Dieses markante Wohnhaus erbaute Wilhelm Riphahn in den Jahren 1951/52 im Bauhaus-Stil der 1920er-Jahre für den bedeutenden Kölner Rechtsanwalt und Kunstsammler Josef Haubrich (1889 bis 1961)."
           },
           "mapPosition": {
-            "state": "#unknown",
-            "value": []
+            "state": "#check",
+            "value": [ 6.87543, 50.93993 ]
           },
           "buildings": {
             "state": "#unknown"
@@ -3199,18 +3198,18 @@
         "3.3neu.8": {
           "trackPoint": 8,
           "trackSubpt": "",
-          "quarter": "",
+          "quarter": "Müngersdorf",
           "predecessor": "3.3neu.7",
           "successor": "3.3neu.9",
           "inactive": true,
           "title": "Pesche Hüsje",
           "description": {
-            "state": "#unknown",
-            "value": ""
+            "state": "#check",
+            "value": "Fachwerkhäuser dieser Bauweise und Größe, in denen hauptsächlich Landarbeiter und Handwerker wohnten, waren einst ortsprägend für Müngersdorf. Errichtet wurde das &quot;Pesche Hüsje&quot; entweder um 1640 oder um 1710. Damit gehört es zu den ältesten Wohnhäusern Kölns."
           },
           "mapPosition": {
-            "state": "#unknown",
-            "value": []
+            "state": "#check",
+            "value": [ 6.87538, 50.94181 ]
           },
           "buildings": {
             "state": "#unknown"
@@ -3229,18 +3228,18 @@
         "3.3neu.9": {
           "trackPoint": 9,
           "trackSubpt": "",
-          "quarter": "",
+          "quarter": "Müngersdorf",
           "predecessor": "3.3neu.8",
           "successor": "3.3neu.10",
           "inactive": true,
           "title": "Haus und Büro O.M. Ungers",
           "description": {
-            "state": "#unknown",
-            "value": ""
+            "state": "#check",
+            "value": "1958/59 baute der Architekt Oswald Mathias Ungers (1926 bis 2007) sein Wohnhaus mit zwei Einliegerwohnungen und einem Büro. Zur Quadrather Straße schließt sich seit 1990 der Bibliothekskubus aus Basaltlava an. Hier befindet sich das &quot;Ungers Archiv für Architekturwissenschaft (UAA)&quot;."
           },
           "mapPosition": {
-            "state": "#unknown",
-            "value": []
+            "state": "#check",
+            "value": [ 6.87504, 50.94264 ]
           },
           "buildings": {
             "state": "#unknown"
@@ -3259,18 +3258,18 @@
         "3.3neu.10": {
           "trackPoint": 10,
           "trackSubpt": "",
-          "quarter": "",
+          "quarter": "Müngersdorf",
           "predecessor": "3.3neu.9",
           "successor": "3.3neu.11",
           "inactive": true,
           "title": "Das Haus ohne Eigenschaften",
           "description": {
-            "state": "#unknown",
-            "value": ""
+            "state": "#check",
+            "value": "1994 bis 96 errichtete Oswald Mathias Ungers hier für sich sein letztes Wohnhaus als architektonisches Manifest. Heute ist das Haus Sitz der &quot;Dr. Speck Literaturstiftung&quot;."
           },
           "mapPosition": {
-            "state": "#unknown",
-            "value": []
+            "state": "#check",
+            "value": [ 6.87297, 50.94315 ]
           },
           "buildings": {
             "state": "#unknown"
@@ -3289,18 +3288,18 @@
         "3.3neu.11": {
           "trackPoint": 11,
           "trackSubpt": "",
-          "quarter": "",
+          "quarter": "Müngersdorf",
           "predecessor": "3.3neu.10",
           "successor": "3.3neu.12",
           "inactive": true,
           "title": "Haus Hildegard Domizlaff",
           "description": {
-            "state": "#unknown",
-            "value": ""
+            "state": "#check",
+            "value": "Der Architekt Theodor Edwin Merrill errichtete dieses Wohnhaus mit zwei Ateliers 1929 für die Bildhauerin Hildegard Domizlaff (1898 bis 1987) und die Malerin Helen Wiehen."
           },
           "mapPosition": {
-            "state": "#unknown",
-            "value": []
+            "state": "#check",
+            "value": [ 6.87329, 50.94416 ]
           },
           "buildings": {
             "state": "#unknown"
@@ -3319,18 +3318,18 @@
         "3.3neu.12": {
           "trackPoint": 12,
           "trackSubpt": "",
-          "quarter": "",
+          "quarter": "Müngersdorf",
           "predecessor": "3.3neu.11",
           "successor": "3.3neu.13",
           "inactive": true,
           "title": "Bahnhof Belvedere (Belvederestraße 147)",
           "description": {
-            "state": "#unknown",
-            "value": ""
+            "state": "#check",
+            "value": "Der am 2. August 1839 eröffnete Bahnhof Belvedere, heute das älteste erhaltene Bahnhofsgebäude Deutschlands, ist die erste Station der weltweit ältes-ten grenzüberschreitenden Eisenbahnstrecke Köln\\u2013Antwerpen."
           },
           "mapPosition": {
-            "state": "#unknown",
-            "value": []
+            "state": "#check",
+            "value": [ 6.87161, 50.94699 ]
           },
           "buildings": {
             "state": "#unknown"
@@ -3349,18 +3348,18 @@
         "3.3neu.13": {
           "trackPoint": 13,
           "trackSubpt": "",
-          "quarter": "",
+          "quarter": "Müngersdorf",
           "predecessor": "3.3neu.12",
           "successor": "3.3neu.14",
           "inactive": true,
           "title": "Haus Gerhard Marcks",
           "description": {
-            "state": "#unknown",
-            "value": ""
+            "state": "#check",
+            "value": "Dies war das Wohn- und Atelierhaus des Bildhauers und Bauhausmeisters Gerhard Marcks (1889 bis1981), das 1948/50 von Wilhelm Riphahn errichtet wurde."
           },
           "mapPosition": {
-            "state": "#unknown",
-            "value": []
+            "state": "#check",
+            "value": [ 6.86926603, 50.9469639 ]
           },
           "buildings": {
             "state": "#unknown"
@@ -3379,18 +3378,18 @@
         "3.3neu.14": {
           "trackPoint": 14,
           "trackSubpt": "",
-          "quarter": "",
+          "quarter": "Müngersdorf",
           "predecessor": "3.3neu.13",
           "successor": "3.3neu.15",
           "inactive": true,
-          "title": "Freiluga | Zwischenwerk Va",
+          "title": "Freiluga / Zwischenwerk Va",
           "description": {
-            "state": "#unknown",
-            "value": ""
+            "state": "#check",
+            "value": "Auf dem Gelände des Zwischenwerks Va des ehemaligen preußischen Festungsrings entstand auf Initiative des Stadtschulrats Fritz Schu im  Jahr 1925 die Städtische Freiluft- und Gartenarbeitsschule (Freiluga)."
           },
           "mapPosition": {
-            "state": "#unknown",
-            "value": []
+            "state": "#check",
+            "value": [ 6.86927, 50.94828 ]
           },
           "buildings": {
             "state": "#unknown"
@@ -3409,18 +3408,18 @@
         "3.3neu.15": {
           "trackPoint": 15,
           "trackSubpt": "",
-          "quarter": "",
+          "quarter": "Müngersdorf",
           "predecessor": "3.3neu.14",
           "successor": "3.3neu.16",
           "inactive": true,
           "title": "Schule",
           "description": {
-            "state": "#unknown",
-            "value": ""
+            "state": "#check",
+            "value": "Der mächtige Putzbau mit Backstein- und Fachwerkgliederungen ist in  seiner Architektur an den &quot;romantisch&quot; gruppierten spätmittelalterlichen Burgenbau angelehnt."
           },
           "mapPosition": {
-            "state": "#unknown",
-            "value": []
+            "state": "#check",
+            "value": [ 6.87968, 50.94102 ]
           },
           "buildings": {
             "state": "#unknown"
@@ -3439,18 +3438,18 @@
         "3.3neu.16": {
           "trackPoint": 16,
           "trackSubpt": "",
-          "quarter": "",
+          "quarter": "Müngersdorf",
           "predecessor": "3.3neu.15",
           "successor": "3.3neu.17",
           "inactive": true,
           "title": "Hof Im St. Wendelin",
           "description": {
-            "state": "#unknown",
-            "value": ""
+            "state": "#check",
+            "value": "Dieses zweigeschossige Fachwerk-gebäude aus dem Anfang des 18. Jahrhunderts gehört zu den ältesten erhaltenen Gebäuden in Müngersdorf und wurde schon früh als Bauernschänke und Pferdetränke genutzt."
           },
           "mapPosition": {
-            "state": "#unknown",
-            "value": []
+            "state": "#check",
+            "value": [ 6.8791, 50.94143 ]
           },
           "buildings": {
             "state": "#unknown"
@@ -3469,18 +3468,18 @@
         "3.3neu.17": {
           "trackPoint": 17,
           "trackSubpt": "",
-          "quarter": "",
+          "quarter": "Müngersdorf",
           "predecessor": "3.3neu.16",
           "successor": "3.3neu.18",
           "inactive": true,
-          "title": "Hermannshof | Hofgut Hartzheim",
+          "title": "Hermannshof / Hofgut Hartzheim",
           "description": {
-            "state": "#unknown",
-            "value": ""
+            "state": "#check",
+            "value": "Um 1870 ließ Heinrich Hartzheim den Hof in Backstein als geschlossene Hofanlage neu erbauen."
           },
           "mapPosition": {
-            "state": "#unknown",
-            "value": []
+            "state": "#check",
+            "value": [ 6.87912708, 50.9419348 ]
           },
           "buildings": {
             "state": "#unknown"
@@ -3499,18 +3498,18 @@
         "3.3neu.18": {
           "trackPoint": 18,
           "trackSubpt": "",
-          "quarter": "",
+          "quarter": "Müngersdorf",
           "predecessor": "3.3neu.17",
           "successor": "",
           "inactive": true,
           "title": "Gashäuser",
           "description": {
-            "state": "#unknown",
-            "value": ""
+            "state": "#check",
+            "value": "Acht Gebäudeeinheiten wurden in unterschiedlicher Komposition aus Backsteinmauerwerk, gelben und roten Klinkern, verputzten Wandstücken und Fachwerk zusammengefügt."
           },
           "mapPosition": {
-            "state": "#unknown",
-            "value": []
+            "state": "#check",
+            "value": [ 6.88546, 50.94693 ]
           },
           "buildings": {
             "state": "#unknown"
@@ -4194,21 +4193,21 @@
         "7.1.1": {
           "trackPoint": 1,
           "trackSubpt": "",
-          "quarter": "",
+          "quarter": "Libur",
           "predecessor": "7.1.0",
           "successor": "7.1.2",
           "inactive": true,
           "title": "Urbanuskreuz",
           "description": {
-            "state": "#unknown",
-            "value": ""
+            "state": "#ok",
+            "value": "Das Urbanuskreuz von 1729 an der Urbanusstraße mit Roßkastanien als Begleitbäumen ist dem hl. Urban, dem Schutzpatron der Weinreben gewidmet."
           },
           "mapPosition": {
-            "state": "#unknown",
-            "value": []
+            "state": "#check",
+            "value": [ 7.064892, 50.84439 ]
           },
           "buildings": {
-            "state": "#unknown"
+            "state": "#n/a"
           },
           "info": {
             "state": "#unknown"
@@ -4224,21 +4223,21 @@
         "7.1.2": {
           "trackPoint": 2,
           "trackSubpt": "",
-          "quarter": "",
+          "quarter": "Libur",
           "predecessor": "7.1.1",
           "successor": "7.1.3",
           "inactive": true,
           "title": "Stompeler Kreuz",
           "description": {
-            "state": "#unknown",
-            "value": ""
+            "state": "#ok",
+            "value": "An der Ecke zum Liburger Weg steht das Stompeler Kreuz, ein typisches Feldkreuz von 1906, mit 3 Roßkastanien als Begleitbäumen."
           },
           "mapPosition": {
-            "state": "#unknown",
-            "value": []
+            "state": "#check",
+            "value": [ 7.065319, 50.840288 ]
           },
           "buildings": {
-            "state": "#unknown"
+            "state": "#n/a"
           },
           "info": {
             "state": "#unknown"
@@ -4254,21 +4253,21 @@
         "7.1.3": {
           "trackPoint": 3,
           "trackSubpt": "",
-          "quarter": "",
+          "quarter": "Libur",
           "predecessor": "7.1.2",
           "successor": "7.1.4",
           "inactive": true,
           "title": "Bröhls Kreuz",
           "description": {
-            "state": "#unknown",
-            "value": ""
+            "state": "#ok",
+            "value": "Mitten in Libur steht Bröhls Kreuz von 1882 an der Kreuzung Stockumer Weg/Freiheit mit 2 Holländischen Linden als Begleitbäumen. Das Ensemble markiert die Südseite der Allmende."
           },
           "mapPosition": {
-            "state": "#unknown",
-            "value": []
+              "state": "#check",
+              "value": [ 7.070169, 50.836923 ]
           },
           "buildings": {
-            "state": "#unknown"
+            "state": "#n/a"
           },
           "info": {
             "state": "#unknown"
@@ -4284,21 +4283,21 @@
         "7.1.4": {
           "trackPoint": 4,
           "trackSubpt": "",
-          "quarter": "",
+          "quarter": "Libur",
           "predecessor": "7.1.3",
           "successor": "7.1.5",
           "inactive": true,
           "title": "Hölser Kreuz",
           "description": {
-            "state": "#unknown",
-            "value": ""
+            "state": "#ok",
+            "value": "Das Hölser Kreuz, gestiftet 1787, steht an der alten Wegverbindung von Uckendorf über Stockum nach Spich. Es markiert vermutl. eine alte Besitz- oder Verwaltungsgrenze. Die Begleitbäume sind Naturdenkmäler."
           },
           "mapPosition": {
-            "state": "#unknown",
-            "value": []
+              "state": "#check",
+              "value": [ 7.073233, 50.834832 ]
           },
           "buildings": {
-            "state": "#unknown"
+            "state": "#n/a"
           },
           "info": {
             "state": "#unknown"
@@ -4314,18 +4313,18 @@
         "7.1.5": {
           "trackPoint": 5,
           "trackSubpt": "",
-          "quarter": "",
+          "quarter": "Libur",
           "predecessor": "7.1.4",
           "successor": "7.1.6",
           "inactive": true,
           "title": "Pastor-Huthmacher-Straße",
           "description": {
-            "state": "#unknown",
-            "value": ""
+            "state": "#ok",
+            "value": "Die Pastor-Huthmacher-Straße weist noch Zeugnisse der typischen älteren Bebauung (Ende 19. Jh.) des Weilers Libur auf (Nr. 2, 10, 16, 22)."
           },
           "mapPosition": {
-            "state": "#unknown",
-            "value": []
+            "state": "#check",
+            "value": [ 7.069228, 50.837552 ]
           },
           "buildings": {
             "state": "#unknown"
@@ -4344,18 +4343,18 @@
         "7.1.6": {
           "trackPoint": 6,
           "trackSubpt": "",
-          "quarter": "",
+          "quarter": "Libur",
           "predecessor": "7.1.5",
           "successor": "7.1.7",
           "inactive": true,
           "title": "St. Margareta",
           "description": {
-            "state": "#unknown",
-            "value": ""
+            "state": "#ok",
+            "value": "Katholische Pfarrkirche St. Margareta an der Pastor-Huthmacher-Straße, erbaut 1909–1911 nach Plänen des Architekten Huthmacher, eine neugotische dreischiffige Backsteinbasilika, deren ursprüngl. Innenausstattung (steinerne Altäre, Kanzel, Orgelempore, Fenster, Skulpturen) gut erhalten geblieben ist. 1981 nach denkmalpflegerischen Gesichtspunkten restauriert. Neben der Kirche der alte Friedhof mit bis auf das Jahr 1650 zurückgehenden Grabsteinen."
           },
           "mapPosition": {
-            "state": "#unknown",
-            "value": []
+            "state": "#check",
+            "value": [ 7.069542, 50.837496 ]
           },
           "buildings": {
             "state": "#unknown"
@@ -4365,7 +4364,8 @@
           },
           "notes": "",
           "wiki": {
-            "state": "#unknown"
+            "state": "#ok",
+            "value": "St._Margareta_(K%C3%B6ln-Libur)"
           },
           "monumentNo": {
             "state": "#unknown"
@@ -4374,21 +4374,21 @@
         "7.1.7": {
           "trackPoint": 7,
           "trackSubpt": "",
-          "quarter": "",
+          "quarter": "Libur",
           "predecessor": "7.1.6",
           "successor": "7.1.8",
           "inactive": true,
           "title": "Margaretenkreuz",
           "description": {
-            "state": "#unknown",
-            "value": ""
+            "state": "#ok",
+            "value": "Das Margaretenkreuz wurde 1874 gestiftet."
           },
           "mapPosition": {
-            "state": "#unknown",
-            "value": []
+            "state": "#check",
+            "value": [ 7.069293, 50.838195 ]
           },
           "buildings": {
-            "state": "#unknown"
+            "state": "#n/a"
           },
           "info": {
             "state": "#unknown"
@@ -4404,18 +4404,18 @@
         "7.1.8": {
           "trackPoint": 8,
           "trackSubpt": "",
-          "quarter": "",
+          "quarter": "Libur",
           "predecessor": "7.1.7",
           "successor": "7.1.9",
           "inactive": true,
           "title": "Ensemble Kuxgasse 2, 8, 10",
           "description": {
-            "state": "#unknown",
-            "value": ""
+            "state": "#ok",
+            "value": "In der Kuxgasse hat sich das alte Liburer Ortsbild in einem Ensemble niedriger giebelständiger Häuser am besten erhalten: Margarethenhof (Nr. 2), eine erstmals 1492 erwähnte geschlossene Hofanlage mit Herrenhaus (um 1900); ein zweigeschossiges Fachwerkhaus (Nr. 8) vom Ende des 18. Jh. und eine kleine, heute veränderte Hofanlage aus dem 19. Jh. (Nr. 10)."
           },
           "mapPosition": {
-            "state": "#unknown",
-            "value": []
+            "state": "#check",
+            "value": [ 7.070730, 50.838070 ]
           },
           "buildings": {
             "state": "#unknown"
@@ -4434,18 +4434,18 @@
         "7.1.9": {
           "trackPoint": 9,
           "trackSubpt": "",
-          "quarter": "",
+          "quarter": "Libur",
           "predecessor": "7.1.8",
           "successor": "7.1.10",
           "inactive": true,
           "title": "Margaretenstraße",
           "description": {
-            "state": "#unknown",
-            "value": ""
+            "state": "#ok",
+            "value": "Am Schnittpunkt mit der Kuxgasse gelegen gehört der im 19. Jh. errichtete Fachwerkbau Margaretenstraße 14, Wohnhaus eines Kleingehöfes, zum erhaltenen historischen Bestand der typisch dörflichen Bebauung dieser Straße."
           },
           "mapPosition": {
-            "state": "#unknown",
-            "value": []
+            "state": "#check",
+            "value": [ 7.070876, 50.838766 ]
           },
           "buildings": {
             "state": "#unknown"
@@ -4464,18 +4464,18 @@
         "7.1.10": {
           "trackPoint": 10,
           "trackSubpt": "",
-          "quarter": "",
+          "quarter": "Lind",
           "predecessor": "7.1.9",
           "successor": "7.1.11",
           "inactive": true,
           "title": "Wegkreuz und Hofanlage",
           "description": {
-            "state": "#unknown",
-            "value": ""
+            "state": "#ok",
+            "value": "An der Frankfurter Straße/Ecke Am Linder Kreuz steht das 1842 von Alois Böcker, Bürgermeister v. Wahn u. Merheim und Gutsbesitzer zu Lind, gestiftete Kreuz. An die ländliche Vergangenheit Linds erinnert die kleine geschlossene Hofanlage aus der 2. Hälfte des 19. Jh. mit zweigeschossigem Wohnhaus (Am Linder Kreuz 72)."
           },
           "mapPosition": {
-            "state": "#unknown",
-            "value": []
+            "state": "#check",
+            "value": [7.095154 , 50.846079]
           },
           "buildings": {
             "state": "#unknown"
@@ -4794,7 +4794,7 @@
         "7.1.21": {
           "trackPoint": 21,
           "trackSubpt": "",
-          "quarter": "",
+          "quarter": "Urbach",
           "predecessor": "7.1.20",
           "successor": "7.1.22",
           "inactive": true,
@@ -4804,8 +4804,8 @@
             "value": ""
           },
           "mapPosition": {
-            "state": "#unknown",
-            "value": []
+            "state": "#check",
+            "value": [ 7.079091, 50.887771 ]
           },
           "buildings": {
             "state": "#unknown"
@@ -4824,18 +4824,18 @@
         "7.1.22": {
           "trackPoint": 22,
           "trackSubpt": "",
-          "quarter": "",
+          "quarter": "Urbach",
           "predecessor": "7.1.21",
           "successor": "7.1.23",
           "inactive": true,
           "title": "Wohn- und Geschäftshaus Frankfurter Straße 529",
           "description": {
-            "state": "#unknown",
-            "value": ""
+            "state": "#ok",
+            "value": "Unmittelbar an der Kreuzung der beiden Urbacher Hauptstraßen gelegen, ist das 1903 erbaute zweigeschossige Wohn- und Geschäftshaus eines der wenigen im Ort erhaltenen Beispiele einer städtisch beeinflussten Architektur im Jugendstil."
           },
           "mapPosition": {
-            "state": "#unknown",
-            "value": []
+            "state": "#check",
+            "value": [ 7.082797, 50.880528 ]
           },
           "buildings": {
             "state": "#unknown"
@@ -4854,18 +4854,18 @@
         "7.1.23": {
           "trackPoint": 23,
           "trackSubpt": "",
-          "quarter": "",
+          "quarter": "Urbach",
           "predecessor": "7.1.22",
           "successor": "7.1.24",
           "inactive": true,
           "title": "Ensemble Frankfurter Straße mit Ossenbach-Mühle",
           "description": {
-            "state": "#unknown",
-            "value": ""
+            "state": "#ok",
+            "value": "Im historischen städtebaulichen Kontext ist das Ensemble ein- bis zweigeschossiger Häuser aus dem 19. u. beginnenden 20. Jh. zu betrachten: die ländl. geprägten Gebäude Nr. 511, 513 und die Nr. 519, die ehem. Ossenbach-Mühle, ein eingeschossiges, giebelständiges Fachwerkhaus (Mitte 19. Jh.) mit langgestrecktem, traufständigen Anbau (1981–1983 Gesamtrestaurierung), sowie die Nr. 515, 527 u. 512 ländliche Bauten mit städtischen Einflüssen."
           },
           "mapPosition": {
-            "state": "#unknown",
-            "value": []
+            "state": "#check",
+            "value": [ 7.082797, 50.880528 ]
           },
           "buildings": {
             "state": "#unknown"
@@ -4884,18 +4884,18 @@
         "7.1.24": {
           "trackPoint": 24,
           "trackSubpt": "",
-          "quarter": "",
+          "quarter": "Urbach",
           "predecessor": "7.1.23",
           "successor": "7.1.25",
           "inactive": true,
           "title": "Maarhof",
           "description": {
-            "state": "#unknown",
-            "value": ""
+            "state": "#ok",
+            "value": "Der 1613 erstmals erwähnte Maarhof, Frankfurter Straße 540, eine geschlossene, vierflügelige Hofanlage des 18./19. Jh., besitzt ein zweigeschossiges Herrenhaus mit reicher Stuckfassade (1896) und Schopfwalmdach. Die ehem. Wirtschaftsgebäude sind aus Backstein. Nach Aufgabe der lanschwirtschftl. Nutzung erfolgten die innere und äußere Restaurierung und der Umbau der Stallungen zur Wohnanlage (1984/86). Der Maarhof bildete den Abschluss und Höhepunkt der Bebauung der Frankfurter Straße. Trotz aller Änderungen ist die Anlage ein unverzichtbarer Bestandteil der nur noch teilw. ländlichen Struktur des Ortes."
           },
           "mapPosition": {
-            "state": "#unknown",
-            "value": []
+            "state": "#check",
+            "value": [ 7.082192, 50.882502 ]
           },
           "buildings": {
             "state": "#unknown"
@@ -4914,18 +4914,18 @@
         "7.1.25": {
           "trackPoint": 25,
           "trackSubpt": "",
-          "quarter": "",
+          "quarter": "Urbach",
           "predecessor": "7.1.24",
           "successor": "7.1.26",
           "inactive": true,
           "title": "St. Bartholomäus",
           "description": {
-            "state": "#unknown",
-            "value": ""
+            "state": "#ok",
+            "value": "Die kathol. Pfarrkirche St. Bartholomäus, Frankfurter Straße 522, entstand 1879/80 nach Plänen H. Nagelschmidts als dreischiffige Hallenkirche mit Querschiff, Chorraum und drei Halbkreisenapsiden, erbaut in der Form des rheinisch-romanisierenden Rundbogenstils. Der Vierkantturm stammt a.d. Jahr 1899. Vom Turm des romanischen Vorgängerbaus ist der Ostbogen im heutigen Bau erhalten. Teile der Innenausstattung der alten Urbacher Pfarrkirche sind bewahrt geblieben. Der barocke Orgelprospekt stammt aus Klein-St. Martin in Köln. Hauptaltar und Ambo gestaltet von H. Gernot (1970); innere Farbgestaltung von 1978."
           },
           "mapPosition": {
-            "state": "#unknown",
-            "value": []
+            "state": "#check",
+            "value": [ 7.082797, 50.880528 ]
           },
           "buildings": {
             "state": "#unknown"
@@ -4944,7 +4944,7 @@
         "7.1.26": {
           "trackPoint": 26,
           "trackSubpt": "",
-          "quarter": "",
+          "quarter": "Urbach",
           "predecessor": "7.1.25",
           "successor": "7.1.27",
           "inactive": true,
@@ -4954,8 +4954,8 @@
             "value": ""
           },
           "mapPosition": {
-            "state": "#unknown",
-            "value": []
+            "state": "#check",
+            "value": [ 7.082347, 50.879013 ]
           },
           "buildings": {
             "state": "#unknown"
@@ -4974,18 +4974,18 @@
         "7.1.27": {
           "trackPoint": 27,
           "trackSubpt": "",
-          "quarter": "",
+          "quarter": "Urbach",
           "predecessor": "7.1.26",
           "successor": "7.1.28",
           "inactive": true,
           "title": "Urbacher Friedhof",
           "description": {
-            "state": "#unknown",
-            "value": ""
+            "state": "#ok",
+            "value": "An Frankfurter Straße und Mühlenweg liegt seit 1857 der alte Urbacher Friedhof mit Grabdenkmälern der 60er und 70er Jahre des 19. Jh. In typischer Lage am Ortsrand an der Ausfallstraße bewahrt er mit den die Grabreihen bzw. zum Teil einzelne Gräber voneinander trennenden beschnittenen Hecken die charakteristischen Merkmale rechtsrheinischer Dorffriedhöfe. Besonders prächtig ist das aus weißem Mamor gefertigte Grabmal des Urbacher Bürgermeisters Sternenberg und seiner Frau Eva (1892). Im hinteren Bereich des Friedhofs das Ehrenmal der UdSSR für die während des Zweiten Weltkriegs getöteten sowjetischen Zwangsarbeiter."
           },
           "mapPosition": {
-            "state": "#unknown",
-            "value": []
+            "state": "#check",
+            "value": [ 7.082872, 50.878013 ]
           },
           "buildings": {
             "state": "#unknown"
@@ -5004,18 +5004,18 @@
         "7.1.28": {
           "trackPoint": 28,
           "trackSubpt": "",
-          "quarter": "",
+          "quarter": "Urbach",
           "predecessor": "7.1.27",
           "successor": "7.1.29",
           "inactive": true,
           "title": "",
           "description": {
-            "state": "#unknown",
-            "value": ""
+            "state": "#check",
+            "value": "Das 1880 errichtete zweigeschossige, traufständige Wohnhaus mit Backsteinfassade, Stichbögen, Ankersplinten erinnert noch an das ursprüngliche Straßenbild."
           },
           "mapPosition": {
-            "state": "#unknown",
-            "value": []
+            "state": "#check",
+            "value": [ 7.082512, 50.877732 ]
           },
           "buildings": {
             "state": "#unknown"
@@ -5098,14 +5098,14 @@
           "predecessor": "7.1.30",
           "successor": "7.1.32",
           "inactive": true,
-          "title": "",
+          "title": "Burg Wahn",
           "description": {
             "state": "#unknown",
             "value": ""
           },
           "mapPosition": {
-            "state": "#unknown",
-            "value": []
+            "state": "#check",
+            "value": [ 7.082578, 50.857562 ]
           },
           "buildings": {
             "state": "#unknown"
@@ -5128,14 +5128,14 @@
           "predecessor": "7.1.31",
           "successor": "7.1.33",
           "inactive": true,
-          "title": "",
+          "title": "Eltzhof",
           "description": {
             "state": "#unknown",
             "value": ""
           },
           "mapPosition": {
-            "state": "#unknown",
-            "value": []
+            "state": "#check",
+            "value": [ 7.084272, 50.857080 ]
           },
           "buildings": {
             "state": "#unknown"
@@ -5160,12 +5160,12 @@
           "inactive": true,
           "title": "Haus Sophia",
           "description": {
-            "state": "#unknown",
-            "value": ""
+            "state": "#ok",
+            "value": "Haus Sophia, Burggraben 26, ist eine um 1900 für den Tabakfabrikanten Wien erbaute zweigeschossige großbürgerliche Landvilla mit backsteingegliederter Putzfassade, das einzige Gebäude in Wahn in der Art des damals populären Heimatstils. Seine Ausmaße heben es von der überwiegend ländlich geprägten Bebauung der Umgebung ab."
           },
           "mapPosition": {
-            "state": "#unknown",
-            "value": []
+            "state": "#check",
+            "value": [ 7.083430, 50.859017 ]
           },
           "buildings": {
             "state": "#unknown"
@@ -5184,18 +5184,18 @@
         "7.1.34": {
           "trackPoint": 34,
           "trackSubpt": "",
-          "quarter": "",
+          "quarter": "Wahn",
           "predecessor": "7.1.33",
           "successor": "7.1.35",
           "inactive": true,
           "title": "St. Aegidius",
           "description": {
-            "state": "#unknown",
-            "value": ""
+            "state": "#ok",
+            "value": "Die kathol. Pfarrkirche St. Aegidius, Frankfurter Str. 179/Ecke St. Sebastianusstr., entstand 1893-95 nach Plänen A. Beckers als neugotische dreischiffige Backstein-Hallenkirche mit Vierkantturm. Im Inneren überspannt ein 1990-92 erneuertes Kreuzrippengewölbe die noch originale Ausstattung (meist von F. Hackenberg). Die Ausmalung wurde nach dem historischen Befund erneuert. Im Turmvorraum ein barockes Mamor-Epitaph (1656-85) des Wilhelm v. Zweiffel u. der Agnes Schall von Bell. Bei der Kirche der ehemalige Friedhof, von dem noch einige – teils barocke – Grabkreuze zeugen."
           },
           "mapPosition": {
-            "state": "#unknown",
-            "value": []
+            "state": "#check",
+            "value": [ 7.086651, 50.856435 ]
           },
           "buildings": {
             "state": "#unknown"
@@ -5283,18 +5283,18 @@
         "7.2.1": {
           "trackPoint": 1,
           "trackSubpt": "",
-          "quarter": "",
+          "quarter": "Deutz",
           "predecessor": "7.2.0",
           "successor": "7.2.2",
           "inactive": true,
           "title": "Drehbrücke",
           "description": {
-            "state": "#unknown",
-            "value": ""
+            "state": "#ok",
+            "value": "Die aus der Gründerzeit des Deutzer Hafens (Stadtbezirk 1) stammende Drehbrücke, ein technisches Denkmal, wurde 1907 errichtet und 1908 dem Verkehr übergeben. Ihre elektrisch gesteuerte, genietete Gitterträgerkonstruktion mit dem Steuerhäuschen aus Stahlblechen ist bis heute vollständig erhalten geblieben. Auf der von ihr ausgehenden Alfred-Schütte-Allee erreicht man das Poller Rheinufer mit dem in den 20er Jahren angelegten öffentlichen Grünbereich mit Sportanlagen."
           },
           "mapPosition": {
-            "state": "#unknown",
-            "value": []
+            "state": "#ok",
+            "value": [ 6.97314244581821, 50.9277952838689 ]
           },
           "buildings": {
             "state": "#unknown"
@@ -5304,10 +5304,12 @@
           },
           "notes": "",
           "wiki": {
-            "state": "#unknown"
+            "state": "#ok",
+            "value": "Deutzer_Drehbr%C3%BCcke"
           },
           "monumentNo": {
-            "state": "#unknown"
+            "state":"#ok",
+            "value": 4
           }
         },
         "7.2.2": {
@@ -5319,25 +5321,28 @@
           "inactive": true,
           "title": "Nikolaus-Kapelle",
           "description": {
-            "state": "#unknown",
-            "value": ""
+            "state": "#ok",
+            "value": "Die dem Schutzpatron der Schiffer geweihte, ehem. zur Abtei St. Heribert in Deutz gehörende Nikolaus-Kapelle, St. Agatha-Straße, wurde um 1100 errichtet. Der kleine romanische Saalbau (restauriert 1959-64) aus verputztem Tuff- und Kieselmauerwerk mit eingezogenem Rechteckchor, Fachwerkgiebel und einem Dachreiter liegt inmitten des ehem., bis 1929 benutzten Friedhofes mit alten Grabsteinen und Eisenkreuzen (restauriert 1987 vn der Bürgervereinigung Ensen-Westhoven)."
           },
           "mapPosition": {
-            "state": "#unknown",
-            "value": []
+            "state": "#ok",
+            "value": [ 7.0162521, 50.8968724 ]
           },
           "buildings": {
-            "state": "#unknown"
+            "state": "#ok",
+            "value": [[[7.0159937, 50.8969157], [7.016078, 50.8968887], [7.0160958, 50.8969089], [7.0161392, 50.8969589], [7.016126, 50.8969636], [7.0161474, 50.8969919], [7.0160964, 50.8970076], [7.0160713, 50.8969815], [7.0160571, 50.8969847], [7.0159937, 50.8969157]]]
           },
           "info": {
             "state": "#unknown"
           },
-          "notes": "",
+          "notes": "Die nachfolgende Infotafel konnte leider nicht gefunden werden.",
           "wiki": {
-            "state": "#unknown"
+            "state": "#ok",
+            "value": "Nikolaus-Kapelle_%28K%C3%B6ln%29"
           },
           "monumentNo": {
-            "state": "#unknown"
+            "state": "#ok",
+            "value": 1295
           }
         },
         "7.2.3": {
@@ -5373,18 +5378,18 @@
         "7.2.4": {
           "trackPoint": 4,
           "trackSubpt": "",
-          "quarter": "",
+          "quarter": "Porz",
           "predecessor": "7.2.3",
           "successor": "7.2.5",
           "inactive": true,
           "title": "Rheinuferpromenade",
           "description": {
-            "state": "#unknown",
-            "value": ""
+            "state": "#ok",
+            "value": "Die Rheinuferpromenade, Friedrich-Ebert-Ufer, mit Ufermauer, Treppenaufgang, Fahrkartenpavillon für die Schiffahrt, Löwenmonument und schmiedeeisernen Laternen wurde zwischen 1907 u. 1912 angelegt."
           },
           "mapPosition": {
-            "state": "#unknown",
-            "value": []
+            "state": "#ok",
+            "value": [ 7.054029, 50.8846978 ]
           },
           "buildings": {
             "state": "#unknown"
@@ -5394,40 +5399,42 @@
           },
           "notes": "",
           "wiki": {
-            "state": "#unknown"
+            "state": "#n/a"
           },
           "monumentNo": {
-            "state": "#unknown"
+            "state": "#ok",
+            "value": 538
           }
         },
         "7.2.5": {
           "trackPoint": 5,
           "trackSubpt": "",
-          "quarter": "",
+          "quarter": "Porz",
           "predecessor": "7.2.4",
           "successor": "7.2.6",
           "inactive": true,
           "title": "Porzer Rathaus",
           "description": {
-            "state": "#unknown",
-            "value": ""
+            "state": "#ok",
+            "value": "Das Porzer Rathaus, Friedrich-Ebert-Ufer 64, ein dreigeschossiger mächtiger, siebenachsiger Bau mit wuchtigem Turm und Arkaden im Erdgeschoß, entstand 1909/10 nach Plänen des Regierungsbaumeisters Moritz. Der Erweiterungsbau mit Werksteinfassade stammt aus den Jahren 1955/56; weitere Neubauten aus den 70er und 80er Jahren. Heute ist das Porzer Rathaus Sitz der Bezirksvertretung des Stadtbezirks 7 und der Bezirksverwaltung."
           },
           "mapPosition": {
-            "state": "#unknown",
-            "value": []
+            "state": "#ok",
+            "value": [ 7.054216878078211, 50.88506916119908 ]
           },
           "buildings": {
-            "state": "#unknown"
+            "state": "#ok",
+            "value": [[[7.0548927, 50.8851508], [7.0548886, 50.8851484], [7.0547138, 50.8851512], [7.0545599, 50.8850586], [7.0545594, 50.8850434], [7.054592, 50.8850429], [7.0546025, 50.8850356], [7.054617, 50.8850262], [7.0546152, 50.8849759], [7.0545436, 50.8849324], [7.0545157, 50.8849154], [7.0545056, 50.8849093], [7.0545041, 50.8848622], [7.0544771, 50.8848461], [7.0543915, 50.8848471], [7.0543609, 50.8848472], [7.0543354, 50.8848646], [7.0543362, 50.8848891], [7.0543122, 50.8849638], [7.0543436, 50.8849676], [7.0543407, 50.884976], [7.0543081, 50.884972], [7.0542757, 50.8850758], [7.0542725, 50.8850866], [7.0542636, 50.885117], [7.0542505, 50.8851155], [7.0542439, 50.8851381], [7.0542374, 50.8851602], [7.0542505, 50.8851618], [7.0542478, 50.885171], [7.0542733, 50.8851742], [7.0542973, 50.8851772], [7.0542618, 50.8853922], [7.0542595, 50.885392], [7.0542484, 50.885457], [7.0542508, 50.8854572], [7.0542418, 50.8855101], [7.0544388, 50.885469], [7.0544733, 50.8852678], [7.0544886, 50.8852676], [7.0545005, 50.8852751], [7.0547897, 50.8852704], [7.0548127, 50.8852832], [7.0548115, 50.8853087], [7.0549472, 50.8853906], [7.0549561, 50.8856352], [7.0549707, 50.8856429], [7.0549701, 50.8856701], [7.055173, 50.885667], [7.055187, 50.885658], [7.0551832, 50.8855038], [7.0551574, 50.8855047], [7.0551434, 50.8854962], [7.0551409, 50.8853987], [7.0551407, 50.8853899], [7.0551335, 50.8852592], [7.0551332, 50.8852499], [7.055048, 50.8851981], [7.0550312, 50.8851983], [7.0549691, 50.8851608], [7.0549117, 50.8851616], [7.0548927, 50.8851508]]]
           },
           "info": {
             "state": "#unknown"
           },
           "notes": "",
           "wiki": {
-            "state": "#unknown"
+            "state": "#n/a"
           },
           "monumentNo": {
-            "state": "#unknown"
+            "state": "#n/a"
           }
         },
         "7.2.6": {
@@ -5444,7 +5451,7 @@
           },
           "mapPosition": {
             "state": "#unknown",
-            "value": []
+            "value": [ 7.0227886, 50.8633825 ]
           },
           "buildings": {
             "state": "#unknown"
@@ -5452,7 +5459,7 @@
           "info": {
             "state": "#unknown"
           },
-          "notes": "",
+          "notes": "Hier konnten wir leider keine Infotafel mehr finden und das Objekt nicht zuordnen.",
           "wiki": {
             "state": "#unknown"
           },
@@ -5463,67 +5470,71 @@
         "7.2.7": {
           "trackPoint": 7,
           "trackSubpt": "",
-          "quarter": "",
+          "quarter": "Langel",
           "predecessor": "7.2.6",
           "successor": "7.2.8",
           "inactive": true,
           "title": "Fronhof",
           "description": {
-            "state": "#unknown",
-            "value": ""
+            "state": "#ok",
+            "value": "Begrenzt von der Frongasse, Rosengasse und Lülsdorfer Straße liegt der erstmals 965, dann 1225 im Urbar von St. Pantaleon in Köln erwähnte Fronhof. 1633 wurde der damals 178 Morgen große Hof, Zentrum eines grundherrschaftlichen Hofverbandes mit einer größeren Anzahl abhängiger Höfe, von einem Feuer vernichtet. Die danach neu entstandene Anlage ging 1803 in den Besitz des preußischen Staates über, der sie 1820 an die Gebrüder Immendorff verkaufte. Der nach starken Beschädigungen im Zweiten Weltkrieg wiederaufgebaute, heute teilw. veränderte Fronhof ist der Mittelpunkt des Langeler Oberdorfes in unmittelbarer Nachbarschaft der Kirche St. Clemens."
           },
           "mapPosition": {
-            "state": "#unknown",
-            "value": []
+            "state": "#ok",
+            "value": [ 7.0034458, 50.846453 ]
           },
           "buildings": {
-            "state": "#unknown"
+            "state": "#ok",
+            "value": [[[7.0036823, 50.8460073], [7.0037698, 50.8461095], [7.0038901, 50.8462498], [7.0037527, 50.8462967], [7.003333, 50.8464538], [7.0033376, 50.8464602], [7.0033284, 50.8464633], [7.0033234, 50.8464574], [7.0031927, 50.8464998], [7.0029991, 50.8462749], [7.0029133, 50.8461751], [7.0030535, 50.8461279], [7.0036348, 50.8459522], [7.0036823, 50.8460073]], [[7.003106, 50.846189], [7.0032841, 50.8463967], [7.003706, 50.8462422], [7.0037542, 50.8462257], [7.0036807, 50.8461399], [7.0035932, 50.8460378], [7.003106, 50.846189]]]
           },
           "info": {
             "state": "#unknown"
           },
           "notes": "",
           "wiki": {
-            "state": "#unknown"
+            "state": "#n/a"
           },
           "monumentNo": {
-            "state": "#unknown"
+            "state": "#n/a"
           }
         },
         "7.2.8": {
           "trackPoint": 8,
           "trackSubpt": "",
-          "quarter": "",
+          "quarter": "Langel",
           "predecessor": "7.2.7",
           "successor": "7.2.9",
           "inactive": true,
           "title": "St. Clemens",
           "description": {
-            "state": "#unknown",
-            "value": ""
+            "state": "#ok",
+            "value": "Kathol. Pfarrkirche St. Clemens, Lülsdorfer Straße 114, erbaut 1890/91 von Langeler Steinmetzen und Maurern nach Plänen H. Nagelschmidts, eine neugotische dreischiffige Backstein-Hallenkirche mit Schieferdach und Vierkantturm im Westen. Von der Innenausstattung sind 3 gotische Schnitzaltäre und der Orgelprospekt erhalten geblieben und 1982/83 mit einer passenden Kanzel aus Kürten-Bechern ergänzt worden. Wiederherstellung der im Krieg zerstörten Glasfenster in drei Phasen ab 1953 und der ursprgl. Neugotischen Ausmalung 1978/80. Ersetzung der mittleren Chorfenster 1990 durch eine Heiligenfiguren zeigende Buntverglasung im Nazarenerstil a. d. J. 1900. Restliche Fensterflächen 1990 von K. Dedy gestaltet."
           },
           "mapPosition": {
-            "state": "#unknown",
-            "value": []
+            "state": "#ok",
+            "value": [ 7.004207848206901, 50.845723969859634]
           },
           "buildings": {
-            "state": "#unknown"
+            "state": "#ok",
+            "value": [[[7.0045474, 50.8457254], [7.0045512, 50.8457339], [7.004537, 50.8457366], [7.004533, 50.8457281], [7.0044961, 50.8457351], [7.0045001, 50.8457436], [7.0044859, 50.8457463], [7.0044819, 50.8457378], [7.004445, 50.8457447], [7.004449, 50.8457533], [7.0044348, 50.845756], [7.0044307, 50.8457475], [7.0043839, 50.8457565], [7.0043828, 50.8457542], [7.004379, 50.8457551], [7.004374, 50.8457606], [7.0043641, 50.845757], [7.0043694, 50.8457512], [7.0043538, 50.8457185], [7.0043333, 50.8457224], [7.0043247, 50.845732], [7.0043114, 50.8457278], [7.0043198, 50.8457182], [7.0042971, 50.8456719], [7.0042819, 50.8456671], [7.004288, 50.8456588], [7.004303, 50.8456634], [7.0043233, 50.8456592], [7.0043061, 50.8456275], [7.0042973, 50.8456247], [7.0043028, 50.8456191], [7.0043108, 50.8456222], [7.004315, 50.8456212], [7.0043135, 50.8456189], [7.004361, 50.8456099], [7.0043568, 50.8456014], [7.004371, 50.8455987], [7.0043752, 50.8456073], [7.0044132, 50.8456001], [7.0044089, 50.8455915], [7.0044226, 50.8455892], [7.0044268, 50.8455977], [7.0044651, 50.8455903], [7.0044609, 50.8455818], [7.0044746, 50.845579], [7.004479, 50.8455876], [7.0045166, 50.8455807], [7.0045149, 50.8455772], [7.0045203, 50.8455761], [7.0045161, 50.8455675], [7.0045296, 50.8455648], [7.004534, 50.8455734], [7.0046098, 50.8455583], [7.0046056, 50.8455498], [7.0046194, 50.8455471], [7.0046236, 50.8455557], [7.004629, 50.8455546], [7.0046308, 50.845558], [7.004669, 50.8455511], [7.0046639, 50.8455408], [7.0046759, 50.8455385], [7.0046774, 50.8455384], [7.0046833, 50.8455504], [7.004702, 50.8455532], [7.0047088, 50.8455487], [7.0047071, 50.8455452], [7.0047251, 50.8455259], [7.0047615, 50.8455265], [7.0047795, 50.8455466], [7.0047706, 50.8455625], [7.004776, 50.8455637], [7.0047704, 50.8455739], [7.0047938, 50.8455849], [7.0048075, 50.8455788], [7.0048152, 50.8455862], [7.0048014, 50.8455924], [7.0048101, 50.8456096], [7.0048277, 50.8456099], [7.0048268, 50.8456188], [7.0048096, 50.8456182], [7.0048006, 50.8456355], [7.0048141, 50.845642], [7.0048107, 50.8456448], [7.0048321, 50.8456553], [7.0048351, 50.845678], [7.004806, 50.8456913], [7.0047734, 50.8456815], [7.0047717, 50.8456782], [7.0047626, 50.8456769], [7.004748, 50.845686], [7.0047535, 50.8456975], [7.0047395, 50.8457002], [7.0047341, 50.8456886], [7.0046978, 50.8456971], [7.0046994, 50.8457005], [7.0046941, 50.8457015], [7.0046981, 50.84571], [7.0046836, 50.8457128], [7.0046796, 50.8457042], [7.0046044, 50.8457185], [7.0046084, 50.845727], [7.0045954, 50.8457295], [7.0045913, 50.845721], [7.004586, 50.845722], [7.0045843, 50.8457186], [7.0045474, 50.8457254]]]
           },
           "info": {
             "state": "#unknown"
           },
           "notes": "",
           "wiki": {
-            "state": "#unknown"
+            "state": "#ok",
+            "value": "St._Clemens_(K%C3%B6ln-Langel)"
           },
           "monumentNo": {
-            "state": "#unknown"
+            "state": "#ok",
+            "value": 1303
           }
         },
         "7.2.9": {
           "trackPoint": 9,
           "trackSubpt": "",
-          "quarter": "",
+          "quarter": "Langel",
           "predecessor": "7.2.8",
           "successor": "7.2.10",
           "inactive": true,
@@ -5533,8 +5544,8 @@
             "value": ""
           },
           "mapPosition": {
-            "state": "#unknown",
-            "value": []
+            "state": "#check",
+            "value": [ 7.004424, 50.846019 ]
           },
           "buildings": {
             "state": "#unknown"
@@ -5553,7 +5564,7 @@
         "7.2.10": {
           "trackPoint": 10,
           "trackSubpt": "",
-          "quarter": "",
+          "quarter": "Langel",
           "predecessor": "7.2.9",
           "successor": "7.2.11",
           "inactive": true,
@@ -5563,8 +5574,8 @@
             "value": ""
           },
           "mapPosition": {
-            "state": "#unknown",
-            "value": []
+            "state": "#check",
+            "value": [ 7.005427, 50.846026 ]
           },
           "buildings": {
             "state": "#unknown"
@@ -5583,7 +5594,7 @@
         "7.2.11": {
           "trackPoint": 11,
           "trackSubpt": "",
-          "quarter": "",
+          "quarter": "Langel",
           "predecessor": "7.2.10",
           "successor": "7.2.12",
           "inactive": true,
@@ -5593,8 +5604,8 @@
             "value": ""
           },
           "mapPosition": {
-            "state": "#unknown",
-            "value": []
+            "state": "#check",
+            "value": [ 7.006522, 50.847456 ]
           },
           "buildings": {
             "state": "#unknown"
@@ -5613,18 +5624,18 @@
         "7.2.12": {
           "trackPoint": 12,
           "trackSubpt": "",
-          "quarter": "",
+          "quarter": "Langel",
           "predecessor": "7.2.11",
           "successor": "7.2.13",
           "inactive": true,
           "title": "Sog. Friedenseiche (Naturdenkmal)",
           "description": {
-            "state": "#unknown",
-            "value": ""
+            "state": "#ok",
+            "value": "Die &quot;Friedenseiche&quot; wurde zum Gedenken an den deutsch-französischen Krieg 1870/71 und die Reichsgrndung von 1871 an der Wegekreuzung vom ehem. Langeler Unterdorf nach Lülsdorf und vom Oberdorf nach Zündorf gepflanzt."
           },
           "mapPosition": {
-            "state": "#unknown",
-            "value": []
+            "state": "#check",
+            "value": [ 7.010136, 50.849376 ]
           },
           "buildings": {
             "state": "#unknown"
@@ -5643,7 +5654,7 @@
         "7.2.13": {
           "trackPoint": 13,
           "trackSubpt": "",
-          "quarter": "",
+          "quarter": "Langel",
           "predecessor": "7.2.12",
           "successor": "7.2.14",
           "inactive": true,
@@ -5653,8 +5664,8 @@
             "value": ""
           },
           "mapPosition": {
-            "state": "#unknown",
-            "value": []
+            "state": "#check",
+            "value": [ 7.013392, 50.851029 ]
           },
           "buildings": {
             "state": "#unknown"
@@ -5673,31 +5684,33 @@
         "7.2.14": {
           "trackPoint": 14,
           "trackSubpt": "",
-          "quarter": "",
+          "quarter": "Langel",
           "predecessor": "7.2.13",
           "successor": "7.2.15",
           "inactive": true,
           "title": "ehem. Telegraphenstation",
           "description": {
-            "state": "#unknown",
-            "value": ""
+            "state": "#ok",
+            "value": "Die ehemalige, 1832/33 erbaute, baulich stark veränderte Telegraphenstation, Loorweg 155, mit einem heute drei-, früher viergeschossigen Turm, war Teil der preußischen optischen Telegraphenlinie zwischen Berlin und Koblenz. Der Turm verband das Signal in Spich mit demjenigen auf dem Westwerk von St. Pantaleon in Köln."
           },
           "mapPosition": {
-            "state": "#unknown",
-            "value": []
+            "state": "#ok",
+            "value": [ 7.0304862895066, 50.85895159419718 ]
           },
           "buildings": {
-            "state": "#unknown"
+            "state": "#ok",
+            "value": [[[7.0303947, 50.8590646], [7.0303645, 50.8590856], [7.0302723, 50.8590346], [7.0303039, 50.8590124], [7.0302982, 50.8590095], [7.0303681, 50.858959], [7.0303975, 50.8589752], [7.0303984, 50.8589746], [7.0304613, 50.8590087], [7.0304625, 50.8590081], [7.030505, 50.8590315], [7.0304591, 50.8590662], [7.0304557, 50.8590645], [7.03043, 50.8590839], [7.0303947, 50.8590646]]]
           },
           "info": {
             "state": "#unknown"
           },
           "notes": "",
           "wiki": {
-            "state": "#unknown"
+            "state": "#n/a"
           },
           "monumentNo": {
-            "state": "#unknown"
+            "state": "#ok",
+            "value": 4905
           }
         },
         "7.2.99": {
@@ -5746,14 +5759,14 @@
           "predecessor": "",
           "successor": "7.3.1",
           "inactive": true,
-          "title": "",
+          "title": "Start Tour 3",
           "description": {
-            "state": "#unknown",
-            "value": ""
+            "state": "#ok",
+            "value": "Der Pfad Proz 3 führt über Kalk, Poll, Westhofen, Ensen und Gremberghoven nach Porz.<br/>Startpunkt ist an der S-Bahn Haltestelle Trimbornstraße und Endpunkt nahe der Haltestelle Porz(Rhein).<br/><br/><i>Es ist zu beachten, dass der Pfad durch einige Einbahnstraßen entgegen der Fahrtrichtung führt. Hier bitte vom Fahrrad absteigen.</i>"
           },
           "mapPosition": {
-            "state": "#unknown",
-            "value": []
+            "state": "#ok",
+            "value": [ 6.9975187988, 50.9350904129 ]
           },
           "buildings": {
             "state": "#unknown"
@@ -5778,12 +5791,12 @@
           "inactive": true,
           "title": "Milchmädchensiedlung",
           "description": {
-            "state": "#unknown",
-            "value": ""
+            "state": "#ok",
+            "value": "Auf einem durch die Siegburger Straße, die Eisenbahnstrecke und den Friedhof begrenzten Areal (Rolshover Kirchweg, Allerseelenstraße, An den Maien) wurde 1919-21 nach Plänen von E. Mewes die &quot;Milchmädchensiedlung&quot; im Heimatstil städtischer Prägung nach dem Konzept des &quot;stadtnahen Wohnens im Grünen&quot; errichtet. Mit ihr wurde die letzte reine Einfamilienhaus-Siedlung in Köln geschaffen. Städtebaulicher Mittelpunkt ist der Efeuplatz mit &quot;Milchmädchen&quot;-Plastik (um 1922). Obwohl heute im Erscheinungsbild startk verändert, sind ursprl. Aufbau und Gliederung der Siedlung weiterhin gut zu erkennen."
           },
           "mapPosition": {
-            "state": "#unknown",
-            "value": []
+            "state": "#ok",
+            "value": [ 6.9867518, 50.9216516 ]
           },
           "buildings": {
             "state": "#unknown"
@@ -5791,29 +5804,30 @@
           "info": {
             "state": "#unknown"
           },
-          "notes": "",
+          "notes": "Hier konnten wir leider keine Infotafel mehr finden. Der Text beschreibt das umliegende Gebiet.",
           "wiki": {
-            "state": "#unknown"
+            "state": "#n/a"
           },
           "monumentNo": {
-            "state": "#unknown"
+            "state": "#ok",
+            "value": 532
           }
         },
         "7.3.2": {
           "trackPoint": 2,
           "trackSubpt": "",
-          "quarter": "",
+          "quarter": "Poll",
           "predecessor": "7.3.1",
           "successor": "7.3.3",
           "inactive": true,
           "title": "Siedlung Altenberger Kreuzweg",
           "description": {
-            "state": "#unknown",
-            "value": ""
+            "state": "#ok",
+            "value": "Die Siedlung Altenberger Kreuzweg wurde 1927-29 nach den Plänen von E. Mewes auf den Grundriß eines unregelmäßigen Fünfecks (Am Altenberger Kreuz, Im Mittelfeld, Siegburger Straße, Bahnstraße) als Ergänzung der Milchmädchensiedlung aus zu symmetrischen Reihen geordneten 15 Mehr- und Einfamilienhäusern errichtet. Städtebaulicher Mittelpunkt ist die Dreifaltigkeitskirche, Am Altenberger Kreuz, neu geschaffen von K. Band 1951-54 unter Einbeziehung der Mauerreste der kriegszerstörten Vorgängerin."
           },
           "mapPosition": {
-            "state": "#unknown",
-            "value": []
+            "state": "#ok",
+            "value": [ 6.9899755, 50.9198035 ]
           },
           "buildings": {
             "state": "#unknown"
@@ -5821,18 +5835,19 @@
           "info": {
             "state": "#unknown"
           },
-          "notes": "",
+          "notes": "Der Text beschreibt das umliegende Gebiet.",
           "wiki": {
-            "state": "#unknown"
+            "state": "#n/a"
           },
           "monumentNo": {
-            "state": "#unknown"
+            "state": "#ok",
+            "value": 7878
           }
         },
         "7.3.3": {
           "trackPoint": 3,
           "trackSubpt": "",
-          "quarter": "",
+          "quarter": "Poll",
           "predecessor": "7.3.2",
           "successor": "7.3.4",
           "inactive": true,
@@ -5842,8 +5857,8 @@
             "value": ""
           },
           "mapPosition": {
-            "state": "#unknown",
-            "value": []
+            "state": "#ok",
+            "value": [ 6.9943763, 50.9170102 ]
           },
           "buildings": {
             "state": "#unknown"
@@ -5851,18 +5866,19 @@
           "info": {
             "state": "#unknown"
           },
-          "notes": "",
+          "notes": "Hier konnten wir leider keine Infotafel mehr finden.",
           "wiki": {
-            "state": "#unknown"
+            "state": "#n/a"
           },
           "monumentNo": {
-            "state": "#unknown"
+            "state": "#ok",
+            "value": 568
           }
         },
         "7.3.4": {
           "trackPoint": 4,
           "trackSubpt": "",
-          "quarter": "",
+          "quarter": "Poll",
           "predecessor": "7.3.3",
           "successor": "7.3.5",
           "inactive": true,
@@ -5872,29 +5888,31 @@
             "value": ""
           },
           "mapPosition": {
-            "state": "#unknown",
-            "value": []
+            "state": "#ok",
+            "value": [ 6.9959571, 50.9177872 ]
           },
           "buildings": {
-            "state": "#unknown"
+            "state": "#ok",
+            "value": [[[6.9947329, 50.9181333], [6.9946132, 50.9179259], [6.9947231, 50.9179003], [6.9946435, 50.9177625], [6.9951484, 50.9176443], [6.9952292, 50.9177819], [6.9953332, 50.9177537], [6.9954682, 50.9179861], [6.995352, 50.9180146], [6.9952236, 50.917789], [6.9948101, 50.9178832], [6.9949463, 50.9181194], [6.9948615, 50.918139], [6.9948431, 50.9181076], [6.9947329, 50.9181333]], [[6.9952782, 50.9180826], [6.9953884, 50.9180575], [6.9954242, 50.9181201], [6.9953142, 50.9181454], [6.9952661, 50.9181564], [6.99523, 50.9180937], [6.9952782, 50.9180826]], [[6.9948735, 50.9182466], [6.9946771, 50.9182943], [6.9946425, 50.9182285], [6.9948374, 50.9181833], [6.9950379, 50.9181375], [6.995074, 50.9182009], [6.9948735, 50.9182466]]]
           },
           "info": {
             "state": "#unknown"
           },
-          "notes": "",
+          "notes": "Hier konnten wir leider keine Infotafel mehr finden.",
           "wiki": {
-            "state": "#unknown"
+            "state": "#n/a"
           },
           "monumentNo": {
-            "state": "#unknown"
+            "state": "#ok",
+            "value": 2518
           }
         },
         "7.3.5": {
           "trackPoint": 5,
           "trackSubpt": "",
-          "quarter": "",
+          "quarter": "Poll",
           "predecessor": "7.3.4",
-          "successor": "7.3.6",
+          "successor": "7.3.6a",
           "inactive": true,
           "title": "Bildstock",
           "description": {
@@ -5902,8 +5920,8 @@
             "value": ""
           },
           "mapPosition": {
-            "state": "#unknown",
-            "value": []
+            "state": "#ok",
+            "value": [ 6.998683252448128, 50.919739235493196 ]
           },
           "buildings": {
             "state": "#unknown"
@@ -5911,162 +5929,332 @@
           "info": {
             "state": "#unknown"
           },
-          "notes": "",
+          "notes": "Hier konnten wir leider keine Infotafel mehr finden.",
           "wiki": {
-            "state": "#unknown"
+            "state": "#n/a"
           },
           "monumentNo": {
-            "state": "#unknown"
+            "state": "#ok",
+            "value": 567
           }
         },
-        "7.3.6": {
+        "7.3.6a": {
           "trackPoint": 6,
-          "trackSubpt": "",
-          "quarter": "",
+          "trackSubpt": "a",
+          "quarter": "Poll",
           "predecessor": "7.3.5",
-          "successor": "7.3.7",
+          "successor": "7.3.6b",
           "inactive": true,
-          "title": "Histor. Gebäudegruppe Auf dem Sandberg",
+          "title": "Histor. Gebäudegruppe Auf dem Sandberg (Teil 1)",
           "description": {
-            "state": "#unknown",
-            "value": ""
+            "state": "#ok",
+            "value": "Das vorstädtische Siedlungswachstum zu Beginn des 20. Jh. und die bauästhetischen Bedürfnisse der Bauherren der Zeit dokumentiert die historische Gebäudegruppe auf dem Sandberg, 92, 96, 98, 112, 114, 116 und 99, ..."
           },
           "mapPosition": {
-            "state": "#unknown",
-            "value": []
+            "state": "#ok",
+            "value": [ 6.994455896216291, 50.91596186495499 ]
           },
           "buildings": {
-            "state": "#unknown"
+            "state": "#ok",
+            "value": [[[6.994052, 50.9152845], [6.9939939, 50.9152214], [6.9941257, 50.9151958], [6.9941479, 50.9152355], [6.9941708, 50.9152314], [6.9941643, 50.9152185], [6.9942186, 50.9152066], [6.9942389, 50.9152473], [6.9942036, 50.9152544], [6.994052, 50.9152845]], [[6.9945495, 50.9159626], [6.9944899, 50.91588], [6.9946219, 50.9158412], [6.9946778, 50.9159229], [6.9945495, 50.9159626]], [[6.9944899, 50.91588], [6.9944312, 50.9157987], [6.9945635, 50.9157602], [6.9946219, 50.9158412], [6.9944899, 50.91588]], [[6.9937529, 50.9155219], [6.9936952, 50.9154488], [6.9937227, 50.9154334], [6.9938132, 50.9153837], [6.9938348, 50.9154102], [6.993847, 50.9154063], [6.9938774, 50.9154449], [6.993865, 50.9154488], [6.9938888, 50.9154791], [6.9937529, 50.9155219]], [[6.9944312, 50.9157987], [6.9943811, 50.9157294], [6.9945136, 50.9156912], [6.9945395, 50.9157267], [6.9945635, 50.9157602], [6.9944312, 50.9157987]], [[6.9939328, 50.9151552], [6.9938901, 50.9151125], [6.9938962, 50.9151099], [6.993892, 50.9150967], [6.9940953, 50.915056], [6.9941257, 50.9151165], [6.9939328, 50.9151552]], [[6.9941001, 50.9153424], [6.994052, 50.9152845], [6.9942036, 50.9152544], [6.9942163, 50.9152792], [6.9941961, 50.9152834], [6.9942155, 50.91532], [6.9941001, 50.9153424]]]
           },
           "info": {
             "state": "#unknown"
           },
           "notes": "",
           "wiki": {
-            "state": "#unknown"
+            "state": "#n/a"
           },
           "monumentNo": {
+            "state": "#ok",
+            "value": [
+              {
+                "number": 3221,
+                "title": "Nr. 112"
+              },
+              {
+                "number": 8239,
+                "title": "Nr. 99"
+              }
+            ]
+          }
+        },
+        "7.3.6b": {
+          "trackPoint": 6,
+          "trackSubpt": "b",
+          "quarter": "Poll",
+          "predecessor": "7.3.6a",
+          "successor": "7.3.7",
+          "inactive": true,
+          "title": "Histor. Gebäudegruppe Auf dem Sandberg (Teil 2)",
+          "description": {
+            "state": "#ok",
+            "value": "... während die Nr. 18 sowie die Nr. 21-21c (drei für einen drei Generationen umfassenden Familienverbund hintereinander errichtete Bauten) an den älteren, dörflichen Charakter Polls bis in die 2. Hälfte des 19. Jh. erinnern."
+          },
+          "mapPosition": {
+            "state": "#ok",
+            "value": [ 6.993309698951081, 50.912869670057404 ]
+          },
+          "buildings": {
+            "state": "#ok",
+            "value": [[[6.9925499, 50.9128614], [6.9925553, 50.9128179], [6.992542, 50.9128172], [6.9925458, 50.9127898], [6.9925586, 50.9127905], [6.9925593, 50.9127867], [6.99266, 50.9127922], [6.9926541, 50.9128381], [6.9926503, 50.9128668], [6.9925499, 50.9128614]], [[6.9931653, 50.912893], [6.9931691, 50.9128461], [6.9931714, 50.9128205], [6.9932463, 50.9128229], [6.9932449, 50.9128977], [6.9931653, 50.912893]], [[6.9926503, 50.9128668], [6.9926541, 50.9128381], [6.9927189, 50.9128416], [6.9927197, 50.9128376], [6.9927809, 50.9128409], [6.9927802, 50.9128451], [6.992838, 50.9128482], [6.9928344, 50.9128752], [6.9926983, 50.9128694], [6.9926503, 50.9128668]], [[6.9933576, 50.9125676], [6.9933557, 50.9124874], [6.9934833, 50.9124841], [6.9935418, 50.9124822], [6.9935432, 50.9125207], [6.9935169, 50.9125214], [6.9935162, 50.9125686], [6.9934517, 50.9125683], [6.9933771, 50.9125679], [6.9933576, 50.9125676]], [[6.9928344, 50.9128752], [6.992838, 50.9128482], [6.9928445, 50.9128017], [6.9929453, 50.9128072], [6.9929407, 50.9128354], [6.9929333, 50.9128798], [6.9929277, 50.9128795], [6.9929273, 50.9128802], [6.9928344, 50.9128752]], [[6.9929333, 50.9128798], [6.9929407, 50.9128354], [6.992956, 50.9128364], [6.9929568, 50.9128318], [6.9930106, 50.9128355], [6.9930025, 50.9128838], [6.9929333, 50.9128798]], [[6.9930025, 50.9128838], [6.9930106, 50.9128355], [6.9931691, 50.9128461], [6.9931653, 50.912893], [6.9930678, 50.9128876], [6.9930025, 50.9128838]]]
+          },
+          "info": {
             "state": "#unknown"
+          },
+          "notes": "",
+          "wiki": {
+            "state": "#n/a"
+          },
+          "monumentNo": {
+            "state": "#ok",
+            "value": [
+              {
+                "number": 6928,
+                "title": "Nr. 21"
+              },
+              {
+                "number": 6929,
+                "title": "Nr. 21 a"
+              },
+              {
+                "number": 6930,
+                "title": "Nr. 21 b-c"
+              }
+            ]
           }
         },
         "7.3.7": {
           "trackPoint": 7,
           "trackSubpt": "",
-          "quarter": "",
+          "quarter": "Poll",
           "predecessor": "7.3.6",
           "successor": "7.3.8",
           "inactive": true,
           "title": "Alte Poller Schule",
           "description": {
-            "state": "#unknown",
-            "value": ""
+            "state": "#ok",
+            "value": "Das um 1900 erbaute Schulhaus, Poller Hauptstraße 61-65, hat eine reich verzierte mehrfarbige Backsteinfassade."
           },
           "mapPosition": {
-            "state": "#unknown",
-            "value": []
+            "state": "#ok",
+            "value": [ 6.9926245, 50.9117067 ]
           },
           "buildings": {
-            "state": "#unknown"
+            "state": "#ok",
+            "value": [[[6.9924939, 50.9119487], [6.9924687, 50.9119468], [6.9924804, 50.9118804], [6.9927677, 50.9119004], [6.992756, 50.9119669], [6.9927195, 50.9119645], [6.9926902, 50.9121205], [6.9924682, 50.9121049], [6.9924744, 50.9120696], [6.9924811, 50.91207], [6.9924821, 50.9120647], [6.9924908, 50.9120653], [6.9925051, 50.9119838], [6.9924954, 50.9119831], [6.9924963, 50.9119787], [6.9924887, 50.911978], [6.9924939, 50.9119487]]]
           },
           "info": {
             "state": "#unknown"
           },
           "notes": "",
           "wiki": {
-            "state": "#unknown"
+            "state": "#n/a"
           },
           "monumentNo": {
-            "state": "#unknown"
+            "state": "#ok",
+            "value": 5520
           }
         },
         "7.3.8": {
           "trackPoint": 8,
           "trackSubpt": "",
-          "quarter": "",
+          "quarter": "Poll",
           "predecessor": "7.3.7",
           "successor": "7.3.9",
           "inactive": true,
           "title": "Backstein- u. Fachwerkhäuser des 19. Jh.",
           "description": {
-            "state": "#unknown",
-            "value": ""
+            "state": "#ok",
+            "value": "Ein Ensemble ein- bis zweigeschossiger, meist giebelständiger Backstin- und Fachwerkhäuser des 19. Jh. (teilweise erneuert) bilden die Bauten Poller Hauptstraße 33, 37, 43-47, 51, 53, 46-50, während ... [Fortsetzung siehe 3.9]"
           },
           "mapPosition": {
-            "state": "#unknown",
-            "value": []
+            "state": "#ok",
+            "value": [ 6.9920208, 50.9116623 ]
           },
           "buildings": {
-            "state": "#unknown"
+            "state": "#ok",
+            "value": [[[6.9914527, 50.9115677], [6.9914882, 50.9114737], [6.9914878, 50.9114734], [6.9914981, 50.9114481], [6.9914969, 50.9114479], [6.9914995, 50.9114409], [6.9915649, 50.9114502], [6.9915596, 50.9114653], [6.9915844, 50.9114689], [6.9915738, 50.9114983], [6.9916278, 50.9115061], [6.9916186, 50.9115376], [6.9916048, 50.9115839], [6.9914527, 50.9115677]], [[6.9912469, 50.9115384], [6.9912871, 50.9114182], [6.991306, 50.9114209], [6.991342, 50.911426], [6.9913469, 50.9114123], [6.9914461, 50.9114263], [6.9914413, 50.91144], [6.9914969, 50.9114479], [6.9914878, 50.9114734], [6.9914882, 50.9114737], [6.9914527, 50.9115677], [6.9912632, 50.9115407], [6.9912469, 50.9115384]], [[6.9904698, 50.9116184], [6.9904809, 50.9115898], [6.9904991, 50.9115438], [6.9905734, 50.9115555], [6.9905551, 50.9116023], [6.9905433, 50.9116318], [6.9904698, 50.9116184]], [[6.991781, 50.9116033], [6.9918002, 50.9115453], [6.9918063, 50.911546], [6.9918963, 50.9115586], [6.9918783, 50.9116162], [6.991781, 50.9116033]], [[6.989157, 50.911358], [6.9891337, 50.9113497], [6.9891681, 50.911307], [6.989146, 50.9112993], [6.9891142, 50.9112881], [6.9891701, 50.9112212], [6.9892528, 50.9112533], [6.9892445, 50.9112636], [6.9891985, 50.9113176], [6.9891892, 50.9113144], [6.989157, 50.911358]], [[6.9916018, 50.9115953], [6.9916048, 50.9115839], [6.9916186, 50.9115376], [6.9916537, 50.9115415], [6.9917273, 50.9115501], [6.9917101, 50.9116037], [6.9916018, 50.9115953]], [[6.9908581, 50.9117591], [6.9908649, 50.9117367], [6.9909284, 50.9117412], [6.9909381, 50.9116885], [6.9909508, 50.911619], [6.9910347, 50.9116242], [6.9910211, 50.9116946], [6.9910065, 50.9117699], [6.9908581, 50.9117591]], [[6.9906762, 50.9116563], [6.9906851, 50.9116368], [6.9906864, 50.9116264], [6.9906935, 50.9115743], [6.9907926, 50.9115897], [6.9907708, 50.9116738], [6.9906762, 50.9116563]], [[6.9913728, 50.9117556], [6.9913967, 50.9116449], [6.9914811, 50.911651], [6.9914643, 50.9117234], [6.9914544, 50.9117648], [6.9914516, 50.9117646], [6.9913728, 50.9117556]], [[6.991071, 50.9117262], [6.9910924, 50.9116277], [6.9911533, 50.9116308], [6.9911324, 50.9117314], [6.991071, 50.9117262]], [[6.9893864, 50.9113978], [6.9894498, 50.9113325], [6.9894512, 50.9113314], [6.9895678, 50.9113769], [6.9895082, 50.9114385], [6.9895033, 50.9114431], [6.9893864, 50.9113978]]]
           },
           "info": {
             "state": "#unknown"
           },
           "notes": "",
           "wiki": {
-            "state": "#unknown"
+            "state": "#n/a"
           },
           "monumentNo": {
-            "state": "#unknown"
+            "state": "#ok",
+            "value": [
+              {
+                "number": 4413,
+                "title": "Nr. 33"
+              },
+              {
+                "number": 5319,
+                "title": "Nr. 37"
+              },
+              {
+                "number": 5677,
+                "title": "Nr. 43"
+              },
+              {
+                "number": 5339,
+                "title": "Nr. 45"
+              },
+              {
+                "number": 5500,
+                "title": "Nr. 47"
+              },
+              {
+                "number": 5340,
+                "title": "Nr. 51"
+              },
+              {
+                "number": 5547,
+                "title": "Nr. 53"
+              },
+              {
+                "number": 4754,
+                "title": "Nr. 48"
+              },
+              {
+                "number": 3575,
+                "title": "Nr. 50"
+              }
+            ]
           }
         },
         "7.3.9": {
           "trackPoint": 9,
           "trackSubpt": "",
-          "quarter": "",
+          "quarter": "Poll",
           "predecessor": "7.3.8",
           "successor": "7.3.10",
           "inactive": true,
           "title": "&quot;Gründerzeitliche&quot; Häuser",
           "description": {
-            "state": "#unknown",
-            "value": ""
+            "state": "#ok",
+            "value": "[Fortsetzung zu 3.8] ... die Salmstraße noch eine Anzahl &quot;gründerzeitlicher&quot;, zwischen 1880 und 1912 errichteter zweigeschossiger Häuser mit Stuck-, Backstein- und Putzfassaden aufweist (Nr. 73-85, 91, 74, 76, 94)."
           },
           "mapPosition": {
-            "state": "#unknown",
-            "value": []
+            "state": "#ok",
+            "value": [ 6.9898126, 50.9120614 ]
           },
           "buildings": {
-            "state": "#unknown"
+            "state": "#ok",
+            "value": [[[6.9903541, 50.9126779], [6.9902893, 50.9125981], [6.9903975, 50.9125643], [6.990417, 50.9125584], [6.9904524, 50.912607], [6.9904675, 50.9126042], [6.9904801, 50.9126221], [6.9905318, 50.9126075], [6.9905478, 50.9126336], [6.9904802, 50.9126403], [6.9903541, 50.9126779]], [[6.9907521, 50.9132005], [6.9907096, 50.9131449], [6.9908038, 50.9131167], [6.9909515, 50.9131409], [6.9909474, 50.9131504], [6.9909388, 50.91317], [6.9908279, 50.9131508], [6.9908438, 50.913173], [6.9907521, 50.9132005]], [[6.9904362, 50.9128267], [6.9904636, 50.9127639], [6.9905668, 50.9127824], [6.9905631, 50.912791], [6.9905393, 50.9128446], [6.9904362, 50.9128267]], [[6.9906448, 50.91306], [6.9907547, 50.9130244], [6.9908214, 50.9131112], [6.9908038, 50.9131167], [6.9907096, 50.9131449], [6.9906448, 50.91306]], [[6.9906448, 50.91306], [6.9905993, 50.9130004], [6.9907109, 50.9129675], [6.9907378, 50.9130027], [6.9907824, 50.9129958], [6.9907875, 50.9129852], [6.9908924, 50.9130053], [6.9908756, 50.9130403], [6.990768, 50.9130199], [6.9907547, 50.9130244], [6.9906448, 50.91306]], [[6.990475, 50.9132829], [6.9904146, 50.9132045], [6.9905465, 50.9131697], [6.9906077, 50.9132509], [6.990475, 50.9132829]], [[6.9906727, 50.9129075], [6.9907159, 50.9129659], [6.9907109, 50.9129675], [6.9905993, 50.9130004], [6.9905555, 50.9129431], [6.9906727, 50.9129075]], [[6.9899314, 50.9121633], [6.9898985, 50.9121111], [6.9899174, 50.9120946], [6.9900279, 50.9121127], [6.990008, 50.9121678], [6.9900066, 50.9121708], [6.9899998, 50.9121724], [6.9899314, 50.9121633]], [[6.9904146, 50.9132045], [6.9903611, 50.9131358], [6.9904901, 50.913095], [6.9905465, 50.9131697], [6.9904146, 50.9132045]], [[6.9905555, 50.9129431], [6.9905117, 50.9128857], [6.9906075, 50.9128624], [6.9906621, 50.9128722], [6.990658, 50.9128877], [6.9906727, 50.9129075], [6.9905555, 50.9129431]]]
           },
           "info": {
             "state": "#unknown"
           },
-          "notes": "",
+          "notes": "Haus Nr. 94 existiert mittlerweile nicht mehr.",
           "wiki": {
-            "state": "#unknown"
+            "state": "#n/a"
           },
           "monumentNo": {
-            "state": "#unknown"
+            "state": "#ok",
+            "value": [
+              {
+                "number": 8253,
+                "title": "Nr. 73"
+              },
+              {
+                "number": 8254,
+                "title": "Nr. 75"
+              },
+              {
+                "number": 8273,
+                "title": "Nr. 77"
+              },
+              {
+                "number": 8255,
+                "title": "Nr. 79–81"
+              },
+              {
+                "number": 6923,
+                "title": "Nr. 83"
+              },
+              {
+                "number": 2980,
+                "title": "Nr. 85"
+              },
+              {
+                "number": 4061,
+                "title": "Nr. 91"
+              },
+              {
+                "number": 8256,
+                "title": "Nr. 74"
+              },
+              {
+                "number": 7957,
+                "title": "Nr. 76"
+              }
+            ]
           }
         },
-        "7.3.10": {
+        "7.3.10a": {
           "trackPoint": 10,
-          "trackSubpt": "",
-          "quarter": "",
+          "trackSubpt": "b",
+          "quarter": "Poll",
           "predecessor": "7.3.9",
-          "successor": "7.3.11",
+          "successor": "7.3.10b",
           "inactive": true,
           "title": "St. Joseph",
           "description": {
-            "state": "#unknown",
-            "value": ""
+            "state": "#ok",
+            "value": "Im Ortskern wurde die kathol. Pfarrkirche St. Joseph, Kirchplatz 1a, nach Plänen H. Nagelschmidts 1862-64 als ursprgl. neugotische dreischiffige Backsteinbasilika erbaut und nach schwerer Kriegszerstörung unter Beibehaltung der Umfassungsmauern und der unteren Geschosse des Westturmes seit 1951 von A. Hauk und M. Krantz neu errichtet. Die Chorausstattung hat 1955 H. Rheindorf geschaffen."
           },
           "mapPosition": {
-            "state": "#unknown",
-            "value": []
+            "state": "#ok",
+            "value": [ 6.988987817869263, 50.91062439502396 ]
           },
           "buildings": {
-            "state": "#unknown"
+            "state": "#ok",
+            "value": [[[6.98937, 50.9109295], [6.9894561, 50.91097], [6.9895196, 50.9109161], [6.9895451, 50.910928], [6.9896281, 50.9108586], [6.9895978, 50.9108444], [6.9896593, 50.910792], [6.9895727, 50.9107512], [6.9895411, 50.9107778], [6.9895341, 50.9107837], [6.9894812, 50.9107593], [6.9894879, 50.9107529], [6.9894813, 50.9107498], [6.9894738, 50.9107559], [6.9894319, 50.9107365], [6.9894387, 50.91073], [6.9894318, 50.9107266], [6.9894243, 50.910733], [6.9893778, 50.9107115], [6.989385, 50.9107047], [6.9893786, 50.9107016], [6.9893705, 50.9107081], [6.9893263, 50.9106877], [6.9893333, 50.9106806], [6.9893263, 50.9106772], [6.9893185, 50.9106842], [6.9892613, 50.9106578], [6.9892653, 50.9106542], [6.9892273, 50.9106373], [6.9892227, 50.9106415], [6.9892126, 50.9106369], [6.9892151, 50.9106348], [6.9892067, 50.9106309], [6.9892012, 50.9106359], [6.9892056, 50.9106378], [6.9892017, 50.9106417], [6.9891841, 50.910644], [6.98917, 50.9106578], [6.9891719, 50.9106666], [6.9891611, 50.9106675], [6.9891598, 50.9106608], [6.9891501, 50.9106615], [6.9891514, 50.9106683], [6.9891141, 50.9107025], [6.9891007, 50.9107031], [6.9891014, 50.9107089], [6.989111, 50.9107085], [6.9891121, 50.9107183], [6.9891073, 50.9107161], [6.9890881, 50.9107324], [6.9890884, 50.9107455], [6.9890783, 50.910747], [6.9890802, 50.910753], [6.9890878, 50.9107521], [6.9890925, 50.9107543], [6.9890886, 50.9107576], [6.989129, 50.9107779], [6.9891328, 50.9107744], [6.989161, 50.9107876], [6.9891871, 50.9107997], [6.9891792, 50.9108065], [6.9891879, 50.9108106], [6.9891958, 50.9108038], [6.9892399, 50.9108243], [6.989233, 50.9108302], [6.9892402, 50.9108335], [6.989247, 50.9108276], [6.9892908, 50.910848], [6.9892849, 50.9108531], [6.9892944, 50.9108575], [6.9893003, 50.9108523], [6.9893438, 50.9108717], [6.9893382, 50.9108767], [6.9893462, 50.9108803], [6.9893519, 50.9108753], [6.9894005, 50.910897], [6.9894019, 50.9109023], [6.98937, 50.9109295]]]
           },
           "info": {
             "state": "#unknown"
           },
           "notes": "",
           "wiki": {
-            "state": "#unknown"
+            "state": "#n/a"
           },
           "monumentNo": {
+            "state": "#ok",
+            "value": 1278
+          }
+        },
+        "7.3.10b": {
+          "trackPoint": 10,
+          "trackSubpt": "b",
+          "quarter": "Poll",
+          "predecessor": "7.3.10a",
+          "successor": "7.3.11",
+          "inactive": true,
+          "title": "Pestkreuz",
+          "description": {
+            "state": "#ok",
+            "value": "Am Kirchplatz/Ecke Poller Hauptstraße ein Pestkreuz (1666) aus Trachyt, seit 1891 an seinem jetzigen Ort."
+          },
+          "mapPosition": {
+            "state": "#ok",
+            "value": [ 6.9886726, 50.9109369 ]
+          },
+          "buildings": {
+            "state": "#n/a"
+          },
+          "info": {
             "state": "#unknown"
+          },
+          "notes": "",
+          "wiki": {
+            "state": "#n/a"
+          },
+          "monumentNo": {
+            "state": "#ok",
+            "value": 565
           }
         },
         "7.3.11": {
@@ -6082,21 +6270,24 @@
             "value": ""
           },
           "mapPosition": {
-            "state": "#unknown",
-            "value": []
+            "state": "#ok",
+            "value": [ 7.012646, 50.9077943 ]
           },
           "buildings": {
-            "state": "#unknown"
+            "state": "#ok",
+            "value": [[[7.011025, 50.9088248], [7.0109823, 50.9087208], [7.0109255, 50.9087306], [7.0108645, 50.9085881], [7.0112484, 50.9085216], [7.0113105, 50.9086636], [7.0113073, 50.9086642], [7.0113536, 50.9087677], [7.011025, 50.9088248]]]
           },
           "info": {
             "state": "#unknown"
           },
-          "notes": "",
+          "notes": "Hier konnten wir leider keine Infotafel mehr finden.",
           "wiki": {
-            "state": "#unknown"
+            "state": "#ok",
+            "value": "Wasserwerk_Westhoven"
           },
           "monumentNo": {
-            "state": "#unknown"
+            "state": "#ok",
+            "value": 7670
           }
         },
         "7.3.12": {
@@ -6112,21 +6303,24 @@
             "value": ""
           },
           "mapPosition": {
-            "state": "#unknown",
-            "value": []
+            "state": "#ok",
+            "value": [ 7.0206985565, 50.9005305041 ]
           },
           "buildings": {
-            "state": "#unknown"
+            "state": "#ok",
+            "value": [[[7.0210793, 50.9006574], [7.0211332, 50.900628], [7.0213888, 50.9004884], [7.0214442, 50.9004582], [7.0211131, 50.9002163], [7.0211954, 50.9001725], [7.0215256, 50.9004133], [7.021649, 50.9005039], [7.0211275, 50.9007905], [7.0210033, 50.9006985], [7.0206752, 50.9004573], [7.0207504, 50.9004162], [7.0210793, 50.9006574]], [[7.0206137, 50.9004124], [7.020554, 50.9003687], [7.0206854, 50.9002973], [7.0206788, 50.9002923], [7.0206594, 50.9002778], [7.0206838, 50.9002647], [7.0206382, 50.9002313], [7.0207434, 50.900174], [7.020848, 50.9001169], [7.0209193, 50.9001695], [7.0210744, 50.9000847], [7.0211342, 50.9001281], [7.0209786, 50.9002132], [7.0208621, 50.9002768], [7.0207456, 50.9003403], [7.0206137, 50.9004124]]]
           },
           "info": {
             "state": "#unknown"
           },
-          "notes": "",
+          "notes": "Hier konnten wir leider keine Infotafel mehr finden.",
           "wiki": {
-            "state": "#unknown"
+            "state": "#ok",
+            "value": "Hofanlage_Gut_Engelshof_(K%C3%B6ln)"
           },
           "monumentNo": {
-            "state": "#unknown"
+            "state": "#ok",
+            "value": 561
           }
         },
         "7.3.13": {
@@ -6142,8 +6336,8 @@
             "value": ""
           },
           "mapPosition": {
-            "state": "#unknown",
-            "value": []
+            "state": "#check",
+            "value": [ 7.0204489, 50.8999572 ]
           },
           "buildings": {
             "state": "#unknown"
@@ -6151,7 +6345,7 @@
           "info": {
             "state": "#unknown"
           },
-          "notes": "",
+          "notes": "Hier konnten wir leider keine Infotafel mehr finden und das Objekt nicht zuordnen. Vermutlich handelt es sich um die Oberstraße 89.",
           "wiki": {
             "state": "#unknown"
           },
@@ -6172,8 +6366,8 @@
             "value": ""
           },
           "mapPosition": {
-            "state": "#unknown",
-            "value": []
+            "state": "#check",
+            "value": [ 7.0242591, 50.8976582 ]
           },
           "buildings": {
             "state": "#unknown"
@@ -6181,7 +6375,7 @@
           "info": {
             "state": "#unknown"
           },
-          "notes": "",
+          "notes": "Hier konnten wir leider keine Infotafel mehr finden und das Objekt nicht zuordnen. Vermutlich handelt es sich um die Wahrscheinlich Oberstraße 42.",
           "wiki": {
             "state": "#unknown"
           },
@@ -6192,18 +6386,18 @@
         "7.3.15": {
           "trackPoint": 15,
           "trackSubpt": "",
-          "quarter": "",
+          "quarter": "Ensen",
           "predecessor": "7.3.14",
           "successor": "7.3.16",
           "inactive": true,
           "title": "Amerikakreuz",
           "description": {
-            "state": "#unknown",
-            "value": ""
+            "state": "#ok",
+            "value": "Am Marktplatz steht das 4,20 m hohe sog. Amerikakreuz, aus Sandstein, gestiftet 1869 vom Amerika-Auswanderer Balthasar Schmitz, dessen Eltern an der Stelle des heutigen Marktplatzes einen eigenen Hof bewirtschafteten."
           },
           "mapPosition": {
-            "state": "#unknown",
-            "value": []
+            "state": "#ok",
+            "value": [ 7.0286681157953685, 50.897884921400255 ]
           },
           "buildings": {
             "state": "#unknown"
@@ -6213,46 +6407,63 @@
           },
           "notes": "",
           "wiki": {
-            "state": "#unknown"
+            "state": "#n/a"
           },
           "monumentNo": {
-            "state": "#unknown"
+            "state": "#ok",
+            "value": 526
           }
         },
         "7.3.16": {
           "trackPoint": 16,
           "trackSubpt": "",
-          "quarter": "",
+          "quarter": "Ensen",
           "predecessor": "7.3.15",
           "successor": "7.3.17",
           "inactive": true,
           "title": "St. Laurentius",
           "description": {
-            "state": "#unknown",
-            "value": ""
+            "state": "#ok",
+            "value": "Kathol. Pfarrkirche St. Laurentius, Kölner Straße, 1894-96 von Th. Kremer als neugotische, dreischiffige Stufenhalle mit eingezogenem Chor, Satteldach mit Quergiebeln und Dachreiter und einem Vierkantturm errichtet. Wiederaufbau und Erneuerung der Innenausstattung nach Kriegszerstörung 1951. Die reiche, sich in den Dachzonen von Langhaus und Turm konzentrierende Detailbildung macht den Bau trotz eher bescheidener Ausmaße zum Blickfang vom Rheinufer her.<br/>An der Kirche das 1932 errichtete Kriegerdenkmal (Entwurf H. Euler/Westhoven) für die Gefallenen des Ersten Weltkriegs, eine Stele aus grob gehauenen Backsteinquadern."
           },
           "mapPosition": {
-            "state": "#unknown",
-            "value": []
+            "state": "#ok",
+            "value": [ 7.0342918, 50.8971235 ]
           },
           "buildings": {
-            "state": "#unknown"
+            "state": "#ok",
+            "value": [[[7.0344285, 50.8971954], [7.0344607, 50.8971829], [7.0344952, 50.8971694], [7.034527, 50.8972018], [7.034743, 50.8974199], [7.0347739, 50.8974516], [7.0347497, 50.897461], [7.0347257, 50.8974703], [7.0347409, 50.8974862], [7.0347368, 50.8975301], [7.0346874, 50.8975508], [7.0346859, 50.8975866], [7.0346395, 50.8976048], [7.0346272, 50.8976095], [7.0345942, 50.8975754], [7.0345752, 50.8975828], [7.0345056, 50.8975112], [7.0344574, 50.8974651], [7.0344769, 50.8974558], [7.0343052, 50.8972878], [7.0342703, 50.8972517], [7.0343063, 50.8972379], [7.0343389, 50.8972254], [7.034333, 50.8972182], [7.0343488, 50.8972125], [7.0343379, 50.897201], [7.0343488, 50.8971968], [7.0343598, 50.8972083], [7.0343759, 50.8972019], [7.0343917, 50.8971957], [7.0343808, 50.8971843], [7.0343917, 50.8971801], [7.0344026, 50.8971916], [7.0344187, 50.8971855], [7.0344285, 50.8971954]]]
           },
           "info": {
             "state": "#unknown"
           },
           "notes": "",
           "wiki": {
-            "state": "#unknown"
+            "state": "#ok",
+            "value": "St._Laurentius_%28K%C3%B6ln-Ensen%29"
           },
           "monumentNo": {
-            "state": "#unknown"
+            "state": "#ok",
+            "value": [
+              {
+                "number": 1284,
+                "title": "Kirche"
+              },
+              {
+                "number": 5834,
+                "title": "Denkmal"
+              },
+              {
+                "number": 545,
+                "title": "Allee"
+              }
+            ]
           }
         },
         "7.3.17": {
           "trackPoint": 17,
           "trackSubpt": "",
-          "quarter": "",
+          "quarter": "Ensen",
           "predecessor": "7.3.16",
           "successor": "7.3.18",
           "inactive": true,
@@ -6262,8 +6473,8 @@
             "value": ""
           },
           "mapPosition": {
-            "state": "#unknown",
-            "value": []
+            "state": "#check",
+            "value": [ 7.0354888, 50.8977613 ]
           },
           "buildings": {
             "state": "#unknown"
@@ -6271,7 +6482,7 @@
           "info": {
             "state": "#unknown"
           },
-          "notes": "",
+          "notes": "Hier konnten wir leider keine Infotafel mehr finden und das Objekt nicht zuordnen.",
           "wiki": {
             "state": "#unknown"
           },
@@ -6282,61 +6493,75 @@
         "7.3.18": {
           "trackPoint": 18,
           "trackSubpt": "",
-          "quarter": "",
+          "quarter": "Ensen",
           "predecessor": "7.3.17",
           "successor": "7.3.19",
           "inactive": true,
           "title": "Alexianer-Krankenhaus-Komplex",
           "description": {
-            "state": "#unknown",
-            "value": ""
+            "state": "#ok",
+            "value": "Das Alexianer-Krankenhaus, Kölner Str. 64, wurde 1905-08 auf dem Gelände des Gutes &quot;Rotes Haus&quot; vom Kölner Diözesan-Baumeister H. Renard als Klinik für psychisch Kranke errichtet. Kernstück der Symmetrischen Mehrflügelanlage inmitten eines Parks ist der dreigeschossige Mittelriegel mit Backstein- und Putzfassade im &quot;Bergischen Barock&quot;, inspiriert von den Schloßbauten des 17. u. 18. Jh. im bergischen Teil des Rheinlandes."
           },
           "mapPosition": {
-            "state": "#unknown",
-            "value": []
+            "state": "#ok",
+            "value": [ 7.0426783, 50.8972251 ]
           },
           "buildings": {
-            "state": "#unknown"
+            "state": "#ok",
+            "value": [[[7.0428637, 50.8973986], [7.04291, 50.8974113], [7.0429295, 50.8973831], [7.042933, 50.8973843], [7.0429338, 50.8973833], [7.0429723, 50.8973958], [7.0429715, 50.8973967], [7.0429816, 50.8974], [7.0429868, 50.8973935], [7.0430255, 50.8974061], [7.0430203, 50.8974125], [7.0430303, 50.8974158], [7.0430355, 50.8974093], [7.0430743, 50.8974219], [7.043069, 50.8974283], [7.0430732, 50.8974298], [7.0430619, 50.8974456], [7.0430712, 50.8974549], [7.0430708, 50.8974555], [7.043153, 50.8974781], [7.0431741, 50.8974485], [7.0432522, 50.8974707], [7.0433023, 50.8974007], [7.043204, 50.897373], [7.0432008, 50.8973683], [7.0431942, 50.8973627], [7.0431837, 50.8973577], [7.0431439, 50.8973462], [7.0431556, 50.8973301], [7.0431524, 50.8973289], [7.0431565, 50.8973229], [7.043145, 50.8973198], [7.0431408, 50.8973257], [7.0431009, 50.8973147], [7.043105, 50.8973087], [7.0430937, 50.8973056], [7.0430895, 50.8973116], [7.0430506, 50.8973009], [7.0430547, 50.8972949], [7.0430434, 50.8972918], [7.0430391, 50.8972979], [7.0430002, 50.8972872], [7.0430044, 50.8972811], [7.0429929, 50.8972779], [7.0429887, 50.897284], [7.0429502, 50.8972732], [7.0429506, 50.8972725], [7.0429426, 50.8972704], [7.0429378, 50.8972602], [7.0429214, 50.8972555], [7.0429062, 50.8972602], [7.0429029, 50.8972592], [7.0428154, 50.8972333], [7.0428104, 50.8972408], [7.042818, 50.8972432], [7.0427623, 50.8973262], [7.0427012, 50.8973089], [7.0426698, 50.8973553], [7.042722, 50.8973701], [7.0425882, 50.8975638], [7.042547, 50.8975523], [7.0425258, 50.8975837], [7.0425087, 50.8975791], [7.0424954, 50.897598], [7.0424821, 50.8976168], [7.0424991, 50.8976214], [7.0424773, 50.8976531], [7.0425185, 50.8976644], [7.0423845, 50.8978577], [7.0423321, 50.8978435], [7.0423003, 50.8978897], [7.042489, 50.8979427], [7.0425504, 50.897853], [7.0426427, 50.8978784], [7.0426944, 50.8978022], [7.042603, 50.8977771], [7.0426542, 50.8977027], [7.0427454, 50.897728], [7.0427685, 50.8976947], [7.0429178, 50.8977366], [7.0429192, 50.8977408], [7.0429586, 50.8977519], [7.0429652, 50.8977498], [7.0431244, 50.8977944], [7.0430446, 50.8979096], [7.0429791, 50.8978914], [7.0429461, 50.8979393], [7.0430121, 50.8979573], [7.0429357, 50.8980668], [7.0429863, 50.898081], [7.0429795, 50.8980907], [7.0429691, 50.8980878], [7.0429492, 50.8981162], [7.0430103, 50.8981335], [7.0431215, 50.8981996], [7.0431618, 50.8981423], [7.0430761, 50.8981182], [7.0430831, 50.8981082], [7.0430946, 50.8981114], [7.0431508, 50.8980313], [7.043175, 50.8980382], [7.0431871, 50.8980205], [7.0431991, 50.8980028], [7.0431749, 50.8979963], [7.0432829, 50.8978387], [7.0433593, 50.8978601], [7.0433268, 50.897908], [7.0435707, 50.8979761], [7.0438483, 50.8980538], [7.0439346, 50.8979253], [7.0434324, 50.8977851], [7.0435854, 50.8975624], [7.043993, 50.8976761], [7.0439937, 50.8976751], [7.0440513, 50.8976912], [7.0440998, 50.8976222], [7.0433456, 50.8974117], [7.0432959, 50.8974826], [7.0433336, 50.8974931], [7.043284, 50.8975639], [7.0432597, 50.8975573], [7.0432353, 50.8975919], [7.0432603, 50.8975988], [7.0431836, 50.897709], [7.0430677, 50.8976766], [7.0431051, 50.8976232], [7.0430957, 50.8976206], [7.043171, 50.8975129], [7.0430535, 50.89748], [7.042978, 50.8975871], [7.0429685, 50.8975846], [7.0429324, 50.8976385], [7.0427366, 50.8975831], [7.0427909, 50.8975042], [7.0427979, 50.8975036], [7.0428137, 50.8974799], [7.0428101, 50.8974765], [7.0428637, 50.8973986]]]
           },
           "info": {
             "state": "#unknown"
           },
           "notes": "",
           "wiki": {
-            "state": "#unknown"
+            "state": "#ok",
+            "value": "Kölner_Alexianer"
           },
           "monumentNo": {
-            "state": "#unknown"
+            "state": "#ok",
+            "value": 1285
           }
         },
         "7.3.19": {
           "trackPoint": 19,
           "trackSubpt": "",
-          "quarter": "",
+          "quarter": "Ensen",
           "predecessor": "7.3.18",
           "successor": "7.3.20",
           "inactive": true,
           "title": "zwei Villen",
           "description": {
-            "state": "#unknown",
-            "value": ""
+            "state": "#ok",
+            "value": "Die beiden zum Alexianer-Komplex gehörenden zweigeschossigen Villen, Kölner Str. 60 u. 62 in verwinkelter Bauweise mit Stuck- bzw. Putzfassaden, wurden 1905 erbaut."
           },
           "mapPosition": {
-            "state": "#unknown",
-            "value": []
+            "state": "#ok",
+            "value": [ 7.0422445, 50.8968888 ]
           },
           "buildings": {
-            "state": "#unknown"
+            "state": "#ok",
+            "value": [[[7.0425671, 50.8969887], [7.0425654, 50.8969909], [7.0424533, 50.8969618], [7.0424564, 50.8969561], [7.0424319, 50.8969499], [7.0424737, 50.8968839], [7.0424768, 50.8968847], [7.0424817, 50.896877], [7.0424925, 50.8968743], [7.0425046, 50.8968775], [7.0425181, 50.8968571], [7.0426894, 50.8969011], [7.0426257, 50.8970029], [7.0425671, 50.8969887]], [[7.0419042, 50.8969025], [7.0419055, 50.8969001], [7.041847, 50.8968865], [7.0419263, 50.8967556], [7.0419371, 50.8967581], [7.0419499, 50.8967551], [7.0419638, 50.896755], [7.0419768, 50.8967581], [7.0419872, 50.8967639], [7.0419936, 50.8967717], [7.0420046, 50.8967743], [7.0420021, 50.8967786], [7.0420816, 50.8967981], [7.0420575, 50.8968371], [7.0420779, 50.8968421], [7.0420843, 50.8968504], [7.0420715, 50.8968712], [7.0420585, 50.896875], [7.0420483, 50.8968726], [7.0420136, 50.8969288], [7.0419042, 50.8969025]]]
           },
           "info": {
             "state": "#unknown"
           },
           "notes": "",
           "wiki": {
-            "state": "#unknown"
+            "state": "#n/a"
           },
           "monumentNo": {
-            "state": "#unknown"
+            "state": "#ok",
+            "value": [
+              {
+                "number": 8246,
+                "title": "Nr. 60"
+              },
+              {
+                "number": 8247,
+                "title": "Nr. 62"
+              }
+            ]
           }
         },
         "7.3.20": {
@@ -6348,25 +6573,28 @@
           "inactive": true,
           "title": "Siedlung Gremberghoven",
           "description": {
-            "state": "#unknown",
-            "value": ""
+            "state": "#ok",
+            "value": "Ein typisches Beispiel für Arbeitersiedlungen im 1. Drittel des 20. Jh. ist die Siedlung Gremberghoven, 1919-22 nach der Idee der Gartenstadt mit großen Gärten zur Selbstversorgung nach M. Kießlings für die bediensteten des Rangierbahnhofs Gremberg (angelegt 1917-24) errichtet. Ein- bis dreigeschossige Ein- u. Mehrfamilienhäuser mit Putzfassaden vereinen sich mit Straßen und Gärten auf dem ellipsenförmigen Siedlungsgrundriß zu einem großräumigen, symmetrisch gegliederten Rondell. Wiederaufbau 1951 nach Kriegszerstörungen mit gewissen Veränderungen."
           },
           "mapPosition": {
-            "state": "#unknown",
-            "value": []
+            "state": "#ok",
+            "value": [ 7.0526617, 50.9038232 ]
           },
           "buildings": {
-            "state": "#unknown"
+            "state": "#area",
+            "value": []
           },
           "info": {
             "state": "#unknown"
           },
-          "notes": "",
+          "notes": "Der Text beschreibt das umliegende Gebiet.",
           "wiki": {
-            "state": "#unknown"
+            "state": "#ok",
+            "value": "Gremberghoven#Eisenbahnsiedlung"
           },
           "monumentNo": {
-            "state": "#unknown"
+            "state": "#ok",
+            "value": 8640
           }
         },
         "7.3.21": {
@@ -6383,7 +6611,7 @@
           },
           "mapPosition": {
             "state": "#unknown",
-            "value": []
+            "value": [ 7.063396, 50.90513 ]
           },
           "buildings": {
             "state": "#unknown"
@@ -6391,7 +6619,7 @@
           "info": {
             "state": "#unknown"
           },
-          "notes": "",
+          "notes": "Hier konnten wir leider keine Infotafel mehr finden und das Objekt nicht zuordnen.",
           "wiki": {
             "state": "#unknown"
           },
@@ -6402,37 +6630,39 @@
         "7.3.22": {
           "trackPoint": 22,
           "trackSubpt": "",
-          "quarter": "",
+          "quarter": "Porz",
           "predecessor": "7.3.21",
           "successor": "7.3.23",
           "inactive": true,
           "title": "Schöffenkreuz",
           "description": {
-            "state": "#unknown",
-            "value": ""
+            "state": "#ok",
+            "value": "An das alte dörfliche Porz erinnert das sog. Schöffenkreuz aus Trachyt, gestiftet 1667 vom Schöffen Bertram Hermans und seiner Ehefrau Margriet."
           },
           "mapPosition": {
-            "state": "#unknown",
-            "value": []
+            "state": "#ok",
+            "value": [ 7.0529418, 50.8879931 ]
           },
           "buildings": {
-            "state": "#unknown"
+            "state": "#n/a",
+            "value": []
           },
           "info": {
             "state": "#unknown"
           },
           "notes": "",
           "wiki": {
-            "state": "#unknown"
+            "state": "#n/a"
           },
           "monumentNo": {
-            "state": "#unknown"
+            "state": "#ok",
+            "value": 577
           }
         },
         "7.3.23": {
           "trackPoint": 23,
           "trackSubpt": "",
-          "quarter": "",
+          "quarter": "Porz",
           "predecessor": "7.3.22",
           "successor": "7.3.24",
           "inactive": true,
@@ -6442,27 +6672,29 @@
             "value": ""
           },
           "mapPosition": {
-            "state": "#unknown",
-            "value": []
+            "state": "#ok",
+            "value": [ 7.055765877901066, 50.88647417062454 ]
           },
           "buildings": {
-            "state": "#unknown"
+            "state": "#ok",
+            "value": [[[7.0563017, 50.8865084], [7.056300338338683, 50.88643732172394], [7.056105, 50.8864394], [7.0561071, 50.8865107], [7.0563017, 50.8865084]]]
           },
           "info": {
             "state": "#unknown"
           },
-          "notes": "",
+          "notes": "Hier war das Gelände leider nicht zugänglich.",
           "wiki": {
             "state": "#unknown"
           },
           "monumentNo": {
-            "state": "#unknown"
+            "state": "#ok",
+            "value": 544
           }
         },
         "7.3.24": {
           "trackPoint": 24,
           "trackSubpt": "",
-          "quarter": "",
+          "quarter": "Porz",
           "predecessor": "7.3.23",
           "successor": "7.3.25",
           "inactive": true,
@@ -6472,198 +6704,236 @@
             "value": ""
           },
           "mapPosition": {
-            "state": "#unknown",
-            "value": []
+            "state": "#ok",
+            "value": [ 7.055740192099906, 50.88418135407096 ]
           },
           "buildings": {
-            "state": "#unknown"
+            "state": "#ok",
+            "value": [[[7.0563141, 50.8841764], [7.0563253, 50.8842157], [7.056333, 50.8842461], [7.0563458, 50.8842446], [7.0563433, 50.8842363], [7.0564087, 50.8842284], [7.0564113, 50.8842369], [7.0564227, 50.8842356], [7.0564201, 50.8842269], [7.0564363, 50.884225], [7.0564826, 50.8842194], [7.0564854, 50.8842284], [7.0564982, 50.8842269], [7.0564921, 50.8842038], [7.0564761, 50.8841507], [7.0565817, 50.8841383], [7.0566193, 50.8841257], [7.056626, 50.8841294], [7.0566352, 50.8841227], [7.0566274, 50.8841179], [7.0566423, 50.8840987], [7.056645, 50.8840949], [7.056654, 50.8840947], [7.0566532, 50.8840868], [7.0566443, 50.8840871], [7.0566374, 50.8840626], [7.0566465, 50.8840592], [7.0566397, 50.884053], [7.0566295, 50.8840571], [7.0565983, 50.8840402], [7.0566047, 50.8840324], [7.056594, 50.8840288], [7.0565869, 50.8840367], [7.0565407, 50.8840226], [7.0565326, 50.8840288], [7.056447, 50.8840392], [7.0564326, 50.8839919], [7.0564249, 50.8839663], [7.0564095, 50.8839682], [7.0564125, 50.8839778], [7.0563502, 50.8839853], [7.0563473, 50.8839756], [7.0562602, 50.8839861], [7.0562694, 50.8840162], [7.0562805, 50.8840536], [7.0560834, 50.8840769], [7.0560047, 50.8840867], [7.0559754, 50.8840901], [7.0559805, 50.884107], [7.0559743, 50.8841083], [7.0559735, 50.884113], [7.055958, 50.884116], [7.0559378, 50.8841199], [7.0559296, 50.8841162], [7.0559285, 50.8841202], [7.0559319, 50.8841229], [7.0559124, 50.8841436], [7.0559015, 50.8841436], [7.0559019, 50.8841483], [7.0559111, 50.8841481], [7.0559168, 50.8841723], [7.0559105, 50.8841756], [7.055913, 50.8841802], [7.0559202, 50.8841759], [7.0559517, 50.88419], [7.0559456, 50.8841951], [7.0559517, 50.8841983], [7.0559582, 50.8841929], [7.0559968, 50.8841918], [7.0559991, 50.8841972], [7.0560061, 50.8841964], [7.0560106, 50.884211], [7.0560422, 50.8842072], [7.0563141, 50.8841764]]]
           },
           "info": {
             "state": "#unknown"
           },
-          "notes": "",
+          "notes": "Hier konnten wir leider keine Infotafel mehr finden.",
           "wiki": {
-            "state": "#unknown"
+            "state": "#ok",
+            "value": "St._Josef_(Köln-Porz)"
           },
           "monumentNo": {
-            "state": "#unknown"
+            "state": "#ok",
+            "value": 1323
           }
         },
         "7.3.25": {
           "trackPoint": 25,
           "trackSubpt": "",
-          "quarter": "",
+          "quarter": "Porz",
           "predecessor": "7.3.24",
           "successor": "7.3.26",
           "inactive": true,
           "title": "Wohn- u. Geschäftshaus",
           "description": {
-            "state": "#unknown",
-            "value": ""
+            "state": "#ok",
+            "value": "1912 ließ Bäckermeister Billstein sein dreigeschossiges Wohn- und Geschäftshaus, Hauptstr. 398, mit rückwärtiger Backstube bauen. Die breite Stuckfassade mit geschungenem Ziergiebel und farbigem Blumendekor, eine reizvolle Mischung aus Jugendstil und Barock, macht das Haus zu einem der auffälligsten der Straße."
           },
           "mapPosition": {
-            "state": "#unknown",
-            "value": []
+            "state": "#ok",
+            "value": [ 7.055657828857665, 50.88357150349143 ]
           },
           "buildings": {
-            "state": "#unknown"
+            "state": "#ok",
+            "value": [[[7.0558757, 50.8836112], [7.0557676, 50.8836275], [7.0557632, 50.8835048], [7.0558934, 50.8835], [7.0558963, 50.88354], [7.0559103, 50.8835394], [7.055913, 50.8835691], [7.0559722, 50.8835648], [7.0559677, 50.8835402], [7.0559949, 50.8835363], [7.0559974, 50.883545], [7.0560864, 50.8835316], [7.0560853, 50.8835294], [7.0561615, 50.8835184], [7.0561842, 50.8835611], [7.0561859, 50.8835644], [7.0561086, 50.883576], [7.0560194, 50.8835893], [7.0559305, 50.8836028], [7.0559009, 50.8836074], [7.0558757, 50.8836112]]]
           },
           "info": {
             "state": "#unknown"
           },
           "notes": "",
           "wiki": {
-            "state": "#unknown"
+            "state": "#n/a"
           },
           "monumentNo": {
-            "state": "#unknown"
+            "state": "#ok",
+            "value": 6331
           }
         },
         "7.3.26": {
           "trackPoint": 26,
           "trackSubpt": "",
-          "quarter": "",
+          "quarter": "Porz",
           "predecessor": "7.3.25",
           "successor": "7.3.27",
           "inactive": true,
           "title": "Wohnhaus",
           "description": {
-            "state": "#unknown",
-            "value": ""
+            "state": "#ok",
+            "value": "Um 1900 entstand das zweigeschossige Wohnhaus Hauptstr. 388 mit Mittelgiebel und Zahnfries am Traufgesims. Es ist das einzige hier erhaltene mit einer zweifarbigen Backsteinfassade, mit der es sich sowohl an die frühere dörfliche Bebauung als auch mit der dekorativen Gestaltung an die städtische Architektur anpaßt. Zum historischen Ansemble gehören auch die Häuser Nr. 352, 368, 394, 327."
           },
           "mapPosition": {
-            "state": "#unknown",
-            "value": []
+            "state": "#ok",
+            "value": [ 7.0556422, 50.8833698 ]
           },
           "buildings": {
-            "state": "#unknown"
+            "state": "#ok",
+            "value": [[[7.0558135, 50.8834258], [7.0558146, 50.8833999], [7.0558081, 50.8834], [7.0557943, 50.8833922], [7.0557938, 50.8833677], [7.0558078, 50.8833592], [7.0558137, 50.8833592], [7.0558138, 50.8833355], [7.0557938, 50.8833237], [7.0558215, 50.8833054], [7.0558415, 50.8833173], [7.05597, 50.8833124], [7.055972, 50.8834216], [7.0559191, 50.8834232], [7.0558135, 50.8834258]], [[7.0555721, 50.8803641], [7.0554931, 50.8803947], [7.0555213, 50.8804237], [7.0554849, 50.8804445], [7.0554541, 50.8804403], [7.0553401, 50.8803249], [7.0553114, 50.8802958], [7.0553429, 50.8802831], [7.0553726, 50.880313], [7.0554835, 50.8802725], [7.0554901, 50.8802791], [7.0555721, 50.8803641]], [[7.0556881, 50.8815383], [7.0556932, 50.8816555], [7.0556974, 50.8816553], [7.0556975, 50.8816559], [7.0557357, 50.8816541], [7.0557357, 50.881656], [7.0558531, 50.8816442], [7.0558535, 50.8816448], [7.0558994, 50.8816268], [7.0558956, 50.8815347], [7.0556881, 50.8815383]], [[7.0557452, 50.8831005], [7.0557425, 50.8829963], [7.0557629, 50.8829961], [7.0557618, 50.8829535], [7.0558803, 50.8829522], [7.0558801, 50.8829949], [7.0558809, 50.8829949], [7.0558846, 50.8830976], [7.0557452, 50.8831005]], [[7.0554878, 50.8818145], [7.0553266, 50.8818182], [7.0553245, 50.8817821], [7.0553011, 50.8817826], [7.0552995, 50.8817553], [7.0553229, 50.8817548], [7.0553212, 50.8817258], [7.0554822, 50.8817186], [7.0554878, 50.8818145]]]
           },
           "info": {
             "state": "#unknown"
           },
           "notes": "",
           "wiki": {
-            "state": "#unknown"
+            "state": "#n/a"
           },
           "monumentNo": {
-            "state": "#unknown"
+            "state": "#ok",
+            "value": [
+              {
+                "number": 6048,
+                "title": "Nr. 388"
+              },
+              {
+                "number": 543,
+                "title": "Nr. 352"
+              },
+              {
+                "number": 8244,
+                "title": "Nr. 394"
+              },
+              {
+                "number": 8276,
+                "title": "Nr. 327"
+              }
+            ]
           }
         },
         "7.3.27": {
           "trackPoint": 27,
           "trackSubpt": "",
-          "quarter": "",
+          "quarter": "Porz",
           "predecessor": "7.3.26",
           "successor": "7.3.28",
           "inactive": true,
           "title": "Villa Dr. Hollstein, Villa Ahren, Villa Broischer",
           "description": {
-            "state": "#unknown",
-            "value": ""
+            "state": "#ok",
+            "value": "Zum historischen Ensemble der Hauptstraße gehören die Villa Dr. Hollstein (Nr. 303), die Villa Ahren (Nr. 305) sowie die Villa Broischer (Nr. 307), die am südlichen Ortsrand des alten Porz in bevorzugter Lage nahe am Rhein liegen. Sie wurden zwischen 1900 (Villa Dr. Hollstein) und 1912 errichtet. Trotz mancher Modernisierungsmaßname ist ihr aufwendiger Wohnstand noch ablesbar. Die Villa Dr. Hollstein besitzt noch den Vorgarten, die originalen schmiedeeisernen Tore mit dem Einfriedungsgitter, sowie die Remise. In den Villengärten stehen noch drei Blutbuchen als Naturdenkmäler."
           },
           "mapPosition": {
-            "state": "#unknown",
-            "value": []
+            "state": "#ok",
+            "value": [ 7.055240459227818, 50.88032299056969 ]
           },
           "buildings": {
-            "state": "#unknown"
+            "state": "#ok",
+            "value": [[[7.0544237, 50.8800796], [7.0544202, 50.8800809], [7.0544605, 50.8801273], [7.0544913, 50.8801206], [7.0545637, 50.8802008], [7.0545904, 50.8802303], [7.0547176, 50.8801848], [7.054691, 50.8801552], [7.0547027, 50.880151], [7.0546441, 50.8800872], [7.0546481, 50.8800834], [7.0546268, 50.8800598], [7.0546194, 50.8800606], [7.0546287, 50.8800477], [7.0546122, 50.88003], [7.0545901, 50.8800287], [7.0545852, 50.8800233], [7.0544237, 50.8800796]], [[7.0548157, 50.8803017], [7.0547157, 50.8803356], [7.0547188, 50.8803393], [7.0546643, 50.8803577], [7.0545833, 50.8802648], [7.0545868, 50.8802463], [7.0546968, 50.8802099], [7.0547353, 50.8802514], [7.0547613, 50.8802419], [7.0548157, 50.8803017]], [[7.0549694, 50.8804366], [7.054885, 50.8803302], [7.0547283, 50.8803805], [7.0547533, 50.8804141], [7.0547364, 50.8804191], [7.054731, 50.8804291], [7.0547408, 50.8804423], [7.0547558, 50.8804449], [7.0547725, 50.8804399], [7.0547896, 50.8804635], [7.0547264, 50.8804834], [7.0547428, 50.8805046], [7.0548057, 50.8804858], [7.0548069, 50.8804874], [7.0548098, 50.8804865], [7.0549694, 50.8804366]]]
           },
           "info": {
             "state": "#unknown"
           },
           "notes": "",
           "wiki": {
-            "state": "#unknown"
+            "state": "#n/a"
           },
           "monumentNo": {
-            "state": "#unknown"
+            "state": "#ok",
+            "value": [
+              {
+                "number": 8160,
+                "title": "Nr. 305"
+              }
+            ]
           }
         },
         "7.3.28": {
           "trackPoint": 28,
           "trackSubpt": "",
-          "quarter": "",
+          "quarter": "Porz",
           "predecessor": "7.3.27",
           "successor": "7.3.29",
           "inactive": true,
           "title": "Lukaskirche",
           "description": {
-            "state": "#unknown",
-            "value": ""
+            "state": "#ok",
+            "value": "Die evangel. Lukaskirche, Mühlenstr. 2, wurde 1914 von M. Benirschke als Saalkirche mit Rechteckchor und jugendstilgeprägtem, an J. M. Olbrichs Darmstädter Hochzeits-Turm erinnernden Fassadenturm geschaffen. Die expressionistische, sehr farbige Innenausstattung stammt von H. Derckum (vollendet 1927). 1977-80 erfolgte die denkmalpflegerische Wiederherstellung des unsprünglichen Zustandes durch die Architekten Thon und Baedorf."
           },
           "mapPosition": {
-            "state": "#unknown",
-            "value": []
+            "state": "#ok",
+            "value": [ 7.055655728020915, 50.88059777263491 ]
           },
           "buildings": {
-            "state": "#unknown"
+            "state": "#ok",
+            "value": [[[7.0562236, 50.8804198], [7.0559169, 50.8804783], [7.05593, 50.8805057], [7.0558985, 50.8805117], [7.0559245, 50.8805659], [7.055956, 50.8805599], [7.0559712, 50.8805916], [7.0562779, 50.8805331], [7.0562236, 50.8804198]]]
           },
           "info": {
             "state": "#unknown"
           },
           "notes": "",
           "wiki": {
-            "state": "#unknown"
+            "state": "#ok",
+            "value": "Lukaskirche_%28K%C3%B6ln-Porz%29"
           },
           "monumentNo": {
-            "state": "#unknown"
+            "state": "#ok",
+            "value": 929
           }
         },
         "7.3.29": {
           "trackPoint": 29,
           "trackSubpt": "",
-          "quarter": "",
+          "quarter": "Porz",
           "predecessor": "7.3.28",
           "successor": "7.3.30",
           "inactive": true,
           "title": "Straßenbahnwartehalle",
           "description": {
-            "state": "#unknown",
-            "value": ""
+            "state": "#ok",
+            "value": "Aus der ersten Wiederaufbauphase nach dem Zweiten Weltkrieg verfügt Köln über eine Anzahl von Gebäuden von hoher architektonischer Qualität. Die teilweise leichte, beschwingte Flachdacharchitektur mit organischer Linienführung und gegliedertem Sichtbetonstützwerk wurde auch auf kleine Bauten wie die Straßenbahnwartehalle mit Kiosk, Mühlenstr. o. Nr., übertragen. Sie wurde 1952 über einem gekurvten Grundriß pavillonartig mit großen Fenstern und einem besondere Akzente setzenden, weitvorkragenden Flachdach errichtet."
           },
           "mapPosition": {
-            "state": "#unknown",
-            "value": []
+            "state": "#ok",
+            "value": [ 7.0586979, 50.8832938 ]
           },
           "buildings": {
-            "state": "#unknown"
+            "state": "#ok",
+            "value": [[[7.0587414, 50.883229], [7.0587921, 50.8832894], [7.0589646, 50.8832317], [7.0589125, 50.8831189], [7.0588911, 50.8831001], [7.0588458, 50.8830955], [7.0588161, 50.8831126], [7.0588066, 50.8831312], [7.0588361, 50.8831973], [7.0587414, 50.883229]]]
           },
           "info": {
             "state": "#unknown"
           },
           "notes": "",
           "wiki": {
-            "state": "#unknown"
+            "state": "#n/a"
           },
           "monumentNo": {
-            "state": "#unknown"
+            "state": "#ok",
+            "value": 5031
           }
         },
         "7.3.30": {
           "trackPoint": 30,
           "trackSubpt": "",
-          "quarter": "",
+          "quarter": "Porz",
           "predecessor": "7.3.29",
           "successor": "7.3.31",
           "inactive": true,
           "title": "Germania-Siedlung",
           "description": {
-            "state": "#unknown",
-            "value": ""
+            "state": "#ok",
+            "value": "Die Germania-Siedlung (Bahnhofstr./Concordiaplatz/Germaniastr./Glasstr.) wurde zwischen 1899 und 1903 abseits der Bürgermeisterei Porz auf rautenförmigem Grundriß angelegt, ein Ensemble aus Fabrik, Direktorenvilla und Park (Concordiaplatz), Meisterhäusern (Germaniastr.), Angestellten- und Arbeiterhäusern (Glasstr.) für die Belegschaft der Germania-Spiegelglaswerke. Anlage und Architektur der Häuser spiegelten die zeitgenössische berufsständische Gliederung des Werks und die soziale Hierarchie der Bewohner wieder; je höher ihr Status, desto näher an der Fabrik wohnten sie! Die noch nahezu geschlossen erhaltene Siedlung von seltener gestalterischer und architektonischer Vielfalt ist die einzige ihrer Art in Köln."
           },
           "mapPosition": {
-            "state": "#unknown",
-            "value": []
+            "state": "#ok",
+            "value": [ 7.0622739, 50.8826081 ]
           },
           "buildings": {
-            "state": "#unknown"
+            "state": "#area",
+            "value": []
           },
           "info": {
             "state": "#unknown"
           },
-          "notes": "",
+          "notes": "Der Text beschreibt das umliegende Gebiet.",
           "wiki": {
-            "state": "#unknown"
+            "state": "#ok",
+            "value": "Porz_(Köln)#Germaniasiedlung"
           },
           "monumentNo": {
             "state": "#unknown"
@@ -6672,7 +6942,7 @@
         "7.3.31": {
           "trackPoint": 31,
           "trackSubpt": "",
-          "quarter": "",
+          "quarter": "Porz",
           "predecessor": "7.3.30",
           "successor": "",
           "inactive": true,
@@ -6683,7 +6953,7 @@
           },
           "mapPosition": {
             "state": "#unknown",
-            "value": []
+            "value": [ 7.064818336712283, 50.88147079285061 ]
           },
           "buildings": {
             "state": "#unknown"
@@ -6691,12 +6961,13 @@
           "info": {
             "state": "#unknown"
           },
-          "notes": "",
+          "notes": "Hier konnten wir leider keine Infotafel mehr finden.",
           "wiki": {
             "state": "#unknown"
           },
           "monumentNo": {
-            "state": "#unknown"
+            "state": "#ok",
+            "value": 4777
           }
         }
       }
@@ -6717,12 +6988,12 @@
           "inactive": true,
           "title": "",
           "description": {
-            "state": "#unknown",
-            "value": ""
+            "state": "#ok",
+            "value": "Die Tour durch Zündorf ist etwa 6 km lang und startet an der Haltestelle Rosenhügel der Linie 7. Endpunkt ist dann die Haltestelle Zündorf.<br/>Die Reihenfolge einiger Infotafeln wurde für einen besseren Wegverlauf umsortiert."
           },
           "mapPosition": {
-            "state": "#unknown",
-            "value": []
+            "state": "#ok",
+            "value": [ 7.0602817, 50.8743422 ]
           },
           "buildings": {
             "state": "#unknown"
@@ -6741,31 +7012,33 @@
         "7.4.1": {
           "trackPoint": 1,
           "trackSubpt": "",
-          "quarter": "",
+          "quarter": "Zündorf",
           "predecessor": "7.4.0",
           "successor": "7.4.2",
           "inactive": true,
           "title": "Jüdischer Friedhof",
           "description": {
-            "state": "#unknown",
-            "value": ""
+            "state": "#ok",
+            "value": "Aus der jüdischen Gemeinde gingen zahlreiche für Zündorf wichtige Unternehmer hervor. Eine Judengasse war hier 1825 und 1854 verzeichnet. 1880 entstand die bis 1938 bestehende Synagoge (Hauptstr. 159; heute ein Wohnhaus). Der ehemalige jüdische Friedhof ist zwischen Gartenweg und Hasenkaul gelegen<b/>Nach der Befreiung Deutschlands vom Nationalsozialismus 1945 ist die jüdische Gemeinde nicht wiederentstanden."
           },
           "mapPosition": {
-            "state": "#unknown",
-            "value": []
+            "state": "#ok",
+            "value": [ 7.0582487, 50.8720948 ]
           },
           "buildings": {
-            "state": "#unknown"
+            "state": "#area",
+            "value": []
           },
           "info": {
             "state": "#unknown"
           },
           "notes": "",
           "wiki": {
-            "state": "#unknown"
+            "state": "#n/a"
           },
           "monumentNo": {
-            "state": "#unknown"
+            "state": "#ok",
+            "value": 5576
           }
         },
         "7.4.2": {
@@ -6782,20 +7055,22 @@
           },
           "mapPosition": {
             "state": "#unknown",
-            "value": []
+            "value": [ 7.046023, 50.8704183 ]
           },
           "buildings": {
-            "state": "#unknown"
+            "state": "#unknown",
+            "value": [[[7.0452702, 50.87062], [7.0451379, 50.8704884], [7.0452627, 50.8704385], [7.0453717, 50.8703948], [7.0454334, 50.8704556], [7.0453231, 50.8704996], [7.0453931, 50.8705708], [7.0452702, 50.87062]], [[7.0452608, 50.8707107], [7.045212, 50.8706379], [7.0452702, 50.87062], [7.0453224, 50.8706036], [7.0453778, 50.8706766], [7.0452608, 50.8707107]]]
           },
           "info": {
             "state": "#unknown"
           },
-          "notes": "",
+          "notes": "Hier konnten wir leider keine Infotafel mehr finden und das Objekt nicht zuordnen. Vermutlich handelt es sich um den Turmhof und Werturm.",
           "wiki": {
             "state": "#unknown"
           },
           "monumentNo": {
-            "state": "#unknown"
+            "state": "#ok",
+            "value": 542
           }
         },
         "7.4.3": {
@@ -6807,25 +7082,40 @@
           "inactive": true,
           "title": "ehem. Wohnhaus Pelletier",
           "description": {
-            "state": "#unknown",
-            "value": ""
+            "state": "#ok",
+            "value": "Das ehem. Wohnhaus des Kaufmanns Pelletier, Gütergasse 33-41, wurde 1750 vom Architekten J.G. Leydel erbaut. 1864 in ein Cellitinnen-Kloster mit Altenheim (St. Josephs-Altenheim) und einer neugotischen (heute profanisierten) Kapelle umgewandelt, entstand 1974 aus dem Komplex eine private Wohnanlage."
           },
           "mapPosition": {
-            "state": "#unknown",
-            "value": []
+            "state": "#ok",
+            "value": [ 7.044656751187311, 50.86992100846941 ]
           },
           "buildings": {
-            "state": "#unknown"
+            "state": "#ok",
+            "value": [[[7.044435, 50.8698122], [7.0444589, 50.8698353], [7.0444733, 50.8698496], [7.0445837, 50.8698076], [7.0446325, 50.8698559], [7.0445239, 50.8698996], [7.0445627, 50.869938], [7.044744, 50.8698651], [7.0446564, 50.8697784], [7.0444524, 50.8695822], [7.044274, 50.8696537], [7.044435, 50.8698122]], [[7.044435, 50.8698122], [7.0445611, 50.8699378], [7.0444634, 50.8699767], [7.0443604, 50.8698726], [7.0443791, 50.869865], [7.0443764, 50.8698498], [7.0443956, 50.8698425], [7.0444261, 50.8698458], [7.0444378, 50.869841], [7.0444255, 50.8698352], [7.0444117, 50.8698218], [7.044435, 50.8698122]]]
           },
           "info": {
             "state": "#unknown"
           },
           "notes": "",
           "wiki": {
-            "state": "#unknown"
+            "state": "#n/a"
           },
           "monumentNo": {
-            "state": "#unknown"
+            "state": "#ok",
+            "value": [
+              {
+                "number": 4931,
+                "title": "Wohnhaus"
+              },
+              {
+                "number": 989,
+                "title": "Josephskapelle und Kellergewölbe"
+              },
+              {
+                "number": 3744,
+                "title": "Kellergewölbe neben der Kapelle"
+              }
+            ]
           }
         },
         "7.4.4": {
@@ -6837,25 +7127,27 @@
           "inactive": true,
           "title": "Fachwerkhaus",
           "description": {
-            "state": "#unknown",
-            "value": ""
+            "state": "#ok",
+            "value": "Das giebelständige Fachwerkhaus Gütergasse 21 wurde wahrscheinlich im 18. Jh. errichtet (restauriert 1987-90). Das Erdgeschoss soll einst die Dorfapotheke beherbergt haben."
           },
           "mapPosition": {
-            "state": "#unknown",
-            "value": []
+            "state": "#ok",
+            "value": [ 7.04486744875296, 50.86984318741871 ]
           },
           "buildings": {
-            "state": "#unknown"
+            "state": "#ok",
+            "value": [[[7.0447873, 50.8698392], [7.0447603, 50.8698161], [7.0448038, 50.8697959], [7.0447578, 50.8697531], [7.04477, 50.8697474], [7.0448162, 50.8697271], [7.0448905, 50.869794], [7.0447873, 50.8698392]]]
           },
           "info": {
             "state": "#unknown"
           },
           "notes": "",
           "wiki": {
-            "state": "#unknown"
+            "state": "#n/a"
           },
           "monumentNo": {
-            "state": "#unknown"
+            "state": "#ok",
+            "value": 4210
           }
         },
         "7.4.5": {
@@ -6867,25 +7159,26 @@
           "inactive": true,
           "title": "Siedlung Gütergasse",
           "description": {
-            "state": "#unknown",
-            "value": ""
+            "state": "#ok",
+            "value": "Im Bereich zw. Gütergasse, Hauptstr., Enggasse und Leinpfad wurde 1982-86 von G. Böhm die sich an der historischen dörflichen Bebauung Zündorfs orientierende Reihenhaussiedlung errichtet."
           },
           "mapPosition": {
-            "state": "#unknown",
-            "value": []
+            "state": "#ok",
+            "value": [ 7.0446455, 50.8693407 ]
           },
           "buildings": {
-            "state": "#unknown"
+            "state": "#ok",
+            "value": [[[7.0445122, 50.8694886], [7.0444576, 50.8694348], [7.0445707, 50.8693887], [7.0446254, 50.8694425], [7.0445122, 50.8694886]], [[7.0450885, 50.8694075], [7.0450771, 50.8693964], [7.0450701, 50.8693989], [7.0450628, 50.8693961], [7.045061, 50.8693922], [7.0450644, 50.8693885], [7.0450603, 50.8693901], [7.0450503, 50.8693803], [7.0450577, 50.8693772], [7.0450483, 50.8693682], [7.045041, 50.8693712], [7.0450311, 50.8693616], [7.0450385, 50.8693585], [7.0450337, 50.8693537], [7.0451473, 50.8693074], [7.045202, 50.8693611], [7.0450885, 50.8694075]], [[7.0451334, 50.8695728], [7.0450773, 50.8695197], [7.0451899, 50.8694723], [7.0451964, 50.8694785], [7.0451999, 50.869477], [7.0452085, 50.8694851], [7.0452049, 50.8694866], [7.0452232, 50.869504], [7.0452338, 50.8694995], [7.0452458, 50.8695109], [7.0452351, 50.8695153], [7.0452362, 50.8695163], [7.0452397, 50.8695149], [7.0452482, 50.869523], [7.0452447, 50.8695245], [7.0452457, 50.8695255], [7.0451334, 50.8695728]], [[7.044967, 50.8695289], [7.0449123, 50.8694751], [7.0450257, 50.8694291], [7.0450303, 50.8694337], [7.0450378, 50.8694307], [7.0450475, 50.8694403], [7.0450401, 50.8694433], [7.0450495, 50.8694525], [7.0450569, 50.8694495], [7.0450667, 50.8694591], [7.0450594, 50.8694621], [7.0450596, 50.8694624], [7.0450704, 50.8694581], [7.0450871, 50.8694745], [7.0450764, 50.8694788], [7.0450803, 50.8694827], [7.044967, 50.8695289]], [[7.0445659, 50.8695416], [7.0445122, 50.8694886], [7.0446254, 50.8694425], [7.0446791, 50.8694953], [7.0445659, 50.8695416]], [[7.0449798, 50.8693008], [7.0449693, 50.8692906], [7.0449627, 50.8692927], [7.0449562, 50.8692905], [7.0449541, 50.8692877], [7.0449541, 50.8692849], [7.0449591, 50.8692813], [7.0449522, 50.8692841], [7.0449426, 50.8692745], [7.0449499, 50.8692715], [7.0449405, 50.8692624], [7.0449331, 50.8692653], [7.0449233, 50.8692556], [7.0449306, 50.8692526], [7.0449251, 50.8692471], [7.0450387, 50.8692008], [7.0450933, 50.8692545], [7.0449798, 50.8693008]], [[7.0446742, 50.8696483], [7.0446197, 50.8695946], [7.0447329, 50.8695483], [7.0447876, 50.8696021], [7.0446742, 50.8696483]], [[7.0446197, 50.8695946], [7.0445659, 50.8695416], [7.0446791, 50.8694953], [7.0447329, 50.8695483], [7.0446197, 50.8695946]], [[7.0449123, 50.8694751], [7.0448585, 50.8694224], [7.0449718, 50.8693762], [7.0449764, 50.8693808], [7.0449839, 50.8693778], [7.0449937, 50.8693874], [7.0449863, 50.8693904], [7.0449956, 50.8693996], [7.0450031, 50.8693965], [7.0450127, 50.8694061], [7.0450054, 50.8694091], [7.0450057, 50.8694094], [7.045012, 50.8694073], [7.0450182, 50.8694096], [7.0450208, 50.8694128], [7.0450195, 50.8694166], [7.0450152, 50.8694188], [7.0450255, 50.8694289], [7.0449123, 50.8694751]], [[7.0450337, 50.8693537], [7.0450232, 50.8693435], [7.0450166, 50.8693454], [7.0450096, 50.8693428], [7.045008, 50.8693393], [7.0450094, 50.8693362], [7.0450142, 50.8693337], [7.045006, 50.869337], [7.0449965, 50.8693274], [7.0450039, 50.8693244], [7.0449945, 50.8693154], [7.0449872, 50.8693184], [7.0449772, 50.8693086], [7.0449845, 50.8693056], [7.0449798, 50.8693008], [7.0450933, 50.8692545], [7.0451473, 50.8693074], [7.0450337, 50.8693537]], [[7.0448047, 50.8693695], [7.0447499, 50.8693156], [7.0448632, 50.8692694], [7.0448689, 50.869275], [7.0448763, 50.869272], [7.0448862, 50.8692817], [7.0448788, 50.8692848], [7.0448879, 50.8692938], [7.0448953, 50.8692908], [7.0449052, 50.8693004], [7.0448971, 50.8693038], [7.0449019, 50.8693022], [7.0449066, 50.8693022], [7.0449115, 50.8693043], [7.0449131, 50.8693076], [7.0449116, 50.8693109], [7.0449074, 50.8693129], [7.0449178, 50.8693232], [7.0448047, 50.8693695]], [[7.0448585, 50.8694224], [7.0448047, 50.8693695], [7.0449178, 50.8693232], [7.0449228, 50.8693279], [7.0449301, 50.8693249], [7.0449399, 50.8693344], [7.0449325, 50.8693375], [7.0449417, 50.8693467], [7.0449492, 50.8693437], [7.0449589, 50.8693532], [7.0449515, 50.8693563], [7.0449517, 50.8693565], [7.044958, 50.8693547], [7.0449648, 50.8693576], [7.0449665, 50.8693608], [7.0449649, 50.869364], [7.0449613, 50.8693659], [7.0449717, 50.869376], [7.0448585, 50.8694224]], [[7.0451334, 50.8695728], [7.0452457, 50.8695255], [7.0452513, 50.8695308], [7.045255, 50.8695294], [7.0452634, 50.8695375], [7.04526, 50.869539], [7.0452711, 50.8695497], [7.0452818, 50.8695452], [7.0453008, 50.8695634], [7.0452902, 50.8695679], [7.0452911, 50.8695688], [7.0452947, 50.8695673], [7.0453032, 50.8695754], [7.0452997, 50.8695769], [7.0453017, 50.8695788], [7.0451894, 50.8696258], [7.0451334, 50.8695728]]]
           },
           "info": {
             "state": "#unknown"
           },
           "notes": "",
           "wiki": {
-            "state": "#unknown"
+            "state": "#n/a"
           },
           "monumentNo": {
-            "state": "#unknown"
+            "state": "#n/a"
           }
         },
         "7.4.6": {
@@ -6897,25 +7190,26 @@
           "inactive": true,
           "title": "&quot;Kleines Teehaus&quot;",
           "description": {
-            "state": "#unknown",
-            "value": ""
+            "state": "#ok",
+            "value": "Zwischen Turmhof und Markt steht an der Rheinpromenade neben einer Trauerweide (Naturdenkmal) das &quot;Kleine Teehaus&quot; der ehem. Brauerei Immendorff, ein Jugendstil-Pavillon aus dem Jahre 1910."
           },
           "mapPosition": {
-            "state": "#unknown",
-            "value": []
+            "state": "#ok",
+            "value": [ 7.043886347701405, 50.87030453353978 ]
           },
           "buildings": {
-            "state": "#unknown"
+            "state": "#ok",
+            "value": [[[7.043871, 50.870344], [7.0438236, 50.8703688], [7.0437708, 50.8703306], [7.0438185, 50.8703041], [7.043871, 50.870344]]]
           },
           "info": {
             "state": "#unknown"
           },
           "notes": "",
           "wiki": {
-            "state": "#unknown"
+            "state": "#n/a"
           },
           "monumentNo": {
-            "state": "#unknown"
+            "state": "#n/a"
           }
         },
         "7.4.7": {
@@ -6927,25 +7221,27 @@
           "inactive": true,
           "title": "Groov",
           "description": {
-            "state": "#unknown",
-            "value": ""
+            "state": "#ok",
+            "value": "Bis zur Mitte des 18. Jh. eine auch zum Weiden- und Weinanbau benutzte Rheininsel, versandete seit dem Beginn der systematischen Uferbefestigung im Jahre 1815 das Wasser zwischen der Groov und dem Ufer immer mehr. Heute ist die Groov eine Halbinsel (Obere u. Untere Groov), ein beliebtes Ausflugsziel und Freizeitgelände."
           },
           "mapPosition": {
-            "state": "#unknown",
-            "value": []
+            "state": "#ok",
+            "value": [ 7.0421282134803675, 50.87019578680792 ]
           },
           "buildings": {
-            "state": "#unknown"
+            "state": "#area",
+            "value": []
           },
           "info": {
             "state": "#unknown"
           },
           "notes": "",
           "wiki": {
-            "state": "#unknown"
+            "state": "#ok",
+            "value": "Groov"
           },
           "monumentNo": {
-            "state": "#unknown"
+            "state": "#n/a"
           }
         },
         "7.4.8": {
@@ -6957,25 +7253,40 @@
           "inactive": true,
           "title": "Marktplatz mit Nepomuk-Statue und Kriegerdenkmal",
           "description": {
-            "state": "#unknown",
-            "value": ""
+            "state": "#ok",
+            "value": "Der Marktplatz bildet mit der ihn begrenzenden, weitgehend noch geschlossen erhaltenen Bebauung ein für Zündorf charakteristisches Ensemble. Das Haus Am Markt 4 stammt in seinem Kern wohl ebenso aus dem 18. Jh. (Putzfassade 19. Jh.) wie die Hofanlage Am Markt 6, ein teilw. verputztes Fachwerkhaus mit werksteingefaßten Fenster- und Türgewänden. Zum Schutz gegen das Hochwasser ist die Front zum Rhein hin gemauert.<br/>Im Zentrum des Platzes steht die 1775 von den Zündorfer Schiffern gestiftete Statue des hl. Johannes aus Nepomuk, ihres Schutzpatrons.<br/>Das Kriegerdenkmal aus Haustein wurde 1932 zum Gedenken an die im Ersten Weltkrieg gefallenen Zündorfer errichtet."
           },
           "mapPosition": {
-            "state": "#unknown",
-            "value": []
+            "state": "#ok",
+            "value": [ 7.043246, 50.8696752 ]
           },
           "buildings": {
-            "state": "#unknown"
+            "state": "#ok",
+            "value": [[[7.0437193, 50.8698472], [7.0436299, 50.8697803], [7.0438357, 50.869683], [7.0438606, 50.8696715], [7.0439407, 50.86974], [7.0438396, 50.8697891], [7.043773, 50.869821], [7.0437193, 50.8698472]], [[7.0434388, 50.8696457], [7.0433379, 50.8695744], [7.0434331, 50.8695345], [7.0434567, 50.8695524], [7.0435017, 50.8695337], [7.0435149, 50.8695465], [7.0435836, 50.8695197], [7.0436102, 50.8695729], [7.0434388, 50.8696457]]]
           },
           "info": {
             "state": "#unknown"
           },
           "notes": "",
           "wiki": {
-            "state": "#unknown"
+            "state": "#n/a"
           },
           "monumentNo": {
-            "state": "#unknown"
+            "state": "#ok",
+            "value": [
+              {
+                "number": 525,
+                "title": "Nepomuk-Statue und Kriegerdenkmal"
+              },
+              {
+                "number": 1152,
+                "title": "Am Markt 4"
+              },
+              {
+                "number": 857,
+                "title": "Am Markt 6"
+              }
+            ]
           }
         },
         "7.4.9": {
@@ -6987,25 +7298,48 @@
           "inactive": true,
           "title": "Enggasse",
           "description": {
-            "state": "#unknown",
-            "value": ""
+            "state": "#ok",
+            "value": "Die Enggasse bietet ein Ensemble 1&frac12;-2-geschossiger giebelständiger Fachwerk- bzw. Backsteinhäuser des 17.-19. Jh.: Nr. 9 (aus dem 17. Jh., 1984 nach historischem Vorbild erneuert); Nr. 15; Nr. 19 (ein Neubau von 1977-81 unter Verwendung einer alten Fachwerkfassade); Nr. 21; Nr. 16 (ein verputztes Backsteinhäuschen des 19. Jh. mit nach historischem Vorbild erneuerten Klappläden und Haus- und Hoftüren)."
           },
           "mapPosition": {
-            "state": "#unknown",
-            "value": []
+            "state": "#ok",
+            "value": [ 7.0437527, 50.8695313 ]
           },
           "buildings": {
-            "state": "#unknown"
+            "state": "#ok",
+            "value": [[[7.0443435, 50.8690864], [7.044362, 50.8691018], [7.0443501, 50.8691068], [7.0443166, 50.8690768], [7.0443627, 50.8690545], [7.0443961, 50.8690385], [7.044469, 50.8691004], [7.0445412, 50.8691659], [7.0444839, 50.8691905], [7.0444085, 50.8691264], [7.0443882, 50.8691092], [7.0444078, 50.8691], [7.0443838, 50.8690799], [7.04439, 50.8690769], [7.0443737, 50.8690637], [7.0443571, 50.8690712], [7.0443639, 50.8690768], [7.0443435, 50.8690864]], [[7.0434538, 50.8692759], [7.0433847, 50.8692323], [7.0434836, 50.8691694], [7.0435162, 50.86919], [7.0435263, 50.8691837], [7.0435562, 50.8692025], [7.0435463, 50.8692089], [7.0435965, 50.8692406], [7.0435053, 50.8692985], [7.0434614, 50.869271], [7.0434538, 50.8692759]], [[7.0436545, 50.8694583], [7.0438128, 50.8693739], [7.0438901, 50.8694434], [7.0437477, 50.8695206], [7.0436545, 50.8694583]], [[7.0438547, 50.8696036], [7.0437747, 50.869541], [7.0438889, 50.8694859], [7.0439479, 50.869535], [7.0438862, 50.8695655], [7.0439035, 50.8695798], [7.0438547, 50.8696036]], [[7.0439916, 50.8693285], [7.0440422, 50.8693774], [7.0439751, 50.8694043], [7.0439228, 50.8693539], [7.0438646, 50.869299], [7.0439283, 50.8692729], [7.0439916, 50.8693285]]]
           },
           "info": {
             "state": "#unknown"
           },
           "notes": "",
           "wiki": {
-            "state": "#unknown"
+            "state": "#n/a"
           },
           "monumentNo": {
-            "state": "#unknown"
+            "state": "#ok",
+            "value": [
+              {
+                "number": 2544,
+                "title": "Nr. 9"
+              },
+              {
+                "number": 2935,
+                "title": "Nr. 15"
+              },
+              {
+                "number": 3709,
+                "title": "Nr. 16"
+              },
+              {
+                "number": 2729,
+                "title": "Nr. 19"
+              },
+              {
+                "number": 7260,
+                "title": "Nr. 21"
+              }
+            ]
           }
         },
         "7.4.10": {
@@ -7017,25 +7351,48 @@
           "inactive": true,
           "title": "Marktstraße",
           "description": {
-            "state": "#unknown",
-            "value": ""
+            "state": "#todo",
+            "value": "Häuser des 17. bis 19. Jh. auf der Marktstraße: Nr. 18 (ein Fachwerkbau des 18. Jh. mit doppelter Freitreppe u. zweiflügeliger geschnitzter Eichentür); Nr. 20 (1772 über älterem Vorgänger errichtetes ehem. Stapelhaus des Mülheimer Handelsherrn Dirk van ???? ein Fachwerkbau mit doppel??????er Freitreppe); Nr. 22 (um 1880 gebautes 2-geschossiges, teilw. verputztes Eckhaus zum Markt mit erneuertem Fachwerk); Nr. 5 (ein teilw. verputztes Fachwerkhaus vom Ende 17. Jh.); Nr. 27 (ein 1832 inschriftlich datiertes Fachwerkhaus)."
           },
           "mapPosition": {
-            "state": "#unknown",
-            "value": []
+            "state": "#ok",
+            "value": [ 7.044352194594852, 50.868594664597715 ]
           },
           "buildings": {
-            "state": "#unknown"
+            "state": "#ok",
+            "value": [[[7.0429247, 50.8694454], [7.0430188, 50.8694887], [7.0430937, 50.8694237], [7.0429968, 50.8693821], [7.0429795, 50.8693972], [7.0429247, 50.8694454]], [[7.0430186, 50.8690608], [7.0431364, 50.8691317], [7.0431877, 50.869094], [7.0431648, 50.8690811], [7.0432082, 50.8690501], [7.0432305, 50.8690626], [7.0432487, 50.8690618], [7.0433155, 50.8691022], [7.0431677, 50.8692119], [7.0431163, 50.8692186], [7.0428504, 50.8690687], [7.0429875, 50.8689746], [7.0429916, 50.8689769], [7.0430827, 50.8689137], [7.0431656, 50.868963], [7.0432759, 50.8690286], [7.0432567, 50.8690414], [7.043147, 50.8689753], [7.0430186, 50.8690608]], [[7.0432275, 50.8688845], [7.0433117, 50.8688361], [7.0435182, 50.8689753], [7.0434279, 50.8690252], [7.0432401, 50.8688935], [7.0432275, 50.8688845]], [[7.0443209, 50.8686721], [7.0443841, 50.8686336], [7.0445026, 50.86871], [7.0444768, 50.8687257], [7.0444385, 50.8687478], [7.0443209, 50.8686721]], [[7.0432753, 50.8694602], [7.0431766, 50.8693985], [7.0432637, 50.8693386], [7.0432633, 50.8693382], [7.0432668, 50.8693357], [7.0433709, 50.8694], [7.0432753, 50.8694602]]]
           },
           "info": {
             "state": "#unknown"
           },
           "notes": "",
           "wiki": {
-            "state": "#unknown"
+            "state": "#n/a"
           },
           "monumentNo": {
-            "state": "#unknown"
+            "state": "#ok",
+            "value": [
+              {
+                "number": 7266,
+                "title": "Nr. 18"
+              },
+              {
+                "number": 7480,
+                "title": "Nr. 20"
+              },
+              {
+                "number": 1397,
+                "title": "Nr. 22"
+              },
+              {
+                "number": 2972,
+                "title": "Nr. 27"
+              },
+              {
+                "number": 7031,
+                "title": "Nr. 5"
+              }
+            ]
           }
         },
         "7.4.11": {
@@ -7047,25 +7404,28 @@
           "inactive": true,
           "title": "St. Michael",
           "description": {
-            "state": "#unknown",
-            "value": ""
+            "state": "#ok",
+            "value": "St. Michael am Burgweg, die alte Pfarrkirche Niederzündorfs (11.–17. Jh.), auf einer leichten Anhöhe über einem alten Rheinarm gelegen, ist ein romanischer Saalbau mit reich verziertem Vierkantturm mit Rautenhelm (1170) im Westen, dreiseitigem Chor im Osten, Kapelle im Süden und Sakristei (1662) im Norden. Das nördl. Seitenschiff wurde 1906 abgebrochen. Im Innern 2 Tafelgemälde aus der Barthel Bruyn-Schule mit Kalvarienberg u. Anbetung der hl. 3 Könige (2. Hälfte 16. Jh.), ein merowingisches Ranklenrelief (7. Jh.) u. Grabsteine des 17. Jh. Der ummauerte Friedhofsbezirk ist mittelalterlichen Ursprungs; auf dem Eingangstor ein 1630 datiertes Grabkreuz."
           },
           "mapPosition": {
-            "state": "#unknown",
-            "value": []
+            "state": "#ok",
+            "value": [ 7.0429855, 50.8683178 ]
           },
           "buildings": {
-            "state": "#unknown"
+            "state": "#ok",
+            "value": [[[7.0423942, 50.8685264], [7.0423891, 50.8684909], [7.0422846, 50.8684972], [7.0422271, 50.8684994], [7.0422241, 50.8684802], [7.0422117, 50.8684809], [7.04221, 50.8684704], [7.0422225, 50.8684696], [7.042218, 50.868441], [7.0422056, 50.8684418], [7.0422026, 50.8684232], [7.0422326, 50.8684215], [7.0422338, 50.8684299], [7.0422799, 50.8684268], [7.0422788, 50.8684189], [7.0422943, 50.8684181], [7.0422954, 50.8684257], [7.0424178, 50.8684194], [7.0424158, 50.8684046], [7.0424515, 50.8684027], [7.0424535, 50.8684175], [7.0425062, 50.8684145], [7.0425458, 50.8684314], [7.042552, 50.8684611], [7.0425196, 50.8684837], [7.042514, 50.868484], [7.0425183, 50.8685142], [7.0425082, 50.86852], [7.0423942, 50.8685264]]]
           },
           "info": {
             "state": "#unknown"
           },
           "notes": "",
           "wiki": {
-            "state": "#unknown"
+            "state": "#ok",
+            "value": "St._Michael_%28K%C3%B6ln-Z%C3%BCndorf%29"
           },
           "monumentNo": {
-            "state": "#unknown"
+            "state": "#ok",
+            "value": 1387
           }
         },
         "7.4.12": {
@@ -7077,25 +7437,36 @@
           "inactive": true,
           "title": "Historische Gebäude am Burgweg",
           "description": {
-            "state": "#unknown",
-            "value": ""
+            "state": "#ok",
+            "value": "Das 1 1/2-geschossige Fachwerkhäuschen (mit verputzter Traufseite) Burgweg Nr. 9 datiert aus dem Jahr 1677. Der Bitzhof, Burgweg Nr. 12, stammt aus dem Jahre 1836. Das zweigeschossige Fachwerkhaus mit einläufiger Außentreppe wurde 1982 innen und außen aufwendig restauriert."
           },
           "mapPosition": {
-            "state": "#unknown",
-            "value": []
+            "state": "#ok",
+            "value": [ 7.0425422, 50.8689435 ]
           },
           "buildings": {
-            "state": "#unknown"
+            "state": "#ok",
+            "value": [[[7.0424047, 50.868999], [7.0423812, 50.8689788], [7.0423464, 50.8689488], [7.0423327, 50.8689368], [7.0424004, 50.8689021], [7.0424745, 50.8689666], [7.0424047, 50.868999]], [[7.0423816, 50.8688182], [7.0423861, 50.8688159], [7.0423515, 50.8687935], [7.04242, 50.8687639], [7.0424206, 50.8687635], [7.0424442, 50.8687872], [7.0424801, 50.8688169], [7.0424801, 50.8688172], [7.0425658, 50.8688748], [7.04252, 50.8689035], [7.0424335, 50.8688477], [7.0424291, 50.8688493], [7.0423816, 50.8688182]]]
           },
           "info": {
             "state": "#unknown"
           },
           "notes": "",
           "wiki": {
-            "state": "#unknown"
+            "state": "#n/a"
           },
           "monumentNo": {
-            "state": "#unknown"
+            "state": "#ok",
+            "value": [
+              {
+                "number": 7013,
+                "title": "Nr. 9"
+              },
+              {
+                "number": 3077,
+                "title": "Nr. 12"
+              }
+            ]
           }
         },
         "7.4.13": {
@@ -7107,25 +7478,27 @@
           "inactive": true,
           "title": "Fachwerkhaus",
           "description": {
-            "state": "#unknown",
-            "value": ""
+            "state": "#ok",
+            "value": "Das aufwendig restaurierte Gebäude Hauptstr. 161, ein 1&frac12; geschossiges verputztes Fachwerkhaus mit vorkragendem Obergeschaß, ist das vermutlich älteste erhaltene, aus dem 16. Jahrhundert stammende Haus seiner Art in Zündorf. Das Kellergewölbe ist mttelalterlich."
           },
           "mapPosition": {
-            "state": "#unknown",
-            "value": []
+            "state": "#ok",
+            "value": [ 7.045003620241526, 50.868707298352035 ]
           },
           "buildings": {
-            "state": "#unknown"
+            "state": "#ok",
+            "value": [[[7.0448856, 50.8687911], [7.0448455, 50.8687586], [7.044952, 50.868705], [7.0449921, 50.8687384], [7.0448856, 50.8687911]]]
           },
           "info": {
             "state": "#unknown"
           },
           "notes": "",
           "wiki": {
-            "state": "#unknown"
+            "state": "#n/a"
           },
           "monumentNo": {
-            "state": "#unknown"
+            "state": "#ok",
+            "value": 742
           }
         },
         "7.4.14": {
@@ -7137,25 +7510,27 @@
           "inactive": true,
           "title": "St. Mariä Geburt",
           "description": {
-            "state": "#unknown",
-            "value": ""
+            "state": "#ok",
+            "value": "Die kathol. Pfarrkirche St. Mariä Geburt, Hauptstr. 141, 1895/97 nach den Plänen F. Langenbergs erbaut, ist eine dreischiffige neugotische Backstein-Hallenkirche mit mächtigem, das Ortsbild dominierenden schiefergedeckten Vierkantturm an der Eingangsseite. Im Inneren neben den Resten der originalen neugot. Ausstattung und Relikten as der alten Pfarrkirche (Holzskulptur der auf einer Mondsichel thronenden Muttergottes (eine moderne Ausstattung (v. G. Lossow) und seit 1962 von F. Pauli geschaffene Glasfenster. Neben der Kirche ein Wegkreuz (um 1800) aus farbig gefasstem Sandstein."
           },
           "mapPosition": {
-            "state": "#unknown",
-            "value": []
+            "state": "#ok",
+            "value": [ 7.0431302, 50.8674869 ]
           },
           "buildings": {
-            "state": "#unknown"
+            "state": "#ok",
+            "value": [[[7.0426269, 50.8679381], [7.04264, 50.8679521], [7.0426506, 50.8679521], [7.0426513, 50.8679565], [7.0426403, 50.8679565], [7.0426125, 50.867988], [7.0426179, 50.8679939], [7.0426116, 50.8679964], [7.0426054, 50.8679904], [7.0425504, 50.8679898], [7.0425448, 50.867996], [7.0425385, 50.8679937], [7.042544, 50.8679879], [7.0425159, 50.8679571], [7.0425051, 50.8679571], [7.0425055, 50.8679526], [7.0425161, 50.8679529], [7.0425258, 50.8679413], [7.0425138, 50.8679372], [7.0425234, 50.8679259], [7.0425354, 50.8679299], [7.0425441, 50.8679196], [7.0425459, 50.8679086], [7.0425137, 50.8678996], [7.0425033, 50.8679071], [7.0424976, 50.867904], [7.0425081, 50.8678968], [7.0424908, 50.8678776], [7.0424755, 50.8678794], [7.0424737, 50.8678746], [7.0424893, 50.8678727], [7.0424925, 50.8678507], [7.0424775, 50.8678464], [7.0424187, 50.8678464], [7.0424129, 50.8678527], [7.0424063, 50.8678503], [7.0424124, 50.8678441], [7.0423845, 50.8678133], [7.0423733, 50.8678136], [7.0423738, 50.8678091], [7.042385, 50.8678091], [7.0424129, 50.8677783], [7.0424074, 50.867772], [7.0424133, 50.8677698], [7.0424192, 50.8677763], [7.0424749, 50.8677761], [7.0424808, 50.86777], [7.0424865, 50.8677723], [7.0424808, 50.8677787], [7.0424929, 50.8677913], [7.042538, 50.8677748], [7.042537, 50.8677739], [7.0425457, 50.8677705], [7.0425298, 50.8677531], [7.0425125, 50.8677499], [7.0425161, 50.8677409], [7.0425349, 50.867744], [7.0425528, 50.8677375], [7.0425538, 50.8677386], [7.0426243, 50.8677128], [7.0426233, 50.8677117], [7.0426426, 50.8677046], [7.0426483, 50.8676923], [7.0426629, 50.8676949], [7.0426583, 50.867709], [7.0426723, 50.8677216], [7.0427191, 50.8677043], [7.0427102, 50.867696], [7.0427166, 50.867694], [7.0427241, 50.8677025], [7.0427723, 50.8676845], [7.0427626, 50.8676735], [7.0427723, 50.86767], [7.0427811, 50.8676793], [7.0428311, 50.867663], [7.0428228, 50.8676547], [7.0428297, 50.8676524], [7.0428376, 50.8676608], [7.042886, 50.8676428], [7.0428814, 50.8676378], [7.0428858, 50.8676268], [7.0429, 50.8676215], [7.0429194, 50.8676242], [7.0429298, 50.8676365], [7.0429274, 50.8676374], [7.0429525, 50.8676658], [7.0429628, 50.8676619], [7.0429727, 50.8676724], [7.0429737, 50.8676578], [7.043009, 50.8676446], [7.0430304, 50.867651], [7.0430203, 50.8676403], [7.0430329, 50.8676356], [7.0430431, 50.8676464], [7.043049, 50.8676438], [7.0430528, 50.8676476], [7.0430704, 50.8676413], [7.0430775, 50.8676492], [7.0430713, 50.8676514], [7.0431042, 50.8676879], [7.0431104, 50.8676857], [7.0431176, 50.8676937], [7.0431002, 50.8677], [7.0431034, 50.8677041], [7.0430974, 50.8677065], [7.0431076, 50.8677174], [7.0430952, 50.867722], [7.0430851, 50.8677113], [7.0430839, 50.8677262], [7.0430484, 50.8677396], [7.0430274, 50.867733], [7.0430375, 50.8677437], [7.0430271, 50.8677476], [7.0430523, 50.8677755], [7.0430551, 50.8677747], [7.0430654, 50.8677873], [7.0430615, 50.8677978], [7.0430462, 50.8678037], [7.043029, 50.8678009], [7.0430246, 50.8677958], [7.0429759, 50.8678135], [7.0429835, 50.8678222], [7.0429775, 50.8678245], [7.0429692, 50.8678158], [7.0429207, 50.8678338], [7.0429305, 50.8678447], [7.0429214, 50.8678481], [7.0429112, 50.8678373], [7.0428631, 50.867855], [7.0428705, 50.8678636], [7.0428642, 50.8678657], [7.0428569, 50.8678575], [7.0428094, 50.8678745], [7.0428241, 50.8678902], [7.0428429, 50.8678933], [7.0428393, 50.8679022], [7.0428192, 50.867899], [7.0428015, 50.8679056], [7.0428005, 50.8679045], [7.0427304, 50.8679304], [7.0427313, 50.8679315], [7.0427136, 50.8679381], [7.0427077, 50.8679505], [7.0426937, 50.867948], [7.0426984, 50.8679369], [7.0426887, 50.8679262], [7.0426782, 50.86793], [7.0426709, 50.867922], [7.0426269, 50.8679381]]]
           },
           "info": {
             "state": "#unknown"
           },
           "notes": "",
           "wiki": {
-            "state": "#unknown"
+            "state": "#n/a"
           },
           "monumentNo": {
-            "state": "#unknown"
+            "state": "#ok",
+            "value": 1375
           }
         },
         "7.4.15": {
@@ -7167,25 +7542,36 @@
           "inactive": true,
           "title": "Mellerhof",
           "description": {
-            "state": "#unknown",
-            "value": ""
+            "state": "#ok",
+            "value": "Der Mellerhof (ehem. Dulmanshof), Hauptstr. 117-119, heute eine Wohnanlage, war ursprünglich eine um 1800 angelegte geschlossene, vierflügelige Hofanlage (mit älterem Vorgänger), bestehend aus einem 2-geschossigen Fachwerk-Herrrenhaus und aus mehreren eingeschossigen Gesinde- und Wirtschaftsgebäuden in Backstein.<br/>An der Ecke Hauptstr./Houdainer Straße steht das &quot;Mellerkreuz&quot; aus dem Jahre 1711 mit den Wappenschilden der Stifter Theodor Dulman und Maria Elisabeth Bourel, erneuert 1817 von Adolf Meller und seiner Frau Anna, den neuen Hofeigentümern."
           },
           "mapPosition": {
-            "state": "#unknown",
-            "value": []
+            "state": "#check",
+            "value": [ 7.042727, 50.8671622 ]
           },
           "buildings": {
-            "state": "#unknown"
+            "state": "#ok",
+            "value": [[[7.0417233, 50.866545], [7.0417276, 50.8665478], [7.0417283, 50.8665481], [7.0417233, 50.866545]], [[7.0415829, 50.8668962], [7.0416764, 50.866843], [7.04177, 50.8667897], [7.0419229, 50.8667029], [7.0418382, 50.8666439], [7.0418388, 50.8666357], [7.0419054, 50.866597], [7.0420017, 50.8666642], [7.0420644, 50.866708], [7.0420092, 50.8667393], [7.0420064, 50.8667376], [7.0418316, 50.8668368], [7.0417411, 50.8668882], [7.0416526, 50.8669385], [7.0416555, 50.8669405], [7.041523, 50.8670181], [7.0412989, 50.866882], [7.0410683, 50.866742], [7.0411924, 50.8666594], [7.0412558, 50.8666173], [7.0413191, 50.8665752], [7.0413824, 50.8665331], [7.0414457, 50.8664909], [7.041505, 50.8665252], [7.0415472, 50.8664955], [7.0415894, 50.8664658], [7.0417233, 50.866545], [7.0417806, 50.8665099], [7.0418628, 50.8665673], [7.0417962, 50.8666048], [7.0417828, 50.8666045], [7.0417117, 50.8665592], [7.0416869, 50.8665775], [7.0416455, 50.8666069], [7.0415607, 50.8665578], [7.0414967, 50.8666002], [7.0414328, 50.8666427], [7.0413688, 50.8666851], [7.0413049, 50.8667275], [7.041424, 50.8668], [7.0415829, 50.8668962]]]
           },
           "info": {
             "state": "#unknown"
           },
           "notes": "",
           "wiki": {
-            "state": "#unknown"
+            "state": "#n/a"
           },
           "monumentNo": {
-            "state": "#unknown"
+            "state": "#ok",
+            "value": [
+              {
+                "number": 719,
+                "title": "Hofanlage"
+              },
+              {
+                "number": 547,
+                "title": "Kleindenkmal"
+              }
+            ]
           }
         },
         "7.4.16": {
@@ -7202,20 +7588,31 @@
           },
           "mapPosition": {
             "state": "#unknown",
-            "value": []
+            "value": [ 7.038361091350058, 50.864223255193785 ]
           },
           "buildings": {
-            "state": "#unknown"
+            "state": "#unknown",
+            "value": [[[7.0381855, 50.8643731], [7.0381499, 50.8643412], [7.0381139, 50.8643573], [7.038072, 50.8643198], [7.0381081, 50.8643037], [7.0380723, 50.8642715], [7.0381183, 50.8642509], [7.0381115, 50.8642448], [7.038172, 50.8642178], [7.0381788, 50.8642239], [7.0382324, 50.8641999], [7.0383456, 50.8643013], [7.0381855, 50.8643731]], [[7.0380836, 50.8640657], [7.0381774, 50.8641527], [7.0381187, 50.8641785], [7.0380304, 50.8640955], [7.0375997, 50.864337], [7.0375115, 50.8642743], [7.0380053, 50.8639938], [7.0380836, 50.8640657]], [[7.0385035, 50.8645474], [7.0385805, 50.864507], [7.0384047, 50.8643558], [7.0383241, 50.8643926], [7.0384427, 50.8644938], [7.0384399, 50.8644952], [7.0382758, 50.8645801], [7.0380982, 50.864672], [7.037757, 50.8643908], [7.0377527, 50.8643929], [7.0376687, 50.8643333], [7.0375866, 50.8643809], [7.0376638, 50.8644361], [7.0376594, 50.8644383], [7.0380661, 50.8647732], [7.0381612, 50.864724], [7.038339, 50.8646323], [7.0385035, 50.8645474]]]
           },
           "info": {
             "state": "#unknown"
           },
-          "notes": "",
+          "notes": "Hier konnten wir leider keine Infotafel mehr finden und das Objekt nicht zuordnen. Vermutlich handelt es sich um den Olefshof und das zugehörige Wegkreuz.",
           "wiki": {
-            "state": "#unknown"
+            "state": "#n/a"
           },
           "monumentNo": {
-            "state": "#unknown"
+            "state": "#ok",
+            "value": [
+              {
+                "number": 6711,
+                "title": "Olefshof"
+              },
+              {
+                "number": 7593,
+                "title": "Wegkreuz"
+              }
+            ]
           }
         },
         "7.4.17": {
@@ -7227,25 +7624,28 @@
           "inactive": true,
           "title": "St. Martin",
           "description": {
-            "state": "#unknown",
-            "value": ""
+            "state": "#ok",
+            "value": "Die alte kathol. Pfarrkirche St. Martin von Oberzündorf, Hauptstr. 43-47, besteht aus dem um 1780 über den Fundamenten eines romanischen Vorgängerbaus errichteten einschiffigen Langhaus mit dreiseitigem Chor und einem Vierkantturm (12. Jh.) mit Knickhelm. Die Innenausstattung stammt aus dem 15.-.18.Jh.; Beseitigung der Kriegsschäden 1954; umfassende Restaurierung 1977/88. Bei der Kirche gelegen das von H.P. Tabeling 1771-74 errichtete Altenheim."
           },
           "mapPosition": {
-            "state": "#unknown",
-            "value": []
+            "state": "#ok",
+            "value": [ 7.0373832, 50.8634751 ]
           },
           "buildings": {
-            "state": "#unknown"
+            "state": "#ok",
+            "value": [[[7.0360058, 50.8640773], [7.0359608, 50.8640267], [7.0360388, 50.8639986], [7.0361282, 50.8639665], [7.0361106, 50.8639468], [7.0361224, 50.8639327], [7.0361389, 50.8639269], [7.0361642, 50.8639277], [7.0361818, 50.8639472], [7.036219, 50.8639338], [7.0362581, 50.8639398], [7.0362755, 50.8639612], [7.0362632, 50.8639854], [7.0360839, 50.8640494], [7.0360058, 50.8640773]]]
           },
           "info": {
             "state": "#unknown"
           },
-          "notes": "",
+          "notes": "Der Zugang erfolgt über das Gelände des Altenheims.",
           "wiki": {
-            "state": "#unknown"
+            "state": "#ok",
+            "value": "St._Martin_(Zündorf)"
           },
           "monumentNo": {
-            "state": "#unknown"
+            "state": "#ok",
+            "value": 1339
           }
         },
         "7.4.18": {
@@ -7257,25 +7657,36 @@
           "inactive": true,
           "title": "Börschhof",
           "description": {
-            "state": "#unknown",
-            "value": ""
+            "state": "#ok",
+            "value": "Der Börschhof (ehemaliger Abtshof), Hauptstraße 2, ist eine geschlossene Hofanlage von 1780/81 mit 2-gechossigem, fünfachsigem Herrenhaus und eingeschossigen Wirtschaftsgebäuden (alle in Backstein). Der Hof markiert die südliche Grenze Zündorfs und prägt zusammen mit den anderen Hofanlagen das Dorfbild entlang der Hauptstraße."
           },
           "mapPosition": {
-            "state": "#unknown",
-            "value": []
+            "state": "#ok",
+            "value": [ 7.034015634281348, 50.86086336608961 ]
           },
           "buildings": {
-            "state": "#unknown"
+            "state": "#ok",
+            "value": [[[7.0340741, 50.860863], [7.0341801, 50.8608098], [7.0341836, 50.8608082], [7.0343259, 50.8609212], [7.0343227, 50.860923], [7.034246, 50.860962], [7.0342164, 50.8609767], [7.0340741, 50.860863]]]
           },
           "info": {
             "state": "#unknown"
           },
           "notes": "",
           "wiki": {
-            "state": "#unknown"
+            "state": "#n/a"
           },
           "monumentNo": {
-            "state": "#unknown"
+            "state": "#ok",
+            "value": [
+              {
+                "number": 708,
+                "title": "Hofanlage"
+              },
+              {
+                "number": 7514,
+                "title": "Wegkreuz"
+              }
+            ]
           }
         },
         "7.4.19": {
@@ -7292,7 +7703,7 @@
           },
           "mapPosition": {
             "state": "#unknown",
-            "value": []
+            "value": [ 7.0450058, 50.8661438 ]
           },
           "buildings": {
             "state": "#unknown"
@@ -7300,12 +7711,13 @@
           "info": {
             "state": "#unknown"
           },
-          "notes": "",
+          "notes": "Hier konnten wir leider keine Infotafel mehr finden und das Objekt nicht zuordnen. Vermutlich handelt es sich um das Wegekreuz.",
           "wiki": {
             "state": "#unknown"
           },
           "monumentNo": {
-            "state": "#unknown"
+            "state": "#ok",
+            "value": 570
           }
         }
       }
