@@ -8780,8 +8780,8 @@
             "value": ""
           },
           "mapPosition": {
-            "state": "#unknown",
-            "value": [ ]
+            "state": "#check",
+            "value": [ 7.015368, 50.9690385 ]
           },
           "buildings": {
             "state": "#unknown"
@@ -8870,8 +8870,8 @@
             "value": ""
           },
           "mapPosition": {
-            "state": "#unknown",
-            "value": [ ]
+            "state": "#check",
+            "value": [ 7.0118967, 50.9626804 ]
           },
           "buildings": {
             "state": "#unknown"
@@ -8900,8 +8900,8 @@
             "value": ""
           },
           "mapPosition": {
-            "state": "#unknown",
-            "value": [ ]
+            "state": "#check",
+            "value": [ 7.0062631, 50.9644375 ]
           },
           "buildings": {
             "state": "#unknown"
@@ -9329,8 +9329,8 @@
             "value": ""
           },
           "mapPosition": {
-            "state": "#unknown",
-            "value": []
+            "state": "#check",
+            "value": [ 7.0076841, 51.0190935 ]
           },
           "buildings": {
             "state": "#unknown"
@@ -9359,8 +9359,8 @@
             "value": ""
           },
           "mapPosition": {
-            "state": "#unknown",
-            "value": []
+            "state": "#check",
+            "value": [ 7.0376873, 51.0091515 ]
           },
           "buildings": {
             "state": "#unknown"
@@ -9389,8 +9389,8 @@
             "value": ""
           },
           "mapPosition": {
-            "state": "#unknown",
-            "value": []
+            "state": "#check",
+            "value": [ 7.0317241, 50.9992958 ]
           },
           "buildings": {
             "state": "#unknown"
@@ -9419,8 +9419,8 @@
             "value": ""
           },
           "mapPosition": {
-            "state": "#unknown",
-            "value": []
+            "state": "#check",
+            "value": [ 7.0104575, 50.9842889 ]
           },
           "buildings": {
             "state": "#unknown"
@@ -9449,8 +9449,8 @@
             "value": ""
           },
           "mapPosition": {
-            "state": "#unknown",
-            "value": []
+            "state": "#check",
+            "value": [ 7.0218489, 50.977757 ]
           },
           "buildings": {
             "state": "#unknown"
@@ -9479,8 +9479,8 @@
             "value": ""
           },
           "mapPosition": {
-            "state": "#unknown",
-            "value": []
+            "state": "#check",
+            "value": [ 7.0261002, 50.9713292 ]
           },
           "buildings": {
             "state": "#unknown"
@@ -9548,8 +9548,8 @@
             "value": ""
           },
           "mapPosition": {
-            "state": "#unknown",
-            "value": []
+            "state": "#check",
+            "value": [ 7.0539633, 51.0005493 ]
           },
           "buildings": {
             "state": "#unknown"
@@ -9578,8 +9578,8 @@
             "value": ""
           },
           "mapPosition": {
-            "state": "#unknown",
-            "value": []
+            "state": "#check",
+            "value": [ 7.0417517, 50.9986407 ]
           },
           "buildings": {
             "state": "#unknown"
@@ -9608,8 +9608,8 @@
             "value": ""
           },
           "mapPosition": {
-            "state": "#unknown",
-            "value": []
+            "state": "#check",
+            "value": [ 7.0411437, 50.9982057 ]
           },
           "buildings": {
             "state": "#unknown"
@@ -9638,8 +9638,8 @@
             "value": ""
           },
           "mapPosition": {
-            "state": "#unknown",
-            "value": []
+            "state": "#check",
+            "value": [ 7.0482735, 50.9951096 ]
           },
           "buildings": {
             "state": "#unknown"
@@ -9668,8 +9668,8 @@
             "value": ""
           },
           "mapPosition": {
-            "state": "#unknown",
-            "value": []
+            "state": "#check",
+            "value": [ 7.0421696, 50.9943064 ]
           },
           "buildings": {
             "state": "#unknown"
@@ -9698,8 +9698,8 @@
             "value": ""
           },
           "mapPosition": {
-            "state": "#unknown",
-            "value": []
+            "state": "#check",
+            "value": [ 7.0420301, 50.9926687 ]
           },
           "buildings": {
             "state": "#unknown"
@@ -10008,8 +10008,8 @@
             "value": ""
           },
           "mapPosition": {
-            "state": "#unknown",
-            "value": []
+            "state": "#check",
+            "value": [ 7.0758927, 50.9712954 ]
           },
           "buildings": {
             "state": "#unknown"
@@ -10038,8 +10038,8 @@
             "value": ""
           },
           "mapPosition": {
-            "state": "#unknown",
-            "value": []
+            "state": "#check",
+            "value": [ 7.0903605, 50.9713292 ]
           },
           "buildings": {
             "state": "#unknown"
@@ -10107,8 +10107,8 @@
             "value": ""
           },
           "mapPosition": {
-            "state": "#unknown",
-            "value": []
+            "state": "#check",
+            "value": [ 7.0644182, 50.984326 ]
           },
           "buildings": {
             "state": "#unknown"
@@ -10167,8 +10167,8 @@
             "value": ""
           },
           "mapPosition": {
-            "state": "#unknown",
-            "value": []
+            "state": "#check",
+            "value": [ 7.0651716, 50.9754716 ]
           },
           "buildings": {
             "state": "#unknown"
@@ -10197,8 +10197,8 @@
             "value": ""
           },
           "mapPosition": {
-            "state": "#unknown",
-            "value": []
+            "state": "#check",
+            "value": [ 7.0757318, 50.9744538 ]
           },
           "buildings": {
             "state": "#unknown"
@@ -10227,8 +10227,8 @@
             "value": ""
           },
           "mapPosition": {
-            "state": "#unknown",
-            "value": []
+            "state": "#check",
+            "value": [ 7.085495, 50.9780197 ]
           },
           "buildings": {
             "state": "#unknown"
