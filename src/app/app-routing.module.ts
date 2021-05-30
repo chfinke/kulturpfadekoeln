@@ -26,14 +26,12 @@ const routes: Routes = [
     component: ImprintPageComponent,
   },
   {
-    path: 'fehler-404',
-    component: NotFoundPageComponent,
-  },
-  {
     path: '**',
-    redirectTo: 'fehler-404',
+    component: NotFoundPageComponent,
   }
 ];
+
+
 
 @NgModule({
   imports: [RouterModule.forRoot(routes, {
