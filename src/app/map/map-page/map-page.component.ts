@@ -40,11 +40,11 @@ export class MapPageComponent {
   }
 
   setPoint(pointId: string): void {
-    // @TODO add animation when info changes
+    // @TODO [add animation when info changes](https://www.notion.so/add-animation-when-info-changes-40ef1ec09f5e40d18b4923a9ed4271da)
     this.dataService.getPoint(pointId).then((data) => {
       this.detailTrack = data.track;
       this.detailPoint = data.point;
-      setTimeout(() => { // workaround when centering from differnt route
+      setTimeout(() => { // workaround when centering from different route
         this.mapService.setHighlight(data.point);
       }, 10);
       this.mapService.setCenter(this.mapService.swapCoordinates(data.point.mapPosition.value));

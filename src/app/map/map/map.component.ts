@@ -199,7 +199,7 @@ export class MapComponent implements AfterViewInit {
         */
       });
     });
-    // @TODO change z-index of buildings
+    // @TODO [change z-index of buildings](https://www.notion.so/change-z-index-of-buildings-3bfe84fb434e48d3843118254d53889e)
 
     const group = L.featureGroup(markerList);
     const bounds = group.getBounds();

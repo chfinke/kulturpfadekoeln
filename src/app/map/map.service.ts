@@ -36,10 +36,8 @@ export class MapService {
 
   setCenter(center: L.LatLng): void {
     if (!this.map.getZoom()) {
-      // console.log('setCenter skipped'); @TODO
     } else {
       this.map.panTo(center, {duration: 1});
-      // console.log('setCenter done'); @TODO
     }
   }
 
@@ -56,15 +54,14 @@ export class MapService {
   restoreCenter(): void {
     if (this.center) {
       if (!this.map.getZoom()) {
-        // console.log('restoreCenter skipped'); @TODO
       } else {
         this.map.panTo(this.center);
-        // console.log('restoreCenter done'); @TODO
       }
       this.center = null;
     }
   }
-  // @TODO might happen that even this is skipped as no zoom is set yet. Introduce pending state and set afterwards
+  // @TODO [introduce pending state and set center afterwards](https://www.notion.so/introduce-pending-state-and-set-center-afterwards-e8d73e87b60e46919d9c2cd9ef475f21)
+  // might happen that even this is skipped as no zoom is set yet. 
 
   setHighlight(point: Point): void {
     this.clearHighlight();
