@@ -1,6 +1,6 @@
 {
   "name": "kulturpfadekoeln",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "scripts": {
     "dev": "ng serve --port 8001 --no-open",
     "dev-sw-build": "ng build --configuration=sw && cp dist/kulturpfadekoeln/index.html dist/kulturpfadekoeln/404.html",
