@@ -45,3 +45,6 @@ testem.log
 .DS_Store
 Thumbs.db
 src/assets/data
+
+# Project specifics
+src/assets/data/pictures.json
