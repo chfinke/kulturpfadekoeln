@@ -1,0 +1,14 @@
+<h2>{{track?.boroughNo}}.{{track?.trackNo}} {{track?.borough}}
+  <span class="u-font-size-small">{{ track.incomplete ? ' (in Arbeit)' : '' }}</span>
+</h2>
+<app-map-static
+  [id]="track?.boroughNo+'.'+track?.trackNo"
+  [trackId]="track?.boroughNo+'.'+track?.trackNo"
+  classes="map map__map--small u-h-fit"
+>
+</app-map-static>
+<p>
+  <span [innerHTML]="startingPoint?.description.value"></span>
+  {{' '}} 
+  <a [routerLink]="['/overview']" [queryParams]="{track: track?.boroughNo+'.'+track?.trackNo}">Kulturpfad&nbsp;anzeigen&nbsp;&rarr;</a>
+</p>
