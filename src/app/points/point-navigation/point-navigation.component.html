@@ -1,0 +1,15 @@
+<div class="container">
+  <div class="row">
+    <div class="col-sm-4" style="text-align: left;">
+      <a *ngIf="point.predecessor" [routerLink]="['/map']" [queryParams]="mapQueryParams" [fragment]="point.predecessor" title="vorherige Infotafel anzeigen [Alt+Shift+-]" accesskey="-">≪ zurück</a>
+    </div>
+    <div class="col-sm-4" style="text-align: center;">
+      <a [routerLink]="['/overview']" [queryParams]="{track: track.boroughNo+'.'+track.trackNo}" title="Übersicht anzeigen [Alt+Shift+ü]" accesskey="ü">Übersicht</a>
+    </div>
+    <div class="col-sm-4" style="text-align: right;">
+      <a *ngIf="point.successor" [routerLink]="['/map']" [queryParams]="mapQueryParams" [fragment]="point.successor" title="nächste Infotafel anzeigen [Alt+Shift++]" accesskey="+">weiter ≫</a>
+    </div>
+  </div>
+</div>
+<br/>
+<!-- @TODO [style point-navigation via css](https://www.notion.so/style-point-navigation-via-css-f99a96cf6f2e4bb3aee6fe9a00bf96de) -->

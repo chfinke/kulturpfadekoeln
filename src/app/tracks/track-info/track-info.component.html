@@ -1,0 +1,18 @@
+<div class="wrapper">
+  <h1>Kulturpfad {{track?.boroughNo}}.{{track?.trackNo}} {{track?.borough}}<small>{{ track?.incomplete ? ' (in Arbeit)' : '' }}</small></h1>
+  <p [innerHTML]="startingPoint?.description.value"></p>
+  <a [routerLink]="['/map']" [queryParams]="{track: track?.boroughNo+'.'+track?.trackNo}">Interaktive Karte anzeigen&nbsp;&rarr;</a>
+</div>
+<app-map-static
+  [id]='0'
+  [trackId]="track?.boroughNo+'.'+track?.trackNo"
+  classes="map map__map--medium u-h-fit"
+>
+</app-map-static>
+<div class="wrapper">
+  <p>
+    <a href="./assets/data/kulturpfadekoeln_{{track?.boroughNo}}-{{track?.trackNo}}.gpx">
+      Pfad als GPX exportieren &#x21E9;
+    </a>
+  </p>
+</div>

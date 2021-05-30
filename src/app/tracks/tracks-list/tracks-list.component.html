@@ -1,0 +1,5 @@
+<app-track-teaser
+  *ngFor="let track of tracks"
+  [track]="track"
+  [startingPoint]="track.points[track?.boroughNo+'.'+track?.trackNo+'.0']"
+></app-track-teaser>

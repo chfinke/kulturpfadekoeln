@@ -1,0 +1,23 @@
+<div class="wrapper">
+  <h2>
+    {{point.trackPoint}}
+    <span class="u-hyphens" [innerHTML]="point.title"></span>
+  </h2>
+  
+  <app-map-static
+    [id]="point.trackPoint"
+    [trackId]="trackId"
+    [pointId]="trackId+'.'+point.trackPoint"
+    classes="map map__map--small u-h-fit"
+  >
+  </app-map-static>
+ 
+  <div class="preview">
+    <span class="preview__text">
+      <span *ngIf="point.description.value" [innerHTML]="point.description.value"></span>
+      <span *ngIf="point.notes"><i>{{point.notes}}</i></span>
+    </span>
+    <div class="preview__spacer">&nbsp;</div>
+    <a class="preview__link" [routerLink]="['/map']" [queryParams]="{track: trackId}" [fragment]="trackId+'.'+point.trackPoint">mehr&nbsp;zeigen&nbsp;&rarr;</a>
+  </div>
+</div>

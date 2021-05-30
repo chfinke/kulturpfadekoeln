@@ -1,0 +1,32 @@
+<h1>
+  <ng-container *ngIf="point.trackPoint !== 0">
+    <small>
+      Infotafel {{ point.trackPoint }}
+    </small>
+  </ng-container>
+  <span class="u-hyphens" [innerHTML]="point.title"></span>
+</h1>
+<p>
+  <a 
+    [href]="geoHref"
+  >{{point.trackPoint === 0 ? 'zum Startpunkt' : 'zur Infotafel'}} navigieren &#x21B1;</a>
+</p>
+<p *ngIf="point.description.value" [innerHTML]="point.description.value"></p>
+<p *ngIf="point.notes"><i>{{point.notes}}</i></p>
+
+<ng-container *ngIf="wikiArray || monumentNoArray">
+  <b>Sonstige Informationen:</b>
+  <ul style="margin-top: 0px;">
+    <li *ngFor="let wiki of wikiArray">
+      <a target="_blank" [href]="'https://de.wikipedia.org/wiki/'+wiki.identifier" style="font-weight: normal;">
+        Wikipedia
+        {{wiki.title ? 'zu '+wiki.title : ''}}
+      </a>
+    </li>
+    <li *ngFor="let monumentNo of monumentNoArray">
+      Denkmalnummer {{monumentNo.number}}
+      <span *ngIf="monumentNo.title" [innerHTML]="': '+monumentNo.title"></span>
+    </li>
+  </ul>
+  <!-- @TODO [style point-text via css](https://www.notion.so/style-point-text-via-css-0e53028ef5594f6280daedf0917a023c) -->
+</ng-container>
