@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<gpx version="1.1"
+  xmlns="http://www.topografix.com/GPX/1/1"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <wpt lat="50.9006752253" lon="6.94394656081">
+    <name>Südfriedhof</name>
+    <cmt>1901 eröffnet. Entwurf von A. Kowallek. Die landschaftliche Anlage mit Rundwegen und abwechlungsreichen Baum- und Gehölzgruppen ist ein Beispiel für den Stil des Historismus.<br/>Darin ein englischer, ein italienischer und ein deutscher Ehrenfriedhof, bedeutende Grabstätten von 1900 - 1940 und ein Hochkreuz. Die Einfriedung sowie die oktogonale Trauerkapelle sind 1905 - 1918 nach den Entwürfen von F. Bolte im neuromantischen Stil erbaut.</cmt>
+  </wpt>
+</gpx>

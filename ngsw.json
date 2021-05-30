@@ -1,0 +1,126 @@
+{
+  "configVersion": 1,
+  "timestamp": 1622385258326,
+  "index": "/index.html",
+  "assetGroups": [
+    {
+      "name": "app",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "/assets/icons/icon.svg",
+        "/favicon.ico",
+        "/index.html",
+        "/main.330ca0ff9002795a4e43.js",
+        "/manifest.json",
+        "/polyfills.9bf4dad123bd95dda86e.js",
+        "/runtime.359d5ee4682f20e936e9.js",
+        "/styles.cd224b0692698a684ea8.css"
+      ],
+      "patterns": []
+    },
+    {
+      "name": "assets",
+      "installMode": "lazy",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "/assets/data/data.json",
+        "/assets/data/kulturpfadekoeln_2-1.gpx",
+        "/assets/data/kulturpfadekoeln_2-2.gpx",
+        "/assets/data/kulturpfadekoeln_2-4.gpx",
+        "/assets/data/kulturpfadekoeln_7-3.gpx",
+        "/assets/data/kulturpfadekoeln_7-4.gpx",
+        "/assets/data/schema.json",
+        "/assets/icons/icon-128x128.png",
+        "/assets/icons/icon-144x144.png",
+        "/assets/icons/icon-152x152.png",
+        "/assets/icons/icon-192x192.png",
+        "/assets/icons/icon-384x384.png",
+        "/assets/icons/icon-512x512.png",
+        "/assets/icons/icon-72x72.png",
+        "/assets/icons/icon-96x96.png",
+        "/fontawesome-webfont.1e59d2330b4c6deb84b3.ttf",
+        "/fontawesome-webfont.20fd1704ea223900efa9.woff2",
+        "/fontawesome-webfont.8b43027f47b20503057d.eot",
+        "/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
+        "/fontawesome-webfont.f691f37e57f04c152e23.woff",
+        "/layers-2x.8f2c4d11474275fbc161.png",
+        "/layers.416d91365b44e4b4f477.png",
+        "/marker-icon.2b3e1faf89f94a483539.png"
+      ],
+      "patterns": []
+    }
+  ],
+  "dataGroups": [
+    {
+      "name": "tiles",
+      "patterns": [
+        "https:\\/\\/tiles\\.stadiamaps\\.com\\/tiles\\/[^/]*"
+      ],
+      "strategy": "performance",
+      "maxSize": 250,
+      "maxAge": 1209600000,
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "version": 1
+    }
+  ],
+  "hashTable": {
+    "/assets/data/data.json": "960c8ecc6dce15e295dcb08cbb8f2889895290e8",
+    "/assets/data/kulturpfadekoeln_2-1.gpx": "66f0cbd2984fb3a518be7261abe0c631062f9495",
+    "/assets/data/kulturpfadekoeln_2-2.gpx": "ce38f96fe1a775d94a75222a1805c58ed775fef9",
+    "/assets/data/kulturpfadekoeln_2-4.gpx": "25be0a5ad45ec1b15522668920668016442add00",
+    "/assets/data/kulturpfadekoeln_7-3.gpx": "57f806c164d9a3018533b2f66c3cfe51776c2694",
+    "/assets/data/kulturpfadekoeln_7-4.gpx": "81183938632920aa906dc888789fb30a5f336ea4",
+    "/assets/data/schema.json": "d6d05a46a466c6bea4d2e57bf38a9533c9e9984c",
+    "/assets/icons/icon-128x128.png": "457a2701aa66685f14dec94602577bdfd3a3694f",
+    "/assets/icons/icon-144x144.png": "9c29eb0a1d730919125982e0721e745ba24306aa",
+    "/assets/icons/icon-152x152.png": "d79e66953facd1efbd12c13ca9f4d6992b3f6cf5",
+    "/assets/icons/icon-192x192.png": "3981188f1e4c7c371ada4b3a9aaf48bfc6321f7b",
+    "/assets/icons/icon-384x384.png": "5257dacd5a639ed51ce0653a66594cbfd6dc7a63",
+    "/assets/icons/icon-512x512.png": "fe1989d32b8ae769e28260ea6e0b61dc1e95bb6a",
+    "/assets/icons/icon-72x72.png": "07d2edfbf3db87b8efc69ecc7462ce3e7398fff6",
+    "/assets/icons/icon-96x96.png": "28666a9f39f0b3d5b82894d1f51adddc32fdaaf9",
+    "/assets/icons/icon.svg": "ad6d0f9af0118866854d62545bf43a3b5d0bb033",
+    "/favicon.ico": "4a9b36b921fd25c1a97d0790063af1b35ca70c40",
+    "/fontawesome-webfont.1e59d2330b4c6deb84b3.ttf": "13b1eab65a983c7a73bc7997c479d66943f7c6cb",
+    "/fontawesome-webfont.20fd1704ea223900efa9.woff2": "d6f48cba7d076fb6f2fd6ba993a75b9dc1ecbf0c",
+    "/fontawesome-webfont.8b43027f47b20503057d.eot": "d980c2ce873dc43af460d4d572d441304499f400",
+    "/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg": "98a8aa5cf7d62c2eff5f07ede8d844b874ef06ed",
+    "/fontawesome-webfont.f691f37e57f04c152e23.woff": "28b782240b3e76db824e12c02754a9731a167527",
+    "/index.html": "f3ed0ced8cb2c0a35253099dcc60f63c1b5c92c4",
+    "/layers-2x.8f2c4d11474275fbc161.png": "152a162333e46d24f9d89f566312fc0c64011dee",
+    "/layers.416d91365b44e4b4f477.png": "c9e7528e491a39232ba24a2706c6c739d6fb0f06",
+    "/main.330ca0ff9002795a4e43.js": "4519ac8723847c38dbe1ce76e93c7d23d6fa1605",
+    "/manifest.json": "d5abf75f1e2c5ceef1d56daf30fffb2202feae0e",
+    "/marker-icon.2b3e1faf89f94a483539.png": "60a90bcbb2b42b7ddb4556db94eb7c1084b0e5da",
+    "/polyfills.9bf4dad123bd95dda86e.js": "763cd3b34dfa4600ebb9d9588ec7116988e98920",
+    "/runtime.359d5ee4682f20e936e9.js": "a9aafcf49f49145093fc831efd9b8e2f6c71bb9c",
+    "/styles.cd224b0692698a684ea8.css": "87c9892925342aca7b5e01c47a64023f67bac8f2"
+  },
+  "navigationUrls": [
+    {
+      "positive": true,
+      "regex": "^\\/.*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*\\.[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*\\/.*$"
+    }
+  ]
+}
