@@ -133,7 +133,25 @@ export class DataService {
       this.http
         .get('./assets/data/data.json')
         .toPromise()
-        .then((res: Data) => {
+        .then((raw: Data) => {
+          const res: Data = {
+            tracks: {}
+          }
+          Object.keys(raw.tracks).forEach(trackId => {
+            const track = raw.tracks[trackId];
+            const points: Points = {};
+            Object.keys(track.points).forEach(pointId => {
+              const point = track.points[pointId];
+              points[pointId] = {
+                ...point,
+                title: point.title.replaceAll('|', '&shy;'),
+              }
+            });
+            res.tracks[trackId] = {
+              ...track,
+              points,
+            }
+          })
           this.data = res;
           resolve();
         });
