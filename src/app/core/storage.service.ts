@@ -18,9 +18,10 @@ export const getStringItem = async (key: string): Promise<string> => {
 };
 
 export const getObjectItem = async (key: string): Promise<any> => {
-  return await getStringItem(key).then((itemReturned) =>
-    JSON.parse(itemReturned)
-  );
+  return await localForage.getItem(key);
+  // return await getStringItem(key).then((itemReturned) =>
+  //   JSON.parse(itemReturned)
+  // );
 };
 
 export const removeItem = async (key: string): Promise<void> => {

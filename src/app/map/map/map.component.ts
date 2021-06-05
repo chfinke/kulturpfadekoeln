@@ -6,6 +6,7 @@ import * as L from 'leaflet';
 import * as LGPX from 'leaflet-gpx';
 import 'leaflet.locatecontrol';
 
+import { OptionsService } from '../../core/options.service';
 import { MapService } from '../map.service';
 import { DataService, PointBuildingsState, PointMapPositionState, Data } from '../../core/data.service';
 import { environment } from 'src/environments/environment';
@@ -24,7 +25,11 @@ export class MapComponent implements AfterViewInit {
   @Input() classes: string;
   @Output() detail: EventEmitter<string> = new EventEmitter();
 
-  constructor(private mapService: MapService, private dataService: DataService) { }
+  constructor(
+    private optionsService: OptionsService,
+    private mapService: MapService,
+    private dataService: DataService,
+  ) { }
 
   ngAfterViewInit(): void {
     this.initMap();
@@ -121,47 +126,52 @@ export class MapComponent implements AfterViewInit {
 
     const markerList = [];
     Object.entries(tracks).forEach(([trackId, track]) => {
-      new LGPX.GPX(
-        `./assets/data/kulturpfadekoeln_${track.boroughNo}-${track.trackNo}.gpx`, {
-        async: true,
-        gpx_options: {
-          parseElements: ['track'],
-        },
-        marker_options: {
-          startIconUrl: '',
-          endIconUrl: '',
-          shadowUrl: ''
-        },
-        polyline_options: {
-          color: track.color,
-          opacity: 0.5,
-          weight: 3,
-          lineCap: 'round',
-          interactive: false
-        }
-      }).addTo(this.mapService.map);
+      if (!track.inactive && !track.incomplete) {
+        new LGPX.GPX(
+          `./assets/data/kulturpfadekoeln_${track.boroughNo}-${track.trackNo}.gpx`, {
+          async: true,
+          gpx_options: {
+            parseElements: ['track'],
+          },
+          marker_options: {
+            startIconUrl: '',
+            endIconUrl: '',
+            shadowUrl: ''
+          },
+          polyline_options: {
+            color: track.color,
+            opacity: 0.5,
+            weight: 3,
+            lineCap: 'round',
+            interactive: false
+          }
+        }).addTo(this.mapService.map);
+      }
 
       Object.entries(track.points).forEach(([pointId, point]) => {
-        if (point.inactive) {
-        } else if (point.mapPosition.state !== PointMapPositionState.Ok) {
+        if (point.inactive && !this.optionsService.options.develop.showInactivePoints) {
+        } else if ((point.mapPosition.state === PointMapPositionState.Check && !this.optionsService.options.develop.showStatusCheckPoints) || (point.mapPosition.state === PointMapPositionState.Unknown && !this.optionsService.options.develop.showStatusUnknownPoints)) {
           if (environment.production === false) {
             console.log('mapPosition not displayed:', pointId, point.mapPosition.state, point.mapPosition.value);
           }
         } else {
           if (point.mapPosition.value) {
-            const marker = L.circleMarker(this.mapService.swapCoordinates(point.mapPosition.value), {
-              radius: 8,
-              fillColor: point.trackPoint === 0 ? '#fff' : track.color,
-              color: '#000',
-              weight: 1,
-              opacity: 1,
-              fillOpacity: 0.8
-            });
-            marker.on('click', () => {
-              this.onDetail(pointId);
-            });
-            markerList.push(marker);
-            marker.addTo(this.mapService.map);
+            try {
+              const marker = L.circleMarker(this.mapService.swapCoordinates(point.mapPosition.value), {
+                radius: 8,
+                fillColor: point.trackPoint === 0 ? '#fff' : track.color,
+                color: '#000',
+                weight: 1,
+                opacity: point.inactive ? 0.5 : 1,
+                fillOpacity: point.inactive ? 0.1 : 0.8,
+              });
+              marker.on('click', () => {
+                this.onDetail(pointId);
+              });
+              markerList.push(marker);
+              marker.addTo(this.mapService.map);
+            }
+            catch {}
           }
         }
 
