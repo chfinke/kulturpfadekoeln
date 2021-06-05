@@ -5760,7 +5760,7 @@
           "predecessor": "",
           "successor": "7.3.1",
           "inactive": true,
-          "title": "Start Tour 3",
+          "title": "Start Kul|tur|pfad 7.3 Porz",
           "description": {
             "state": "#ok",
             "value": "Der Pfad Proz 3 führt über Kalk, Poll, Westhofen, Ensen und Gremberghoven nach Porz.<br/>Startpunkt ist an der S-Bahn Haltestelle Trimbornstraße und Endpunkt nahe der Haltestelle Porz(Rhein).<br/><br/><i>Es ist zu beachten, dass der Pfad durch einige Einbahnstraßen entgegen der Fahrtrichtung führt. Hier bitte vom Fahrrad absteigen.</i>"
@@ -5770,17 +5770,17 @@
             "value": [ 6.9975187988, 50.9350904129 ]
           },
           "buildings": {
-            "state": "#unknown"
+            "state": "#n/a"
           },
           "info": {
-            "state": "#unknown"
+            "state": "#n/a"
           },
           "notes": "",
           "wiki": {
-            "state": "#unknown"
+            "state": "#n/a"
           },
           "monumentNo": {
-            "state": "#unknown"
+            "state": "#n/a"
           }
         },
         "7.3.1": {
@@ -5789,7 +5789,6 @@
           "quarter": "",
           "predecessor": "7.3.0",
           "successor": "7.3.2",
-          "inactive": true,
           "title": "Milchmädchensiedlung",
           "description": {
             "state": "#ok",
@@ -5800,7 +5799,7 @@
             "value": [ 6.9867518, 50.9216516 ]
           },
           "buildings": {
-            "state": "#unknown"
+            "state": "#area"
           },
           "info": {
             "state": "#unknown"
@@ -5820,8 +5819,7 @@
           "quarter": "Poll",
           "predecessor": "7.3.1",
           "successor": "7.3.3",
-          "inactive": true,
-          "title": "Siedlung Altenberger Kreuzweg",
+          "title": "Sied|lung Al|ten|ber|ger Kreuz|weg",
           "description": {
             "state": "#ok",
             "value": "Die Siedlung Altenberger Kreuzweg wurde 1927-29 nach den Plänen von E. Mewes auf den Grundriß eines unregelmäßigen Fünfecks (Am Altenberger Kreuz, Im Mittelfeld, Siegburger Straße, Bahnstraße) als Ergänzung der Milchmädchensiedlung aus zu symmetrischen Reihen geordneten 15 Mehr- und Einfamilienhäusern errichtet. Städtebaulicher Mittelpunkt ist die Dreifaltigkeitskirche, Am Altenberger Kreuz, neu geschaffen von K. Band 1951-54 unter Einbeziehung der Mauerreste der kriegszerstörten Vorgängerin."
@@ -5831,7 +5829,7 @@
             "value": [ 6.9899755, 50.9198035 ]
           },
           "buildings": {
-            "state": "#unknown"
+            "state": "#area"
           },
           "info": {
             "state": "#unknown"
@@ -5851,8 +5849,7 @@
           "quarter": "Poll",
           "predecessor": "7.3.2",
           "successor": "7.3.4",
-          "inactive": true,
-          "title": "Wegekreuz",
+          "title": "We|ge|kreuz",
           "description": {
             "state": "#unknown",
             "value": ""
@@ -5882,8 +5879,7 @@
           "quarter": "Poll",
           "predecessor": "7.3.3",
           "successor": "7.3.5",
-          "inactive": true,
-          "title": "Rolshover Hof",
+          "title": "Rols|ho|ver Hof",
           "description": {
             "state": "#unknown",
             "value": ""
@@ -5914,8 +5910,7 @@
           "quarter": "Poll",
           "predecessor": "7.3.4",
           "successor": "7.3.6a",
-          "inactive": true,
-          "title": "Bildstock",
+          "title": "Bild|stock",
           "description": {
             "state": "#unknown",
             "value": ""
@@ -5945,8 +5940,7 @@
           "quarter": "Poll",
           "predecessor": "7.3.5",
           "successor": "7.3.6b",
-          "inactive": true,
-          "title": "Histor. Gebäudegruppe Auf dem Sandberg (Teil 1)",
+          "title": "His|tor. Ge|bäu|de|grup|pe Auf dem Sand|berg (Teil 1)",
           "description": {
             "state": "#ok",
             "value": "Das vorstädtische Siedlungswachstum zu Beginn des 20. Jh. und die bauästhetischen Bedürfnisse der Bauherren der Zeit dokumentiert die historische Gebäudegruppe auf dem Sandberg, 92, 96, 98, 112, 114, 116 und 99, ..."
@@ -5986,8 +5980,7 @@
           "quarter": "Poll",
           "predecessor": "7.3.6a",
           "successor": "7.3.7",
-          "inactive": true,
-          "title": "Histor. Gebäudegruppe Auf dem Sandberg (Teil 2)",
+          "title": "His|tor. Ge|bäu|de|grup|pe Auf dem Sand|berg (Teil 2)",
           "description": {
             "state": "#ok",
             "value": "... während die Nr. 18 sowie die Nr. 21-21c (drei für einen drei Generationen umfassenden Familienverbund hintereinander errichtete Bauten) an den älteren, dörflichen Charakter Polls bis in die 2. Hälfte des 19. Jh. erinnern."
@@ -6031,8 +6024,7 @@
           "quarter": "Poll",
           "predecessor": "7.3.6",
           "successor": "7.3.8",
-          "inactive": true,
-          "title": "Alte Poller Schule",
+          "title": "Al|te Poller Schu|le",
           "description": {
             "state": "#ok",
             "value": "Das um 1900 erbaute Schulhaus, Poller Hauptstraße 61-65, hat eine reich verzierte mehrfarbige Backsteinfassade."
@@ -6063,8 +6055,7 @@
           "quarter": "Poll",
           "predecessor": "7.3.7",
           "successor": "7.3.9",
-          "inactive": true,
-          "title": "Backstein- u. Fachwerkhäuser des 19. Jh.",
+          "title": "Back|stein- u. Fach|werk|häu|ser des 19. Jh.",
           "description": {
             "state": "#ok",
             "value": "Ein Ensemble ein- bis zweigeschossiger, meist giebelständiger Backstin- und Fachwerkhäuser des 19. Jh. (teilweise erneuert) bilden die Bauten Poller Hauptstraße 33, 37, 43-47, 51, 53, 46-50, während ... [Fortsetzung siehe 3.9]"
@@ -6131,9 +6122,8 @@
           "trackSubpt": "",
           "quarter": "Poll",
           "predecessor": "7.3.8",
-          "successor": "7.3.10",
-          "inactive": true,
-          "title": "\"Gründerzeitliche\" Häuser",
+          "successor": "7.3.10a",
+          "title": "\"Grün|der|zeit|liche\" Häu|ser",
           "description": {
             "state": "#ok",
             "value": "[Fortsetzung zu 3.8] ... die Salmstraße noch eine Anzahl \"gründerzeitlicher\", zwischen 1880 und 1912 errichteter zweigeschossiger Häuser mit Stuck-, Backstein- und Putzfassaden aufweist (Nr. 73-85, 91, 74, 76, 94)."
@@ -6201,8 +6191,7 @@
           "quarter": "Poll",
           "predecessor": "7.3.9",
           "successor": "7.3.10b",
-          "inactive": true,
-          "title": "St. Joseph",
+          "title": "St. Jo|seph",
           "description": {
             "state": "#ok",
             "value": "Im Ortskern wurde die kathol. Pfarrkirche St. Joseph, Kirchplatz 1a, nach Plänen H. Nagelschmidts 1862-64 als ursprgl. neugotische dreischiffige Backsteinbasilika erbaut und nach schwerer Kriegszerstörung unter Beibehaltung der Umfassungsmauern und der unteren Geschosse des Westturmes seit 1951 von A. Hauk und M. Krantz neu errichtet. Die Chorausstattung hat 1955 H. Rheindorf geschaffen."
@@ -6233,8 +6222,7 @@
           "quarter": "Poll",
           "predecessor": "7.3.10a",
           "successor": "7.3.11",
-          "inactive": true,
-          "title": "Pestkreuz",
+          "title": "Pest|kreuz",
           "description": {
             "state": "#ok",
             "value": "Am Kirchplatz/Ecke Poller Hauptstraße ein Pestkreuz (1666) aus Trachyt, seit 1891 an seinem jetzigen Ort."
@@ -6264,8 +6252,7 @@
           "quarter": "",
           "predecessor": "7.3.10",
           "successor": "7.3.12",
-          "inactive": true,
-          "title": "Wasserwerk",
+          "title": "Was|ser|werk",
           "description": {
             "state": "#unknown",
             "value": ""
@@ -6297,8 +6284,7 @@
           "quarter": "",
           "predecessor": "7.3.11",
           "successor": "7.3.13",
-          "inactive": true,
-          "title": "Engelshof",
+          "title": "En|gels|hof",
           "description": {
             "state": "#unknown",
             "value": ""
@@ -6330,8 +6316,7 @@
           "quarter": "",
           "predecessor": "7.3.12",
           "successor": "7.3.14",
-          "inactive": true,
-          "title": "",
+          "title": "O|ber|stra|ße 89",
           "description": {
             "state": "#unknown",
             "value": ""
@@ -6360,8 +6345,7 @@
           "quarter": "",
           "predecessor": "7.3.13",
           "successor": "7.3.15",
-          "inactive": true,
-          "title": "",
+          "title": "O|ber|stra|ße 42",
           "description": {
             "state": "#unknown",
             "value": ""
@@ -6390,8 +6374,7 @@
           "quarter": "Ensen",
           "predecessor": "7.3.14",
           "successor": "7.3.16",
-          "inactive": true,
-          "title": "Amerikakreuz",
+          "title": "A|me|ri|ka|kreuz",
           "description": {
             "state": "#ok",
             "value": "Am Marktplatz steht das 4,20 m hohe sog. Amerikakreuz, aus Sandstein, gestiftet 1869 vom Amerika-Auswanderer Balthasar Schmitz, dessen Eltern an der Stelle des heutigen Marktplatzes einen eigenen Hof bewirtschafteten."
@@ -6401,7 +6384,7 @@
             "value": [ 7.0286681157953685, 50.897884921400255 ]
           },
           "buildings": {
-            "state": "#unknown"
+            "state": "#n/a"
           },
           "info": {
             "state": "#unknown"
@@ -6421,8 +6404,7 @@
           "quarter": "Ensen",
           "predecessor": "7.3.15",
           "successor": "7.3.17",
-          "inactive": true,
-          "title": "St. Laurentius",
+          "title": "St. Lau|ren|ti|us",
           "description": {
             "state": "#ok",
             "value": "Kathol. Pfarrkirche St. Laurentius, Kölner Straße, 1894-96 von Th. Kremer als neugotische, dreischiffige Stufenhalle mit eingezogenem Chor, Satteldach mit Quergiebeln und Dachreiter und einem Vierkantturm errichtet. Wiederaufbau und Erneuerung der Innenausstattung nach Kriegszerstörung 1951. Die reiche, sich in den Dachzonen von Langhaus und Turm konzentrierende Detailbildung macht den Bau trotz eher bescheidener Ausmaße zum Blickfang vom Rheinufer her.<br/>An der Kirche das 1932 errichtete Kriegerdenkmal (Entwurf H. Euler/Westhoven) für die Gefallenen des Ersten Weltkriegs, eine Stele aus grob gehauenen Backsteinquadern."
@@ -6467,8 +6449,7 @@
           "quarter": "Ensen",
           "predecessor": "7.3.16",
           "successor": "7.3.18",
-          "inactive": true,
-          "title": "",
+          "title": "Un|be|kann|tes Ob|jekt",
           "description": {
             "state": "#unknown",
             "value": ""
@@ -6497,8 +6478,7 @@
           "quarter": "Ensen",
           "predecessor": "7.3.17",
           "successor": "7.3.19",
-          "inactive": true,
-          "title": "Alexianer-Krankenhaus-Komplex",
+          "title": "A|lex|i|a|ner-Kran|ken|haus-Kom|plex",
           "description": {
             "state": "#ok",
             "value": "Das Alexianer-Krankenhaus, Kölner Str. 64, wurde 1905-08 auf dem Gelände des Gutes \"Rotes Haus\" vom Kölner Diözesan-Baumeister H. Renard als Klinik für psychisch Kranke errichtet. Kernstück der Symmetrischen Mehrflügelanlage inmitten eines Parks ist der dreigeschossige Mittelriegel mit Backstein- und Putzfassade im \"Bergischen Barock\", inspiriert von den Schloßbauten des 17. u. 18. Jh. im bergischen Teil des Rheinlandes."
@@ -6530,8 +6510,7 @@
           "quarter": "Ensen",
           "predecessor": "7.3.18",
           "successor": "7.3.20",
-          "inactive": true,
-          "title": "zwei Villen",
+          "title": "zwei Vil|len",
           "description": {
             "state": "#ok",
             "value": "Die beiden zum Alexianer-Komplex gehörenden zweigeschossigen Villen, Kölner Str. 60 u. 62 in verwinkelter Bauweise mit Stuck- bzw. Putzfassaden, wurden 1905 erbaut."
@@ -6571,8 +6550,7 @@
           "quarter": "",
           "predecessor": "7.3.19",
           "successor": "7.3.21",
-          "inactive": true,
-          "title": "Siedlung Gremberghoven",
+          "title": "Sied|lung Grem|berg|ho|ven",
           "description": {
             "state": "#ok",
             "value": "Ein typisches Beispiel für Arbeitersiedlungen im 1. Drittel des 20. Jh. ist die Siedlung Gremberghoven, 1919-22 nach der Idee der Gartenstadt mit großen Gärten zur Selbstversorgung nach M. Kießlings für die bediensteten des Rangierbahnhofs Gremberg (angelegt 1917-24) errichtet. Ein- bis dreigeschossige Ein- u. Mehrfamilienhäuser mit Putzfassaden vereinen sich mit Straßen und Gärten auf dem ellipsenförmigen Siedlungsgrundriß zu einem großräumigen, symmetrisch gegliederten Rondell. Wiederaufbau 1951 nach Kriegszerstörungen mit gewissen Veränderungen."
@@ -6604,14 +6582,13 @@
           "quarter": "",
           "predecessor": "7.3.20",
           "successor": "7.3.22",
-          "inactive": true,
-          "title": "",
+          "title": "Un|be|kann|tes Ob|jekt",
           "description": {
             "state": "#unknown",
             "value": ""
           },
           "mapPosition": {
-            "state": "#unknown",
+            "state": "#check",
             "value": [ 7.063396, 50.90513 ]
           },
           "buildings": {
@@ -6634,8 +6611,7 @@
           "quarter": "Porz",
           "predecessor": "7.3.21",
           "successor": "7.3.23",
-          "inactive": true,
-          "title": "Schöffenkreuz",
+          "title": "Schöf|fen|kreuz",
           "description": {
             "state": "#ok",
             "value": "An das alte dörfliche Porz erinnert das sog. Schöffenkreuz aus Trachyt, gestiftet 1667 vom Schöffen Bertram Hermans und seiner Ehefrau Margriet."
@@ -6666,8 +6642,7 @@
           "quarter": "Porz",
           "predecessor": "7.3.22",
           "successor": "7.3.24",
-          "inactive": true,
-          "title": "",
+          "title": "Un|be|kann|tes Ob|jekt",
           "description": {
             "state": "#unknown",
             "value": ""
@@ -6698,8 +6673,7 @@
           "quarter": "Porz",
           "predecessor": "7.3.23",
           "successor": "7.3.25",
-          "inactive": true,
-          "title": "",
+          "title": "St. Jo|sef",
           "description": {
             "state": "#unknown",
             "value": ""
@@ -6731,8 +6705,7 @@
           "quarter": "Porz",
           "predecessor": "7.3.24",
           "successor": "7.3.26",
-          "inactive": true,
-          "title": "Wohn- u. Geschäftshaus",
+          "title": "Wohn- u. Ge|schäfts|haus",
           "description": {
             "state": "#ok",
             "value": "1912 ließ Bäckermeister Billstein sein dreigeschossiges Wohn- und Geschäftshaus, Hauptstr. 398, mit rückwärtiger Backstube bauen. Die breite Stuckfassade mit geschungenem Ziergiebel und farbigem Blumendekor, eine reizvolle Mischung aus Jugendstil und Barock, macht das Haus zu einem der auffälligsten der Straße."
@@ -6763,8 +6736,7 @@
           "quarter": "Porz",
           "predecessor": "7.3.25",
           "successor": "7.3.27",
-          "inactive": true,
-          "title": "Wohnhaus",
+          "title": "Wohn|haus",
           "description": {
             "state": "#ok",
             "value": "Um 1900 entstand das zweigeschossige Wohnhaus Hauptstr. 388 mit Mittelgiebel und Zahnfries am Traufgesims. Es ist das einzige hier erhaltene mit einer zweifarbigen Backsteinfassade, mit der es sich sowohl an die frühere dörfliche Bebauung als auch mit der dekorativen Gestaltung an die städtische Architektur anpaßt. Zum historischen Ansemble gehören auch die Häuser Nr. 352, 368, 394, 327."
@@ -6812,8 +6784,7 @@
           "quarter": "Porz",
           "predecessor": "7.3.26",
           "successor": "7.3.28",
-          "inactive": true,
-          "title": "Villa Dr. Hollstein, Villa Ahren, Villa Broischer",
+          "title": "Vil|la Dr. Holl|stein, Vil|la Ah|ren, Vil|la Broi|scher",
           "description": {
             "state": "#ok",
             "value": "Zum historischen Ensemble der Hauptstraße gehören die Villa Dr. Hollstein (Nr. 303), die Villa Ahren (Nr. 305) sowie die Villa Broischer (Nr. 307), die am südlichen Ortsrand des alten Porz in bevorzugter Lage nahe am Rhein liegen. Sie wurden zwischen 1900 (Villa Dr. Hollstein) und 1912 errichtet. Trotz mancher Modernisierungsmaßname ist ihr aufwendiger Wohnstand noch ablesbar. Die Villa Dr. Hollstein besitzt noch den Vorgarten, die originalen schmiedeeisernen Tore mit dem Einfriedungsgitter, sowie die Remise. In den Villengärten stehen noch drei Blutbuchen als Naturdenkmäler."
@@ -6849,8 +6820,7 @@
           "quarter": "Porz",
           "predecessor": "7.3.27",
           "successor": "7.3.29",
-          "inactive": true,
-          "title": "Lukaskirche",
+          "title": "Lu|kas|kir|che",
           "description": {
             "state": "#ok",
             "value": "Die evangel. Lukaskirche, Mühlenstr. 2, wurde 1914 von M. Benirschke als Saalkirche mit Rechteckchor und jugendstilgeprägtem, an J. M. Olbrichs Darmstädter Hochzeits-Turm erinnernden Fassadenturm geschaffen. Die expressionistische, sehr farbige Innenausstattung stammt von H. Derckum (vollendet 1927). 1977-80 erfolgte die denkmalpflegerische Wiederherstellung des unsprünglichen Zustandes durch die Architekten Thon und Baedorf."
@@ -6882,8 +6852,7 @@
           "quarter": "Porz",
           "predecessor": "7.3.28",
           "successor": "7.3.30",
-          "inactive": true,
-          "title": "Straßenbahnwartehalle",
+          "title": "Stra|ßen|bahn|war|te|hal|le",
           "description": {
             "state": "#ok",
             "value": "Aus der ersten Wiederaufbauphase nach dem Zweiten Weltkrieg verfügt Köln über eine Anzahl von Gebäuden von hoher architektonischer Qualität. Die teilweise leichte, beschwingte Flachdacharchitektur mit organischer Linienführung und gegliedertem Sichtbetonstützwerk wurde auch auf kleine Bauten wie die Straßenbahnwartehalle mit Kiosk, Mühlenstr. o. Nr., übertragen. Sie wurde 1952 über einem gekurvten Grundriß pavillonartig mit großen Fenstern und einem besondere Akzente setzenden, weitvorkragenden Flachdach errichtet."
@@ -6914,8 +6883,7 @@
           "quarter": "Porz",
           "predecessor": "7.3.29",
           "successor": "7.3.31",
-          "inactive": true,
-          "title": "Germania-Siedlung",
+          "title": "Ger|ma|nia-Sied|lung",
           "description": {
             "state": "#ok",
             "value": "Die Germania-Siedlung (Bahnhofstr./Concordiaplatz/Germaniastr./Glasstr.) wurde zwischen 1899 und 1903 abseits der Bürgermeisterei Porz auf rautenförmigem Grundriß angelegt, ein Ensemble aus Fabrik, Direktorenvilla und Park (Concordiaplatz), Meisterhäusern (Germaniastr.), Angestellten- und Arbeiterhäusern (Glasstr.) für die Belegschaft der Germania-Spiegelglaswerke. Anlage und Architektur der Häuser spiegelten die zeitgenössische berufsständische Gliederung des Werks und die soziale Hierarchie der Bewohner wieder; je höher ihr Status, desto näher an der Fabrik wohnten sie! Die noch nahezu geschlossen erhaltene Siedlung von seltener gestalterischer und architektonischer Vielfalt ist die einzige ihrer Art in Köln."
@@ -6946,8 +6914,7 @@
           "quarter": "Porz",
           "predecessor": "7.3.30",
           "successor": "",
-          "inactive": true,
-          "title": "Bahnhof Porz",
+          "title": "Bahn|hof Porz",
           "description": {
             "state": "#unknown",
             "value": ""
