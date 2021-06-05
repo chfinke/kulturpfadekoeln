@@ -6993,17 +6993,17 @@
             "value": [ 7.0602817, 50.8743422 ]
           },
           "buildings": {
-            "state": "#unknown"
+            "state": "#n/a"
           },
           "info": {
-            "state": "#unknown"
+            "state": "#n/a"
           },
           "notes": "",
           "wiki": {
-            "state": "#unknown"
+            "state": "#n/a"
           },
           "monumentNo": {
-            "state": "#unknown"
+            "state": "#n/a"
           }
         },
         "7.4.1": {
@@ -7015,7 +7015,7 @@
           "title": "Jü|di|scher Fried|hof",
           "description": {
             "state": "#ok",
-            "value": "Aus der jüdischen Gemeinde gingen zahlreiche für Zündorf wichtige Unternehmer hervor. Eine Judengasse war hier 1825 und 1854 verzeichnet. 1880 entstand die bis 1938 bestehende Synagoge (Hauptstr. 159; heute ein Wohnhaus). Der ehemalige jüdische Friedhof ist zwischen Gartenweg und Hasenkaul gelegen<b/>Nach der Befreiung Deutschlands vom Nationalsozialismus 1945 ist die jüdische Gemeinde nicht wiederentstanden."
+            "value": "Aus der jüdischen Gemeinde gingen zahlreiche für Zündorf wichtige Unternehmer hervor. Eine Judengasse war hier 1825 und 1854 verzeichnet. 1880 entstand die bis 1938 bestehende Synagoge (Hauptstr. 159; heute ein Wohnhaus). Der ehemalige jüdische Friedhof ist zwischen Gartenweg und Hasenkaul gelegen<br/>Nach der Befreiung Deutschlands vom Nationalsozialismus 1945 ist die jüdische Gemeinde nicht wiederentstanden."
           },
           "mapPosition": {
             "state": "#ok",
@@ -7030,7 +7030,8 @@
           },
           "notes": "",
           "wiki": {
-            "state": "#n/a"
+            "state": "#ok",
+            "value": "Jüdischer_Friedhof_(Zündorf)"
           },
           "monumentNo": {
             "state": "#ok",
@@ -7042,19 +7043,18 @@
           "trackSubpt": "",
           "quarter": "",
           "predecessor": "7.4.1",
-          "successor": "7.4.3",
-          "inactive": true,
-          "title": "Turmhof und Werturm",
+          "successor": "7.4.4",
+          "title": "Turm|hof und Wer|turm",
           "description": {
             "state": "#unknown",
             "value": ""
           },
           "mapPosition": {
-            "state": "#unknown",
+            "state": "#check",
             "value": [ 7.046023, 50.8704183 ]
           },
           "buildings": {
-            "state": "#unknown",
+            "state": "#check",
             "value": [[[7.0452702, 50.87062], [7.0451379, 50.8704884], [7.0452627, 50.8704385], [7.0453717, 50.8703948], [7.0454334, 50.8704556], [7.0453231, 50.8704996], [7.0453931, 50.8705708], [7.0452702, 50.87062]], [[7.0452608, 50.8707107], [7.045212, 50.8706379], [7.0452702, 50.87062], [7.0453224, 50.8706036], [7.0453778, 50.8706766], [7.0452608, 50.8707107]]]
           },
           "info": {
@@ -7069,14 +7069,44 @@
             "value": 542
           }
         },
+        "7.4.4": {
+          "trackPoint": 4,
+          "trackSubpt": "",
+          "quarter": "",
+          "predecessor": "7.4.2",
+          "successor": "7.4.3",
+          "title": "Fach|werk|haus",
+          "description": {
+            "state": "#ok",
+            "value": "Das giebelständige Fachwerkhaus Gütergasse 21 wurde wahrscheinlich im 18. Jh. errichtet (restauriert 1987-90). Das Erdgeschoss soll einst die Dorfapotheke beherbergt haben."
+          },
+          "mapPosition": {
+            "state": "#ok",
+            "value": [ 7.04486744875296, 50.86984318741871 ]
+          },
+          "buildings": {
+            "state": "#ok",
+            "value": [[[7.0447873, 50.8698392], [7.0447603, 50.8698161], [7.0448038, 50.8697959], [7.0447578, 50.8697531], [7.04477, 50.8697474], [7.0448162, 50.8697271], [7.0448905, 50.869794], [7.0447873, 50.8698392]]]
+          },
+          "info": {
+            "state": "#unknown"
+          },
+          "notes": "",
+          "wiki": {
+            "state": "#n/a"
+          },
+          "monumentNo": {
+            "state": "#ok",
+            "value": 4210
+          }
+        },
         "7.4.3": {
           "trackPoint": 3,
           "trackSubpt": "",
           "quarter": "",
-          "predecessor": "7.4.2",
-          "successor": "7.4.4",
-          "inactive": true,
-          "title": "ehem. Wohnhaus Pelletier",
+          "predecessor": "7.4.4",
+          "successor": "7.4.5",
+          "title": "ehem. Wohn|haus Pel|le|tier",
           "description": {
             "state": "#ok",
             "value": "Das ehem. Wohnhaus des Kaufmanns Pelletier, Gütergasse 33-41, wurde 1750 vom Architekten J.G. Leydel erbaut. 1864 in ein Cellitinnen-Kloster mit Altenheim (St. Josephs-Altenheim) und einer neugotischen (heute profanisierten) Kapelle umgewandelt, entstand 1974 aus dem Komplex eine private Wohnanlage."
@@ -7114,46 +7144,13 @@
             ]
           }
         },
-        "7.4.4": {
-          "trackPoint": 4,
-          "trackSubpt": "",
-          "quarter": "",
-          "predecessor": "7.4.3",
-          "successor": "7.4.5",
-          "inactive": true,
-          "title": "Fachwerkhaus",
-          "description": {
-            "state": "#ok",
-            "value": "Das giebelständige Fachwerkhaus Gütergasse 21 wurde wahrscheinlich im 18. Jh. errichtet (restauriert 1987-90). Das Erdgeschoss soll einst die Dorfapotheke beherbergt haben."
-          },
-          "mapPosition": {
-            "state": "#ok",
-            "value": [ 7.04486744875296, 50.86984318741871 ]
-          },
-          "buildings": {
-            "state": "#ok",
-            "value": [[[7.0447873, 50.8698392], [7.0447603, 50.8698161], [7.0448038, 50.8697959], [7.0447578, 50.8697531], [7.04477, 50.8697474], [7.0448162, 50.8697271], [7.0448905, 50.869794], [7.0447873, 50.8698392]]]
-          },
-          "info": {
-            "state": "#unknown"
-          },
-          "notes": "",
-          "wiki": {
-            "state": "#n/a"
-          },
-          "monumentNo": {
-            "state": "#ok",
-            "value": 4210
-          }
-        },
         "7.4.5": {
           "trackPoint": 5,
           "trackSubpt": "",
           "quarter": "",
-          "predecessor": "7.4.4",
+          "predecessor": "7.4.3",
           "successor": "7.4.6",
-          "inactive": true,
-          "title": "Siedlung Gütergasse",
+          "title": "Sied|lung Gü|ter|gas|se",
           "description": {
             "state": "#ok",
             "value": "Im Bereich zw. Gütergasse, Hauptstr., Enggasse und Leinpfad wurde 1982-86 von G. Böhm die sich an der historischen dörflichen Bebauung Zündorfs orientierende Reihenhaussiedlung errichtet."
@@ -7183,8 +7180,7 @@
           "quarter": "",
           "predecessor": "7.4.5",
           "successor": "7.4.7",
-          "inactive": true,
-          "title": "&quot;Kleines Teehaus&quot;",
+          "title": "&quot;Klei|nes Tee|haus&quot;",
           "description": {
             "state": "#ok",
             "value": "Zwischen Turmhof und Markt steht an der Rheinpromenade neben einer Trauerweide (Naturdenkmal) das &quot;Kleine Teehaus&quot; der ehem. Brauerei Immendorff, ein Jugendstil-Pavillon aus dem Jahre 1910."
@@ -7214,7 +7210,6 @@
           "quarter": "",
           "predecessor": "7.4.6",
           "successor": "7.4.8",
-          "inactive": true,
           "title": "Groov",
           "description": {
             "state": "#ok",
@@ -7246,8 +7241,7 @@
           "quarter": "",
           "predecessor": "7.4.7",
           "successor": "7.4.9",
-          "inactive": true,
-          "title": "Marktplatz mit Nepomuk-Statue und Kriegerdenkmal",
+          "title": "Markt|platz mit Ne|po|muk-Sta|tu|e und Krie|ger|denk|mal",
           "description": {
             "state": "#ok",
             "value": "Der Marktplatz bildet mit der ihn begrenzenden, weitgehend noch geschlossen erhaltenen Bebauung ein für Zündorf charakteristisches Ensemble. Das Haus Am Markt 4 stammt in seinem Kern wohl ebenso aus dem 18. Jh. (Putzfassade 19. Jh.) wie die Hofanlage Am Markt 6, ein teilw. verputztes Fachwerkhaus mit werksteingefaßten Fenster- und Türgewänden. Zum Schutz gegen das Hochwasser ist die Front zum Rhein hin gemauert.<br/>Im Zentrum des Platzes steht die 1775 von den Zündorfer Schiffern gestiftete Statue des hl. Johannes aus Nepomuk, ihres Schutzpatrons.<br/>Das Kriegerdenkmal aus Haustein wurde 1932 zum Gedenken an die im Ersten Weltkrieg gefallenen Zündorfer errichtet."
@@ -7290,9 +7284,8 @@
           "trackSubpt": "",
           "quarter": "",
           "predecessor": "7.4.8",
-          "successor": "7.4.10",
-          "inactive": true,
-          "title": "Enggasse",
+          "successor": "7.4.13",
+          "title": "Eng|gas|se",
           "description": {
             "state": "#ok",
             "value": "Die Enggasse bietet ein Ensemble 1&frac12;-2-geschossiger giebelständiger Fachwerk- bzw. Backsteinhäuser des 17.-19. Jh.: Nr. 9 (aus dem 17. Jh., 1984 nach historischem Vorbild erneuert); Nr. 15; Nr. 19 (ein Neubau von 1977-81 unter Verwendung einer alten Fachwerkfassade); Nr. 21; Nr. 16 (ein verputztes Backsteinhäuschen des 19. Jh. mit nach historischem Vorbild erneuerten Klappläden und Haus- und Hoftüren)."
@@ -7338,17 +7331,47 @@
             ]
           }
         },
+        "7.4.13": {
+          "trackPoint": 13,
+          "trackSubpt": "",
+          "quarter": "",
+          "predecessor": "7.4.9",
+          "successor": "7.4.10",
+          "title": "Fach|werk|haus",
+          "description": {
+            "state": "#ok",
+            "value": "Das aufwendig restaurierte Gebäude Hauptstr. 161, ein 1&frac12; geschossiges verputztes Fachwerkhaus mit vorkragendem Obergeschaß, ist das vermutlich älteste erhaltene, aus dem 16. Jahrhundert stammende Haus seiner Art in Zündorf. Das Kellergewölbe ist mttelalterlich."
+          },
+          "mapPosition": {
+            "state": "#ok",
+            "value": [ 7.045003620241526, 50.868707298352035 ]
+          },
+          "buildings": {
+            "state": "#ok",
+            "value": [[[7.0448856, 50.8687911], [7.0448455, 50.8687586], [7.044952, 50.868705], [7.0449921, 50.8687384], [7.0448856, 50.8687911]]]
+          },
+          "info": {
+            "state": "#unknown"
+          },
+          "notes": "",
+          "wiki": {
+            "state": "#n/a"
+          },
+          "monumentNo": {
+            "state": "#ok",
+            "value": 742
+          }
+        },
         "7.4.10": {
           "trackPoint": 10,
           "trackSubpt": "",
           "quarter": "",
-          "predecessor": "7.4.9",
-          "successor": "7.4.11",
-          "inactive": true,
-          "title": "Marktstraße",
+          "predecessor": "7.4.13",
+          "successor": "7.4.12",
+          "title": "Markt|stra|ße",
           "description": {
             "state": "#check",
-            "value": "Häuser des 17. bis 19. Jh. auf der Marktstraße: Nr. 18 (ein Fachwerkbau des 18. Jh. mit doppelter Freitreppe u. zweiflügeliger geschnitzter Eichentür); Nr. 20 (1772 über älterem Vorgänger errichtetes ehem. Stapelhaus des Mülheimer Handelsherrn Dirk van ???? ein Fachwerkbau mit doppel??????er Freitreppe); Nr. 22 (um 1880 gebautes 2-geschossiges, teilw. verputztes Eckhaus zum Markt mit erneuertem Fachwerk); Nr. 5 (ein teilw. verputztes Fachwerkhaus vom Ende 17. Jh.); Nr. 27 (ein 1832 inschriftlich datiertes Fachwerkhaus)."
+            "value": "Häuser des 17. bis 19. Jh. auf der Marktstraße: Nr. 18 (ein Fachwerkbau des 18. Jh. mit doppelter Freitreppe u. zweiflügeliger geschnitzter Eichentür); Nr. 20 (1772 über älterem Vorgänger errichtetes ehem. Stapelhaus des Mülheimer Handelsherrn Dirk van Hees ein Fachwerkbau mit doppel...er Freitreppe); Nr. 22 (um 1880 gebautes 2-geschossiges, teilw. verputztes Eckhaus zum Markt mit erneuertem Fachwerk); Nr. 5 (ein teilw. verputztes Fachwerkhaus vom Ende 17. Jh.); Nr. 27 (ein 1832 inschriftlich datiertes Fachwerkhaus)."
           },
           "mapPosition": {
             "state": "#ok",
@@ -7391,50 +7414,16 @@
             ]
           }
         },
-        "7.4.11": {
-          "trackPoint": 11,
-          "trackSubpt": "",
-          "quarter": "",
-          "predecessor": "7.4.10",
-          "successor": "7.4.12",
-          "inactive": true,
-          "title": "St. Michael",
-          "description": {
-            "state": "#ok",
-            "value": "St. Michael am Burgweg, die alte Pfarrkirche Niederzündorfs (11.–17. Jh.), auf einer leichten Anhöhe über einem alten Rheinarm gelegen, ist ein romanischer Saalbau mit reich verziertem Vierkantturm mit Rautenhelm (1170) im Westen, dreiseitigem Chor im Osten, Kapelle im Süden und Sakristei (1662) im Norden. Das nördl. Seitenschiff wurde 1906 abgebrochen. Im Innern 2 Tafelgemälde aus der Barthel Bruyn-Schule mit Kalvarienberg u. Anbetung der hl. 3 Könige (2. Hälfte 16. Jh.), ein merowingisches Ranklenrelief (7. Jh.) u. Grabsteine des 17. Jh. Der ummauerte Friedhofsbezirk ist mittelalterlichen Ursprungs; auf dem Eingangstor ein 1630 datiertes Grabkreuz."
-          },
-          "mapPosition": {
-            "state": "#ok",
-            "value": [ 7.0429855, 50.8683178 ]
-          },
-          "buildings": {
-            "state": "#ok",
-            "value": [[[7.0423942, 50.8685264], [7.0423891, 50.8684909], [7.0422846, 50.8684972], [7.0422271, 50.8684994], [7.0422241, 50.8684802], [7.0422117, 50.8684809], [7.04221, 50.8684704], [7.0422225, 50.8684696], [7.042218, 50.868441], [7.0422056, 50.8684418], [7.0422026, 50.8684232], [7.0422326, 50.8684215], [7.0422338, 50.8684299], [7.0422799, 50.8684268], [7.0422788, 50.8684189], [7.0422943, 50.8684181], [7.0422954, 50.8684257], [7.0424178, 50.8684194], [7.0424158, 50.8684046], [7.0424515, 50.8684027], [7.0424535, 50.8684175], [7.0425062, 50.8684145], [7.0425458, 50.8684314], [7.042552, 50.8684611], [7.0425196, 50.8684837], [7.042514, 50.868484], [7.0425183, 50.8685142], [7.0425082, 50.86852], [7.0423942, 50.8685264]]]
-          },
-          "info": {
-            "state": "#unknown"
-          },
-          "notes": "",
-          "wiki": {
-            "state": "#ok",
-            "value": "St._Michael_%28K%C3%B6ln-Z%C3%BCndorf%29"
-          },
-          "monumentNo": {
-            "state": "#ok",
-            "value": 1387
-          }
-        },
         "7.4.12": {
           "trackPoint": 12,
           "trackSubpt": "",
           "quarter": "",
-          "predecessor": "7.4.11",
-          "successor": "7.4.13",
-          "inactive": true,
-          "title": "Historische Gebäude am Burgweg",
+          "predecessor": "7.4.10",
+          "successor": "7.4.11",
+          "title": "His|to|ri|sche Ge|bäu|de am Burg|weg",
           "description": {
             "state": "#ok",
-            "value": "Das 1 1/2-geschossige Fachwerkhäuschen (mit verputzter Traufseite) Burgweg Nr. 9 datiert aus dem Jahr 1677. Der Bitzhof, Burgweg Nr. 12, stammt aus dem Jahre 1836. Das zweigeschossige Fachwerkhaus mit einläufiger Außentreppe wurde 1982 innen und außen aufwendig restauriert."
+            "value": "Das 1&frac12;-geschossige Fachwerkhäuschen (mit verputzter Traufseite) Burgweg Nr. 9 datiert aus dem Jahr 1677. Der Bitzhof, Burgweg Nr. 12, stammt aus dem Jahre 1836. Das zweigeschossige Fachwerkhaus mit einläufiger Außentreppe wurde 1982 innen und außen aufwendig restauriert."
           },
           "mapPosition": {
             "state": "#ok",
@@ -7465,46 +7454,45 @@
             ]
           }
         },
-        "7.4.13": {
-          "trackPoint": 13,
+        "7.4.11": {
+          "trackPoint": 11,
           "trackSubpt": "",
           "quarter": "",
           "predecessor": "7.4.12",
           "successor": "7.4.14",
-          "inactive": true,
-          "title": "Fachwerkhaus",
+          "title": "St. Mi|cha|el",
           "description": {
             "state": "#ok",
-            "value": "Das aufwendig restaurierte Gebäude Hauptstr. 161, ein 1&frac12; geschossiges verputztes Fachwerkhaus mit vorkragendem Obergeschaß, ist das vermutlich älteste erhaltene, aus dem 16. Jahrhundert stammende Haus seiner Art in Zündorf. Das Kellergewölbe ist mttelalterlich."
+            "value": "St. Michael am Burgweg, die alte Pfarrkirche Niederzündorfs (11.–17. Jh.), auf einer leichten Anhöhe über einem alten Rheinarm gelegen, ist ein romanischer Saalbau mit reich verziertem Vierkantturm mit Rautenhelm (1170) im Westen, dreiseitigem Chor im Osten, Kapelle im Süden und Sakristei (1662) im Norden. Das nördl. Seitenschiff wurde 1906 abgebrochen. Im Innern 2 Tafelgemälde aus der Barthel Bruyn-Schule mit Kalvarienberg u. Anbetung der hl. 3 Könige (2. Hälfte 16. Jh.), ein merowingisches Ranklenrelief (7. Jh.) u. Grabsteine des 17. Jh. Der ummauerte Friedhofsbezirk ist mittelalterlichen Ursprungs; auf dem Eingangstor ein 1630 datiertes Grabkreuz."
           },
           "mapPosition": {
             "state": "#ok",
-            "value": [ 7.045003620241526, 50.868707298352035 ]
+            "value": [ 7.0429855, 50.8683178 ]
           },
           "buildings": {
             "state": "#ok",
-            "value": [[[7.0448856, 50.8687911], [7.0448455, 50.8687586], [7.044952, 50.868705], [7.0449921, 50.8687384], [7.0448856, 50.8687911]]]
+            "value": [[[7.0423942, 50.8685264], [7.0423891, 50.8684909], [7.0422846, 50.8684972], [7.0422271, 50.8684994], [7.0422241, 50.8684802], [7.0422117, 50.8684809], [7.04221, 50.8684704], [7.0422225, 50.8684696], [7.042218, 50.868441], [7.0422056, 50.8684418], [7.0422026, 50.8684232], [7.0422326, 50.8684215], [7.0422338, 50.8684299], [7.0422799, 50.8684268], [7.0422788, 50.8684189], [7.0422943, 50.8684181], [7.0422954, 50.8684257], [7.0424178, 50.8684194], [7.0424158, 50.8684046], [7.0424515, 50.8684027], [7.0424535, 50.8684175], [7.0425062, 50.8684145], [7.0425458, 50.8684314], [7.042552, 50.8684611], [7.0425196, 50.8684837], [7.042514, 50.868484], [7.0425183, 50.8685142], [7.0425082, 50.86852], [7.0423942, 50.8685264]]]
           },
           "info": {
             "state": "#unknown"
           },
           "notes": "",
           "wiki": {
-            "state": "#n/a"
+            "state": "#ok",
+            "value": "St._Michael_%28K%C3%B6ln-Z%C3%BCndorf%29"
           },
           "monumentNo": {
             "state": "#ok",
-            "value": 742
+            "value": 1387
           }
         },
         "7.4.14": {
           "trackPoint": 14,
           "trackSubpt": "",
           "quarter": "",
-          "predecessor": "7.4.13",
+          "predecessor": "7.4.11",
           "successor": "7.4.15",
-          "inactive": true,
-          "title": "St. Mariä Geburt",
+          "title": "St. Ma|ri|ä Ge|burt",
           "description": {
             "state": "#ok",
             "value": "Die kathol. Pfarrkirche St. Mariä Geburt, Hauptstr. 141, 1895/97 nach den Plänen F. Langenbergs erbaut, ist eine dreischiffige neugotische Backstein-Hallenkirche mit mächtigem, das Ortsbild dominierenden schiefergedeckten Vierkantturm an der Eingangsseite. Im Inneren neben den Resten der originalen neugot. Ausstattung und Relikten as der alten Pfarrkirche (Holzskulptur der auf einer Mondsichel thronenden Muttergottes (eine moderne Ausstattung (v. G. Lossow) und seit 1962 von F. Pauli geschaffene Glasfenster. Neben der Kirche ein Wegkreuz (um 1800) aus farbig gefasstem Sandstein."
@@ -7535,15 +7523,14 @@
           "quarter": "",
           "predecessor": "7.4.14",
           "successor": "7.4.16",
-          "inactive": true,
-          "title": "Mellerhof",
+          "title": "Mel|ler|hof",
           "description": {
             "state": "#ok",
             "value": "Der Mellerhof (ehem. Dulmanshof), Hauptstr. 117-119, heute eine Wohnanlage, war ursprünglich eine um 1800 angelegte geschlossene, vierflügelige Hofanlage (mit älterem Vorgänger), bestehend aus einem 2-geschossigen Fachwerk-Herrrenhaus und aus mehreren eingeschossigen Gesinde- und Wirtschaftsgebäuden in Backstein.<br/>An der Ecke Hauptstr./Houdainer Straße steht das &quot;Mellerkreuz&quot; aus dem Jahre 1711 mit den Wappenschilden der Stifter Theodor Dulman und Maria Elisabeth Bourel, erneuert 1817 von Adolf Meller und seiner Frau Anna, den neuen Hofeigentümern."
           },
           "mapPosition": {
-            "state": "#check",
-            "value": [ 7.042727, 50.8671622 ]
+            "state": "#ok",
+            "value": [ 7.0419358, 50.8665471 ]
           },
           "buildings": {
             "state": "#ok",
@@ -7576,14 +7563,13 @@
           "quarter": "",
           "predecessor": "7.4.15",
           "successor": "7.4.17",
-          "inactive": true,
-          "title": "Olefshof",
+          "title": "O|lefs|hof",
           "description": {
             "state": "#unknown",
             "value": ""
           },
           "mapPosition": {
-            "state": "#unknown",
+            "state": "#check",
             "value": [ 7.038361091350058, 50.864223255193785 ]
           },
           "buildings": {
@@ -7617,8 +7603,7 @@
           "quarter": "",
           "predecessor": "7.4.16",
           "successor": "7.4.18",
-          "inactive": true,
-          "title": "St. Martin",
+          "title": "St. Mar|tin",
           "description": {
             "state": "#ok",
             "value": "Die alte kathol. Pfarrkirche St. Martin von Oberzündorf, Hauptstr. 43-47, besteht aus dem um 1780 über den Fundamenten eines romanischen Vorgängerbaus errichteten einschiffigen Langhaus mit dreiseitigem Chor und einem Vierkantturm (12. Jh.) mit Knickhelm. Die Innenausstattung stammt aus dem 15.-.18.Jh.; Beseitigung der Kriegsschäden 1954; umfassende Restaurierung 1977/88. Bei der Kirche gelegen das von H.P. Tabeling 1771-74 errichtete Altenheim."
@@ -7650,8 +7635,7 @@
           "quarter": "",
           "predecessor": "7.4.17",
           "successor": "7.4.19",
-          "inactive": true,
-          "title": "Börschhof",
+          "title": "Börsch|hof",
           "description": {
             "state": "#ok",
             "value": "Der Börschhof (ehemaliger Abtshof), Hauptstraße 2, ist eine geschlossene Hofanlage von 1780/81 mit 2-gechossigem, fünfachsigem Herrenhaus und eingeschossigen Wirtschaftsgebäuden (alle in Backstein). Der Hof markiert die südliche Grenze Zündorfs und prägt zusammen mit den anderen Hofanlagen das Dorfbild entlang der Hauptstraße."
@@ -7691,14 +7675,13 @@
           "quarter": "",
           "predecessor": "7.4.18",
           "successor": "",
-          "inactive": true,
-          "title": "Wegekreuz",
+          "title": "We|ge|kreuz",
           "description": {
             "state": "#unknown",
             "value": ""
           },
           "mapPosition": {
-            "state": "#unknown",
+            "state": "#check",
             "value": [ 7.0450058, 50.8661438 ]
           },
           "buildings": {
