@@ -12,7 +12,7 @@
           "quarter": "",
           "predecessor": "",
           "successor": "2.1.1",
-          "title": "Start Kul&shy;tur&shy;pfad 2.1 Ro&shy;den&shy;kir&shy;chen",
+          "title": "Start Kul|tur|pfad 2.1 Ro|den|kir|chen",
           "description": {
             "state": "#ok",
             "value": "Die circa 5 km lange Strecke führt vom Palais Oppenheim in Bayenthal zur Großmarkthalle in Raderberg."
@@ -41,7 +41,7 @@
           "quarter": "Bayenthal",
           "predecessor": "2.1.0",
           "successor": "2.1.2",
-          "title": "Pa&shy;lais Op&shy;pen&shy;heim",
+          "title": "Pa|lais Op|pen|heim",
           "description": {
             "state": "#unknown"
           },
@@ -101,7 +101,7 @@
           "quarter": "Bayenthal",
           "predecessor": "2.1.2",
           "successor": "2.1.4",
-          "title": "Pri&shy;vat&shy;brau&shy;e&shy;rei Küp&shy;pers",
+          "title": "Pri|vat|brau|e|rei Küp|pers",
           "description": {
             "state": "#n/a"
           },
@@ -130,7 +130,7 @@
           "quarter": "Bayenthal",
           "predecessor": "2.1.3",
           "successor": "2.1.5",
-          "title": "Stadt&shy;häu&shy;ser Golt&shy;stein&shy;stra&shy;ße",
+          "title": "Stadt|häu|ser Golt|stein|stra|ße",
           "description": {
             "state": "#ok",
             "value": "Die Geschäftshäuser Nr. 75 und Nr. 77 von 1907 sind Zeugnisse der Entwicklung der Goltsteinstraße zur Haupt- und Geschäftsstraße nach Anlage der Straßenbahn 1904.<br/> Haus Nr. 75 mit phantasievoller Fassade. Im Fries der Schaufensterrahmung weist die Darstellung eines Storches am Kindernest auf die einstige Besitzerin, eine Hebamme. Tradition des Gemüseiadens seit Bestehen des Hauses."
@@ -160,7 +160,7 @@
           "quarter": "Bayenthal",
           "predecessor": "2.1.4",
           "successor": "2.1.6",
-          "title": "St. Mat&shy;thi&shy;as",
+          "title": "St. Mat|thi|as",
           "description": {
             "state": "#ok",
             "value": "Erbaut 1902 - 1904 nach dem Entwurf von Th. Kremer im neugotischen Stil. Hallenkirche mit Westturm und polygonalem Chor. Gestaltung der Totengedächtniskapelle von W. Remmes. 1926 Sakristeianbau.<br/>1951 - 1953 Wiederaufbau durch D. und G. Böhm, dabei Neufassung des Innenraumes: stärkere Rundpfeiler, Faltdecken zwischen den Jochen, neue Fensterzone. Bronzeportale und Sakramentshäuschen von H. Rheindorf.<br/>Mathiaskirchplatz 1904 nach dem Konzept von F. Encke. Die regelmäßige Schmuck- und Spielplatzanlage ist axial auf die Kirche ausgerichtet."
@@ -191,7 +191,7 @@
           "quarter": "Bayenthal",
           "predecessor": "2.1.5",
           "successor": "2.1.7",
-          "title": "St. Jo&shy;sef-Haus",
+          "title": "St. Jo|sef-Haus",
           "description": {
             "state": "#ok",
             "value": "1896 zugleich mit ehemals benachbartem Pfarrhaus nach den Plänen von Th. Roß im neugotischen Stil erbaut. Zunächst Hospital der Schwestern der Genossenschaft der armen Dienstmägde Jesu Christi.<br/>1905 - 1984 &quot;St. Josef-Zufluchtshaus&quot; für alleinstehende Mütter unter Leitung der Genossenschaft der Cellitinnen nach Regeln des Hl. Augustinus e.V.‚ Köln, Severinstraße. Einrichtung des kath. Fürsorge-Vereins für Mädchen, Frauen und Kinder.<br/>Heute Wohnanlage."
@@ -223,7 +223,7 @@
           "quarter": "Bayenthal",
           "predecessor": "2.1.6",
           "successor": "2.1.8",
-          "title": "St. An&shy;to&shy;nius-Kran&shy;ken&shy;haus",
+          "title": "St. An|to|nius-Kran|ken|haus",
           "description": {
             "state": "#ok",
             "value": "Erbaut 1906 - 1910 nach den Plänen von P. Gaertner (Inschrift am Eingangsportal) im Auftrag der Cellitinnen nach Regeln des Hl. Augustinus e.V.‚ Köln, Severinstraße.<br/>Mehrflügeliger Komplex mit Formenanleihen aus der deutschen Renaissance, bei der St. Hildegardis-Kapelle aus der Spätgotik. Chor der Kapelle mit hervorragender Jugendstil-Ausstattung.<br/>Erster großer Krankenhausbau (über 150 Betten) im Kölner Süden mit für damalige Verhältnisse beispielhaften modernen Einrichtungen hygienischer und technischer Art."
@@ -255,7 +255,7 @@
           "quarter": "Raderberg",
           "predecessor": "2.1.7",
           "successor": "2.1.9",
-          "title": "Ar&shy;bei&shy;ter-Ko&shy;lo&shy;nie Wil&shy;helms&shy;ruhe",
+          "title": "Ar|bei|ter-Ko|lo|nie Wil|helms|ruhe",
           "description": {
             "state": "#unknown",
             "value": "Erbaut 1888 - 1902 nach den Plänen der Architekten Sardemann und Scherz. Stiftung des Prof. Gerhard vom Rath für die Arbeiter des &quot;Rheinischen Aktienvereins für Zuckerfabrikation&quot;. Von sieben senkrecht zur Bonner Straße ausgerichteten Häuserzeilen blieb einzig die südlichste erhalten. Frühe vorbildliche Arbeitersiedlung: ansprechende, reich gegliederte Architektur; Außenanlagen ehemals mit Nutzgärten, Höfen und Stallungen, von denen einige noch bestehen."
@@ -286,7 +286,7 @@
           "quarter": "Raderberg",
           "predecessor": "2.1.8",
           "successor": "2.1.10",
-          "title": "St. Ma&shy;riä-Em&shy;pfäng&shy;nis",
+          "title": "St. Ma|riä-Em|pfäng|nis",
           "description": {
             "state": "#unknown",
             "value": "Erbaut 1906 - 1908 nach den Entwürfen von C. Rüdell und R. Odenthel im neugotischen Stil als Backstein-Hallenkirche mit Querschiff, polygonalem Chor und Untergeachoß des Vierkantturms. Turmabschluß 1927/29 im expressionistischen Stil durch A. Böll und H. Neuhaus. Nach Kriegsbeachädigung veränderter Wiederaufbau in drei Phasen: 1951 (H. Hansen), 1961 (J. Schürmann) und 1980/81 (K. J. Ernst). Madonna über Westportal 1930 von E. Schmitz jr.. Von den Werken des Künstlers Th. Heiermann ist das große Retabel (1987) mit Szenen aus dem Marienleben hervor zuheben."
@@ -316,7 +316,7 @@
           "quarter": "Raderberg",
           "predecessor": "2.1.9",
           "successor": "2.1.11",
-          "title": "Be&shy;ne&shy;dik&shy;ti&shy;ner&shy;innen&shy;klos&shy;ter",
+          "title": "Be|ne|dik|ti|ner|innen|klos|ter",
           "description": {
             "state": "#ok",
             "value": "Erbaut 1894/95. Das Herz-Jesu-Kloster ist eine um einen Innenhof geschlossene neugotische Anlage in umfriedetem großen Garten. Das Tympanon des Hauptportals zeigt die &quot;Anbetung des Lammes&quot;, eine Szene aus der Offenbarung des Johannes. In der Kapelle, die nur der Offentlichkeit zugänglich ist, Flügelaltar aus dem 16. Jahrhundert. Nach Kriegsbeschädigung Wiederherstellung der Anlage bis 1969."
@@ -342,7 +342,7 @@
             "value": [
               {
                 "number": 1095,
-                "title": "Herz-Je&shy;su-Klo&shy;ster und Ka&shy;pel&shy;le"
+                "title": "Herz-Je|su-Klo|ster und Ka|pel|le"
               }
             ]
           }
@@ -353,7 +353,7 @@
           "quarter": "Raderberg",
           "predecessor": "2.1.10",
           "successor": "",
-          "title": "Groß&shy;markt&shy;hal&shy;le",
+          "title": "Groß|markt|hal|le",
           "description": {
             "state": "#ok",
             "value": "Errichtet 1936-1940 nach den Plänen von Th. Teichen auf dem Gelände des mittelalterlichen jüdischen Friedhofs (&quot;Judenbüchel&quot; oder &quot;Am Todten Juden&quot;).<br/>Mit dem parabelförmigen Querschnitt und dem Akzent der beiden gestaffelten Shedbauten an der Nordseite ist die Halle ein Beispiel für das Weiterleben des Stils des &quot;Neuen Bauens&quot; im &quot;Dritten Reich&quot;. Luftschutzhochbunker (links), 1942 von H. Schumacher. Er erhielt zur Tarnung das Aussehen einer Kirche."
@@ -403,7 +403,7 @@
           "quarter": "",
           "predecessor": "",
           "successor": "2.2.1",
-          "title": "Start Kul&shy;tur&shy;pfad 2.2 Ro&shy;den&shy;kir&shy;chen",
+          "title": "Start Kul|tur|pfad 2.2 Ro|den|kir|chen",
           "description": {
             "state": "#unknown",
             "value": "Dieser Kultupfad ist noch nicht vollständig erfasst. Wir zeigen trotzdem schon einzelne Infotafeln an."
@@ -611,7 +611,7 @@
           "quarter": "Zollstock",
           "predecessor": "2.2.6",
           "successor": "2.2.8",
-          "title": "Süd&shy;fried&shy;hof",
+          "title": "Süd|fried|hof",
           "description": {
             "state": "#ok",
             "value": "1901 eröffnet. Entwurf von A. Kowallek. Die landschaftliche Anlage mit Rundwegen und abwechlungsreichen Baum- und Gehölzgruppen ist ein Beispiel für den Stil des Historismus.<br/>Darin ein englischer, ein italienischer und ein deutscher Ehrenfriedhof, bedeutende Grabstätten von 1900 - 1940 und ein Hochkreuz. Die Einfriedung sowie die oktogonale Trauerkapelle sind 1905 - 1918 nach den Entwürfen von F. Bolte im neuromantischen Stil erbaut."
@@ -1110,7 +1110,7 @@
           "quarter": "",
           "predecessor": "",
           "successor": "2.4.1",
-          "title": "Start Kul&shy;tur&shy;pfad 2.4 Ro&shy;den&shy;kir&shy;chen",
+          "title": "Start Kul|tur|pfad 2.4 Ro|den|kir|chen",
           "description": {
             "state": "#ok",
             "value": "Der Pfad führt über ca. 7 km durch Rodenkirchen.<br/>Startpunkt ist die Autobahnbrücke und Endpunkt im Diakonie-Dorf Michaelshoven."
@@ -1139,7 +1139,7 @@
           "quarter": "Rodenkirchen",
           "predecessor": "2.4.0",
           "successor": "2.4.2",
-          "title": "Au&shy;to&shy;bahn&shy;brü&shy;cke",
+          "title": "Au|to|bahn|brü|cke",
           "description": {
             "state": "#ok",
             "value": "Errichtet 1938 - 1941 durch P. Bonatz und F. Leonhardt im Zuge des Kölner Autobahnrings. Erste echte erdverankerte Kabelhängebrücke mit einer Mittelstützweite vom 378 m, seinerzeit weitestgespannte Hängebrücke Europas. Hauptmerkmale: monumentale Torsituation am Naturstein-Brückenkopf, Schlankheit der horizontalen Versteifungsträger, Spannweitenverhältnis zwischen den Trägern un den sie einrahmenden portalartigen Pylonen. 1945 Sprengung, 1952 - 1954 getreuer Wiederaufbau. Ab 1990 Verbreiterung der Brücke durch einen Zwillingsbau an der Nordseite."
@@ -1170,7 +1170,7 @@
           "quarter": "Rodenkirchen",
           "predecessor": "2.4.1",
           "successor": "2.4.3",
-          "title": "St. Ma&shy;ter&shy;nus",
+          "title": "St. Ma|ter|nus",
           "description": {
             "state": "#ok",
             "value": "Erbaut 1863 - 1867 nach den Plänen von V. Statz auf dem Gelände des ehemaligen Kartäuserhofes. Dreischiffige Backstein-Hallenkirche mit eingezogenem Chor und Einturmfassade. Bei der Formensprache Rückgriff auf die Hochgotik des 13./14. Jahrhunderts. Einziger Bauschmuck am Portal: Tympanon mit dem Hl. Maternus zwischen zwei Engeln vor einem Kölnpanorama. Türgriffbronzereliefs (innen) und Taufbeckendeckel (1978/79) von H. Kühnapfel. Madonna aus Alt-St. Maternus um 1470. Nebenliegendes, neugotisches ehemaliges Pfarrhaus um 1870."
@@ -1211,7 +1211,7 @@
           "quarter": "Rodenkirchen",
           "predecessor": "2.4.2",
           "successor": "2.4.4",
-          "title": "Ma&shy;ter&shy;nus-Bild&shy;stock",
+          "title": "Ma|ter|nus-Bild|stock",
           "description": {
             "state": "#unknown"
           },
@@ -1239,7 +1239,7 @@
           "quarter": "Rodenkirchen",
           "predecessor": "2.4.3",
           "successor": "2.4.5",
-          "title": "Vil&shy;la Mal&shy;ta",
+          "title": "Vil|la Mal|ta",
           "description": {
             "state": "#ok",
             "value": "Erbaut 1904/5 für den ehemaligen Bürgermeister E. Steisel. Die Jugendstil-Villa von den Architektenbrüdern Schauppmeyer hat das Aussehen einer Burg. Villen im sog. Burgenstil waren beliebt. Vielansichtiger Bau: Straßenfassade mit Treppengiebel, malerische asymmetrische Staffelung der Anbauten um hohen Aussichtsturm zur Rheinseite. Hieß zuerst &quot;Villa Angonia&quot;, später &quot;Villa Maria&quot; und seit 1975 nach vorletztem Besitzer, dem Malteserorden, &quot;Villa Malta&quot;."
@@ -1271,7 +1271,7 @@
           "quarter": "Rodenkirchen",
           "predecessor": "2.4.4",
           "successor": "2.4.6",
-          "title": "Um&shy;ge&shy;bung von Alt-St. Ma&shy;ter&shy;nus",
+          "title": "Um|ge|bung von Alt-St. Ma|ter|nus",
           "description": {
             "state": "#unknown"
           },
@@ -1328,7 +1328,7 @@
           "quarter": "Rodenkirchen",
           "predecessor": "2.4.5",
           "successor": "2.4.7",
-          "title": "Vil&shy;len&shy;en&shy;sem&shy;ble",
+          "title": "Vil|len|en|sem|ble",
           "description": {
             "state": "#unknown"
           },
@@ -1356,7 +1356,7 @@
           "quarter": "Rodenkirchen",
           "predecessor": "2.4.6",
           "successor": "2.4.8",
-          "title": "Haus Brü&shy;gel&shy;mann",
+          "title": "Haus Brü|gel|mann",
           "description": {
             "state": "#unknown"
           },
@@ -1384,7 +1384,7 @@
           "quarter": "Rodenkirchen",
           "predecessor": "2.4.7",
           "successor": "2.4.9",
-          "title": "St. Jo&shy;seph",
+          "title": "St. Jo|seph",
           "description": {
             "state": "#ok",
             "value": "1954 - 1956, letztes Werk des bekannten Kirchenarchitekten D. Böhm. Vollendung durch G. Böhm. Schlichter Backstein-Hallenbau. Blockhafte Fronttürme im Osten und Westen verweisen auf Taufbecken und Altar im Inneren. Farbverglasung in den Lichtöffnungen des Westturms von W. Teuwen, seitliche Fenster von H. Berke. Ausgrenzung eines Vorplatzes durch im Winkel ansetzende niedrige Gemeindebauten."
@@ -1415,7 +1415,7 @@
           "quarter": "Rodenkirchen",
           "predecessor": "2.4.8",
           "successor": "2.4.10",
-          "title": "Gut Schil&shy;lings&shy;rott (Len&shy;nartz&shy;hof)",
+          "title": "Gut Schil|lings|rott (Len|nartz|hof)",
           "description": {
             "state": "#ok",
             "value": "Einzige erhaltene geschlossene Hofanlage von ehemals zehn größeren Rodenkirchener Höfen. Erstnennung 1171. Vor der Säkularisation 1802 im Besitz des Kölner Stiftes St. Georg. Das heutige barocke Herrenhaus mit Straßen- und Hoffassade aus dem 18. Jahrhundert. Die Lindenbäume nehmen Bezug auf die Fensterachsen. Wappen über der Eingangstür. Wirtschaftsbauten in geschlämmtem Backstein z.Z. 1809 datiert. Seit 1972 Restaurierung durch Heinz D. Stuckmann."
@@ -1446,7 +1446,7 @@
           "quarter": "Rodenkirchen",
           "predecessor": "2.4.9",
           "successor": "",
-          "title": "Di&shy;a&shy;ko&shy;nie-Dorf Mi&shy;cha&shy;els&shy;ho&shy;ven",
+          "title": "Di|a|ko|nie-Dorf Mi|cha|els|ho|ven",
           "description": {
             "state": "#ok",
             "value": "Erbaut 1955 - 1959 nach den Plänen von Dr. E. te Reh. Im Mittelpunkt die zeltförmige Erzengel-Michael-Kirche in ovaler Parkanlage, anfänglich von sechs Häusern umgeben. Die zweiflügeligen, leicht gewinkelten Flachdachbauten besitzen abwechslungsreiche Eingangslösungen, die als kommunikative Zentren dienen. Programm war naturnahes Leben in dörflicher Gemeinschaft für Flüchtlinge, Ausgebombte und Jugendliche ohne Schulabschluss, später auch für Behinderte und Senioren."
@@ -6981,7 +6981,7 @@
           "quarter": "",
           "predecessor": "",
           "successor": "7.4.1",
-          "title": "Start Kul&shy;tur&shy;pfad 7.4 Porz",
+          "title": "Start Kul|tur|pfad 7.4 Porz",
           "description": {
             "state": "#ok",
             "value": "Die Tour durch Zündorf ist etwa 6 km lang und startet an der Haltestelle Rosenhügel der Linie 7. Endpunkt ist dann die Haltestelle Zündorf.<br/>Die Reihenfolge einiger Infotafeln wurde für einen besseren Wegverlauf umsortiert."
@@ -7010,7 +7010,7 @@
           "quarter": "Zündorf",
           "predecessor": "7.4.0",
           "successor": "7.4.2",
-          "title": "Jü&shy;di&shy;scher Fried&shy;hof",
+          "title": "Jü|di|scher Fried|hof",
           "description": {
             "state": "#ok",
             "value": "Aus der jüdischen Gemeinde gingen zahlreiche für Zündorf wichtige Unternehmer hervor. Eine Judengasse war hier 1825 und 1854 verzeichnet. 1880 entstand die bis 1938 bestehende Synagoge (Hauptstr. 159; heute ein Wohnhaus). Der ehemalige jüdische Friedhof ist zwischen Gartenweg und Hasenkaul gelegen<b/>Nach der Befreiung Deutschlands vom Nationalsozialismus 1945 ist die jüdische Gemeinde nicht wiederentstanden."
@@ -8617,7 +8617,7 @@
           "quarter": "",
           "predecessor": "9.1.0",
           "successor": "9.1.2",
-          "title": "Cle&shy;mens&shy;kir&shy;che",
+          "title": "Cle|mens|kir|che",
           "description": {
             "state": "#n/a",
             "value": ""
@@ -8647,7 +8647,7 @@
           "quarter": "",
           "predecessor": "9.1.1",
           "successor": "9.1.3a",
-          "title": "Ba&shy;rock&shy;bau&shy;ten",
+          "title": "Ba|rock|bau|ten",
           "description": {
             "state": "#n/a",
             "value": ""
@@ -8676,7 +8676,7 @@
           "quarter": "",
           "predecessor": "9.1.2",
           "successor": "9.1.4",
-          "title": "Stadt&shy;brun&shy;nen Mül&shy;hei&shy;mi&shy;a",
+          "title": "Stadt|brun|nen Mül|hei|mi|a",
           "description": {
             "state": "#ok",
             "value": "1884 vom Bildhauer Wilhelm Albermann entworfen. Geschenk des Verschönerungsvereins Mülheim und des Geheimen Baurats Hermann Pflaume. Anstelle einer ehemaligen städtischen Pumpe aufgestellt. Die personifizierte Stadt Mülheim (Mülheimia) auf einem Säulenbündel. Drei mittelalterlich gekleidete Knaben unterhalb als Symbol für Mülheimer Wirtschaftszweige: Handel, Industrie und Landwirtschaft"
@@ -8707,7 +8707,7 @@
           "quarter": "",
           "predecessor": "9.1.3a",
           "successor": "9.1.4",
-          "title": "Pfer&shy;de&shy;bahn&shy;sta&shy;tion",
+          "title": "Pfer|de|bahn|sta|tion",
           "description": {
             "state": "#ok",
             "value": "Krahnenstraße 1. Endstation der Pferdebahn. Pferdeköpfe als Ausdruck für die Nutzung des Gebäudes. Einstige Toreinfahrt heute verplast."
@@ -8737,7 +8737,7 @@
           "quarter": "",
           "predecessor": "9.1.3b",
           "successor": "9.1.5",
-          "title": "Grün&shy;der&shy;zeit&shy;li&shy;che Wohn&shy;bau&shy;ten, St. An&shy;to&shy;ni&shy;us&shy;kir&shy;che",
+          "title": "Grün|der|zeit|li|che Wohn|bau|ten, St. An|to|ni|us|kir|che",
           "description": {
             "state": "#n/a",
             "value": ""
