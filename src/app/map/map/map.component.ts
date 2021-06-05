@@ -142,7 +142,8 @@ export class MapComponent implements AfterViewInit {
       }).addTo(this.mapService.map);
 
       Object.entries(track.points).forEach(([pointId, point]) => {
-        if (point.mapPosition.state !== PointMapPositionState.Ok && point.mapPosition.state !== PointMapPositionState.Unknown) {
+        if (point.inactive) {
+        } else if (point.mapPosition.state !== PointMapPositionState.Ok) {
           if (environment.production === false) {
             console.log('mapPosition not displayed:', pointId, point.mapPosition.state, point.mapPosition.value);
           }
@@ -210,13 +211,22 @@ export class MapComponent implements AfterViewInit {
     } else if (markerList.length === 1) {
       this.mapService.map.setView(bounds.getNorthWest(), 15);
     } else {
-      this.mapService.map.fitBounds(
-        bounds,
-        {
-          paddingTopLeft: [38, 5],
-          paddingBottomRight: [5, 20],
-        },
-      );
+      try {
+        this.mapService.map.fitBounds(
+          bounds,
+          {
+            paddingTopLeft: [38, 5],
+            paddingBottomRight: [5, 20],
+          },
+        );
+      }
+      catch (error) {
+        if (markerList.length === 0) {
+          console.warn('empty map for track ', this.trackId);
+        } else {
+          console.error(error)
+        }
+      }
     }
   }
 

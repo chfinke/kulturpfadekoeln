@@ -115,6 +115,7 @@ export interface Point {
   notes: string;
   wiki: PointWiki;
   monumentNo: PointMonumentNo;
+  inactive?: boolean;
 }
 
 export type Points = { [key: string]: Point };
