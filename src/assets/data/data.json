@@ -4170,11 +4170,11 @@
           "title": "Start Kul|tur|pfad 7.1 Porz",
           "description": {
             "state": "#ok",
-            "value": "Der Pfad startet in Libur und nimmt dann einen bisher unbekannten Wegabschnitt, für den die Infotafeln auf den Karten nicht lokalisiert werden konnten. Weiter geht es dann über Urbach nach Wahn. Ob der Pfad von hieraus noch weiter geht ist bisher nicht bekannt.<br/>Die Reihenfolge einiger Infotafeln wurde für einen besseren Wegverlauf umsortiert."
+            "value": "Der Pfad ist eine Rundtour und startet am S-Bahnhof Porz-Wahn. Von dort geht es nach Libur und dann über einen bisher unbekannten Wegabschnitt, für den die Infotafeln auf den Karten nicht lokalisiert werden konnten. Dann geht es dann über Urbach nach Wahn und zurück zu, Startpunkt.<br/>Die Reihenfolge einiger Infotafeln wurde für einen besseren Wegverlauf umsortiert."
           },
           "mapPosition": {
-            "state": "#unknown",
-            "value": []
+            "state": "#ok",
+            "value": [7.079561, 50.8583466]
           },
           "buildings": {
             "state": "#unknown"
