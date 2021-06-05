@@ -1,0 +1,276 @@
+/* You can add global styles to this file, and also import other style files */
+
+@import "~leaflet/dist/leaflet.css";
+html {
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Ubuntu, "Helvetica Neue", Helvetica, sans-serif;
+  font-size: 16px;
+  line-height: 24px;
+}
+
+body {
+  color: rgb(17, 17, 17);
+  background-color: #f8f8f8;
+  margin: 0px;
+}
+
+h1 {
+  font-size: 32.0854px;
+  font-weight: 500;
+  line-height: 38.5px;
+  margin-top: 12px;
+  margin-bottom: 12px;
+}
+
+h1 small {
+  display: block;
+  color: rgb(68, 68, 68);
+  font-size: 16px;
+  font-weight: 500;
+  line-height: 24px;
+}
+
+h2 {
+  font-size: 26.9625px;
+  font-weight: 500;
+  line-height: 32.35px;
+  margin-top: 12px;
+  margin-bottom: 12px;
+  border-top: 3px solid black;
+}
+
+p {
+  margin-top: 8px;
+  margin-bottom: 8px;
+}
+
+a:link {
+  font-weight: bold;
+  color: inherit;
+}
+
+a:hover, a:focus, a:link, a:visited {
+  text-decoration: underline;
+  text-decoration-color: #aaaaaa;
+}
+
+a:visited {
+  color: inherit;
+}
+
+.wrapper {
+  margin-right: auto;
+  margin-left: auto;
+  max-width: 600px;
+  padding-left: 8px;
+  padding-right: 8px;
+}
+
+.container {
+  margin: 0 auto;
+}
+
+.row {
+  box-sizing: border-box;
+  display: flex;
+  flex: 0 1 auto;
+  flex-flow: row wrap;
+}
+
+.col-sm-4, .row.cols-sm-4>* {
+  max-width: 33.33333%;
+  flex-basis: 33.33333%;
+}
+
+.u-height-1-3 {
+  height: calc((100vh - 32px) / 3);
+}
+
+.u-height-2-3 {
+  height: calc((100vh - 32px) / 3 * 2);
+}
+
+.u-height-3-3 {
+  height: calc(100vh - 32px);
+}
+
+.u-h-fit {
+  width: 100%;
+}
+
+.u-fit {
+  width: 100%;
+  height: 100%;
+}
+
+.u-width-9x {
+  width: 72px;
+}
+
+.u-height-9x {
+  height: 72px;
+}
+
+.u-font-size-small {
+  font-size: small;
+}
+
+.u-font-size-x-small {
+  font-size: x-small;
+}
+
+.overflow {
+  overflow: auto;
+}
+
+.header {
+  flex: 1;
+  background-color: lightgray;
+  height: 29px;
+  padding-top: 3px;
+}
+
+.header__logo {
+  height: 32px;
+  width: 32px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+
+.header__text {
+  padding-left: 40px;
+}
+
+.title {
+  margin-top: 8px;
+  margin-bottom: 8px;
+}
+
+.preview {
+  margin-top: 8px;
+  position: relative;
+}
+
+.preview__text {
+  overflow: hidden;
+  text-overflow: ellipsis;
+  display: -webkit-box;
+  -webkit-line-clamp: 3;
+  -webkit-box-orient: vertical;
+}
+
+.preview__spacer {
+  width: 10ex;
+  position: absolute;
+  right: 12ex;
+  bottom: 0px;
+  background-image: linear-gradient(to right, rgba(0, 0, 0, 0), #f8f8f8, #f8f8f8);
+}
+
+.preview__link {
+  position: absolute;
+  right: 0px;
+  bottom: 0px;
+  background-color: #f8f8f8;
+}
+
+.leaflet-container a {
+  color: rgb(17, 17, 17) !important;
+}
+
+.map__container {
+  display: flex;
+  flex-direction: column;
+  align-items: stretch;
+  min-height: calc( 100vh - 32px);
+}
+
+.map__container>* {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+
+.map__map {
+  flex: 2;
+}
+
+.map__map--small {
+  height: 150px;
+  min-height: 150px;
+  max-height: 150px;
+}
+
+.map__map--medium {
+  height: 300px;
+  min-height: 300px;
+  max-height: 300px;
+}
+
+.map__info {
+  flex: 1;
+  max-height: 40vh;
+  position: relative;
+}
+
+.map__info__close {
+  cursor: pointer;
+  padding-left: 8px;
+  padding-right: 8px;
+  position: absolute;
+  top: -24px;
+  left: 0px;
+  z-index: 1000;
+  background-color: #d3d3d3;
+}
+
+.map__info__content {
+  overflow-y: auto;
+}
+
+.leaflet-control-attribution {
+  font-size: 10px !important;
+  background-color: #d3d3d3 !important;
+}
+
+.u-only-portrait {
+  display: inherit;
+}
+
+.u-only-landscape {
+  display: none;
+}
+
+.u-hyphens {
+  hyphens: auto;
+}
+
+@media screen and (orientation: landscape) {
+  .map__container {
+    flex-direction: row-reverse;
+    height: calc( 100vh - 32px);
+  }
+  .map__info {
+    width: 40%;
+    max-width: 400px;
+    min-width: 300px;
+    min-height: calc( 100vh - 32px);
+    max-height: calc( 100vh - 32px);
+  }
+
+  .map__info__close {
+    padding-left: 4px;
+    right: 0px;
+    top: 0px;
+    left: auto;
+  }
+  
+  .u-only-portrait {
+    display: none;
+  }
+  
+  .u-only-landscape {
+    display: inherit;
+  }
+
+}

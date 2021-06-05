@@ -1,0 +1,9 @@
+.container {
+  background-color: #d3d3d3;
+  border: 1px solid black;
+  padding: 1em;
+  text-align: center;
+  position: rela1tive;
+  margin-bottom: 1em;
+  cursor: pointer;
+}
