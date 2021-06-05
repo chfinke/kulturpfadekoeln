@@ -4160,7 +4160,6 @@
       "borough": "Porz",
       "trackNo": 1,
       "color": "#FFF200",
-      "inactive": true,
       "points": {
         "7.1.0": {
           "trackPoint": 0,
@@ -4168,11 +4167,10 @@
           "quarter": "",
           "predecessor": "",
           "successor": "7.1.1",
-          "inactive": true,
-          "title": "",
+          "title": "Start Kul|tur|pfad 7.1 Porz",
           "description": {
-            "state": "#unknown",
-            "value": ""
+            "state": "#ok",
+            "value": "Der Pfad startet in Libur und nimmt dann einen bisher unbekannten Wegabschnitt, für den die Infotafeln auf den Karten nicht lokalisiert werden konnten. Weiter geht es dann über Urbach nach Wahn. Ob der Pfad von hieraus noch weiter geht ist bisher nicht bekannt.<br/>Die Reihenfolge einiger Infotafeln wurde für einen besseren Wegverlauf umsortiert."
           },
           "mapPosition": {
             "state": "#unknown",
@@ -4198,8 +4196,7 @@
           "quarter": "Libur",
           "predecessor": "7.1.0",
           "successor": "7.1.2",
-          "inactive": true,
-          "title": "Urbanuskreuz",
+          "title": "Ur|ba|nus|kreuz",
           "description": {
             "state": "#ok",
             "value": "Das Urbanuskreuz von 1729 an der Urbanusstraße mit Roßkastanien als Begleitbäumen ist dem hl. Urban, dem Schutzpatron der Weinreben gewidmet."
@@ -4228,8 +4225,7 @@
           "quarter": "Libur",
           "predecessor": "7.1.1",
           "successor": "7.1.3",
-          "inactive": true,
-          "title": "Stompeler Kreuz",
+          "title": "Stom|pe|ler Kreuz",
           "description": {
             "state": "#ok",
             "value": "An der Ecke zum Liburger Weg steht das Stompeler Kreuz, ein typisches Feldkreuz von 1906, mit 3 Roßkastanien als Begleitbäumen."
@@ -4258,7 +4254,6 @@
           "quarter": "Libur",
           "predecessor": "7.1.2",
           "successor": "7.1.4",
-          "inactive": true,
           "title": "Bröhls Kreuz",
           "description": {
             "state": "#ok",
@@ -4288,8 +4283,7 @@
           "quarter": "Libur",
           "predecessor": "7.1.3",
           "successor": "7.1.5",
-          "inactive": true,
-          "title": "Hölser Kreuz",
+          "title": "Höl|ser Kreuz",
           "description": {
             "state": "#ok",
             "value": "Das Hölser Kreuz, gestiftet 1787, steht an der alten Wegverbindung von Uckendorf über Stockum nach Spich. Es markiert vermutl. eine alte Besitz- oder Verwaltungsgrenze. Die Begleitbäume sind Naturdenkmäler."
@@ -4318,8 +4312,7 @@
           "quarter": "Libur",
           "predecessor": "7.1.4",
           "successor": "7.1.6",
-          "inactive": true,
-          "title": "Pastor-Huthmacher-Straße",
+          "title": "Pas|tor-Huth|ma|cher-Stra|ße",
           "description": {
             "state": "#ok",
             "value": "Die Pastor-Huthmacher-Straße weist noch Zeugnisse der typischen älteren Bebauung (Ende 19. Jh.) des Weilers Libur auf (Nr. 2, 10, 16, 22)."
@@ -4348,8 +4341,7 @@
           "quarter": "Libur",
           "predecessor": "7.1.5",
           "successor": "7.1.7",
-          "inactive": true,
-          "title": "St. Margareta",
+          "title": "St. Mar|ga|re|ta",
           "description": {
             "state": "#ok",
             "value": "Katholische Pfarrkirche St. Margareta an der Pastor-Huthmacher-Straße, erbaut 1909–1911 nach Plänen des Architekten Huthmacher, eine neugotische dreischiffige Backsteinbasilika, deren ursprüngl. Innenausstattung (steinerne Altäre, Kanzel, Orgelempore, Fenster, Skulpturen) gut erhalten geblieben ist. 1981 nach denkmalpflegerischen Gesichtspunkten restauriert. Neben der Kirche der alte Friedhof mit bis auf das Jahr 1650 zurückgehenden Grabsteinen."
@@ -4379,8 +4371,7 @@
           "quarter": "Libur",
           "predecessor": "7.1.6",
           "successor": "7.1.8",
-          "inactive": true,
-          "title": "Margaretenkreuz",
+          "title": "Mar|ga|re|ten|kreuz",
           "description": {
             "state": "#ok",
             "value": "Das Margaretenkreuz wurde 1874 gestiftet."
@@ -4409,8 +4400,7 @@
           "quarter": "Libur",
           "predecessor": "7.1.7",
           "successor": "7.1.9",
-          "inactive": true,
-          "title": "Ensemble Kuxgasse 2, 8, 10",
+          "title": "En|sem|ble Kux|gas|se 2, 8, 10",
           "description": {
             "state": "#ok",
             "value": "In der Kuxgasse hat sich das alte Liburer Ortsbild in einem Ensemble niedriger giebelständiger Häuser am besten erhalten: Margarethenhof (Nr. 2), eine erstmals 1492 erwähnte geschlossene Hofanlage mit Herrenhaus (um 1900); ein zweigeschossiges Fachwerkhaus (Nr. 8) vom Ende des 18. Jh. und eine kleine, heute veränderte Hofanlage aus dem 19. Jh. (Nr. 10)."
@@ -4439,8 +4429,7 @@
           "quarter": "Libur",
           "predecessor": "7.1.8",
           "successor": "7.1.10",
-          "inactive": true,
-          "title": "Margaretenstraße",
+          "title": "Mar|ga|re|ten|stra|ße",
           "description": {
             "state": "#ok",
             "value": "Am Schnittpunkt mit der Kuxgasse gelegen gehört der im 19. Jh. errichtete Fachwerkbau Margaretenstraße 14, Wohnhaus eines Kleingehöfes, zum erhaltenen historischen Bestand der typisch dörflichen Bebauung dieser Straße."
@@ -4468,9 +4457,8 @@
           "trackSubpt": "",
           "quarter": "Lind",
           "predecessor": "7.1.9",
-          "successor": "7.1.11",
-          "inactive": true,
-          "title": "Wegkreuz und Hofanlage",
+          "successor": "7.1.21",
+          "title": "Weg|kreuz und Hof|an|lage",
           "description": {
             "state": "#ok",
             "value": "An der Frankfurter Straße/Ecke Am Linder Kreuz steht das 1842 von Alois Böcker, Bürgermeister v. Wahn u. Merheim und Gutsbesitzer zu Lind, gestiftete Kreuz. An die ländliche Vergangenheit Linds erinnert die kleine geschlossene Hofanlage aus der 2. Hälfte des 19. Jh. mit zweigeschossigem Wohnhaus (Am Linder Kreuz 72)."
@@ -4485,7 +4473,7 @@
           "info": {
             "state": "#unknown"
           },
-          "notes": "",
+          "notes": "Die nachfolgenden Infotafeln konnte auf den Karten nicht lokalisiert werden und wurden ausgelassen.",
           "wiki": {
             "state": "#unknown"
           },
@@ -4797,16 +4785,15 @@
           "trackPoint": 21,
           "trackSubpt": "",
           "quarter": "Urbach",
-          "predecessor": "7.1.20",
-          "successor": "7.1.22",
-          "inactive": true,
-          "title": "",
+          "predecessor": "7.1.10",
+          "successor": "7.1.24",
+          "title": "Un|be|kann|tes Ob|jekt",
           "description": {
             "state": "#unknown",
             "value": ""
           },
           "mapPosition": {
-            "state": "#ok",
+            "state": "#check",
             "value": [ 7.079091, 50.887771 ]
           },
           "buildings": {
@@ -4815,67 +4802,7 @@
           "info": {
             "state": "#unknown"
           },
-          "notes": "",
-          "wiki": {
-            "state": "#unknown"
-          },
-          "monumentNo": {
-            "state": "#unknown"
-          }
-        },
-        "7.1.22": {
-          "trackPoint": 22,
-          "trackSubpt": "",
-          "quarter": "Urbach",
-          "predecessor": "7.1.21",
-          "successor": "7.1.23",
-          "inactive": true,
-          "title": "Wohn- und Geschäftshaus Frankfurter Straße 529",
-          "description": {
-            "state": "#ok",
-            "value": "Unmittelbar an der Kreuzung der beiden Urbacher Hauptstraßen gelegen, ist das 1903 erbaute zweigeschossige Wohn- und Geschäftshaus eines der wenigen im Ort erhaltenen Beispiele einer städtisch beeinflussten Architektur im Jugendstil."
-          },
-          "mapPosition": {
-            "state": "#ok",
-            "value": [ 7.082797, 50.880528 ]
-          },
-          "buildings": {
-            "state": "#unknown"
-          },
-          "info": {
-            "state": "#unknown"
-          },
-          "notes": "",
-          "wiki": {
-            "state": "#unknown"
-          },
-          "monumentNo": {
-            "state": "#unknown"
-          }
-        },
-        "7.1.23": {
-          "trackPoint": 23,
-          "trackSubpt": "",
-          "quarter": "Urbach",
-          "predecessor": "7.1.22",
-          "successor": "7.1.24",
-          "inactive": true,
-          "title": "Ensemble Frankfurter Straße mit Ossenbach-Mühle",
-          "description": {
-            "state": "#ok",
-            "value": "Im historischen städtebaulichen Kontext ist das Ensemble ein- bis zweigeschossiger Häuser aus dem 19. u. beginnenden 20. Jh. zu betrachten: die ländl. geprägten Gebäude Nr. 511, 513 und die Nr. 519, die ehem. Ossenbach-Mühle, ein eingeschossiges, giebelständiges Fachwerkhaus (Mitte 19. Jh.) mit langgestrecktem, traufständigen Anbau (1981–1983 Gesamtrestaurierung), sowie die Nr. 515, 527 u. 512 ländliche Bauten mit städtischen Einflüssen."
-          },
-          "mapPosition": {
-            "state": "#ok",
-            "value": [ 7.082797, 50.880528 ]
-          },
-          "buildings": {
-            "state": "#unknown"
-          },
-          "info": {
-            "state": "#unknown"
-          },
-          "notes": "",
+          "notes": "Hier konnten wir leider keine Infotafel mehr finden und das Objekt nicht zuordnen. Die vorherigen Infotafeln konnte auf den Karten nicht lokalisiert werden und wurden ausgelassen.",
           "wiki": {
             "state": "#unknown"
           },
@@ -4887,10 +4814,9 @@
           "trackPoint": 24,
           "trackSubpt": "",
           "quarter": "Urbach",
-          "predecessor": "7.1.23",
-          "successor": "7.1.25",
-          "inactive": true,
-          "title": "Maarhof",
+          "predecessor": "7.1.21",
+          "successor": "7.1.22",
+          "title": "Maar|hof",
           "description": {
             "state": "#ok",
             "value": "Der 1613 erstmals erwähnte Maarhof, Frankfurter Straße 540, eine geschlossene, vierflügelige Hofanlage des 18./19. Jh., besitzt ein zweigeschossiges Herrenhaus mit reicher Stuckfassade (1896) und Schopfwalmdach. Die ehem. Wirtschaftsgebäude sind aus Backstein. Nach Aufgabe der lanschwirtschftl. Nutzung erfolgten die innere und äußere Restaurierung und der Umbau der Stallungen zur Wohnanlage (1984/86). Der Maarhof bildete den Abschluss und Höhepunkt der Bebauung der Frankfurter Straße. Trotz aller Änderungen ist die Anlage ein unverzichtbarer Bestandteil der nur noch teilw. ländlichen Struktur des Ortes."
@@ -4913,14 +4839,71 @@
             "state": "#unknown"
           }
         },
+        "7.1.22": {
+          "trackPoint": 22,
+          "trackSubpt": "",
+          "quarter": "Urbach",
+          "predecessor": "7.1.24",
+          "successor": "7.1.23",
+          "title": "Wohn- und Ge|schäfts|haus Frank|fur|ter Stra|ße 529",
+          "description": {
+            "state": "#ok",
+            "value": "Unmittelbar an der Kreuzung der beiden Urbacher Hauptstraßen gelegen, ist das 1903 erbaute zweigeschossige Wohn- und Geschäftshaus eines der wenigen im Ort erhaltenen Beispiele einer städtisch beeinflussten Architektur im Jugendstil."
+          },
+          "mapPosition": {
+            "state": "#ok",
+            "value": [ 7.0823966, 50.8814133 ]
+          },
+          "buildings": {
+            "state": "#unknown"
+          },
+          "info": {
+            "state": "#unknown"
+          },
+          "notes": "",
+          "wiki": {
+            "state": "#unknown"
+          },
+          "monumentNo": {
+            "state": "#unknown"
+          }
+        },
+        "7.1.23": {
+          "trackPoint": 23,
+          "trackSubpt": "",
+          "quarter": "Urbach",
+          "predecessor": "7.1.22",
+          "successor": "7.1.25",
+          "title": "En|sem|ble Frank|fur|ter Stra|ße mit Os|sen|bach-Müh|le",
+          "description": {
+            "state": "#ok",
+            "value": "Im historischen städtebaulichen Kontext ist das Ensemble ein- bis zweigeschossiger Häuser aus dem 19. u. beginnenden 20. Jh. zu betrachten: die ländl. geprägten Gebäude Nr. 511, 513 und die Nr. 519, die ehem. Ossenbach-Mühle, ein eingeschossiges, giebelständiges Fachwerkhaus (Mitte 19. Jh.) mit langgestrecktem, traufständigen Anbau (1981–1983 Gesamtrestaurierung), sowie die Nr. 515, 527 u. 512 ländliche Bauten mit städtischen Einflüssen."
+          },
+          "mapPosition": {
+            "state": "#ok",
+            "value": [ 7.082606992625107, 50.880855962607235 ]
+          },
+          "buildings": {
+            "state": "#unknown"
+          },
+          "info": {
+            "state": "#unknown"
+          },
+          "notes": "",
+          "wiki": {
+            "state": "#unknown"
+          },
+          "monumentNo": {
+            "state": "#unknown"
+          }
+        },
         "7.1.25": {
           "trackPoint": 25,
           "trackSubpt": "",
           "quarter": "Urbach",
-          "predecessor": "7.1.24",
+          "predecessor": "7.1.23",
           "successor": "7.1.26",
-          "inactive": true,
-          "title": "St. Bartholomäus",
+          "title": "St. Bar|tho|lo|mä|us",
           "description": {
             "state": "#ok",
             "value": "Die kathol. Pfarrkirche St. Bartholomäus, Frankfurter Straße 522, entstand 1879/80 nach Plänen H. Nagelschmidts als dreischiffige Hallenkirche mit Querschiff, Chorraum und drei Halbkreisenapsiden, erbaut in der Form des rheinisch-romanisierenden Rundbogenstils. Der Vierkantturm stammt a.d. Jahr 1899. Vom Turm des romanischen Vorgängerbaus ist der Ostbogen im heutigen Bau erhalten. Teile der Innenausstattung der alten Urbacher Pfarrkirche sind bewahrt geblieben. Der barocke Orgelprospekt stammt aus Klein-St. Martin in Köln. Hauptaltar und Ambo gestaltet von H. Gernot (1970); innere Farbgestaltung von 1978."
@@ -4949,14 +4932,13 @@
           "quarter": "Urbach",
           "predecessor": "7.1.25",
           "successor": "7.1.27",
-          "inactive": true,
-          "title": "",
+          "title": "Un|be|kann|tes Ob|jekt",
           "description": {
             "state": "#unknown",
             "value": ""
           },
           "mapPosition": {
-            "state": "#ok",
+            "state": "#check",
             "value": [ 7.082347, 50.879013 ]
           },
           "buildings": {
@@ -4965,7 +4947,7 @@
           "info": {
             "state": "#unknown"
           },
-          "notes": "",
+          "notes": "Hier konnten wir leider keine Infotafel mehr finden und das Objekt nicht zuordnen.",
           "wiki": {
             "state": "#unknown"
           },
@@ -4979,8 +4961,7 @@
           "quarter": "Urbach",
           "predecessor": "7.1.26",
           "successor": "7.1.28",
-          "inactive": true,
-          "title": "Urbacher Friedhof",
+          "title": "Ur|bach|er Fried|hof",
           "description": {
             "state": "#ok",
             "value": "An Frankfurter Straße und Mühlenweg liegt seit 1857 der alte Urbacher Friedhof mit Grabdenkmälern der 60er und 70er Jahre des 19. Jh. In typischer Lage am Ortsrand an der Ausfallstraße bewahrt er mit den die Grabreihen bzw. zum Teil einzelne Gräber voneinander trennenden beschnittenen Hecken die charakteristischen Merkmale rechtsrheinischer Dorffriedhöfe. Besonders prächtig ist das aus weißem Mamor gefertigte Grabmal des Urbacher Bürgermeisters Sternenberg und seiner Frau Eva (1892). Im hinteren Bereich des Friedhofs das Ehrenmal der UdSSR für die während des Zweiten Weltkriegs getöteten sowjetischen Zwangsarbeiter."
@@ -5008,15 +4989,13 @@
           "trackSubpt": "",
           "quarter": "Urbach",
           "predecessor": "7.1.27",
-          "successor": "7.1.29",
-          "inactive": true,
-          "title": "",
+          "successor": "7.1.31",
+          "title": "Un|be|kann|tes Ob|jekt",
           "description": {
-            "state": "#check",
-            "value": "Das 1880 errichtete zweigeschossige, traufständige Wohnhaus mit Backsteinfassade, Stichbögen, Ankersplinten erinnert noch an das ursprüngliche Straßenbild."
+            "state": "#unknown"
           },
           "mapPosition": {
-            "state": "#ok",
+            "state": "#check",
             "value": [ 7.082512, 50.877732 ]
           },
           "buildings": {
@@ -5025,7 +5004,7 @@
           "info": {
             "state": "#unknown"
           },
-          "notes": "",
+          "notes": "Hier konnten wir leider keine Infotafel mehr finden und das Objekt nicht zuordnen. Die nachfolgenden Infotafeln konnte auf den Karten nicht lokalisiert werden und wurden ausgelassen.",
           "wiki": {
             "state": "#unknown"
           },
@@ -5097,9 +5076,8 @@
           "trackPoint": 31,
           "trackSubpt": "",
           "quarter": "",
-          "predecessor": "7.1.30",
+          "predecessor": "7.1.28",
           "successor": "7.1.32",
-          "inactive": true,
           "title": "Burg Wahn",
           "description": {
             "state": "#unknown",
@@ -5115,7 +5093,7 @@
           "info": {
             "state": "#unknown"
           },
-          "notes": "",
+          "notes": "Hier konnten wir leider keine Infotafel mehr finden. Die vorherigen Infotafeln konnte auf den Karten nicht lokalisiert werden und wurden ausgelassen.",
           "wiki": {
             "state": "#unknown"
           },
@@ -5129,8 +5107,7 @@
           "quarter": "",
           "predecessor": "7.1.31",
           "successor": "7.1.33",
-          "inactive": true,
-          "title": "Eltzhof",
+          "title": "Eltz|hof",
           "description": {
             "state": "#unknown",
             "value": ""
@@ -5145,7 +5122,7 @@
           "info": {
             "state": "#unknown"
           },
-          "notes": "",
+          "notes": "Hier konnten wir leider keine Infotafel mehr finden.",
           "wiki": {
             "state": "#unknown"
           },
@@ -5159,8 +5136,7 @@
           "quarter": "",
           "predecessor": "7.1.32",
           "successor": "7.1.34",
-          "inactive": true,
-          "title": "Haus Sophia",
+          "title": "Haus So|phi|a",
           "description": {
             "state": "#ok",
             "value": "Haus Sophia, Burggraben 26, ist eine um 1900 für den Tabakfabrikanten Wien erbaute zweigeschossige großbürgerliche Landvilla mit backsteingegliederter Putzfassade, das einzige Gebäude in Wahn in der Art des damals populären Heimatstils. Seine Ausmaße heben es von der überwiegend ländlich geprägten Bebauung der Umgebung ab."
@@ -5188,9 +5164,8 @@
           "trackSubpt": "",
           "quarter": "Wahn",
           "predecessor": "7.1.33",
-          "successor": "7.1.35",
-          "inactive": true,
-          "title": "St. Aegidius",
+          "successor": "",
+          "title": "St. Ae|gi|di|us",
           "description": {
             "state": "#ok",
             "value": "Die kathol. Pfarrkirche St. Aegidius, Frankfurter Str. 179/Ecke St. Sebastianusstr., entstand 1893-95 nach Plänen A. Beckers als neugotische dreischiffige Backstein-Hallenkirche mit Vierkantturm. Im Inneren überspannt ein 1990-92 erneuertes Kreuzrippengewölbe die noch originale Ausstattung (meist von F. Hackenberg). Die Ausmalung wurde nach dem historischen Befund erneuert. Im Turmvorraum ein barockes Mamor-Epitaph (1656-85) des Wilhelm v. Zweiffel u. der Agnes Schall von Bell. Bei der Kirche der ehemalige Friedhof, von dem noch einige – teils barocke – Grabkreuze zeugen."
@@ -5205,37 +5180,7 @@
           "info": {
             "state": "#unknown"
           },
-          "notes": "",
-          "wiki": {
-            "state": "#unknown"
-          },
-          "monumentNo": {
-            "state": "#unknown"
-          }
-        },
-        "7.1.99": {
-          "trackPoint": 99,
-          "trackSubpt": "",
-          "quarter": "",
-          "predecessor": "7.1.34",
-          "successor": "",
-          "inactive": true,
-          "title": "...",
-          "description": {
-            "state": "#unknown",
-            "value": ""
-          },
-          "mapPosition": {
-            "state": "#unknown",
-            "value": []
-          },
-          "buildings": {
-            "state": "#unknown"
-          },
-          "info": {
-            "state": "#unknown"
-          },
-          "notes": "",
+          "notes": "Die nachfolgenden Infotafeln konnte auf den Karten nicht lokalisiert werden und wurden ausgelassen. Damit ist dies das vorläufige Ende des Pfades.",
           "wiki": {
             "state": "#unknown"
           },
@@ -5759,11 +5704,10 @@
           "quarter": "",
           "predecessor": "",
           "successor": "7.3.1",
-          "inactive": true,
           "title": "Start Kul|tur|pfad 7.3 Porz",
           "description": {
             "state": "#ok",
-            "value": "Der Pfad Proz 3 führt über Kalk, Poll, Westhofen, Ensen und Gremberghoven nach Porz.<br/>Startpunkt ist an der S-Bahn Haltestelle Trimbornstraße und Endpunkt nahe der Haltestelle Porz(Rhein).<br/><br/><i>Es ist zu beachten, dass der Pfad durch einige Einbahnstraßen entgegen der Fahrtrichtung führt. Hier bitte vom Fahrrad absteigen.</i>"
+            "value": "Der Pfad führt über Kalk, Poll, Westhofen, Ensen und Gremberghoven nach Porz.<br/>Startpunkt ist an der S-Bahn Haltestelle Trimbornstraße und Endpunkt nahe der Haltestelle Porz(Rhein).<br/><br/><i>Es ist zu beachten, dass der Pfad durch einige Einbahnstraßen entgegen der Fahrtrichtung führt. Hier bitte vom Fahrrad absteigen.</i>"
           },
           "mapPosition": {
             "state": "#ok",
@@ -6316,7 +6260,7 @@
           "quarter": "",
           "predecessor": "7.3.12",
           "successor": "7.3.14",
-          "title": "O|ber|stra|ße 89",
+          "title": "Un|be|kann|tes Ob|jekt",
           "description": {
             "state": "#unknown",
             "value": ""
@@ -6345,7 +6289,7 @@
           "quarter": "",
           "predecessor": "7.3.13",
           "successor": "7.3.15",
-          "title": "O|ber|stra|ße 42",
+          "title": "Un|be|kann|tes Ob|jekt",
           "description": {
             "state": "#unknown",
             "value": ""
