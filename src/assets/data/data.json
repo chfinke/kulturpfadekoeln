@@ -4160,6 +4160,7 @@
       "borough": "Porz",
       "trackNo": 1,
       "color": "#FFF200",
+      "inactive": true,
       "points": {
         "7.1.0": {
           "trackPoint": 0,
@@ -5249,6 +5250,7 @@
       "borough": "Porz",
       "trackNo": 2,
       "color": "#00ACF3",
+      "inactive": true,
       "points": {
         "7.2.0": {
           "trackPoint": 0,
@@ -6195,7 +6197,7 @@
         },
         "7.3.10a": {
           "trackPoint": 10,
-          "trackSubpt": "b",
+          "trackSubpt": "a",
           "quarter": "Poll",
           "predecessor": "7.3.9",
           "successor": "7.3.10b",
