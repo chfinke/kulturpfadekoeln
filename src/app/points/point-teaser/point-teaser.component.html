@@ -1,13 +1,13 @@
 <div class="wrapper">
   <h2>
-    {{point.trackPoint}}
+    {{point.trackPoint}}{{point.trackSubpt}}
     <span class="u-hyphens" [innerHTML]="point.title"></span>
   </h2>
   
   <app-map-static
-    [id]="point.trackPoint"
+    [id]="point.trackPoint+point.trackSubpt"
     [trackId]="trackId"
-    [pointId]="trackId+'.'+point.trackPoint"
+    [pointId]="trackId+'.'+point.trackPoint+point.trackSubpt"
     classes="map map__map--small u-h-fit"
   >
   </app-map-static>

@@ -1,7 +1,7 @@
 <h1>
   <ng-container *ngIf="point.trackPoint !== 0">
     <small>
-      Infotafel {{ point.trackPoint }}
+      Infotafel {{ point.trackPoint }}{{ point.trackSubpt }}
     </small>
   </ng-container>
   <span class="u-hyphens" [innerHTML]="point.title"></span>
