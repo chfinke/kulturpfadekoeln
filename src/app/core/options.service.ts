@@ -4,7 +4,6 @@ import { getObjectItem, setObjectItem } from './storage.service';
 export interface Options {
   develop: {
     showInactivePoints: boolean;
-    showStatusCheckPoints: boolean;
     showStatusUnknownPoints: boolean;
   }
 }
@@ -12,7 +11,6 @@ export interface Options {
 const initialOptions: Options = {
   develop: {
     showInactivePoints: false,
-    showStatusCheckPoints: false,
     showStatusUnknownPoints: false,
   }
 };
@@ -23,14 +21,7 @@ const initialOptions: Options = {
 export class OptionsService {
   private _options: Options;
   get options(): Options {
-    // return this._options;
-    return {
-      develop: {
-        showInactivePoints: true,
-        showStatusCheckPoints: true,
-        showStatusUnknownPoints: true,
-      }
-    };
+    return this._options;
   }
 
   constructor() {

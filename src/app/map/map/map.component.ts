@@ -150,7 +150,7 @@ export class MapComponent implements AfterViewInit {
 
       Object.entries(track.points).forEach(([pointId, point]) => {
         if (point.inactive && !this.optionsService.options.develop.showInactivePoints) {
-        } else if ((point.mapPosition.state === PointMapPositionState.Check && !this.optionsService.options.develop.showStatusCheckPoints) || (point.mapPosition.state === PointMapPositionState.Unknown && !this.optionsService.options.develop.showStatusUnknownPoints)) {
+        } else if (point.mapPosition.state === PointMapPositionState.Unknown && !this.optionsService.options.develop.showStatusUnknownPoints) {
           if (environment.production === false) {
             console.log('mapPosition not displayed:', pointId, point.mapPosition.state, point.mapPosition.value);
           }
