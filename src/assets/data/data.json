@@ -25,7 +25,7 @@
             "state": "#n/a"
           },
           "info": {
-            "state": "#unknown"
+            "state": "#n/a"
           },
           "notes": "",
           "wiki": {
@@ -58,7 +58,8 @@
           },
           "notes": "Hier konnten wir leider keine Infotafel mehr finden.",
           "wiki": {
-            "state": "#n/a"
+            "state": "#ok",
+            "value": "Palais_du_Rhin_(Köln)"
           },
           "monumentNo": {
             "state": "#ok",
@@ -71,7 +72,7 @@
           "quarter": "Bayenthal",
           "predecessor": "2.1.1",
           "successor": "2.1.3",
-          "title": "Alteburger Straße",
+          "title": "Al|te|bur|ger Stra|ße",
           "description": {
             "state": "#ok",
             "value": "Hier wird 1856 die Maschinenbau AG, die spätere BAMAG, gegründet: Bayenthal entwickelt sich zum Industrievorort (auf dem ehemaligen Fabrikgelände heute der Wohnpark Bayenthal).<br/>Von den ersten Arbeiterhäusern Bayenthals sind zwei Ensembles erhalten: die Häuser Nr. 265-275 mit niedrigen Anbauten zur Straßenseite statt zum Hof hin (um 1880) und die schlichten Dreifensterhäuser Nr. 182-190 (um 1860).<br/>Von ihrer einstigen Bedeutung als Hauptstraße zeugt die seltene Geschlossenheit von Gründerzeit-Häusern im Stil von Neugotik und Neurenaissance (um 1880 - 1900)."
@@ -257,7 +258,7 @@
           "successor": "2.1.9",
           "title": "Ar|bei|ter-Ko|lo|nie Wil|helms|ruhe",
           "description": {
-            "state": "#unknown",
+            "state": "#ok",
             "value": "Erbaut 1888 - 1902 nach den Plänen der Architekten Sardemann und Scherz. Stiftung des Prof. Gerhard vom Rath für die Arbeiter des &quot;Rheinischen Aktienvereins für Zuckerfabrikation&quot;. Von sieben senkrecht zur Bonner Straße ausgerichteten Häuserzeilen blieb einzig die südlichste erhalten. Frühe vorbildliche Arbeitersiedlung: ansprechende, reich gegliederte Architektur; Außenanlagen ehemals mit Nutzgärten, Höfen und Stallungen, von denen einige noch bestehen."
           },
           "mapPosition": {
@@ -288,8 +289,8 @@
           "successor": "2.1.10",
           "title": "St. Ma|riä-Em|pfäng|nis",
           "description": {
-            "state": "#unknown",
-            "value": "Erbaut 1906 - 1908 nach den Entwürfen von C. Rüdell und R. Odenthel im neugotischen Stil als Backstein-Hallenkirche mit Querschiff, polygonalem Chor und Untergeachoß des Vierkantturms. Turmabschluß 1927/29 im expressionistischen Stil durch A. Böll und H. Neuhaus. Nach Kriegsbeachädigung veränderter Wiederaufbau in drei Phasen: 1951 (H. Hansen), 1961 (J. Schürmann) und 1980/81 (K. J. Ernst). Madonna über Westportal 1930 von E. Schmitz jr.. Von den Werken des Künstlers Th. Heiermann ist das große Retabel (1987) mit Szenen aus dem Marienleben hervor zuheben."
+            "state": "#ok",
+            "value": "Erbaut 1906 - 1908 nach den Entwürfen von C. Rüdell und R. Odenthel im neugotischen Stil als Backstein-Hallenkirche mit Querschiff, polygonalem Chor und Untergeachoß des Vierkantturms. Turmabschluß 1927/29 im expressionistischen Stil durch A. Böll und H. Neuhaus. Nach Kriegsbeachädigung veränderter Wiederaufbau in drei Phasen: 1951 (H. Hansen), 1961 (J. Schürmann) und 1980/81 (K. J. Ernst). Madonna über Westportal 1930 von E. Schmitz jr.. Von den Werken des Künstlers Th. Heiermann ist das große Retabel (1987) mit Szenen aus dem Marienleben hervorzuheben."
           },
           "mapPosition": {
             "state": "#ok",
@@ -342,7 +343,7 @@
             "value": [
               {
                 "number": 1095,
-                "title": "Herz-Je|su-Klo|ster und Ka|pel|le"
+                "title": "Herz-Jesu-Kloster und Kapelle"
               }
             ]
           }
