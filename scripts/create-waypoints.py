@@ -25,7 +25,7 @@ for pointId in points:
     title=point['title'].replace('|', '')
   ))
   description = ''
-  if point['description']['state'] == '#ok':
+  if point['description']['state'] == '#ok' or point['description']['state'] == '#check':
     description += point['description']['value']
   if point['notes']:
     if description:
