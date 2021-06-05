@@ -26,7 +26,7 @@ for pointId in points:
   ))
   description = ''
   if point['description']['state'] == '#ok':
-    description += point['description']['value'] + '\n'
+    description += point['description']['value']
   if point['notes']:
     if description:
       description += '<br/>'
