@@ -14,7 +14,7 @@
 <p *ngIf="point.description.value" [innerHTML]="point.description.value"></p>
 <p *ngIf="point.notes"><i>{{point.notes}}</i></p>
 
-<ng-container *ngIf="wikiArray || monumentNoArray">
+<ng-container *ngIf="wikiArray.length || monumentNoArray.length">
   <b>Sonstige Informationen:</b>
   <ul style="margin-top: 0px;">
     <li *ngFor="let wiki of wikiArray">
