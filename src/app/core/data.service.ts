@@ -144,7 +144,7 @@ export class DataService {
               const point = track.points[pointId];
               points[pointId] = {
                 ...point,
-                title: point.title.replaceAll('|', '&shy;'),
+                title: point.title.replace(/|/g, '&shy;'),
               }
             });
             res.tracks[trackId] = {
