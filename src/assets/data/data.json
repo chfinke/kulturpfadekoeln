@@ -12,10 +12,10 @@
           "quarter": "",
           "predecessor": "",
           "successor": "2.1.1",
-          "title": "Start Kul&shy;tur&shy;pfad 2.1 Ro&shy;den&shy;kir&shy;chen",
+          "title": "Start Kul|tur|pfad 2.1 Ro|den|kir|chen",
           "description": {
             "state": "#ok",
-            "value": "Die circa 5 km lange Strecke führt vom Palais Oppenheim in Bayenthal zur Großmarkthalle in Raderberg."
+            "value": "Die ca. 5 km lange Strecke führt vom Palais Oppenheim in Bayenthal zur Großmarkthalle in Raderberg."
           },
           "mapPosition": {
             "state": "#ok",
@@ -25,7 +25,7 @@
             "state": "#n/a"
           },
           "info": {
-            "state": "#unknown"
+            "state": "#n/a"
           },
           "notes": "",
           "wiki": {
@@ -41,7 +41,7 @@
           "quarter": "Bayenthal",
           "predecessor": "2.1.0",
           "successor": "2.1.2",
-          "title": "Pa&shy;lais Op&shy;pen&shy;heim",
+          "title": "Pa|lais Op|pen|heim",
           "description": {
             "state": "#unknown"
           },
@@ -58,7 +58,8 @@
           },
           "notes": "Hier konnten wir leider keine Infotafel mehr finden.",
           "wiki": {
-            "state": "#n/a"
+            "state": "#ok",
+            "value": "Palais_du_Rhin_(Köln)"
           },
           "monumentNo": {
             "state": "#ok",
@@ -71,7 +72,7 @@
           "quarter": "Bayenthal",
           "predecessor": "2.1.1",
           "successor": "2.1.3",
-          "title": "Alteburger Straße",
+          "title": "Al|te|bur|ger Stra|ße",
           "description": {
             "state": "#ok",
             "value": "Hier wird 1856 die Maschinenbau AG, die spätere BAMAG, gegründet: Bayenthal entwickelt sich zum Industrievorort (auf dem ehemaligen Fabrikgelände heute der Wohnpark Bayenthal).<br/>Von den ersten Arbeiterhäusern Bayenthals sind zwei Ensembles erhalten: die Häuser Nr. 265-275 mit niedrigen Anbauten zur Straßenseite statt zum Hof hin (um 1880) und die schlichten Dreifensterhäuser Nr. 182-190 (um 1860).<br/>Von ihrer einstigen Bedeutung als Hauptstraße zeugt die seltene Geschlossenheit von Gründerzeit-Häusern im Stil von Neugotik und Neurenaissance (um 1880 - 1900)."
@@ -101,7 +102,7 @@
           "quarter": "Bayenthal",
           "predecessor": "2.1.2",
           "successor": "2.1.4",
-          "title": "Pri&shy;vat&shy;brau&shy;e&shy;rei Küp&shy;pers",
+          "title": "Pri|vat|brau|e|rei Küp|pers",
           "description": {
             "state": "#n/a"
           },
@@ -130,7 +131,7 @@
           "quarter": "Bayenthal",
           "predecessor": "2.1.3",
           "successor": "2.1.5",
-          "title": "Stadt&shy;häu&shy;ser Golt&shy;stein&shy;stra&shy;ße",
+          "title": "Stadt|häu|ser Golt|stein|stra|ße",
           "description": {
             "state": "#ok",
             "value": "Die Geschäftshäuser Nr. 75 und Nr. 77 von 1907 sind Zeugnisse der Entwicklung der Goltsteinstraße zur Haupt- und Geschäftsstraße nach Anlage der Straßenbahn 1904.<br/> Haus Nr. 75 mit phantasievoller Fassade. Im Fries der Schaufensterrahmung weist die Darstellung eines Storches am Kindernest auf die einstige Besitzerin, eine Hebamme. Tradition des Gemüseiadens seit Bestehen des Hauses."
@@ -160,7 +161,7 @@
           "quarter": "Bayenthal",
           "predecessor": "2.1.4",
           "successor": "2.1.6",
-          "title": "St. Mat&shy;thi&shy;as",
+          "title": "St. Mat|thi|as",
           "description": {
             "state": "#ok",
             "value": "Erbaut 1902 - 1904 nach dem Entwurf von Th. Kremer im neugotischen Stil. Hallenkirche mit Westturm und polygonalem Chor. Gestaltung der Totengedächtniskapelle von W. Remmes. 1926 Sakristeianbau.<br/>1951 - 1953 Wiederaufbau durch D. und G. Böhm, dabei Neufassung des Innenraumes: stärkere Rundpfeiler, Faltdecken zwischen den Jochen, neue Fensterzone. Bronzeportale und Sakramentshäuschen von H. Rheindorf.<br/>Mathiaskirchplatz 1904 nach dem Konzept von F. Encke. Die regelmäßige Schmuck- und Spielplatzanlage ist axial auf die Kirche ausgerichtet."
@@ -191,10 +192,10 @@
           "quarter": "Bayenthal",
           "predecessor": "2.1.5",
           "successor": "2.1.7",
-          "title": "St. Jo&shy;sef-Haus",
+          "title": "St. Jo|sef-Haus",
           "description": {
             "state": "#ok",
-            "value": "1896 zugleich mit ehemals benachbartem Pfarrhaus nach den Plänen von Th. Roß im neugotischen Stil erbaut. Zunächst Hospital der Schwestern der Genossenschaft der armen Dienstmägde Jesu Christi.<br/>1905 - 1984 &quot;St. Josef-Zufluchtshaus&quot; für alleinstehende Mütter unter Leitung der Genossenschaft der Cellitinnen nach Regeln des Hl. Augustinus e.V.‚ Köln, Severinstraße. Einrichtung des kath. Fürsorge-Vereins für Mädchen, Frauen und Kinder.<br/>Heute Wohnanlage."
+            "value": "1896 zugleich mit ehemals benachbartem Pfarrhaus nach den Plänen von Th. Roß im neugotischen Stil erbaut. Zunächst Hospital der Schwestern der Genossenschaft der armen Dienstmägde Jesu Christi.<br/>1905 - 1984 \"St. Josef-Zufluchtshaus\" für alleinstehende Mütter unter Leitung der Genossenschaft der Cellitinnen nach Regeln des Hl. Augustinus e.V.‚ Köln, Severinstraße. Einrichtung des kath. Fürsorge-Vereins für Mädchen, Frauen und Kinder.<br/>Heute Wohnanlage."
           },
           "mapPosition": {
             "state": "#ok",
@@ -223,7 +224,7 @@
           "quarter": "Bayenthal",
           "predecessor": "2.1.6",
           "successor": "2.1.8",
-          "title": "St. An&shy;to&shy;nius-Kran&shy;ken&shy;haus",
+          "title": "St. An|to|nius-Kran|ken|haus",
           "description": {
             "state": "#ok",
             "value": "Erbaut 1906 - 1910 nach den Plänen von P. Gaertner (Inschrift am Eingangsportal) im Auftrag der Cellitinnen nach Regeln des Hl. Augustinus e.V.‚ Köln, Severinstraße.<br/>Mehrflügeliger Komplex mit Formenanleihen aus der deutschen Renaissance, bei der St. Hildegardis-Kapelle aus der Spätgotik. Chor der Kapelle mit hervorragender Jugendstil-Ausstattung.<br/>Erster großer Krankenhausbau (über 150 Betten) im Kölner Süden mit für damalige Verhältnisse beispielhaften modernen Einrichtungen hygienischer und technischer Art."
@@ -255,10 +256,10 @@
           "quarter": "Raderberg",
           "predecessor": "2.1.7",
           "successor": "2.1.9",
-          "title": "Ar&shy;bei&shy;ter-Ko&shy;lo&shy;nie Wil&shy;helms&shy;ruhe",
+          "title": "Ar|bei|ter-Ko|lo|nie Wil|helms|ruhe",
           "description": {
-            "state": "#unknown",
-            "value": "Erbaut 1888 - 1902 nach den Plänen der Architekten Sardemann und Scherz. Stiftung des Prof. Gerhard vom Rath für die Arbeiter des &quot;Rheinischen Aktienvereins für Zuckerfabrikation&quot;. Von sieben senkrecht zur Bonner Straße ausgerichteten Häuserzeilen blieb einzig die südlichste erhalten. Frühe vorbildliche Arbeitersiedlung: ansprechende, reich gegliederte Architektur; Außenanlagen ehemals mit Nutzgärten, Höfen und Stallungen, von denen einige noch bestehen."
+            "state": "#ok",
+            "value": "Erbaut 1888 - 1902 nach den Plänen der Architekten Sardemann und Scherz. Stiftung des Prof. Gerhard vom Rath für die Arbeiter des \"Rheinischen Aktienvereins für Zuckerfabrikation\". Von sieben senkrecht zur Bonner Straße ausgerichteten Häuserzeilen blieb einzig die südlichste erhalten. Frühe vorbildliche Arbeitersiedlung: ansprechende, reich gegliederte Architektur; Außenanlagen ehemals mit Nutzgärten, Höfen und Stallungen, von denen einige noch bestehen."
           },
           "mapPosition": {
             "state": "#ok",
@@ -286,10 +287,10 @@
           "quarter": "Raderberg",
           "predecessor": "2.1.8",
           "successor": "2.1.10",
-          "title": "St. Ma&shy;riä-Em&shy;pfäng&shy;nis",
+          "title": "St. Ma|riä-Em|pfäng|nis",
           "description": {
-            "state": "#unknown",
-            "value": "Erbaut 1906 - 1908 nach den Entwürfen von C. Rüdell und R. Odenthel im neugotischen Stil als Backstein-Hallenkirche mit Querschiff, polygonalem Chor und Untergeachoß des Vierkantturms. Turmabschluß 1927/29 im expressionistischen Stil durch A. Böll und H. Neuhaus. Nach Kriegsbeachädigung veränderter Wiederaufbau in drei Phasen: 1951 (H. Hansen), 1961 (J. Schürmann) und 1980/81 (K. J. Ernst). Madonna über Westportal 1930 von E. Schmitz jr.. Von den Werken des Künstlers Th. Heiermann ist das große Retabel (1987) mit Szenen aus dem Marienleben hervor zuheben."
+            "state": "#ok",
+            "value": "Erbaut 1906 - 1908 nach den Entwürfen von C. Rüdell und R. Odenthel im neugotischen Stil als Backstein-Hallenkirche mit Querschiff, polygonalem Chor und Untergeachoß des Vierkantturms. Turmabschluß 1927/29 im expressionistischen Stil durch A. Böll und H. Neuhaus. Nach Kriegsbeachädigung veränderter Wiederaufbau in drei Phasen: 1951 (H. Hansen), 1961 (J. Schürmann) und 1980/81 (K. J. Ernst). Madonna über Westportal 1930 von E. Schmitz jr.. Von den Werken des Künstlers Th. Heiermann ist das große Retabel (1987) mit Szenen aus dem Marienleben hervorzuheben."
           },
           "mapPosition": {
             "state": "#ok",
@@ -316,10 +317,10 @@
           "quarter": "Raderberg",
           "predecessor": "2.1.9",
           "successor": "2.1.11",
-          "title": "Be&shy;ne&shy;dik&shy;ti&shy;ner&shy;innen&shy;klos&shy;ter",
+          "title": "Be|ne|dik|ti|ner|innen|klos|ter",
           "description": {
             "state": "#ok",
-            "value": "Erbaut 1894/95. Das Herz-Jesu-Kloster ist eine um einen Innenhof geschlossene neugotische Anlage in umfriedetem großen Garten. Das Tympanon des Hauptportals zeigt die &quot;Anbetung des Lammes&quot;, eine Szene aus der Offenbarung des Johannes. In der Kapelle, die nur der Offentlichkeit zugänglich ist, Flügelaltar aus dem 16. Jahrhundert. Nach Kriegsbeschädigung Wiederherstellung der Anlage bis 1969."
+            "value": "Erbaut 1894/95. Das Herz-Jesu-Kloster ist eine um einen Innenhof geschlossene neugotische Anlage in umfriedetem großen Garten. Das Tympanon des Hauptportals zeigt die \"Anbetung des Lammes\", eine Szene aus der Offenbarung des Johannes. In der Kapelle, die nur der Offentlichkeit zugänglich ist, Flügelaltar aus dem 16. Jahrhundert. Nach Kriegsbeschädigung Wiederherstellung der Anlage bis 1969."
           },
           "mapPosition": {
             "state": "#ok",
@@ -342,7 +343,7 @@
             "value": [
               {
                 "number": 1095,
-                "title": "Herz-Je&shy;su-Klo&shy;ster und Ka&shy;pel&shy;le"
+                "title": "Herz-Jesu-Kloster und Kapelle"
               }
             ]
           }
@@ -353,10 +354,10 @@
           "quarter": "Raderberg",
           "predecessor": "2.1.10",
           "successor": "",
-          "title": "Groß&shy;markt&shy;hal&shy;le",
+          "title": "Groß|markt|hal|le",
           "description": {
             "state": "#ok",
-            "value": "Errichtet 1936-1940 nach den Plänen von Th. Teichen auf dem Gelände des mittelalterlichen jüdischen Friedhofs (&quot;Judenbüchel&quot; oder &quot;Am Todten Juden&quot;).<br/>Mit dem parabelförmigen Querschnitt und dem Akzent der beiden gestaffelten Shedbauten an der Nordseite ist die Halle ein Beispiel für das Weiterleben des Stils des &quot;Neuen Bauens&quot; im &quot;Dritten Reich&quot;. Luftschutzhochbunker (links), 1942 von H. Schumacher. Er erhielt zur Tarnung das Aussehen einer Kirche."
+            "value": "Errichtet 1936-1940 nach den Plänen von Th. Teichen auf dem Gelände des mittelalterlichen jüdischen Friedhofs (\"Judenbüchel\" oder \"Am Todten Juden\").<br/>Mit dem parabelförmigen Querschnitt und dem Akzent der beiden gestaffelten Shedbauten an der Nordseite ist die Halle ein Beispiel für das Weiterleben des Stils des \"Neuen Bauens\" im \"Dritten Reich\". Luftschutzhochbunker (links), 1942 von H. Schumacher. Er erhielt zur Tarnung das Aussehen einer Kirche."
           },
           "mapPosition": {
             "state": "#ok",
@@ -403,7 +404,7 @@
           "quarter": "",
           "predecessor": "",
           "successor": "2.2.1",
-          "title": "Start Kul&shy;tur&shy;pfad 2.2 Ro&shy;den&shy;kir&shy;chen",
+          "title": "Start Kul|tur|pfad 2.2 Ro|den|kir|chen",
           "description": {
             "state": "#unknown",
             "value": "Dieser Kultupfad ist noch nicht vollständig erfasst. Wir zeigen trotzdem schon einzelne Infotafeln an."
@@ -611,7 +612,7 @@
           "quarter": "Zollstock",
           "predecessor": "2.2.6",
           "successor": "2.2.8",
-          "title": "Süd&shy;fried&shy;hof",
+          "title": "Süd|fried|hof",
           "description": {
             "state": "#ok",
             "value": "1901 eröffnet. Entwurf von A. Kowallek. Die landschaftliche Anlage mit Rundwegen und abwechlungsreichen Baum- und Gehölzgruppen ist ein Beispiel für den Stil des Historismus.<br/>Darin ein englischer, ein italienischer und ein deutscher Ehrenfriedhof, bedeutende Grabstätten von 1900 - 1940 und ein Hochkreuz. Die Einfriedung sowie die oktogonale Trauerkapelle sind 1905 - 1918 nach den Entwürfen von F. Bolte im neuromantischen Stil erbaut."
@@ -863,7 +864,7 @@
           "predecessor": "2.3.2",
           "successor": "2.3.4",
           "inactive": true,
-          "title": "Marienburger Str. 11 und die &quot;Marienburg&quot;",
+          "title": "Marienburger Str. 11 und die \"Marienburg\"",
           "description": {
             "state": "#unknown",
             "value": ""
@@ -1110,7 +1111,7 @@
           "quarter": "",
           "predecessor": "",
           "successor": "2.4.1",
-          "title": "Start Kul&shy;tur&shy;pfad 2.4 Ro&shy;den&shy;kir&shy;chen",
+          "title": "Start Kul|tur|pfad 2.4 Ro|den|kir|chen",
           "description": {
             "state": "#ok",
             "value": "Der Pfad führt über ca. 7 km durch Rodenkirchen.<br/>Startpunkt ist die Autobahnbrücke und Endpunkt im Diakonie-Dorf Michaelshoven."
@@ -1139,7 +1140,7 @@
           "quarter": "Rodenkirchen",
           "predecessor": "2.4.0",
           "successor": "2.4.2",
-          "title": "Au&shy;to&shy;bahn&shy;brü&shy;cke",
+          "title": "Au|to|bahn|brü|cke",
           "description": {
             "state": "#ok",
             "value": "Errichtet 1938 - 1941 durch P. Bonatz und F. Leonhardt im Zuge des Kölner Autobahnrings. Erste echte erdverankerte Kabelhängebrücke mit einer Mittelstützweite vom 378 m, seinerzeit weitestgespannte Hängebrücke Europas. Hauptmerkmale: monumentale Torsituation am Naturstein-Brückenkopf, Schlankheit der horizontalen Versteifungsträger, Spannweitenverhältnis zwischen den Trägern un den sie einrahmenden portalartigen Pylonen. 1945 Sprengung, 1952 - 1954 getreuer Wiederaufbau. Ab 1990 Verbreiterung der Brücke durch einen Zwillingsbau an der Nordseite."
@@ -1170,7 +1171,7 @@
           "quarter": "Rodenkirchen",
           "predecessor": "2.4.1",
           "successor": "2.4.3",
-          "title": "St. Ma&shy;ter&shy;nus",
+          "title": "St. Ma|ter|nus",
           "description": {
             "state": "#ok",
             "value": "Erbaut 1863 - 1867 nach den Plänen von V. Statz auf dem Gelände des ehemaligen Kartäuserhofes. Dreischiffige Backstein-Hallenkirche mit eingezogenem Chor und Einturmfassade. Bei der Formensprache Rückgriff auf die Hochgotik des 13./14. Jahrhunderts. Einziger Bauschmuck am Portal: Tympanon mit dem Hl. Maternus zwischen zwei Engeln vor einem Kölnpanorama. Türgriffbronzereliefs (innen) und Taufbeckendeckel (1978/79) von H. Kühnapfel. Madonna aus Alt-St. Maternus um 1470. Nebenliegendes, neugotisches ehemaliges Pfarrhaus um 1870."
@@ -1211,7 +1212,7 @@
           "quarter": "Rodenkirchen",
           "predecessor": "2.4.2",
           "successor": "2.4.4",
-          "title": "Ma&shy;ter&shy;nus-Bild&shy;stock",
+          "title": "Ma|ter|nus-Bild|stock",
           "description": {
             "state": "#unknown"
           },
@@ -1239,10 +1240,10 @@
           "quarter": "Rodenkirchen",
           "predecessor": "2.4.3",
           "successor": "2.4.5",
-          "title": "Vil&shy;la Mal&shy;ta",
+          "title": "Vil|la Mal|ta",
           "description": {
             "state": "#ok",
-            "value": "Erbaut 1904/5 für den ehemaligen Bürgermeister E. Steisel. Die Jugendstil-Villa von den Architektenbrüdern Schauppmeyer hat das Aussehen einer Burg. Villen im sog. Burgenstil waren beliebt. Vielansichtiger Bau: Straßenfassade mit Treppengiebel, malerische asymmetrische Staffelung der Anbauten um hohen Aussichtsturm zur Rheinseite. Hieß zuerst &quot;Villa Angonia&quot;, später &quot;Villa Maria&quot; und seit 1975 nach vorletztem Besitzer, dem Malteserorden, &quot;Villa Malta&quot;."
+            "value": "Erbaut 1904/5 für den ehemaligen Bürgermeister E. Steisel. Die Jugendstil-Villa von den Architektenbrüdern Schauppmeyer hat das Aussehen einer Burg. Villen im sog. Burgenstil waren beliebt. Vielansichtiger Bau: Straßenfassade mit Treppengiebel, malerische asymmetrische Staffelung der Anbauten um hohen Aussichtsturm zur Rheinseite. Hieß zuerst \"Villa Angonia\", später \"Villa Maria\" und seit 1975 nach vorletztem Besitzer, dem Malteserorden, \"Villa Malta\"."
           },
           "mapPosition": {
             "state": "#ok",
@@ -1271,7 +1272,7 @@
           "quarter": "Rodenkirchen",
           "predecessor": "2.4.4",
           "successor": "2.4.6",
-          "title": "Um&shy;ge&shy;bung von Alt-St. Ma&shy;ter&shy;nus",
+          "title": "Um|ge|bung von Alt-St. Ma|ter|nus",
           "description": {
             "state": "#unknown"
           },
@@ -1328,13 +1329,13 @@
           "quarter": "Rodenkirchen",
           "predecessor": "2.4.5",
           "successor": "2.4.7",
-          "title": "Vil&shy;len&shy;en&shy;sem&shy;ble",
+          "title": "Vil|len|en|sem|ble",
           "description": {
             "state": "#unknown"
           },
           "mapPosition": {
             "state": "#check",
-            "value": [ 6.99933608343288, 50.89348390401303 ]
+            "value": [ 6.9996355, 50.8931773 ]
           },
           "buildings": {
             "state": "#unknown"
@@ -1356,21 +1357,22 @@
           "quarter": "Rodenkirchen",
           "predecessor": "2.4.6",
           "successor": "2.4.8",
-          "title": "Haus Brü&shy;gel&shy;mann",
+          "title": "Haus Brü|gel|mann",
           "description": {
             "state": "#unknown"
           },
           "mapPosition": {
-            "state": "#check",
-            "value": [ 7.005154235274617, 50.8922971672357 ]
+            "state": "#ok",
+            "value": [ 7.004620683144785, 50.89213573302236 ]
           },
           "buildings": {
-            "state": "#unknown"
+            "state": "#ok",
+            "value": [[[7.00456990000, 50.89187660000], [7.00459620000, 50.89187500000], [7.00459120000, 50.89184120000], [7.00461590000, 50.89183960000], [7.00460900000, 50.89179340000], [7.00474610000, 50.89178530000], [7.00475240000, 50.89182730000], [7.00477230000, 50.89183060000], [7.00478200000, 50.89183470000], [7.00478860000, 50.89183960000], [7.00479260000, 50.89184520000], [7.00479440000, 50.89185160000], [7.00479350000, 50.89185660000], [7.00479200000, 50.89186010000], [7.00478880000, 50.89186450000], [7.00478420000, 50.89186820000], [7.00477940000, 50.89187100000], [7.00477220000, 50.89187370000], [7.00476110000, 50.89187570000], [7.00476830000, 50.89192120000], [7.00472410000, 50.89192580000], [7.00473090000, 50.89197980000], [7.00471770000, 50.89198050000], [7.00471910000, 50.89199020000], [7.00465650000, 50.89199390000], [7.00465510000, 50.89198410000], [7.00463940000, 50.89198500000], [7.00463460000, 50.89195020000], [7.00460610000, 50.89195190000], [7.00460700000, 50.89195850000], [7.00458210000, 50.89195990000], [7.00456990000, 50.89187660000]], [[7.00458210000, 50.89195990000], [7.00455920000, 50.89196130000], [7.00455820000, 50.89195480000], [7.00452980000, 50.89195650000], [7.00453500000, 50.89199120000], [7.00452000000, 50.89199210000], [7.00452150000, 50.89200200000], [7.00445850000, 50.89200640000], [7.00445680000, 50.89199590000], [7.00444330000, 50.89199670000], [7.00443390000, 50.89193390000], [7.00442610000, 50.89193420000], [7.00441710000, 50.89193260000], [7.00440990000, 50.89192950000], [7.00440420000, 50.89192540000], [7.00440080000, 50.89192060000], [7.00439940000, 50.89191520000], [7.00440070000, 50.89191000000], [7.00440410000, 50.89190480000], [7.00441010000, 50.89190060000], [7.00441710000, 50.89189760000], [7.00442830000, 50.89189600000], [7.00442770000, 50.89189290000], [7.00454660000, 50.89188550000], [7.00454550000, 50.89187810000], [7.00456990000, 50.89187660000], [7.00458210000, 50.89195990000]]]
           },
           "info": {
             "state": "#unknown"
           },
-          "notes": "Hier konnten wir leider keine Infotafel mehr finden und das Objekt nicht zuordnen.",
+          "notes": "Hier konnten wir leider keine Infotafel mehr finden.",
           "wiki": {
             "state": "#unknown"
           },
@@ -1384,7 +1386,7 @@
           "quarter": "Rodenkirchen",
           "predecessor": "2.4.7",
           "successor": "2.4.9",
-          "title": "St. Jo&shy;seph",
+          "title": "St. Jo|seph",
           "description": {
             "state": "#ok",
             "value": "1954 - 1956, letztes Werk des bekannten Kirchenarchitekten D. Böhm. Vollendung durch G. Böhm. Schlichter Backstein-Hallenbau. Blockhafte Fronttürme im Osten und Westen verweisen auf Taufbecken und Altar im Inneren. Farbverglasung in den Lichtöffnungen des Westturms von W. Teuwen, seitliche Fenster von H. Berke. Ausgrenzung eines Vorplatzes durch im Winkel ansetzende niedrige Gemeindebauten."
@@ -1415,7 +1417,7 @@
           "quarter": "Rodenkirchen",
           "predecessor": "2.4.8",
           "successor": "2.4.10",
-          "title": "Gut Schil&shy;lings&shy;rott (Len&shy;nartz&shy;hof)",
+          "title": "Gut Schil|lings|rott (Len|nartz|hof)",
           "description": {
             "state": "#ok",
             "value": "Einzige erhaltene geschlossene Hofanlage von ehemals zehn größeren Rodenkirchener Höfen. Erstnennung 1171. Vor der Säkularisation 1802 im Besitz des Kölner Stiftes St. Georg. Das heutige barocke Herrenhaus mit Straßen- und Hoffassade aus dem 18. Jahrhundert. Die Lindenbäume nehmen Bezug auf die Fensterachsen. Wappen über der Eingangstür. Wirtschaftsbauten in geschlämmtem Backstein z.Z. 1809 datiert. Seit 1972 Restaurierung durch Heinz D. Stuckmann."
@@ -1446,7 +1448,7 @@
           "quarter": "Rodenkirchen",
           "predecessor": "2.4.9",
           "successor": "",
-          "title": "Di&shy;a&shy;ko&shy;nie-Dorf Mi&shy;cha&shy;els&shy;ho&shy;ven",
+          "title": "Di|a|ko|nie-Dorf Mi|cha|els|ho|ven",
           "description": {
             "state": "#ok",
             "value": "Erbaut 1955 - 1959 nach den Plänen von Dr. E. te Reh. Im Mittelpunkt die zeltförmige Erzengel-Michael-Kirche in ovaler Parkanlage, anfänglich von sechs Häusern umgeben. Die zweiflügeligen, leicht gewinkelten Flachdachbauten besitzen abwechslungsreiche Eingangslösungen, die als kommunikative Zentren dienen. Programm war naturnahes Leben in dörflicher Gemeinschaft für Flüchtlinge, Ausgebombte und Jugendliche ohne Schulabschluss, später auch für Behinderte und Senioren."
@@ -1475,23 +1477,23 @@
               },            
               {
                 "number": 6472,
-                "title": "Wohnheim &quot;Michaelshoven-Haus Thomas&quot;"
+                "title": "Wohnheim \"Michaelshoven-Haus Thomas\""
               },          
               {
                 "number": 6473,
-                "title": "Wohnheim &quot;Michaelshoven-Haus Ruth&quot;"
+                "title": "Wohnheim \"Michaelshoven-Haus Ruth\""
               },        
               {
                 "number": 6474,
-                "title": "Wohnheim &quot;Michaelshoven-Haus Markus&quot;"
+                "title": "Wohnheim \"Michaelshoven-Haus Markus\""
               },      
               {
                 "number": 6475,
-                "title": "Schulgebäude (ursprgl. Wohnheim) &quot;Michaelshoven-Haus Andreas&quot;"
+                "title": "Schulgebäude (ursprgl. Wohnheim) \"Michaelshoven-Haus Andreas\""
               },    
               {
                 "number": 6571,
-                "title": "Kinderheim (ursprüngl. Säuglings- u. Mütterheim) &quot;Michaelshoven-Gertrud-Bäumer-Haus&quot;"
+                "title": "Kinderheim (ursprüngl. Säuglings- u. Mütterheim) \"Michaelshoven-Gertrud-Bäumer-Haus\""
               },  
               {
                 "number": 7672,
@@ -3205,7 +3207,7 @@
           "title": "Pesche Hüsje",
           "description": {
             "state": "#check",
-            "value": "Fachwerkhäuser dieser Bauweise und Größe, in denen hauptsächlich Landarbeiter und Handwerker wohnten, waren einst ortsprägend für Müngersdorf. Errichtet wurde das &quot;Pesche Hüsje&quot; entweder um 1640 oder um 1710. Damit gehört es zu den ältesten Wohnhäusern Kölns."
+            "value": "Fachwerkhäuser dieser Bauweise und Größe, in denen hauptsächlich Landarbeiter und Handwerker wohnten, waren einst ortsprägend für Müngersdorf. Errichtet wurde das \"Pesche Hüsje\" entweder um 1640 oder um 1710. Damit gehört es zu den ältesten Wohnhäusern Kölns."
           },
           "mapPosition": {
             "state": "#check",
@@ -3235,7 +3237,7 @@
           "title": "Haus und Büro O.M. Ungers",
           "description": {
             "state": "#check",
-            "value": "1958/59 baute der Architekt Oswald Mathias Ungers (1926 bis 2007) sein Wohnhaus mit zwei Einliegerwohnungen und einem Büro. Zur Quadrather Straße schließt sich seit 1990 der Bibliothekskubus aus Basaltlava an. Hier befindet sich das &quot;Ungers Archiv für Architekturwissenschaft (UAA)&quot;."
+            "value": "1958/59 baute der Architekt Oswald Mathias Ungers (1926 bis 2007) sein Wohnhaus mit zwei Einliegerwohnungen und einem Büro. Zur Quadrather Straße schließt sich seit 1990 der Bibliothekskubus aus Basaltlava an. Hier befindet sich das \"Ungers Archiv für Architekturwissenschaft (UAA)\"."
           },
           "mapPosition": {
             "state": "#check",
@@ -3265,7 +3267,7 @@
           "title": "Das Haus ohne Eigenschaften",
           "description": {
             "state": "#check",
-            "value": "1994 bis 96 errichtete Oswald Mathias Ungers hier für sich sein letztes Wohnhaus als architektonisches Manifest. Heute ist das Haus Sitz der &quot;Dr. Speck Literaturstiftung&quot;."
+            "value": "1994 bis 96 errichtete Oswald Mathias Ungers hier für sich sein letztes Wohnhaus als architektonisches Manifest. Heute ist das Haus Sitz der \"Dr. Speck Literaturstiftung\"."
           },
           "mapPosition": {
             "state": "#check",
@@ -3415,7 +3417,7 @@
           "title": "Schule",
           "description": {
             "state": "#check",
-            "value": "Der mächtige Putzbau mit Backstein- und Fachwerkgliederungen ist in  seiner Architektur an den &quot;romantisch&quot; gruppierten spätmittelalterlichen Burgenbau angelehnt."
+            "value": "Der mächtige Putzbau mit Backstein- und Fachwerkgliederungen ist in  seiner Architektur an den \"romantisch\" gruppierten spätmittelalterlichen Burgenbau angelehnt."
           },
           "mapPosition": {
             "state": "#check",
@@ -4165,15 +4167,14 @@
           "quarter": "",
           "predecessor": "",
           "successor": "7.1.1",
-          "inactive": true,
-          "title": "",
+          "title": "Start Kul|tur|pfad 7.1 Porz",
           "description": {
-            "state": "#unknown",
-            "value": ""
+            "state": "#ok",
+            "value": "Der Pfad ist eine Rundtour und startet am S-Bahnhof Porz-Wahn. Von dort geht es nach Libur und dann über einen bisher unbekannten Wegabschnitt, für den die Infotafeln auf den Karten nicht lokalisiert werden konnten. Dann geht es dann über Urbach nach Wahn und zurück zu, Startpunkt.<br/>Die Reihenfolge einiger Infotafeln wurde für einen besseren Wegverlauf umsortiert."
           },
           "mapPosition": {
-            "state": "#unknown",
-            "value": []
+            "state": "#ok",
+            "value": [7.079561, 50.8583466]
           },
           "buildings": {
             "state": "#unknown"
@@ -4195,8 +4196,7 @@
           "quarter": "Libur",
           "predecessor": "7.1.0",
           "successor": "7.1.2",
-          "inactive": true,
-          "title": "Urbanuskreuz",
+          "title": "Ur|ba|nus|kreuz",
           "description": {
             "state": "#ok",
             "value": "Das Urbanuskreuz von 1729 an der Urbanusstraße mit Roßkastanien als Begleitbäumen ist dem hl. Urban, dem Schutzpatron der Weinreben gewidmet."
@@ -4225,8 +4225,7 @@
           "quarter": "Libur",
           "predecessor": "7.1.1",
           "successor": "7.1.3",
-          "inactive": true,
-          "title": "Stompeler Kreuz",
+          "title": "Stom|pe|ler Kreuz",
           "description": {
             "state": "#ok",
             "value": "An der Ecke zum Liburger Weg steht das Stompeler Kreuz, ein typisches Feldkreuz von 1906, mit 3 Roßkastanien als Begleitbäumen."
@@ -4255,7 +4254,6 @@
           "quarter": "Libur",
           "predecessor": "7.1.2",
           "successor": "7.1.4",
-          "inactive": true,
           "title": "Bröhls Kreuz",
           "description": {
             "state": "#ok",
@@ -4285,8 +4283,7 @@
           "quarter": "Libur",
           "predecessor": "7.1.3",
           "successor": "7.1.5",
-          "inactive": true,
-          "title": "Hölser Kreuz",
+          "title": "Höl|ser Kreuz",
           "description": {
             "state": "#ok",
             "value": "Das Hölser Kreuz, gestiftet 1787, steht an der alten Wegverbindung von Uckendorf über Stockum nach Spich. Es markiert vermutl. eine alte Besitz- oder Verwaltungsgrenze. Die Begleitbäume sind Naturdenkmäler."
@@ -4315,8 +4312,7 @@
           "quarter": "Libur",
           "predecessor": "7.1.4",
           "successor": "7.1.6",
-          "inactive": true,
-          "title": "Pastor-Huthmacher-Straße",
+          "title": "Pas|tor-Huth|ma|cher-Stra|ße",
           "description": {
             "state": "#ok",
             "value": "Die Pastor-Huthmacher-Straße weist noch Zeugnisse der typischen älteren Bebauung (Ende 19. Jh.) des Weilers Libur auf (Nr. 2, 10, 16, 22)."
@@ -4345,8 +4341,7 @@
           "quarter": "Libur",
           "predecessor": "7.1.5",
           "successor": "7.1.7",
-          "inactive": true,
-          "title": "St. Margareta",
+          "title": "St. Mar|ga|re|ta",
           "description": {
             "state": "#ok",
             "value": "Katholische Pfarrkirche St. Margareta an der Pastor-Huthmacher-Straße, erbaut 1909–1911 nach Plänen des Architekten Huthmacher, eine neugotische dreischiffige Backsteinbasilika, deren ursprüngl. Innenausstattung (steinerne Altäre, Kanzel, Orgelempore, Fenster, Skulpturen) gut erhalten geblieben ist. 1981 nach denkmalpflegerischen Gesichtspunkten restauriert. Neben der Kirche der alte Friedhof mit bis auf das Jahr 1650 zurückgehenden Grabsteinen."
@@ -4376,8 +4371,7 @@
           "quarter": "Libur",
           "predecessor": "7.1.6",
           "successor": "7.1.8",
-          "inactive": true,
-          "title": "Margaretenkreuz",
+          "title": "Mar|ga|re|ten|kreuz",
           "description": {
             "state": "#ok",
             "value": "Das Margaretenkreuz wurde 1874 gestiftet."
@@ -4406,8 +4400,7 @@
           "quarter": "Libur",
           "predecessor": "7.1.7",
           "successor": "7.1.9",
-          "inactive": true,
-          "title": "Ensemble Kuxgasse 2, 8, 10",
+          "title": "En|sem|ble Kux|gas|se 2, 8, 10",
           "description": {
             "state": "#ok",
             "value": "In der Kuxgasse hat sich das alte Liburer Ortsbild in einem Ensemble niedriger giebelständiger Häuser am besten erhalten: Margarethenhof (Nr. 2), eine erstmals 1492 erwähnte geschlossene Hofanlage mit Herrenhaus (um 1900); ein zweigeschossiges Fachwerkhaus (Nr. 8) vom Ende des 18. Jh. und eine kleine, heute veränderte Hofanlage aus dem 19. Jh. (Nr. 10)."
@@ -4436,8 +4429,7 @@
           "quarter": "Libur",
           "predecessor": "7.1.8",
           "successor": "7.1.10",
-          "inactive": true,
-          "title": "Margaretenstraße",
+          "title": "Mar|ga|re|ten|stra|ße",
           "description": {
             "state": "#ok",
             "value": "Am Schnittpunkt mit der Kuxgasse gelegen gehört der im 19. Jh. errichtete Fachwerkbau Margaretenstraße 14, Wohnhaus eines Kleingehöfes, zum erhaltenen historischen Bestand der typisch dörflichen Bebauung dieser Straße."
@@ -4465,9 +4457,8 @@
           "trackSubpt": "",
           "quarter": "Lind",
           "predecessor": "7.1.9",
-          "successor": "7.1.11",
-          "inactive": true,
-          "title": "Wegkreuz und Hofanlage",
+          "successor": "7.1.21",
+          "title": "Weg|kreuz und Hof|an|lage",
           "description": {
             "state": "#ok",
             "value": "An der Frankfurter Straße/Ecke Am Linder Kreuz steht das 1842 von Alois Böcker, Bürgermeister v. Wahn u. Merheim und Gutsbesitzer zu Lind, gestiftete Kreuz. An die ländliche Vergangenheit Linds erinnert die kleine geschlossene Hofanlage aus der 2. Hälfte des 19. Jh. mit zweigeschossigem Wohnhaus (Am Linder Kreuz 72)."
@@ -4482,7 +4473,7 @@
           "info": {
             "state": "#unknown"
           },
-          "notes": "",
+          "notes": "Die nachfolgenden Infotafeln konnte auf den Karten nicht lokalisiert werden und wurden ausgelassen.",
           "wiki": {
             "state": "#unknown"
           },
@@ -4794,16 +4785,15 @@
           "trackPoint": 21,
           "trackSubpt": "",
           "quarter": "Urbach",
-          "predecessor": "7.1.20",
-          "successor": "7.1.22",
-          "inactive": true,
-          "title": "",
+          "predecessor": "7.1.10",
+          "successor": "7.1.24",
+          "title": "Un|be|kann|tes Ob|jekt",
           "description": {
             "state": "#unknown",
             "value": ""
           },
           "mapPosition": {
-            "state": "#ok",
+            "state": "#check",
             "value": [ 7.079091, 50.887771 ]
           },
           "buildings": {
@@ -4812,67 +4802,7 @@
           "info": {
             "state": "#unknown"
           },
-          "notes": "",
-          "wiki": {
-            "state": "#unknown"
-          },
-          "monumentNo": {
-            "state": "#unknown"
-          }
-        },
-        "7.1.22": {
-          "trackPoint": 22,
-          "trackSubpt": "",
-          "quarter": "Urbach",
-          "predecessor": "7.1.21",
-          "successor": "7.1.23",
-          "inactive": true,
-          "title": "Wohn- und Geschäftshaus Frankfurter Straße 529",
-          "description": {
-            "state": "#ok",
-            "value": "Unmittelbar an der Kreuzung der beiden Urbacher Hauptstraßen gelegen, ist das 1903 erbaute zweigeschossige Wohn- und Geschäftshaus eines der wenigen im Ort erhaltenen Beispiele einer städtisch beeinflussten Architektur im Jugendstil."
-          },
-          "mapPosition": {
-            "state": "#ok",
-            "value": [ 7.082797, 50.880528 ]
-          },
-          "buildings": {
-            "state": "#unknown"
-          },
-          "info": {
-            "state": "#unknown"
-          },
-          "notes": "",
-          "wiki": {
-            "state": "#unknown"
-          },
-          "monumentNo": {
-            "state": "#unknown"
-          }
-        },
-        "7.1.23": {
-          "trackPoint": 23,
-          "trackSubpt": "",
-          "quarter": "Urbach",
-          "predecessor": "7.1.22",
-          "successor": "7.1.24",
-          "inactive": true,
-          "title": "Ensemble Frankfurter Straße mit Ossenbach-Mühle",
-          "description": {
-            "state": "#ok",
-            "value": "Im historischen städtebaulichen Kontext ist das Ensemble ein- bis zweigeschossiger Häuser aus dem 19. u. beginnenden 20. Jh. zu betrachten: die ländl. geprägten Gebäude Nr. 511, 513 und die Nr. 519, die ehem. Ossenbach-Mühle, ein eingeschossiges, giebelständiges Fachwerkhaus (Mitte 19. Jh.) mit langgestrecktem, traufständigen Anbau (1981–1983 Gesamtrestaurierung), sowie die Nr. 515, 527 u. 512 ländliche Bauten mit städtischen Einflüssen."
-          },
-          "mapPosition": {
-            "state": "#ok",
-            "value": [ 7.082797, 50.880528 ]
-          },
-          "buildings": {
-            "state": "#unknown"
-          },
-          "info": {
-            "state": "#unknown"
-          },
-          "notes": "",
+          "notes": "Hier konnten wir leider keine Infotafel mehr finden und das Objekt nicht zuordnen. Die vorherigen Infotafeln konnte auf den Karten nicht lokalisiert werden und wurden ausgelassen.",
           "wiki": {
             "state": "#unknown"
           },
@@ -4884,10 +4814,9 @@
           "trackPoint": 24,
           "trackSubpt": "",
           "quarter": "Urbach",
-          "predecessor": "7.1.23",
-          "successor": "7.1.25",
-          "inactive": true,
-          "title": "Maarhof",
+          "predecessor": "7.1.21",
+          "successor": "7.1.22",
+          "title": "Maar|hof",
           "description": {
             "state": "#ok",
             "value": "Der 1613 erstmals erwähnte Maarhof, Frankfurter Straße 540, eine geschlossene, vierflügelige Hofanlage des 18./19. Jh., besitzt ein zweigeschossiges Herrenhaus mit reicher Stuckfassade (1896) und Schopfwalmdach. Die ehem. Wirtschaftsgebäude sind aus Backstein. Nach Aufgabe der lanschwirtschftl. Nutzung erfolgten die innere und äußere Restaurierung und der Umbau der Stallungen zur Wohnanlage (1984/86). Der Maarhof bildete den Abschluss und Höhepunkt der Bebauung der Frankfurter Straße. Trotz aller Änderungen ist die Anlage ein unverzichtbarer Bestandteil der nur noch teilw. ländlichen Struktur des Ortes."
@@ -4910,14 +4839,71 @@
             "state": "#unknown"
           }
         },
+        "7.1.22": {
+          "trackPoint": 22,
+          "trackSubpt": "",
+          "quarter": "Urbach",
+          "predecessor": "7.1.24",
+          "successor": "7.1.23",
+          "title": "Wohn- und Ge|schäfts|haus Frank|fur|ter Stra|ße 529",
+          "description": {
+            "state": "#ok",
+            "value": "Unmittelbar an der Kreuzung der beiden Urbacher Hauptstraßen gelegen, ist das 1903 erbaute zweigeschossige Wohn- und Geschäftshaus eines der wenigen im Ort erhaltenen Beispiele einer städtisch beeinflussten Architektur im Jugendstil."
+          },
+          "mapPosition": {
+            "state": "#ok",
+            "value": [ 7.0823966, 50.8814133 ]
+          },
+          "buildings": {
+            "state": "#unknown"
+          },
+          "info": {
+            "state": "#unknown"
+          },
+          "notes": "",
+          "wiki": {
+            "state": "#unknown"
+          },
+          "monumentNo": {
+            "state": "#unknown"
+          }
+        },
+        "7.1.23": {
+          "trackPoint": 23,
+          "trackSubpt": "",
+          "quarter": "Urbach",
+          "predecessor": "7.1.22",
+          "successor": "7.1.25",
+          "title": "En|sem|ble Frank|fur|ter Stra|ße mit Os|sen|bach-Müh|le",
+          "description": {
+            "state": "#ok",
+            "value": "Im historischen städtebaulichen Kontext ist das Ensemble ein- bis zweigeschossiger Häuser aus dem 19. u. beginnenden 20. Jh. zu betrachten: die ländl. geprägten Gebäude Nr. 511, 513 und die Nr. 519, die ehem. Ossenbach-Mühle, ein eingeschossiges, giebelständiges Fachwerkhaus (Mitte 19. Jh.) mit langgestrecktem, traufständigen Anbau (1981–1983 Gesamtrestaurierung), sowie die Nr. 515, 527 u. 512 ländliche Bauten mit städtischen Einflüssen."
+          },
+          "mapPosition": {
+            "state": "#ok",
+            "value": [ 7.082606992625107, 50.880855962607235 ]
+          },
+          "buildings": {
+            "state": "#unknown"
+          },
+          "info": {
+            "state": "#unknown"
+          },
+          "notes": "",
+          "wiki": {
+            "state": "#unknown"
+          },
+          "monumentNo": {
+            "state": "#unknown"
+          }
+        },
         "7.1.25": {
           "trackPoint": 25,
           "trackSubpt": "",
           "quarter": "Urbach",
-          "predecessor": "7.1.24",
+          "predecessor": "7.1.23",
           "successor": "7.1.26",
-          "inactive": true,
-          "title": "St. Bartholomäus",
+          "title": "St. Bar|tho|lo|mä|us",
           "description": {
             "state": "#ok",
             "value": "Die kathol. Pfarrkirche St. Bartholomäus, Frankfurter Straße 522, entstand 1879/80 nach Plänen H. Nagelschmidts als dreischiffige Hallenkirche mit Querschiff, Chorraum und drei Halbkreisenapsiden, erbaut in der Form des rheinisch-romanisierenden Rundbogenstils. Der Vierkantturm stammt a.d. Jahr 1899. Vom Turm des romanischen Vorgängerbaus ist der Ostbogen im heutigen Bau erhalten. Teile der Innenausstattung der alten Urbacher Pfarrkirche sind bewahrt geblieben. Der barocke Orgelprospekt stammt aus Klein-St. Martin in Köln. Hauptaltar und Ambo gestaltet von H. Gernot (1970); innere Farbgestaltung von 1978."
@@ -4946,14 +4932,13 @@
           "quarter": "Urbach",
           "predecessor": "7.1.25",
           "successor": "7.1.27",
-          "inactive": true,
-          "title": "",
+          "title": "Un|be|kann|tes Ob|jekt",
           "description": {
             "state": "#unknown",
             "value": ""
           },
           "mapPosition": {
-            "state": "#ok",
+            "state": "#check",
             "value": [ 7.082347, 50.879013 ]
           },
           "buildings": {
@@ -4962,7 +4947,7 @@
           "info": {
             "state": "#unknown"
           },
-          "notes": "",
+          "notes": "Hier konnten wir leider keine Infotafel mehr finden und das Objekt nicht zuordnen.",
           "wiki": {
             "state": "#unknown"
           },
@@ -4976,8 +4961,7 @@
           "quarter": "Urbach",
           "predecessor": "7.1.26",
           "successor": "7.1.28",
-          "inactive": true,
-          "title": "Urbacher Friedhof",
+          "title": "Ur|bach|er Fried|hof",
           "description": {
             "state": "#ok",
             "value": "An Frankfurter Straße und Mühlenweg liegt seit 1857 der alte Urbacher Friedhof mit Grabdenkmälern der 60er und 70er Jahre des 19. Jh. In typischer Lage am Ortsrand an der Ausfallstraße bewahrt er mit den die Grabreihen bzw. zum Teil einzelne Gräber voneinander trennenden beschnittenen Hecken die charakteristischen Merkmale rechtsrheinischer Dorffriedhöfe. Besonders prächtig ist das aus weißem Mamor gefertigte Grabmal des Urbacher Bürgermeisters Sternenberg und seiner Frau Eva (1892). Im hinteren Bereich des Friedhofs das Ehrenmal der UdSSR für die während des Zweiten Weltkriegs getöteten sowjetischen Zwangsarbeiter."
@@ -5005,15 +4989,13 @@
           "trackSubpt": "",
           "quarter": "Urbach",
           "predecessor": "7.1.27",
-          "successor": "7.1.29",
-          "inactive": true,
-          "title": "",
+          "successor": "7.1.31",
+          "title": "Un|be|kann|tes Ob|jekt",
           "description": {
-            "state": "#check",
-            "value": "Das 1880 errichtete zweigeschossige, traufständige Wohnhaus mit Backsteinfassade, Stichbögen, Ankersplinten erinnert noch an das ursprüngliche Straßenbild."
+            "state": "#unknown"
           },
           "mapPosition": {
-            "state": "#ok",
+            "state": "#check",
             "value": [ 7.082512, 50.877732 ]
           },
           "buildings": {
@@ -5022,7 +5004,7 @@
           "info": {
             "state": "#unknown"
           },
-          "notes": "",
+          "notes": "Hier konnten wir leider keine Infotafel mehr finden und das Objekt nicht zuordnen. Die nachfolgenden Infotafeln konnte auf den Karten nicht lokalisiert werden und wurden ausgelassen.",
           "wiki": {
             "state": "#unknown"
           },
@@ -5094,9 +5076,8 @@
           "trackPoint": 31,
           "trackSubpt": "",
           "quarter": "",
-          "predecessor": "7.1.30",
+          "predecessor": "7.1.28",
           "successor": "7.1.32",
-          "inactive": true,
           "title": "Burg Wahn",
           "description": {
             "state": "#unknown",
@@ -5112,7 +5093,7 @@
           "info": {
             "state": "#unknown"
           },
-          "notes": "",
+          "notes": "Hier konnten wir leider keine Infotafel mehr finden. Die vorherigen Infotafeln konnte auf den Karten nicht lokalisiert werden und wurden ausgelassen.",
           "wiki": {
             "state": "#unknown"
           },
@@ -5126,8 +5107,7 @@
           "quarter": "",
           "predecessor": "7.1.31",
           "successor": "7.1.33",
-          "inactive": true,
-          "title": "Eltzhof",
+          "title": "Eltz|hof",
           "description": {
             "state": "#unknown",
             "value": ""
@@ -5142,7 +5122,7 @@
           "info": {
             "state": "#unknown"
           },
-          "notes": "",
+          "notes": "Hier konnten wir leider keine Infotafel mehr finden.",
           "wiki": {
             "state": "#unknown"
           },
@@ -5156,8 +5136,7 @@
           "quarter": "",
           "predecessor": "7.1.32",
           "successor": "7.1.34",
-          "inactive": true,
-          "title": "Haus Sophia",
+          "title": "Haus So|phi|a",
           "description": {
             "state": "#ok",
             "value": "Haus Sophia, Burggraben 26, ist eine um 1900 für den Tabakfabrikanten Wien erbaute zweigeschossige großbürgerliche Landvilla mit backsteingegliederter Putzfassade, das einzige Gebäude in Wahn in der Art des damals populären Heimatstils. Seine Ausmaße heben es von der überwiegend ländlich geprägten Bebauung der Umgebung ab."
@@ -5185,9 +5164,8 @@
           "trackSubpt": "",
           "quarter": "Wahn",
           "predecessor": "7.1.33",
-          "successor": "7.1.35",
-          "inactive": true,
-          "title": "St. Aegidius",
+          "successor": "",
+          "title": "St. Ae|gi|di|us",
           "description": {
             "state": "#ok",
             "value": "Die kathol. Pfarrkirche St. Aegidius, Frankfurter Str. 179/Ecke St. Sebastianusstr., entstand 1893-95 nach Plänen A. Beckers als neugotische dreischiffige Backstein-Hallenkirche mit Vierkantturm. Im Inneren überspannt ein 1990-92 erneuertes Kreuzrippengewölbe die noch originale Ausstattung (meist von F. Hackenberg). Die Ausmalung wurde nach dem historischen Befund erneuert. Im Turmvorraum ein barockes Mamor-Epitaph (1656-85) des Wilhelm v. Zweiffel u. der Agnes Schall von Bell. Bei der Kirche der ehemalige Friedhof, von dem noch einige – teils barocke – Grabkreuze zeugen."
@@ -5195,36 +5173,6 @@
           "mapPosition": {
             "state": "#ok",
             "value": [ 7.086651, 50.856435 ]
-          },
-          "buildings": {
-            "state": "#unknown"
-          },
-          "info": {
-            "state": "#unknown"
-          },
-          "notes": "",
-          "wiki": {
-            "state": "#unknown"
-          },
-          "monumentNo": {
-            "state": "#unknown"
-          }
-        },
-        "7.1.99": {
-          "trackPoint": 99,
-          "trackSubpt": "",
-          "quarter": "",
-          "predecessor": "7.1.34",
-          "successor": "",
-          "inactive": true,
-          "title": "...",
-          "description": {
-            "state": "#unknown",
-            "value": ""
-          },
-          "mapPosition": {
-            "state": "#unknown",
-            "value": []
           },
           "buildings": {
             "state": "#unknown"
@@ -5254,28 +5202,27 @@
           "quarter": "",
           "predecessor": "",
           "successor": "7.2.1",
-          "inactive": true,
-          "title": "",
+          "title": "Start Kul|tur|pfad 7.2 Porz",
           "description": {
-            "state": "#unknown",
-            "value": ""
+            "state": "#ok",
+            "value": "Der ca. 18 km lange Pfad führt vom Deutzer Hafen aus am Rhein entlang. Über Westhofen und Porz bis nach Langel, wo das voläufige Ende des Pfades liegt. Die nachfolgenden Infotafeln konnte auf den Karten nicht lokalisiert werden und wurden daher ausgelassen."
           },
           "mapPosition": {
-            "state": "#unknown",
-            "value": []
+            "state": "#check",
+            "value": [6.9735144, 50.9279366]
           },
           "buildings": {
-            "state": "#unknown"
+            "state": "#n/a"
           },
           "info": {
-            "state": "#unknown"
+            "state": "#n/a"
           },
           "notes": "",
           "wiki": {
-            "state": "#unknown"
+            "state": "#n/a"
           },
           "monumentNo": {
-            "state": "#unknown"
+            "state": "#n/a"
           }
         },
         "7.2.1": {
@@ -5284,15 +5231,14 @@
           "quarter": "Deutz",
           "predecessor": "7.2.0",
           "successor": "7.2.2",
-          "inactive": true,
-          "title": "Drehbrücke",
+          "title": "Dreh|brü|cke",
           "description": {
             "state": "#ok",
             "value": "Die aus der Gründerzeit des Deutzer Hafens (Stadtbezirk 1) stammende Drehbrücke, ein technisches Denkmal, wurde 1907 errichtet und 1908 dem Verkehr übergeben. Ihre elektrisch gesteuerte, genietete Gitterträgerkonstruktion mit dem Steuerhäuschen aus Stahlblechen ist bis heute vollständig erhalten geblieben. Auf der von ihr ausgehenden Alfred-Schütte-Allee erreicht man das Poller Rheinufer mit dem in den 20er Jahren angelegten öffentlichen Grünbereich mit Sportanlagen."
           },
           "mapPosition": {
             "state": "#ok",
-            "value": [ 6.97314244581821, 50.9277952838689 ]
+            "value": [ 6.9733608, 50.9278779 ]
           },
           "buildings": {
             "state": "#unknown"
@@ -5315,9 +5261,8 @@
           "trackSubpt": "",
           "quarter": "",
           "predecessor": "7.2.1",
-          "successor": "7.2.3",
-          "inactive": true,
-          "title": "Nikolaus-Kapelle",
+          "successor": "7.2.4",
+          "title": "Ni|ko|laus-Ka|pelle",
           "description": {
             "state": "#ok",
             "value": "Die dem Schutzpatron der Schiffer geweihte, ehem. zur Abtei St. Heribert in Deutz gehörende Nikolaus-Kapelle, St. Agatha-Straße, wurde um 1100 errichtet. Der kleine romanische Saalbau (restauriert 1959-64) aus verputztem Tuff- und Kieselmauerwerk mit eingezogenem Rechteckchor, Fachwerkgiebel und einem Dachreiter liegt inmitten des ehem., bis 1929 benutzten Friedhofes mit alten Grabsteinen und Eisenkreuzen (restauriert 1987 vn der Bürgervereinigung Ensen-Westhoven)."
@@ -5333,7 +5278,7 @@
           "info": {
             "state": "#unknown"
           },
-          "notes": "Die nachfolgende Infotafel konnte leider nicht gefunden werden.",
+          "notes": "Die nachfolgende Infotafel konnte auf den Karten nicht lokalisiert werden und wurde ausgelassen.",
           "wiki": {
             "state": "#ok",
             "value": "Nikolaus-Kapelle_%28K%C3%B6ln%29"
@@ -5377,10 +5322,9 @@
           "trackPoint": 4,
           "trackSubpt": "",
           "quarter": "Porz",
-          "predecessor": "7.2.3",
+          "predecessor": "7.2.2",
           "successor": "7.2.5",
-          "inactive": true,
-          "title": "Rheinuferpromenade",
+          "title": "Rhein|u|fer|pro|me|na|de",
           "description": {
             "state": "#ok",
             "value": "Die Rheinuferpromenade, Friedrich-Ebert-Ufer, mit Ufermauer, Treppenaufgang, Fahrkartenpavillon für die Schiffahrt, Löwenmonument und schmiedeeisernen Laternen wurde zwischen 1907 u. 1912 angelegt."
@@ -5395,7 +5339,7 @@
           "info": {
             "state": "#unknown"
           },
-          "notes": "",
+          "notes": "Die vorherige Infotafel konnte auf den Karten nicht lokalisiert werden und wurde ausgelassen.",
           "wiki": {
             "state": "#n/a"
           },
@@ -5410,8 +5354,7 @@
           "quarter": "Porz",
           "predecessor": "7.2.4",
           "successor": "7.2.6",
-          "inactive": true,
-          "title": "Porzer Rathaus",
+          "title": "Por|zer Rat|haus",
           "description": {
             "state": "#ok",
             "value": "Das Porzer Rathaus, Friedrich-Ebert-Ufer 64, ein dreigeschossiger mächtiger, siebenachsiger Bau mit wuchtigem Turm und Arkaden im Erdgeschoß, entstand 1909/10 nach Plänen des Regierungsbaumeisters Moritz. Der Erweiterungsbau mit Werksteinfassade stammt aus den Jahren 1955/56; weitere Neubauten aus den 70er und 80er Jahren. Heute ist das Porzer Rathaus Sitz der Bezirksvertretung des Stadtbezirks 7 und der Bezirksverwaltung."
@@ -5441,14 +5384,13 @@
           "quarter": "",
           "predecessor": "7.2.5",
           "successor": "7.2.7",
-          "inactive": true,
-          "title": "",
+          "title": "Un|be|kann|tes Ob|jekt",
           "description": {
             "state": "#unknown",
             "value": ""
           },
           "mapPosition": {
-            "state": "#unknown",
+            "state": "#check",
             "value": [ 7.0227886, 50.8633825 ]
           },
           "buildings": {
@@ -5471,8 +5413,7 @@
           "quarter": "Langel",
           "predecessor": "7.2.6",
           "successor": "7.2.8",
-          "inactive": true,
-          "title": "Fronhof",
+          "title": "Fron|hof",
           "description": {
             "state": "#ok",
             "value": "Begrenzt von der Frongasse, Rosengasse und Lülsdorfer Straße liegt der erstmals 965, dann 1225 im Urbar von St. Pantaleon in Köln erwähnte Fronhof. 1633 wurde der damals 178 Morgen große Hof, Zentrum eines grundherrschaftlichen Hofverbandes mit einer größeren Anzahl abhängiger Höfe, von einem Feuer vernichtet. Die danach neu entstandene Anlage ging 1803 in den Besitz des preußischen Staates über, der sie 1820 an die Gebrüder Immendorff verkaufte. Der nach starken Beschädigungen im Zweiten Weltkrieg wiederaufgebaute, heute teilw. veränderte Fronhof ist der Mittelpunkt des Langeler Oberdorfes in unmittelbarer Nachbarschaft der Kirche St. Clemens."
@@ -5502,8 +5443,7 @@
           "quarter": "Langel",
           "predecessor": "7.2.7",
           "successor": "7.2.9",
-          "inactive": true,
-          "title": "St. Clemens",
+          "title": "St. Cle|mens",
           "description": {
             "state": "#ok",
             "value": "Kathol. Pfarrkirche St. Clemens, Lülsdorfer Straße 114, erbaut 1890/91 von Langeler Steinmetzen und Maurern nach Plänen H. Nagelschmidts, eine neugotische dreischiffige Backstein-Hallenkirche mit Schieferdach und Vierkantturm im Westen. Von der Innenausstattung sind 3 gotische Schnitzaltäre und der Orgelprospekt erhalten geblieben und 1982/83 mit einer passenden Kanzel aus Kürten-Bechern ergänzt worden. Wiederherstellung der im Krieg zerstörten Glasfenster in drei Phasen ab 1953 und der ursprgl. Neugotischen Ausmalung 1978/80. Ersetzung der mittleren Chorfenster 1990 durch eine Heiligenfiguren zeigende Buntverglasung im Nazarenerstil a. d. J. 1900. Restliche Fensterflächen 1990 von K. Dedy gestaltet."
@@ -5535,8 +5475,7 @@
           "quarter": "Langel",
           "predecessor": "7.2.8",
           "successor": "7.2.10",
-          "inactive": true,
-          "title": "",
+          "title": "Un|be|kann|tes Ob|jekt",
           "description": {
             "state": "#unknown",
             "value": ""
@@ -5551,7 +5490,7 @@
           "info": {
             "state": "#unknown"
           },
-          "notes": "",
+          "notes": "Hier konnten wir leider keine Infotafel mehr finden und das Objekt nicht zuordnen.",
           "wiki": {
             "state": "#unknown"
           },
@@ -5565,8 +5504,7 @@
           "quarter": "Langel",
           "predecessor": "7.2.9",
           "successor": "7.2.11",
-          "inactive": true,
-          "title": "",
+          "title": "Un|be|kann|tes Ob|jekt",
           "description": {
             "state": "#unknown",
             "value": ""
@@ -5581,7 +5519,7 @@
           "info": {
             "state": "#unknown"
           },
-          "notes": "",
+          "notes": "Hier konnten wir leider keine Infotafel mehr finden und das Objekt nicht zuordnen.",
           "wiki": {
             "state": "#unknown"
           },
@@ -5595,8 +5533,7 @@
           "quarter": "Langel",
           "predecessor": "7.2.10",
           "successor": "7.2.12",
-          "inactive": true,
-          "title": "",
+          "title": "Un|be|kann|tes Ob|jekt",
           "description": {
             "state": "#unknown",
             "value": ""
@@ -5611,7 +5548,7 @@
           "info": {
             "state": "#unknown"
           },
-          "notes": "",
+          "notes": "Hier konnten wir leider keine Infotafel mehr finden und das Objekt nicht zuordnen.",
           "wiki": {
             "state": "#unknown"
           },
@@ -5625,15 +5562,14 @@
           "quarter": "Langel",
           "predecessor": "7.2.11",
           "successor": "7.2.13",
-          "inactive": true,
-          "title": "Sog. Friedenseiche (Naturdenkmal)",
+          "title": "Sog. Frie|dens|ei|che (Na|tur|denk|mal)",
           "description": {
             "state": "#ok",
-            "value": "Die &quot;Friedenseiche&quot; wurde zum Gedenken an den deutsch-französischen Krieg 1870/71 und die Reichsgrndung von 1871 an der Wegekreuzung vom ehem. Langeler Unterdorf nach Lülsdorf und vom Oberdorf nach Zündorf gepflanzt."
+            "value": "Die \"Friedenseiche\" wurde zum Gedenken an den deutsch-französischen Krieg 1870/71 und die Reichsgrndung von 1871 an der Wegekreuzung vom ehem. Langeler Unterdorf nach Lülsdorf und vom Oberdorf nach Zündorf gepflanzt."
           },
           "mapPosition": {
-            "state": "#check",
-            "value": [ 7.010136, 50.849376 ]
+            "state": "#ok",
+            "value": [ 7.008433, 50.8489877 ]
           },
           "buildings": {
             "state": "#unknown"
@@ -5655,15 +5591,14 @@
           "quarter": "Langel",
           "predecessor": "7.2.12",
           "successor": "7.2.14",
-          "inactive": true,
-          "title": "",
+          "title": "Un|be|kann|tes Ob|jekt",
           "description": {
             "state": "#unknown",
             "value": ""
           },
           "mapPosition": {
             "state": "#check",
-            "value": [ 7.013392, 50.851029 ]
+            "value": [ 7.0134073, 50.8510117 ]
           },
           "buildings": {
             "state": "#unknown"
@@ -5671,7 +5606,7 @@
           "info": {
             "state": "#unknown"
           },
-          "notes": "",
+          "notes": "Hier konnten wir leider keine Infotafel mehr finden und das Objekt nicht zuordnen.",
           "wiki": {
             "state": "#unknown"
           },
@@ -5684,9 +5619,8 @@
           "trackSubpt": "",
           "quarter": "Langel",
           "predecessor": "7.2.13",
-          "successor": "7.2.15",
-          "inactive": true,
-          "title": "ehem. Telegraphenstation",
+          "successor": "",
+          "title": "e|hem. Te|le|gra|phen|sta|tion",
           "description": {
             "state": "#ok",
             "value": "Die ehemalige, 1832/33 erbaute, baulich stark veränderte Telegraphenstation, Loorweg 155, mit einem heute drei-, früher viergeschossigen Turm, war Teil der preußischen optischen Telegraphenlinie zwischen Berlin und Koblenz. Der Turm verband das Signal in Spich mit demjenigen auf dem Westwerk von St. Pantaleon in Köln."
@@ -5702,43 +5636,13 @@
           "info": {
             "state": "#unknown"
           },
-          "notes": "",
+          "notes": "Die nachfolgenden Infotafeln konnte auf den Karten nicht lokalisiert werden und wurden ausgelassen. Damit ist dies das vorläufige Ende des Pfades.",
           "wiki": {
             "state": "#n/a"
           },
           "monumentNo": {
             "state": "#ok",
             "value": 4905
-          }
-        },
-        "7.2.99": {
-          "trackPoint": 99,
-          "trackSubpt": "",
-          "quarter": "",
-          "predecessor": "7.2.14",
-          "successor": "",
-          "inactive": true,
-          "title": "...",
-          "description": {
-            "state": "#unknown",
-            "value": ""
-          },
-          "mapPosition": {
-            "state": "#unknown",
-            "value": []
-          },
-          "buildings": {
-            "state": "#unknown"
-          },
-          "info": {
-            "state": "#unknown"
-          },
-          "notes": "",
-          "wiki": {
-            "state": "#unknown"
-          },
-          "monumentNo": {
-            "state": "#unknown"
           }
         }
       }
@@ -5755,28 +5659,27 @@
           "quarter": "",
           "predecessor": "",
           "successor": "7.3.1",
-          "inactive": true,
-          "title": "Start Tour 3",
+          "title": "Start Kul|tur|pfad 7.3 Porz",
           "description": {
             "state": "#ok",
-            "value": "Der Pfad Proz 3 führt über Kalk, Poll, Westhofen, Ensen und Gremberghoven nach Porz.<br/>Startpunkt ist an der S-Bahn Haltestelle Trimbornstraße und Endpunkt nahe der Haltestelle Porz(Rhein).<br/><br/><i>Es ist zu beachten, dass der Pfad durch einige Einbahnstraßen entgegen der Fahrtrichtung führt. Hier bitte vom Fahrrad absteigen.</i>"
+            "value": "Der Pfad führt über Kalk, Poll, Westhofen, Ensen und Gremberghoven nach Porz.<br/>Startpunkt ist an der S-Bahn Haltestelle Trimbornstraße und Endpunkt nahe der Haltestelle Porz(Rhein).<br/><br/><i>Es ist zu beachten, dass der Pfad durch einige Einbahnstraßen entgegen der Fahrtrichtung führt. Hier bitte vom Fahrrad absteigen.</i>"
           },
           "mapPosition": {
             "state": "#ok",
             "value": [ 6.9975187988, 50.9350904129 ]
           },
           "buildings": {
-            "state": "#unknown"
+            "state": "#n/a"
           },
           "info": {
-            "state": "#unknown"
+            "state": "#n/a"
           },
           "notes": "",
           "wiki": {
-            "state": "#unknown"
+            "state": "#n/a"
           },
           "monumentNo": {
-            "state": "#unknown"
+            "state": "#n/a"
           }
         },
         "7.3.1": {
@@ -5785,18 +5688,17 @@
           "quarter": "",
           "predecessor": "7.3.0",
           "successor": "7.3.2",
-          "inactive": true,
           "title": "Milchmädchensiedlung",
           "description": {
             "state": "#ok",
-            "value": "Auf einem durch die Siegburger Straße, die Eisenbahnstrecke und den Friedhof begrenzten Areal (Rolshover Kirchweg, Allerseelenstraße, An den Maien) wurde 1919-21 nach Plänen von E. Mewes die &quot;Milchmädchensiedlung&quot; im Heimatstil städtischer Prägung nach dem Konzept des &quot;stadtnahen Wohnens im Grünen&quot; errichtet. Mit ihr wurde die letzte reine Einfamilienhaus-Siedlung in Köln geschaffen. Städtebaulicher Mittelpunkt ist der Efeuplatz mit &quot;Milchmädchen&quot;-Plastik (um 1922). Obwohl heute im Erscheinungsbild startk verändert, sind ursprl. Aufbau und Gliederung der Siedlung weiterhin gut zu erkennen."
+            "value": "Auf einem durch die Siegburger Straße, die Eisenbahnstrecke und den Friedhof begrenzten Areal (Rolshover Kirchweg, Allerseelenstraße, An den Maien) wurde 1919-21 nach Plänen von E. Mewes die \"Milchmädchensiedlung\" im Heimatstil städtischer Prägung nach dem Konzept des \"stadtnahen Wohnens im Grünen\" errichtet. Mit ihr wurde die letzte reine Einfamilienhaus-Siedlung in Köln geschaffen. Städtebaulicher Mittelpunkt ist der Efeuplatz mit \"Milchmädchen\"-Plastik (um 1922). Obwohl heute im Erscheinungsbild startk verändert, sind ursprl. Aufbau und Gliederung der Siedlung weiterhin gut zu erkennen."
           },
           "mapPosition": {
             "state": "#ok",
             "value": [ 6.9867518, 50.9216516 ]
           },
           "buildings": {
-            "state": "#unknown"
+            "state": "#area"
           },
           "info": {
             "state": "#unknown"
@@ -5816,8 +5718,7 @@
           "quarter": "Poll",
           "predecessor": "7.3.1",
           "successor": "7.3.3",
-          "inactive": true,
-          "title": "Siedlung Altenberger Kreuzweg",
+          "title": "Sied|lung Al|ten|ber|ger Kreuz|weg",
           "description": {
             "state": "#ok",
             "value": "Die Siedlung Altenberger Kreuzweg wurde 1927-29 nach den Plänen von E. Mewes auf den Grundriß eines unregelmäßigen Fünfecks (Am Altenberger Kreuz, Im Mittelfeld, Siegburger Straße, Bahnstraße) als Ergänzung der Milchmädchensiedlung aus zu symmetrischen Reihen geordneten 15 Mehr- und Einfamilienhäusern errichtet. Städtebaulicher Mittelpunkt ist die Dreifaltigkeitskirche, Am Altenberger Kreuz, neu geschaffen von K. Band 1951-54 unter Einbeziehung der Mauerreste der kriegszerstörten Vorgängerin."
@@ -5827,7 +5728,7 @@
             "value": [ 6.9899755, 50.9198035 ]
           },
           "buildings": {
-            "state": "#unknown"
+            "state": "#area"
           },
           "info": {
             "state": "#unknown"
@@ -5847,8 +5748,7 @@
           "quarter": "Poll",
           "predecessor": "7.3.2",
           "successor": "7.3.4",
-          "inactive": true,
-          "title": "Wegekreuz",
+          "title": "We|ge|kreuz",
           "description": {
             "state": "#unknown",
             "value": ""
@@ -5878,8 +5778,7 @@
           "quarter": "Poll",
           "predecessor": "7.3.3",
           "successor": "7.3.5",
-          "inactive": true,
-          "title": "Rolshover Hof",
+          "title": "Rols|ho|ver Hof",
           "description": {
             "state": "#unknown",
             "value": ""
@@ -5910,8 +5809,7 @@
           "quarter": "Poll",
           "predecessor": "7.3.4",
           "successor": "7.3.6a",
-          "inactive": true,
-          "title": "Bildstock",
+          "title": "Bild|stock",
           "description": {
             "state": "#unknown",
             "value": ""
@@ -5941,8 +5839,7 @@
           "quarter": "Poll",
           "predecessor": "7.3.5",
           "successor": "7.3.6b",
-          "inactive": true,
-          "title": "Histor. Gebäudegruppe Auf dem Sandberg (Teil 1)",
+          "title": "His|tor. Ge|bäu|de|grup|pe Auf dem Sand|berg (Teil 1)",
           "description": {
             "state": "#ok",
             "value": "Das vorstädtische Siedlungswachstum zu Beginn des 20. Jh. und die bauästhetischen Bedürfnisse der Bauherren der Zeit dokumentiert die historische Gebäudegruppe auf dem Sandberg, 92, 96, 98, 112, 114, 116 und 99, ..."
@@ -5982,8 +5879,7 @@
           "quarter": "Poll",
           "predecessor": "7.3.6a",
           "successor": "7.3.7",
-          "inactive": true,
-          "title": "Histor. Gebäudegruppe Auf dem Sandberg (Teil 2)",
+          "title": "His|tor. Ge|bäu|de|grup|pe Auf dem Sand|berg (Teil 2)",
           "description": {
             "state": "#ok",
             "value": "... während die Nr. 18 sowie die Nr. 21-21c (drei für einen drei Generationen umfassenden Familienverbund hintereinander errichtete Bauten) an den älteren, dörflichen Charakter Polls bis in die 2. Hälfte des 19. Jh. erinnern."
@@ -6027,8 +5923,7 @@
           "quarter": "Poll",
           "predecessor": "7.3.6",
           "successor": "7.3.8",
-          "inactive": true,
-          "title": "Alte Poller Schule",
+          "title": "Al|te Poller Schu|le",
           "description": {
             "state": "#ok",
             "value": "Das um 1900 erbaute Schulhaus, Poller Hauptstraße 61-65, hat eine reich verzierte mehrfarbige Backsteinfassade."
@@ -6059,8 +5954,7 @@
           "quarter": "Poll",
           "predecessor": "7.3.7",
           "successor": "7.3.9",
-          "inactive": true,
-          "title": "Backstein- u. Fachwerkhäuser des 19. Jh.",
+          "title": "Back|stein- u. Fach|werk|häu|ser des 19. Jh.",
           "description": {
             "state": "#ok",
             "value": "Ein Ensemble ein- bis zweigeschossiger, meist giebelständiger Backstin- und Fachwerkhäuser des 19. Jh. (teilweise erneuert) bilden die Bauten Poller Hauptstraße 33, 37, 43-47, 51, 53, 46-50, während ... [Fortsetzung siehe 3.9]"
@@ -6127,12 +6021,11 @@
           "trackSubpt": "",
           "quarter": "Poll",
           "predecessor": "7.3.8",
-          "successor": "7.3.10",
-          "inactive": true,
-          "title": "&quot;Gründerzeitliche&quot; Häuser",
+          "successor": "7.3.10a",
+          "title": "\"Grün|der|zeit|liche\" Häu|ser",
           "description": {
             "state": "#ok",
-            "value": "[Fortsetzung zu 3.8] ... die Salmstraße noch eine Anzahl &quot;gründerzeitlicher&quot;, zwischen 1880 und 1912 errichteter zweigeschossiger Häuser mit Stuck-, Backstein- und Putzfassaden aufweist (Nr. 73-85, 91, 74, 76, 94)."
+            "value": "[Fortsetzung zu 3.8] ... die Salmstraße noch eine Anzahl \"gründerzeitlicher\", zwischen 1880 und 1912 errichteter zweigeschossiger Häuser mit Stuck-, Backstein- und Putzfassaden aufweist (Nr. 73-85, 91, 74, 76, 94)."
           },
           "mapPosition": {
             "state": "#ok",
@@ -6193,12 +6086,11 @@
         },
         "7.3.10a": {
           "trackPoint": 10,
-          "trackSubpt": "b",
+          "trackSubpt": "a",
           "quarter": "Poll",
           "predecessor": "7.3.9",
           "successor": "7.3.10b",
-          "inactive": true,
-          "title": "St. Joseph",
+          "title": "St. Jo|seph",
           "description": {
             "state": "#ok",
             "value": "Im Ortskern wurde die kathol. Pfarrkirche St. Joseph, Kirchplatz 1a, nach Plänen H. Nagelschmidts 1862-64 als ursprgl. neugotische dreischiffige Backsteinbasilika erbaut und nach schwerer Kriegszerstörung unter Beibehaltung der Umfassungsmauern und der unteren Geschosse des Westturmes seit 1951 von A. Hauk und M. Krantz neu errichtet. Die Chorausstattung hat 1955 H. Rheindorf geschaffen."
@@ -6229,8 +6121,7 @@
           "quarter": "Poll",
           "predecessor": "7.3.10a",
           "successor": "7.3.11",
-          "inactive": true,
-          "title": "Pestkreuz",
+          "title": "Pest|kreuz",
           "description": {
             "state": "#ok",
             "value": "Am Kirchplatz/Ecke Poller Hauptstraße ein Pestkreuz (1666) aus Trachyt, seit 1891 an seinem jetzigen Ort."
@@ -6260,8 +6151,7 @@
           "quarter": "",
           "predecessor": "7.3.10",
           "successor": "7.3.12",
-          "inactive": true,
-          "title": "Wasserwerk",
+          "title": "Was|ser|werk",
           "description": {
             "state": "#unknown",
             "value": ""
@@ -6293,8 +6183,7 @@
           "quarter": "",
           "predecessor": "7.3.11",
           "successor": "7.3.13",
-          "inactive": true,
-          "title": "Engelshof",
+          "title": "En|gels|hof",
           "description": {
             "state": "#unknown",
             "value": ""
@@ -6326,8 +6215,7 @@
           "quarter": "",
           "predecessor": "7.3.12",
           "successor": "7.3.14",
-          "inactive": true,
-          "title": "",
+          "title": "Un|be|kann|tes Ob|jekt",
           "description": {
             "state": "#unknown",
             "value": ""
@@ -6356,8 +6244,7 @@
           "quarter": "",
           "predecessor": "7.3.13",
           "successor": "7.3.15",
-          "inactive": true,
-          "title": "",
+          "title": "Un|be|kann|tes Ob|jekt",
           "description": {
             "state": "#unknown",
             "value": ""
@@ -6386,8 +6273,7 @@
           "quarter": "Ensen",
           "predecessor": "7.3.14",
           "successor": "7.3.16",
-          "inactive": true,
-          "title": "Amerikakreuz",
+          "title": "A|me|ri|ka|kreuz",
           "description": {
             "state": "#ok",
             "value": "Am Marktplatz steht das 4,20 m hohe sog. Amerikakreuz, aus Sandstein, gestiftet 1869 vom Amerika-Auswanderer Balthasar Schmitz, dessen Eltern an der Stelle des heutigen Marktplatzes einen eigenen Hof bewirtschafteten."
@@ -6397,7 +6283,7 @@
             "value": [ 7.0286681157953685, 50.897884921400255 ]
           },
           "buildings": {
-            "state": "#unknown"
+            "state": "#n/a"
           },
           "info": {
             "state": "#unknown"
@@ -6417,8 +6303,7 @@
           "quarter": "Ensen",
           "predecessor": "7.3.15",
           "successor": "7.3.17",
-          "inactive": true,
-          "title": "St. Laurentius",
+          "title": "St. Lau|ren|ti|us",
           "description": {
             "state": "#ok",
             "value": "Kathol. Pfarrkirche St. Laurentius, Kölner Straße, 1894-96 von Th. Kremer als neugotische, dreischiffige Stufenhalle mit eingezogenem Chor, Satteldach mit Quergiebeln und Dachreiter und einem Vierkantturm errichtet. Wiederaufbau und Erneuerung der Innenausstattung nach Kriegszerstörung 1951. Die reiche, sich in den Dachzonen von Langhaus und Turm konzentrierende Detailbildung macht den Bau trotz eher bescheidener Ausmaße zum Blickfang vom Rheinufer her.<br/>An der Kirche das 1932 errichtete Kriegerdenkmal (Entwurf H. Euler/Westhoven) für die Gefallenen des Ersten Weltkriegs, eine Stele aus grob gehauenen Backsteinquadern."
@@ -6463,8 +6348,7 @@
           "quarter": "Ensen",
           "predecessor": "7.3.16",
           "successor": "7.3.18",
-          "inactive": true,
-          "title": "",
+          "title": "Un|be|kann|tes Ob|jekt",
           "description": {
             "state": "#unknown",
             "value": ""
@@ -6493,11 +6377,10 @@
           "quarter": "Ensen",
           "predecessor": "7.3.17",
           "successor": "7.3.19",
-          "inactive": true,
-          "title": "Alexianer-Krankenhaus-Komplex",
+          "title": "A|lex|i|a|ner-Kran|ken|haus-Kom|plex",
           "description": {
             "state": "#ok",
-            "value": "Das Alexianer-Krankenhaus, Kölner Str. 64, wurde 1905-08 auf dem Gelände des Gutes &quot;Rotes Haus&quot; vom Kölner Diözesan-Baumeister H. Renard als Klinik für psychisch Kranke errichtet. Kernstück der Symmetrischen Mehrflügelanlage inmitten eines Parks ist der dreigeschossige Mittelriegel mit Backstein- und Putzfassade im &quot;Bergischen Barock&quot;, inspiriert von den Schloßbauten des 17. u. 18. Jh. im bergischen Teil des Rheinlandes."
+            "value": "Das Alexianer-Krankenhaus, Kölner Str. 64, wurde 1905-08 auf dem Gelände des Gutes \"Rotes Haus\" vom Kölner Diözesan-Baumeister H. Renard als Klinik für psychisch Kranke errichtet. Kernstück der Symmetrischen Mehrflügelanlage inmitten eines Parks ist der dreigeschossige Mittelriegel mit Backstein- und Putzfassade im \"Bergischen Barock\", inspiriert von den Schloßbauten des 17. u. 18. Jh. im bergischen Teil des Rheinlandes."
           },
           "mapPosition": {
             "state": "#ok",
@@ -6526,8 +6409,7 @@
           "quarter": "Ensen",
           "predecessor": "7.3.18",
           "successor": "7.3.20",
-          "inactive": true,
-          "title": "zwei Villen",
+          "title": "zwei Vil|len",
           "description": {
             "state": "#ok",
             "value": "Die beiden zum Alexianer-Komplex gehörenden zweigeschossigen Villen, Kölner Str. 60 u. 62 in verwinkelter Bauweise mit Stuck- bzw. Putzfassaden, wurden 1905 erbaut."
@@ -6567,8 +6449,7 @@
           "quarter": "",
           "predecessor": "7.3.19",
           "successor": "7.3.21",
-          "inactive": true,
-          "title": "Siedlung Gremberghoven",
+          "title": "Sied|lung Grem|berg|ho|ven",
           "description": {
             "state": "#ok",
             "value": "Ein typisches Beispiel für Arbeitersiedlungen im 1. Drittel des 20. Jh. ist die Siedlung Gremberghoven, 1919-22 nach der Idee der Gartenstadt mit großen Gärten zur Selbstversorgung nach M. Kießlings für die bediensteten des Rangierbahnhofs Gremberg (angelegt 1917-24) errichtet. Ein- bis dreigeschossige Ein- u. Mehrfamilienhäuser mit Putzfassaden vereinen sich mit Straßen und Gärten auf dem ellipsenförmigen Siedlungsgrundriß zu einem großräumigen, symmetrisch gegliederten Rondell. Wiederaufbau 1951 nach Kriegszerstörungen mit gewissen Veränderungen."
@@ -6600,14 +6481,13 @@
           "quarter": "",
           "predecessor": "7.3.20",
           "successor": "7.3.22",
-          "inactive": true,
-          "title": "",
+          "title": "Un|be|kann|tes Ob|jekt",
           "description": {
             "state": "#unknown",
             "value": ""
           },
           "mapPosition": {
-            "state": "#unknown",
+            "state": "#check",
             "value": [ 7.063396, 50.90513 ]
           },
           "buildings": {
@@ -6630,8 +6510,7 @@
           "quarter": "Porz",
           "predecessor": "7.3.21",
           "successor": "7.3.23",
-          "inactive": true,
-          "title": "Schöffenkreuz",
+          "title": "Schöf|fen|kreuz",
           "description": {
             "state": "#ok",
             "value": "An das alte dörfliche Porz erinnert das sog. Schöffenkreuz aus Trachyt, gestiftet 1667 vom Schöffen Bertram Hermans und seiner Ehefrau Margriet."
@@ -6662,8 +6541,7 @@
           "quarter": "Porz",
           "predecessor": "7.3.22",
           "successor": "7.3.24",
-          "inactive": true,
-          "title": "",
+          "title": "Un|be|kann|tes Ob|jekt",
           "description": {
             "state": "#unknown",
             "value": ""
@@ -6694,8 +6572,7 @@
           "quarter": "Porz",
           "predecessor": "7.3.23",
           "successor": "7.3.25",
-          "inactive": true,
-          "title": "",
+          "title": "St. Jo|sef",
           "description": {
             "state": "#unknown",
             "value": ""
@@ -6727,8 +6604,7 @@
           "quarter": "Porz",
           "predecessor": "7.3.24",
           "successor": "7.3.26",
-          "inactive": true,
-          "title": "Wohn- u. Geschäftshaus",
+          "title": "Wohn- u. Ge|schäfts|haus",
           "description": {
             "state": "#ok",
             "value": "1912 ließ Bäckermeister Billstein sein dreigeschossiges Wohn- und Geschäftshaus, Hauptstr. 398, mit rückwärtiger Backstube bauen. Die breite Stuckfassade mit geschungenem Ziergiebel und farbigem Blumendekor, eine reizvolle Mischung aus Jugendstil und Barock, macht das Haus zu einem der auffälligsten der Straße."
@@ -6759,8 +6635,7 @@
           "quarter": "Porz",
           "predecessor": "7.3.25",
           "successor": "7.3.27",
-          "inactive": true,
-          "title": "Wohnhaus",
+          "title": "Wohn|haus",
           "description": {
             "state": "#ok",
             "value": "Um 1900 entstand das zweigeschossige Wohnhaus Hauptstr. 388 mit Mittelgiebel und Zahnfries am Traufgesims. Es ist das einzige hier erhaltene mit einer zweifarbigen Backsteinfassade, mit der es sich sowohl an die frühere dörfliche Bebauung als auch mit der dekorativen Gestaltung an die städtische Architektur anpaßt. Zum historischen Ansemble gehören auch die Häuser Nr. 352, 368, 394, 327."
@@ -6808,8 +6683,7 @@
           "quarter": "Porz",
           "predecessor": "7.3.26",
           "successor": "7.3.28",
-          "inactive": true,
-          "title": "Villa Dr. Hollstein, Villa Ahren, Villa Broischer",
+          "title": "Vil|la Dr. Holl|stein, Vil|la Ah|ren, Vil|la Broi|scher",
           "description": {
             "state": "#ok",
             "value": "Zum historischen Ensemble der Hauptstraße gehören die Villa Dr. Hollstein (Nr. 303), die Villa Ahren (Nr. 305) sowie die Villa Broischer (Nr. 307), die am südlichen Ortsrand des alten Porz in bevorzugter Lage nahe am Rhein liegen. Sie wurden zwischen 1900 (Villa Dr. Hollstein) und 1912 errichtet. Trotz mancher Modernisierungsmaßname ist ihr aufwendiger Wohnstand noch ablesbar. Die Villa Dr. Hollstein besitzt noch den Vorgarten, die originalen schmiedeeisernen Tore mit dem Einfriedungsgitter, sowie die Remise. In den Villengärten stehen noch drei Blutbuchen als Naturdenkmäler."
@@ -6845,8 +6719,7 @@
           "quarter": "Porz",
           "predecessor": "7.3.27",
           "successor": "7.3.29",
-          "inactive": true,
-          "title": "Lukaskirche",
+          "title": "Lu|kas|kir|che",
           "description": {
             "state": "#ok",
             "value": "Die evangel. Lukaskirche, Mühlenstr. 2, wurde 1914 von M. Benirschke als Saalkirche mit Rechteckchor und jugendstilgeprägtem, an J. M. Olbrichs Darmstädter Hochzeits-Turm erinnernden Fassadenturm geschaffen. Die expressionistische, sehr farbige Innenausstattung stammt von H. Derckum (vollendet 1927). 1977-80 erfolgte die denkmalpflegerische Wiederherstellung des unsprünglichen Zustandes durch die Architekten Thon und Baedorf."
@@ -6878,8 +6751,7 @@
           "quarter": "Porz",
           "predecessor": "7.3.28",
           "successor": "7.3.30",
-          "inactive": true,
-          "title": "Straßenbahnwartehalle",
+          "title": "Stra|ßen|bahn|war|te|hal|le",
           "description": {
             "state": "#ok",
             "value": "Aus der ersten Wiederaufbauphase nach dem Zweiten Weltkrieg verfügt Köln über eine Anzahl von Gebäuden von hoher architektonischer Qualität. Die teilweise leichte, beschwingte Flachdacharchitektur mit organischer Linienführung und gegliedertem Sichtbetonstützwerk wurde auch auf kleine Bauten wie die Straßenbahnwartehalle mit Kiosk, Mühlenstr. o. Nr., übertragen. Sie wurde 1952 über einem gekurvten Grundriß pavillonartig mit großen Fenstern und einem besondere Akzente setzenden, weitvorkragenden Flachdach errichtet."
@@ -6910,8 +6782,7 @@
           "quarter": "Porz",
           "predecessor": "7.3.29",
           "successor": "7.3.31",
-          "inactive": true,
-          "title": "Germania-Siedlung",
+          "title": "Ger|ma|nia-Sied|lung",
           "description": {
             "state": "#ok",
             "value": "Die Germania-Siedlung (Bahnhofstr./Concordiaplatz/Germaniastr./Glasstr.) wurde zwischen 1899 und 1903 abseits der Bürgermeisterei Porz auf rautenförmigem Grundriß angelegt, ein Ensemble aus Fabrik, Direktorenvilla und Park (Concordiaplatz), Meisterhäusern (Germaniastr.), Angestellten- und Arbeiterhäusern (Glasstr.) für die Belegschaft der Germania-Spiegelglaswerke. Anlage und Architektur der Häuser spiegelten die zeitgenössische berufsständische Gliederung des Werks und die soziale Hierarchie der Bewohner wieder; je höher ihr Status, desto näher an der Fabrik wohnten sie! Die noch nahezu geschlossen erhaltene Siedlung von seltener gestalterischer und architektonischer Vielfalt ist die einzige ihrer Art in Köln."
@@ -6942,8 +6813,7 @@
           "quarter": "Porz",
           "predecessor": "7.3.30",
           "successor": "",
-          "inactive": true,
-          "title": "Bahnhof Porz",
+          "title": "Bahn|hof Porz",
           "description": {
             "state": "#unknown",
             "value": ""
@@ -6981,7 +6851,7 @@
           "quarter": "",
           "predecessor": "",
           "successor": "7.4.1",
-          "title": "Start Kul&shy;tur&shy;pfad 7.4 Porz",
+          "title": "Start Kul|tur|pfad 7.4 Porz",
           "description": {
             "state": "#ok",
             "value": "Die Tour durch Zündorf ist etwa 6 km lang und startet an der Haltestelle Rosenhügel der Linie 7. Endpunkt ist dann die Haltestelle Zündorf.<br/>Die Reihenfolge einiger Infotafeln wurde für einen besseren Wegverlauf umsortiert."
@@ -6991,17 +6861,17 @@
             "value": [ 7.0602817, 50.8743422 ]
           },
           "buildings": {
-            "state": "#unknown"
+            "state": "#n/a"
           },
           "info": {
-            "state": "#unknown"
+            "state": "#n/a"
           },
           "notes": "",
           "wiki": {
-            "state": "#unknown"
+            "state": "#n/a"
           },
           "monumentNo": {
-            "state": "#unknown"
+            "state": "#n/a"
           }
         },
         "7.4.1": {
@@ -7010,10 +6880,10 @@
           "quarter": "Zündorf",
           "predecessor": "7.4.0",
           "successor": "7.4.2",
-          "title": "Jü&shy;di&shy;scher Fried&shy;hof",
+          "title": "Jü|di|scher Fried|hof",
           "description": {
             "state": "#ok",
-            "value": "Aus der jüdischen Gemeinde gingen zahlreiche für Zündorf wichtige Unternehmer hervor. Eine Judengasse war hier 1825 und 1854 verzeichnet. 1880 entstand die bis 1938 bestehende Synagoge (Hauptstr. 159; heute ein Wohnhaus). Der ehemalige jüdische Friedhof ist zwischen Gartenweg und Hasenkaul gelegen<b/>Nach der Befreiung Deutschlands vom Nationalsozialismus 1945 ist die jüdische Gemeinde nicht wiederentstanden."
+            "value": "Aus der jüdischen Gemeinde gingen zahlreiche für Zündorf wichtige Unternehmer hervor. Eine Judengasse war hier 1825 und 1854 verzeichnet. 1880 entstand die bis 1938 bestehende Synagoge (Hauptstr. 159; heute ein Wohnhaus). Der ehemalige jüdische Friedhof ist zwischen Gartenweg und Hasenkaul gelegen<br/>Nach der Befreiung Deutschlands vom Nationalsozialismus 1945 ist die jüdische Gemeinde nicht wiederentstanden."
           },
           "mapPosition": {
             "state": "#ok",
@@ -7028,7 +6898,8 @@
           },
           "notes": "",
           "wiki": {
-            "state": "#n/a"
+            "state": "#ok",
+            "value": "Jüdischer_Friedhof_(Zündorf)"
           },
           "monumentNo": {
             "state": "#ok",
@@ -7040,19 +6911,18 @@
           "trackSubpt": "",
           "quarter": "",
           "predecessor": "7.4.1",
-          "successor": "7.4.3",
-          "inactive": true,
-          "title": "Turmhof und Werturm",
+          "successor": "7.4.4",
+          "title": "Turm|hof und Wer|turm",
           "description": {
             "state": "#unknown",
             "value": ""
           },
           "mapPosition": {
-            "state": "#unknown",
+            "state": "#check",
             "value": [ 7.046023, 50.8704183 ]
           },
           "buildings": {
-            "state": "#unknown",
+            "state": "#check",
             "value": [[[7.0452702, 50.87062], [7.0451379, 50.8704884], [7.0452627, 50.8704385], [7.0453717, 50.8703948], [7.0454334, 50.8704556], [7.0453231, 50.8704996], [7.0453931, 50.8705708], [7.0452702, 50.87062]], [[7.0452608, 50.8707107], [7.045212, 50.8706379], [7.0452702, 50.87062], [7.0453224, 50.8706036], [7.0453778, 50.8706766], [7.0452608, 50.8707107]]]
           },
           "info": {
@@ -7067,14 +6937,44 @@
             "value": 542
           }
         },
+        "7.4.4": {
+          "trackPoint": 4,
+          "trackSubpt": "",
+          "quarter": "",
+          "predecessor": "7.4.2",
+          "successor": "7.4.3",
+          "title": "Fach|werk|haus",
+          "description": {
+            "state": "#ok",
+            "value": "Das giebelständige Fachwerkhaus Gütergasse 21 wurde wahrscheinlich im 18. Jh. errichtet (restauriert 1987-90). Das Erdgeschoss soll einst die Dorfapotheke beherbergt haben."
+          },
+          "mapPosition": {
+            "state": "#ok",
+            "value": [ 7.04486744875296, 50.86984318741871 ]
+          },
+          "buildings": {
+            "state": "#ok",
+            "value": [[[7.0447873, 50.8698392], [7.0447603, 50.8698161], [7.0448038, 50.8697959], [7.0447578, 50.8697531], [7.04477, 50.8697474], [7.0448162, 50.8697271], [7.0448905, 50.869794], [7.0447873, 50.8698392]]]
+          },
+          "info": {
+            "state": "#unknown"
+          },
+          "notes": "",
+          "wiki": {
+            "state": "#n/a"
+          },
+          "monumentNo": {
+            "state": "#ok",
+            "value": 4210
+          }
+        },
         "7.4.3": {
           "trackPoint": 3,
           "trackSubpt": "",
           "quarter": "",
-          "predecessor": "7.4.2",
-          "successor": "7.4.4",
-          "inactive": true,
-          "title": "ehem. Wohnhaus Pelletier",
+          "predecessor": "7.4.4",
+          "successor": "7.4.5",
+          "title": "ehem. Wohn|haus Pel|le|tier",
           "description": {
             "state": "#ok",
             "value": "Das ehem. Wohnhaus des Kaufmanns Pelletier, Gütergasse 33-41, wurde 1750 vom Architekten J.G. Leydel erbaut. 1864 in ein Cellitinnen-Kloster mit Altenheim (St. Josephs-Altenheim) und einer neugotischen (heute profanisierten) Kapelle umgewandelt, entstand 1974 aus dem Komplex eine private Wohnanlage."
@@ -7112,46 +7012,13 @@
             ]
           }
         },
-        "7.4.4": {
-          "trackPoint": 4,
-          "trackSubpt": "",
-          "quarter": "",
-          "predecessor": "7.4.3",
-          "successor": "7.4.5",
-          "inactive": true,
-          "title": "Fachwerkhaus",
-          "description": {
-            "state": "#ok",
-            "value": "Das giebelständige Fachwerkhaus Gütergasse 21 wurde wahrscheinlich im 18. Jh. errichtet (restauriert 1987-90). Das Erdgeschoss soll einst die Dorfapotheke beherbergt haben."
-          },
-          "mapPosition": {
-            "state": "#ok",
-            "value": [ 7.04486744875296, 50.86984318741871 ]
-          },
-          "buildings": {
-            "state": "#ok",
-            "value": [[[7.0447873, 50.8698392], [7.0447603, 50.8698161], [7.0448038, 50.8697959], [7.0447578, 50.8697531], [7.04477, 50.8697474], [7.0448162, 50.8697271], [7.0448905, 50.869794], [7.0447873, 50.8698392]]]
-          },
-          "info": {
-            "state": "#unknown"
-          },
-          "notes": "",
-          "wiki": {
-            "state": "#n/a"
-          },
-          "monumentNo": {
-            "state": "#ok",
-            "value": 4210
-          }
-        },
         "7.4.5": {
           "trackPoint": 5,
           "trackSubpt": "",
           "quarter": "",
-          "predecessor": "7.4.4",
+          "predecessor": "7.4.3",
           "successor": "7.4.6",
-          "inactive": true,
-          "title": "Siedlung Gütergasse",
+          "title": "Sied|lung Gü|ter|gas|se",
           "description": {
             "state": "#ok",
             "value": "Im Bereich zw. Gütergasse, Hauptstr., Enggasse und Leinpfad wurde 1982-86 von G. Böhm die sich an der historischen dörflichen Bebauung Zündorfs orientierende Reihenhaussiedlung errichtet."
@@ -7181,11 +7048,10 @@
           "quarter": "",
           "predecessor": "7.4.5",
           "successor": "7.4.7",
-          "inactive": true,
-          "title": "&quot;Kleines Teehaus&quot;",
+          "title": "\"Klei|nes Tee|haus\"",
           "description": {
             "state": "#ok",
-            "value": "Zwischen Turmhof und Markt steht an der Rheinpromenade neben einer Trauerweide (Naturdenkmal) das &quot;Kleine Teehaus&quot; der ehem. Brauerei Immendorff, ein Jugendstil-Pavillon aus dem Jahre 1910."
+            "value": "Zwischen Turmhof und Markt steht an der Rheinpromenade neben einer Trauerweide (Naturdenkmal) das \"Kleine Teehaus\" der ehem. Brauerei Immendorff, ein Jugendstil-Pavillon aus dem Jahre 1910."
           },
           "mapPosition": {
             "state": "#ok",
@@ -7212,7 +7078,6 @@
           "quarter": "",
           "predecessor": "7.4.6",
           "successor": "7.4.8",
-          "inactive": true,
           "title": "Groov",
           "description": {
             "state": "#ok",
@@ -7244,8 +7109,7 @@
           "quarter": "",
           "predecessor": "7.4.7",
           "successor": "7.4.9",
-          "inactive": true,
-          "title": "Marktplatz mit Nepomuk-Statue und Kriegerdenkmal",
+          "title": "Markt|platz mit Ne|po|muk-Sta|tu|e und Krie|ger|denk|mal",
           "description": {
             "state": "#ok",
             "value": "Der Marktplatz bildet mit der ihn begrenzenden, weitgehend noch geschlossen erhaltenen Bebauung ein für Zündorf charakteristisches Ensemble. Das Haus Am Markt 4 stammt in seinem Kern wohl ebenso aus dem 18. Jh. (Putzfassade 19. Jh.) wie die Hofanlage Am Markt 6, ein teilw. verputztes Fachwerkhaus mit werksteingefaßten Fenster- und Türgewänden. Zum Schutz gegen das Hochwasser ist die Front zum Rhein hin gemauert.<br/>Im Zentrum des Platzes steht die 1775 von den Zündorfer Schiffern gestiftete Statue des hl. Johannes aus Nepomuk, ihres Schutzpatrons.<br/>Das Kriegerdenkmal aus Haustein wurde 1932 zum Gedenken an die im Ersten Weltkrieg gefallenen Zündorfer errichtet."
@@ -7288,12 +7152,11 @@
           "trackSubpt": "",
           "quarter": "",
           "predecessor": "7.4.8",
-          "successor": "7.4.10",
-          "inactive": true,
-          "title": "Enggasse",
+          "successor": "7.4.13",
+          "title": "Eng|gas|se",
           "description": {
             "state": "#ok",
-            "value": "Die Enggasse bietet ein Ensemble 1&frac12;-2-geschossiger giebelständiger Fachwerk- bzw. Backsteinhäuser des 17.-19. Jh.: Nr. 9 (aus dem 17. Jh., 1984 nach historischem Vorbild erneuert); Nr. 15; Nr. 19 (ein Neubau von 1977-81 unter Verwendung einer alten Fachwerkfassade); Nr. 21; Nr. 16 (ein verputztes Backsteinhäuschen des 19. Jh. mit nach historischem Vorbild erneuerten Klappläden und Haus- und Hoftüren)."
+            "value": "Die Enggasse bietet ein Ensemble 1½-2-geschossiger giebelständiger Fachwerk- bzw. Backsteinhäuser des 17.-19. Jh.: Nr. 9 (aus dem 17. Jh., 1984 nach historischem Vorbild erneuert); Nr. 15; Nr. 19 (ein Neubau von 1977-81 unter Verwendung einer alten Fachwerkfassade); Nr. 21; Nr. 16 (ein verputztes Backsteinhäuschen des 19. Jh. mit nach historischem Vorbild erneuerten Klappläden und Haus- und Hoftüren)."
           },
           "mapPosition": {
             "state": "#ok",
@@ -7336,17 +7199,47 @@
             ]
           }
         },
+        "7.4.13": {
+          "trackPoint": 13,
+          "trackSubpt": "",
+          "quarter": "",
+          "predecessor": "7.4.9",
+          "successor": "7.4.10",
+          "title": "Fach|werk|haus",
+          "description": {
+            "state": "#ok",
+            "value": "Das aufwendig restaurierte Gebäude Hauptstr. 161, ein 1½ geschossiges verputztes Fachwerkhaus mit vorkragendem Obergeschaß, ist das vermutlich älteste erhaltene, aus dem 16. Jahrhundert stammende Haus seiner Art in Zündorf. Das Kellergewölbe ist mttelalterlich."
+          },
+          "mapPosition": {
+            "state": "#ok",
+            "value": [ 7.045003620241526, 50.868707298352035 ]
+          },
+          "buildings": {
+            "state": "#ok",
+            "value": [[[7.0448856, 50.8687911], [7.0448455, 50.8687586], [7.044952, 50.868705], [7.0449921, 50.8687384], [7.0448856, 50.8687911]]]
+          },
+          "info": {
+            "state": "#unknown"
+          },
+          "notes": "",
+          "wiki": {
+            "state": "#n/a"
+          },
+          "monumentNo": {
+            "state": "#ok",
+            "value": 742
+          }
+        },
         "7.4.10": {
           "trackPoint": 10,
           "trackSubpt": "",
           "quarter": "",
-          "predecessor": "7.4.9",
-          "successor": "7.4.11",
-          "inactive": true,
-          "title": "Marktstraße",
+          "predecessor": "7.4.13",
+          "successor": "7.4.12",
+          "title": "Markt|stra|ße",
           "description": {
             "state": "#check",
-            "value": "Häuser des 17. bis 19. Jh. auf der Marktstraße: Nr. 18 (ein Fachwerkbau des 18. Jh. mit doppelter Freitreppe u. zweiflügeliger geschnitzter Eichentür); Nr. 20 (1772 über älterem Vorgänger errichtetes ehem. Stapelhaus des Mülheimer Handelsherrn Dirk van ???? ein Fachwerkbau mit doppel??????er Freitreppe); Nr. 22 (um 1880 gebautes 2-geschossiges, teilw. verputztes Eckhaus zum Markt mit erneuertem Fachwerk); Nr. 5 (ein teilw. verputztes Fachwerkhaus vom Ende 17. Jh.); Nr. 27 (ein 1832 inschriftlich datiertes Fachwerkhaus)."
+            "value": "Häuser des 17. bis 19. Jh. auf der Marktstraße: Nr. 18 (ein Fachwerkbau des 18. Jh. mit doppelter Freitreppe u. zweiflügeliger geschnitzter Eichentür); Nr. 20 (1772 über älterem Vorgänger errichtetes ehem. Stapelhaus des Mülheimer Handelsherrn Dirk van Hees ein Fachwerkbau mit doppel...er Freitreppe); Nr. 22 (um 1880 gebautes 2-geschossiges, teilw. verputztes Eckhaus zum Markt mit erneuertem Fachwerk); Nr. 5 (ein teilw. verputztes Fachwerkhaus vom Ende 17. Jh.); Nr. 27 (ein 1832 inschriftlich datiertes Fachwerkhaus)."
           },
           "mapPosition": {
             "state": "#ok",
@@ -7389,50 +7282,16 @@
             ]
           }
         },
-        "7.4.11": {
-          "trackPoint": 11,
-          "trackSubpt": "",
-          "quarter": "",
-          "predecessor": "7.4.10",
-          "successor": "7.4.12",
-          "inactive": true,
-          "title": "St. Michael",
-          "description": {
-            "state": "#ok",
-            "value": "St. Michael am Burgweg, die alte Pfarrkirche Niederzündorfs (11.–17. Jh.), auf einer leichten Anhöhe über einem alten Rheinarm gelegen, ist ein romanischer Saalbau mit reich verziertem Vierkantturm mit Rautenhelm (1170) im Westen, dreiseitigem Chor im Osten, Kapelle im Süden und Sakristei (1662) im Norden. Das nördl. Seitenschiff wurde 1906 abgebrochen. Im Innern 2 Tafelgemälde aus der Barthel Bruyn-Schule mit Kalvarienberg u. Anbetung der hl. 3 Könige (2. Hälfte 16. Jh.), ein merowingisches Ranklenrelief (7. Jh.) u. Grabsteine des 17. Jh. Der ummauerte Friedhofsbezirk ist mittelalterlichen Ursprungs; auf dem Eingangstor ein 1630 datiertes Grabkreuz."
-          },
-          "mapPosition": {
-            "state": "#ok",
-            "value": [ 7.0429855, 50.8683178 ]
-          },
-          "buildings": {
-            "state": "#ok",
-            "value": [[[7.0423942, 50.8685264], [7.0423891, 50.8684909], [7.0422846, 50.8684972], [7.0422271, 50.8684994], [7.0422241, 50.8684802], [7.0422117, 50.8684809], [7.04221, 50.8684704], [7.0422225, 50.8684696], [7.042218, 50.868441], [7.0422056, 50.8684418], [7.0422026, 50.8684232], [7.0422326, 50.8684215], [7.0422338, 50.8684299], [7.0422799, 50.8684268], [7.0422788, 50.8684189], [7.0422943, 50.8684181], [7.0422954, 50.8684257], [7.0424178, 50.8684194], [7.0424158, 50.8684046], [7.0424515, 50.8684027], [7.0424535, 50.8684175], [7.0425062, 50.8684145], [7.0425458, 50.8684314], [7.042552, 50.8684611], [7.0425196, 50.8684837], [7.042514, 50.868484], [7.0425183, 50.8685142], [7.0425082, 50.86852], [7.0423942, 50.8685264]]]
-          },
-          "info": {
-            "state": "#unknown"
-          },
-          "notes": "",
-          "wiki": {
-            "state": "#ok",
-            "value": "St._Michael_%28K%C3%B6ln-Z%C3%BCndorf%29"
-          },
-          "monumentNo": {
-            "state": "#ok",
-            "value": 1387
-          }
-        },
         "7.4.12": {
           "trackPoint": 12,
           "trackSubpt": "",
           "quarter": "",
-          "predecessor": "7.4.11",
-          "successor": "7.4.13",
-          "inactive": true,
-          "title": "Historische Gebäude am Burgweg",
+          "predecessor": "7.4.10",
+          "successor": "7.4.11",
+          "title": "His|to|ri|sche Ge|bäu|de am Burg|weg",
           "description": {
             "state": "#ok",
-            "value": "Das 1 1/2-geschossige Fachwerkhäuschen (mit verputzter Traufseite) Burgweg Nr. 9 datiert aus dem Jahr 1677. Der Bitzhof, Burgweg Nr. 12, stammt aus dem Jahre 1836. Das zweigeschossige Fachwerkhaus mit einläufiger Außentreppe wurde 1982 innen und außen aufwendig restauriert."
+            "value": "Das 1½-geschossige Fachwerkhäuschen (mit verputzter Traufseite) Burgweg Nr. 9 datiert aus dem Jahr 1677. Der Bitzhof, Burgweg Nr. 12, stammt aus dem Jahre 1836. Das zweigeschossige Fachwerkhaus mit einläufiger Außentreppe wurde 1982 innen und außen aufwendig restauriert."
           },
           "mapPosition": {
             "state": "#ok",
@@ -7463,46 +7322,45 @@
             ]
           }
         },
-        "7.4.13": {
-          "trackPoint": 13,
+        "7.4.11": {
+          "trackPoint": 11,
           "trackSubpt": "",
           "quarter": "",
           "predecessor": "7.4.12",
           "successor": "7.4.14",
-          "inactive": true,
-          "title": "Fachwerkhaus",
+          "title": "St. Mi|cha|el",
           "description": {
             "state": "#ok",
-            "value": "Das aufwendig restaurierte Gebäude Hauptstr. 161, ein 1&frac12; geschossiges verputztes Fachwerkhaus mit vorkragendem Obergeschaß, ist das vermutlich älteste erhaltene, aus dem 16. Jahrhundert stammende Haus seiner Art in Zündorf. Das Kellergewölbe ist mttelalterlich."
+            "value": "St. Michael am Burgweg, die alte Pfarrkirche Niederzündorfs (11.–17. Jh.), auf einer leichten Anhöhe über einem alten Rheinarm gelegen, ist ein romanischer Saalbau mit reich verziertem Vierkantturm mit Rautenhelm (1170) im Westen, dreiseitigem Chor im Osten, Kapelle im Süden und Sakristei (1662) im Norden. Das nördl. Seitenschiff wurde 1906 abgebrochen. Im Innern 2 Tafelgemälde aus der Barthel Bruyn-Schule mit Kalvarienberg u. Anbetung der hl. 3 Könige (2. Hälfte 16. Jh.), ein merowingisches Ranklenrelief (7. Jh.) u. Grabsteine des 17. Jh. Der ummauerte Friedhofsbezirk ist mittelalterlichen Ursprungs; auf dem Eingangstor ein 1630 datiertes Grabkreuz."
           },
           "mapPosition": {
             "state": "#ok",
-            "value": [ 7.045003620241526, 50.868707298352035 ]
+            "value": [ 7.0429855, 50.8683178 ]
           },
           "buildings": {
             "state": "#ok",
-            "value": [[[7.0448856, 50.8687911], [7.0448455, 50.8687586], [7.044952, 50.868705], [7.0449921, 50.8687384], [7.0448856, 50.8687911]]]
+            "value": [[[7.0423942, 50.8685264], [7.0423891, 50.8684909], [7.0422846, 50.8684972], [7.0422271, 50.8684994], [7.0422241, 50.8684802], [7.0422117, 50.8684809], [7.04221, 50.8684704], [7.0422225, 50.8684696], [7.042218, 50.868441], [7.0422056, 50.8684418], [7.0422026, 50.8684232], [7.0422326, 50.8684215], [7.0422338, 50.8684299], [7.0422799, 50.8684268], [7.0422788, 50.8684189], [7.0422943, 50.8684181], [7.0422954, 50.8684257], [7.0424178, 50.8684194], [7.0424158, 50.8684046], [7.0424515, 50.8684027], [7.0424535, 50.8684175], [7.0425062, 50.8684145], [7.0425458, 50.8684314], [7.042552, 50.8684611], [7.0425196, 50.8684837], [7.042514, 50.868484], [7.0425183, 50.8685142], [7.0425082, 50.86852], [7.0423942, 50.8685264]]]
           },
           "info": {
             "state": "#unknown"
           },
           "notes": "",
           "wiki": {
-            "state": "#n/a"
+            "state": "#ok",
+            "value": "St._Michael_%28K%C3%B6ln-Z%C3%BCndorf%29"
           },
           "monumentNo": {
             "state": "#ok",
-            "value": 742
+            "value": 1387
           }
         },
         "7.4.14": {
           "trackPoint": 14,
           "trackSubpt": "",
           "quarter": "",
-          "predecessor": "7.4.13",
+          "predecessor": "7.4.11",
           "successor": "7.4.15",
-          "inactive": true,
-          "title": "St. Mariä Geburt",
+          "title": "St. Ma|ri|ä Ge|burt",
           "description": {
             "state": "#ok",
             "value": "Die kathol. Pfarrkirche St. Mariä Geburt, Hauptstr. 141, 1895/97 nach den Plänen F. Langenbergs erbaut, ist eine dreischiffige neugotische Backstein-Hallenkirche mit mächtigem, das Ortsbild dominierenden schiefergedeckten Vierkantturm an der Eingangsseite. Im Inneren neben den Resten der originalen neugot. Ausstattung und Relikten as der alten Pfarrkirche (Holzskulptur der auf einer Mondsichel thronenden Muttergottes (eine moderne Ausstattung (v. G. Lossow) und seit 1962 von F. Pauli geschaffene Glasfenster. Neben der Kirche ein Wegkreuz (um 1800) aus farbig gefasstem Sandstein."
@@ -7533,15 +7391,14 @@
           "quarter": "",
           "predecessor": "7.4.14",
           "successor": "7.4.16",
-          "inactive": true,
-          "title": "Mellerhof",
+          "title": "Mel|ler|hof",
           "description": {
             "state": "#ok",
-            "value": "Der Mellerhof (ehem. Dulmanshof), Hauptstr. 117-119, heute eine Wohnanlage, war ursprünglich eine um 1800 angelegte geschlossene, vierflügelige Hofanlage (mit älterem Vorgänger), bestehend aus einem 2-geschossigen Fachwerk-Herrrenhaus und aus mehreren eingeschossigen Gesinde- und Wirtschaftsgebäuden in Backstein.<br/>An der Ecke Hauptstr./Houdainer Straße steht das &quot;Mellerkreuz&quot; aus dem Jahre 1711 mit den Wappenschilden der Stifter Theodor Dulman und Maria Elisabeth Bourel, erneuert 1817 von Adolf Meller und seiner Frau Anna, den neuen Hofeigentümern."
+            "value": "Der Mellerhof (ehem. Dulmanshof), Hauptstr. 117-119, heute eine Wohnanlage, war ursprünglich eine um 1800 angelegte geschlossene, vierflügelige Hofanlage (mit älterem Vorgänger), bestehend aus einem 2-geschossigen Fachwerk-Herrrenhaus und aus mehreren eingeschossigen Gesinde- und Wirtschaftsgebäuden in Backstein.<br/>An der Ecke Hauptstr./Houdainer Straße steht das \"Mellerkreuz\" aus dem Jahre 1711 mit den Wappenschilden der Stifter Theodor Dulman und Maria Elisabeth Bourel, erneuert 1817 von Adolf Meller und seiner Frau Anna, den neuen Hofeigentümern."
           },
           "mapPosition": {
-            "state": "#check",
-            "value": [ 7.042727, 50.8671622 ]
+            "state": "#ok",
+            "value": [ 7.0419358, 50.8665471 ]
           },
           "buildings": {
             "state": "#ok",
@@ -7574,14 +7431,13 @@
           "quarter": "",
           "predecessor": "7.4.15",
           "successor": "7.4.17",
-          "inactive": true,
-          "title": "Olefshof",
+          "title": "O|lefs|hof",
           "description": {
             "state": "#unknown",
             "value": ""
           },
           "mapPosition": {
-            "state": "#unknown",
+            "state": "#check",
             "value": [ 7.038361091350058, 50.864223255193785 ]
           },
           "buildings": {
@@ -7615,8 +7471,7 @@
           "quarter": "",
           "predecessor": "7.4.16",
           "successor": "7.4.18",
-          "inactive": true,
-          "title": "St. Martin",
+          "title": "St. Mar|tin",
           "description": {
             "state": "#ok",
             "value": "Die alte kathol. Pfarrkirche St. Martin von Oberzündorf, Hauptstr. 43-47, besteht aus dem um 1780 über den Fundamenten eines romanischen Vorgängerbaus errichteten einschiffigen Langhaus mit dreiseitigem Chor und einem Vierkantturm (12. Jh.) mit Knickhelm. Die Innenausstattung stammt aus dem 15.-.18.Jh.; Beseitigung der Kriegsschäden 1954; umfassende Restaurierung 1977/88. Bei der Kirche gelegen das von H.P. Tabeling 1771-74 errichtete Altenheim."
@@ -7648,8 +7503,7 @@
           "quarter": "",
           "predecessor": "7.4.17",
           "successor": "7.4.19",
-          "inactive": true,
-          "title": "Börschhof",
+          "title": "Börsch|hof",
           "description": {
             "state": "#ok",
             "value": "Der Börschhof (ehemaliger Abtshof), Hauptstraße 2, ist eine geschlossene Hofanlage von 1780/81 mit 2-gechossigem, fünfachsigem Herrenhaus und eingeschossigen Wirtschaftsgebäuden (alle in Backstein). Der Hof markiert die südliche Grenze Zündorfs und prägt zusammen mit den anderen Hofanlagen das Dorfbild entlang der Hauptstraße."
@@ -7689,14 +7543,13 @@
           "quarter": "",
           "predecessor": "7.4.18",
           "successor": "",
-          "inactive": true,
-          "title": "Wegekreuz",
+          "title": "We|ge|kreuz",
           "description": {
             "state": "#unknown",
             "value": ""
           },
           "mapPosition": {
-            "state": "#unknown",
+            "state": "#check",
             "value": [ 7.0450058, 50.8661438 ]
           },
           "buildings": {
@@ -8617,7 +8470,7 @@
           "quarter": "",
           "predecessor": "9.1.0",
           "successor": "9.1.2",
-          "title": "Cle&shy;mens&shy;kir&shy;che",
+          "title": "Cle|mens|kir|che",
           "description": {
             "state": "#n/a",
             "value": ""
@@ -8647,7 +8500,7 @@
           "quarter": "",
           "predecessor": "9.1.1",
           "successor": "9.1.3a",
-          "title": "Ba&shy;rock&shy;bau&shy;ten",
+          "title": "Ba|rock|bau|ten",
           "description": {
             "state": "#n/a",
             "value": ""
@@ -8676,7 +8529,7 @@
           "quarter": "",
           "predecessor": "9.1.2",
           "successor": "9.1.4",
-          "title": "Stadt&shy;brun&shy;nen Mül&shy;hei&shy;mi&shy;a",
+          "title": "Stadt|brun|nen Mül|hei|mi|a",
           "description": {
             "state": "#ok",
             "value": "1884 vom Bildhauer Wilhelm Albermann entworfen. Geschenk des Verschönerungsvereins Mülheim und des Geheimen Baurats Hermann Pflaume. Anstelle einer ehemaligen städtischen Pumpe aufgestellt. Die personifizierte Stadt Mülheim (Mülheimia) auf einem Säulenbündel. Drei mittelalterlich gekleidete Knaben unterhalb als Symbol für Mülheimer Wirtschaftszweige: Handel, Industrie und Landwirtschaft"
@@ -8707,7 +8560,7 @@
           "quarter": "",
           "predecessor": "9.1.3a",
           "successor": "9.1.4",
-          "title": "Pfer&shy;de&shy;bahn&shy;sta&shy;tion",
+          "title": "Pfer|de|bahn|sta|tion",
           "description": {
             "state": "#ok",
             "value": "Krahnenstraße 1. Endstation der Pferdebahn. Pferdeköpfe als Ausdruck für die Nutzung des Gebäudes. Einstige Toreinfahrt heute verplast."
@@ -8737,7 +8590,7 @@
           "quarter": "",
           "predecessor": "9.1.3b",
           "successor": "9.1.5",
-          "title": "Grün&shy;der&shy;zeit&shy;li&shy;che Wohn&shy;bau&shy;ten, St. An&shy;to&shy;ni&shy;us&shy;kir&shy;che",
+          "title": "Grün|der|zeit|li|che Wohn|bau|ten, St. An|to|ni|us|kir|che",
           "description": {
             "state": "#n/a",
             "value": ""

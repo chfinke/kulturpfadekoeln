@@ -1,20 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<gpx version="1.1" creator="JOSM GPX export" xmlns="http://www.topografix.com/GPX/1/1"
-    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
-    xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
-  <metadata>
-    <bounds minlat="50.8799944" minlon="6.9841252" maxlat="50.9350904" maxlon="7.0691678"/>
-  </metadata>
-  <wpt lat="50.9169667" lon="6.9950152"/>
-  <wpt lat="50.9191885" lon="6.9873383"/>
-  <wpt lat="50.8828309" lon="7.0556263"/>
-  <wpt lat="50.9005343" lon="7.0193883"/>
-  <wpt lat="50.8855163" lon="7.0557032"/>
-  <wpt lat="50.8916814" lon="7.0691049"/>
-  <wpt lat="50.9191365" lon="6.989634"/>
-  <wpt lat="50.8974456" lon="7.0383614"/>
+<gpx version="1.1"
+  xmlns="http://www.topografix.com/GPX/1/1"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
   <trk>
-    <name>Porzer Ringstraße</name>
     <trkseg>
       <trkpt lat="50.9350904" lon="6.9975317"/>
       <trkpt lat="50.9350287" lon="6.9975439"/>
@@ -776,4 +765,136 @@
       <trkpt lat="50.88147402130964" lon="7.064820271084954"/>
     </trkseg>
   </trk>
+  <wpt lat="50.8814707929" lon="7.06481833671">
+    <name>Bahnhof Porz</name>
+    <cmt><i>Hier konnten wir leider keine Infotafel mehr finden.</i></cmt>
+  </wpt>
+  <wpt lat="50.8826081" lon="7.0622739">
+    <name>Germania-Siedlung</name>
+    <cmt>Die Germania-Siedlung (Bahnhofstr./Concordiaplatz/Germaniastr./Glasstr.) wurde zwischen 1899 und 1903 abseits der Bürgermeisterei Porz auf rautenförmigem Grundriß angelegt, ein Ensemble aus Fabrik, Direktorenvilla und Park (Concordiaplatz), Meisterhäusern (Germaniastr.), Angestellten- und Arbeiterhäusern (Glasstr.) für die Belegschaft der Germania-Spiegelglaswerke. Anlage und Architektur der Häuser spiegelten die zeitgenössische berufsständische Gliederung des Werks und die soziale Hierarchie der Bewohner wieder; je höher ihr Status, desto näher an der Fabrik wohnten sie! Die noch nahezu geschlossen erhaltene Siedlung von seltener gestalterischer und architektonischer Vielfalt ist die einzige ihrer Art in Köln.<br/><i>Der Text beschreibt das umliegende Gebiet.</i></cmt>
+  </wpt>
+  <wpt lat="50.8968888" lon="7.0422445">
+    <name>zwei Villen</name>
+    <cmt>Die beiden zum Alexianer-Komplex gehörenden zweigeschossigen Villen, Kölner Str. 60 u. 62 in verwinkelter Bauweise mit Stuck- bzw. Putzfassaden, wurden 1905 erbaut.</cmt>
+  </wpt>
+  <wpt lat="50.8972251" lon="7.0426783">
+    <name>Alexianer-Krankenhaus-Komplex</name>
+    <cmt>Das Alexianer-Krankenhaus, Kölner Str. 64, wurde 1905-08 auf dem Gelände des Gutes "Rotes Haus" vom Kölner Diözesan-Baumeister H. Renard als Klinik für psychisch Kranke errichtet. Kernstück der Symmetrischen Mehrflügelanlage inmitten eines Parks ist der dreigeschossige Mittelriegel mit Backstein- und Putzfassade im "Bergischen Barock", inspiriert von den Schloßbauten des 17. u. 18. Jh. im bergischen Teil des Rheinlandes.</cmt>
+  </wpt>
+  <wpt lat="50.8978849214" lon="7.0286681158">
+    <name>Amerikakreuz</name>
+    <cmt>Am Marktplatz steht das 4,20 m hohe sog. Amerikakreuz, aus Sandstein, gestiftet 1869 vom Amerika-Auswanderer Balthasar Schmitz, dessen Eltern an der Stelle des heutigen Marktplatzes einen eigenen Hof bewirtschafteten.</cmt>
+  </wpt>
+  <wpt lat="50.8976582" lon="7.0242591">
+    <name>Oberstraße 42</name>
+    <cmt><i>Hier konnten wir leider keine Infotafel mehr finden und das Objekt nicht zuordnen. Vermutlich handelt es sich um die Wahrscheinlich Oberstraße 42.</i></cmt>
+  </wpt>
+  <wpt lat="50.8977613" lon="7.0354888">
+    <name>Unbekanntes Objekt</name>
+    <cmt><i>Hier konnten wir leider keine Infotafel mehr finden und das Objekt nicht zuordnen.</i></cmt>
+  </wpt>
+  <wpt lat="50.8971235" lon="7.0342918">
+    <name>St. Laurentius</name>
+    <cmt>Kathol. Pfarrkirche St. Laurentius, Kölner Straße, 1894-96 von Th. Kremer als neugotische, dreischiffige Stufenhalle mit eingezogenem Chor, Satteldach mit Quergiebeln und Dachreiter und einem Vierkantturm errichtet. Wiederaufbau und Erneuerung der Innenausstattung nach Kriegszerstörung 1951. Die reiche, sich in den Dachzonen von Langhaus und Turm konzentrierende Detailbildung macht den Bau trotz eher bescheidener Ausmaße zum Blickfang vom Rheinufer her.<br/>An der Kirche das 1932 errichtete Kriegerdenkmal (Entwurf H. Euler/Westhoven) für die Gefallenen des Ersten Weltkriegs, eine Stele aus grob gehauenen Backsteinquadern.</cmt>
+  </wpt>
+  <wpt lat="50.9077943" lon="7.012646">
+    <name>Wasserwerk</name>
+    <cmt><i>Hier konnten wir leider keine Infotafel mehr finden.</i></cmt>
+  </wpt>
+  <wpt lat="50.915961865" lon="6.99445589622">
+    <name>Histor. Gebäudegruppe Auf dem Sandberg (Teil 1)</name>
+    <cmt>Das vorstädtische Siedlungswachstum zu Beginn des 20. Jh. und die bauästhetischen Bedürfnisse der Bauherren der Zeit dokumentiert die historische Gebäudegruppe auf dem Sandberg, 92, 96, 98, 112, 114, 116 und 99, ...</cmt>
+  </wpt>
+  <wpt lat="50.8999572" lon="7.0204489">
+    <name>Oberstraße 89</name>
+    <cmt><i>Hier konnten wir leider keine Infotafel mehr finden und das Objekt nicht zuordnen. Vermutlich handelt es sich um die Oberstraße 89.</i></cmt>
+  </wpt>
+  <wpt lat="50.9005305041" lon="7.0206985565">
+    <name>Engelshof</name>
+    <cmt><i>Hier konnten wir leider keine Infotafel mehr finden.</i></cmt>
+  </wpt>
+  <wpt lat="50.9128696701" lon="6.99330969895">
+    <name>Histor. Gebäudegruppe Auf dem Sandberg (Teil 2)</name>
+    <cmt>... während die Nr. 18 sowie die Nr. 21-21c (drei für einen drei Generationen umfassenden Familienverbund hintereinander errichtete Bauten) an den älteren, dörflichen Charakter Polls bis in die 2. Hälfte des 19. Jh. erinnern.</cmt>
+  </wpt>
+  <wpt lat="50.9120614" lon="6.9898126">
+    <name>"Gründerzeitliche" Häuser</name>
+    <cmt>[Fortsetzung zu 3.8] ... die Salmstraße noch eine Anzahl "gründerzeitlicher", zwischen 1880 und 1912 errichteter zweigeschossiger Häuser mit Stuck-, Backstein- und Putzfassaden aufweist (Nr. 73-85, 91, 74, 76, 94).<br/><i>Haus Nr. 94 existiert mittlerweile nicht mehr.</i></cmt>
+  </wpt>
+  <wpt lat="50.8805977726" lon="7.05565572802">
+    <name>Lukaskirche</name>
+    <cmt>Die evangel. Lukaskirche, Mühlenstr. 2, wurde 1914 von M. Benirschke als Saalkirche mit Rechteckchor und jugendstilgeprägtem, an J. M. Olbrichs Darmstädter Hochzeits-Turm erinnernden Fassadenturm geschaffen. Die expressionistische, sehr farbige Innenausstattung stammt von H. Derckum (vollendet 1927). 1977-80 erfolgte die denkmalpflegerische Wiederherstellung des unsprünglichen Zustandes durch die Architekten Thon und Baedorf.</cmt>
+  </wpt>
+  <wpt lat="50.8832938" lon="7.0586979">
+    <name>Straßenbahnwartehalle</name>
+    <cmt>Aus der ersten Wiederaufbauphase nach dem Zweiten Weltkrieg verfügt Köln über eine Anzahl von Gebäuden von hoher architektonischer Qualität. Die teilweise leichte, beschwingte Flachdacharchitektur mit organischer Linienführung und gegliedertem Sichtbetonstützwerk wurde auch auf kleine Bauten wie die Straßenbahnwartehalle mit Kiosk, Mühlenstr. o. Nr., übertragen. Sie wurde 1952 über einem gekurvten Grundriß pavillonartig mit großen Fenstern und einem besondere Akzente setzenden, weitvorkragenden Flachdach errichtet.</cmt>
+  </wpt>
+  <wpt lat="50.9038232" lon="7.0526617">
+    <name>Siedlung Gremberghoven</name>
+    <cmt>Ein typisches Beispiel für Arbeitersiedlungen im 1. Drittel des 20. Jh. ist die Siedlung Gremberghoven, 1919-22 nach der Idee der Gartenstadt mit großen Gärten zur Selbstversorgung nach M. Kießlings für die bediensteten des Rangierbahnhofs Gremberg (angelegt 1917-24) errichtet. Ein- bis dreigeschossige Ein- u. Mehrfamilienhäuser mit Putzfassaden vereinen sich mit Straßen und Gärten auf dem ellipsenförmigen Siedlungsgrundriß zu einem großräumigen, symmetrisch gegliederten Rondell. Wiederaufbau 1951 nach Kriegszerstörungen mit gewissen Veränderungen.<br/><i>Der Text beschreibt das umliegende Gebiet.</i></cmt>
+  </wpt>
+  <wpt lat="50.90513" lon="7.063396">
+    <name>Unbekanntes Objekt</name>
+    <cmt><i>Hier konnten wir leider keine Infotafel mehr finden und das Objekt nicht zuordnen.</i></cmt>
+  </wpt>
+  <wpt lat="50.8879931" lon="7.0529418">
+    <name>Schöffenkreuz</name>
+    <cmt>An das alte dörfliche Porz erinnert das sog. Schöffenkreuz aus Trachyt, gestiftet 1667 vom Schöffen Bertram Hermans und seiner Ehefrau Margriet.</cmt>
+  </wpt>
+  <wpt lat="50.8864741706" lon="7.0557658779">
+    <name>Unbekanntes Objekt</name>
+    <cmt><i>Hier war das Gelände leider nicht zugänglich.</i></cmt>
+  </wpt>
+  <wpt lat="50.8841813541" lon="7.0557401921">
+    <name>St. Josef</name>
+    <cmt><i>Hier konnten wir leider keine Infotafel mehr finden.</i></cmt>
+  </wpt>
+  <wpt lat="50.8835715035" lon="7.05565782886">
+    <name>Wohn- u. Geschäftshaus</name>
+    <cmt>1912 ließ Bäckermeister Billstein sein dreigeschossiges Wohn- und Geschäftshaus, Hauptstr. 398, mit rückwärtiger Backstube bauen. Die breite Stuckfassade mit geschungenem Ziergiebel und farbigem Blumendekor, eine reizvolle Mischung aus Jugendstil und Barock, macht das Haus zu einem der auffälligsten der Straße.</cmt>
+  </wpt>
+  <wpt lat="50.8833698" lon="7.0556422">
+    <name>Wohnhaus</name>
+    <cmt>Um 1900 entstand das zweigeschossige Wohnhaus Hauptstr. 388 mit Mittelgiebel und Zahnfries am Traufgesims. Es ist das einzige hier erhaltene mit einer zweifarbigen Backsteinfassade, mit der es sich sowohl an die frühere dörfliche Bebauung als auch mit der dekorativen Gestaltung an die städtische Architektur anpaßt. Zum historischen Ansemble gehören auch die Häuser Nr. 352, 368, 394, 327.</cmt>
+  </wpt>
+  <wpt lat="50.8803229906" lon="7.05524045923">
+    <name>Villa Dr. Hollstein, Villa Ahren, Villa Broischer</name>
+    <cmt>Zum historischen Ensemble der Hauptstraße gehören die Villa Dr. Hollstein (Nr. 303), die Villa Ahren (Nr. 305) sowie die Villa Broischer (Nr. 307), die am südlichen Ortsrand des alten Porz in bevorzugter Lage nahe am Rhein liegen. Sie wurden zwischen 1900 (Villa Dr. Hollstein) und 1912 errichtet. Trotz mancher Modernisierungsmaßname ist ihr aufwendiger Wohnstand noch ablesbar. Die Villa Dr. Hollstein besitzt noch den Vorgarten, die originalen schmiedeeisernen Tore mit dem Einfriedungsgitter, sowie die Remise. In den Villengärten stehen noch drei Blutbuchen als Naturdenkmäler.</cmt>
+  </wpt>
+  <wpt lat="50.9109369" lon="6.9886726">
+    <name>Pestkreuz</name>
+    <cmt>Am Kirchplatz/Ecke Poller Hauptstraße ein Pestkreuz (1666) aus Trachyt, seit 1891 an seinem jetzigen Ort.</cmt>
+  </wpt>
+  <wpt lat="50.9116623" lon="6.9920208">
+    <name>Backstein- u. Fachwerkhäuser des 19. Jh.</name>
+    <cmt>Ein Ensemble ein- bis zweigeschossiger, meist giebelständiger Backstin- und Fachwerkhäuser des 19. Jh. (teilweise erneuert) bilden die Bauten Poller Hauptstraße 33, 37, 43-47, 51, 53, 46-50, während ... [Fortsetzung siehe 3.9]</cmt>
+  </wpt>
+  <wpt lat="50.910624395" lon="6.98898781787">
+    <name>St. Joseph</name>
+    <cmt>Im Ortskern wurde die kathol. Pfarrkirche St. Joseph, Kirchplatz 1a, nach Plänen H. Nagelschmidts 1862-64 als ursprgl. neugotische dreischiffige Backsteinbasilika erbaut und nach schwerer Kriegszerstörung unter Beibehaltung der Umfassungsmauern und der unteren Geschosse des Westturmes seit 1951 von A. Hauk und M. Krantz neu errichtet. Die Chorausstattung hat 1955 H. Rheindorf geschaffen.</cmt>
+  </wpt>
+  <wpt lat="50.9197392355" lon="6.99868325245">
+    <name>Bildstock</name>
+    <cmt><i>Hier konnten wir leider keine Infotafel mehr finden.</i></cmt>
+  </wpt>
+  <wpt lat="50.9177872" lon="6.9959571">
+    <name>Rolshover Hof</name>
+    <cmt><i>Hier konnten wir leider keine Infotafel mehr finden.</i></cmt>
+  </wpt>
+  <wpt lat="50.9117067" lon="6.9926245">
+    <name>Alte Poller Schule</name>
+    <cmt>Das um 1900 erbaute Schulhaus, Poller Hauptstraße 61-65, hat eine reich verzierte mehrfarbige Backsteinfassade.</cmt>
+  </wpt>
+  <wpt lat="50.9216516" lon="6.9867518">
+    <name>Milchmädchensiedlung</name>
+    <cmt>Auf einem durch die Siegburger Straße, die Eisenbahnstrecke und den Friedhof begrenzten Areal (Rolshover Kirchweg, Allerseelenstraße, An den Maien) wurde 1919-21 nach Plänen von E. Mewes die "Milchmädchensiedlung" im Heimatstil städtischer Prägung nach dem Konzept des "stadtnahen Wohnens im Grünen" errichtet. Mit ihr wurde die letzte reine Einfamilienhaus-Siedlung in Köln geschaffen. Städtebaulicher Mittelpunkt ist der Efeuplatz mit "Milchmädchen"-Plastik (um 1922). Obwohl heute im Erscheinungsbild startk verändert, sind ursprl. Aufbau und Gliederung der Siedlung weiterhin gut zu erkennen.<br/><i>Hier konnten wir leider keine Infotafel mehr finden. Der Text beschreibt das umliegende Gebiet.</i></cmt>
+  </wpt>
+  <wpt lat="50.9170102" lon="6.9943763">
+    <name>Wegekreuz</name>
+    <cmt><i>Hier konnten wir leider keine Infotafel mehr finden.</i></cmt>
+  </wpt>
+  <wpt lat="50.9198035" lon="6.9899755">
+    <name>Siedlung Altenberger Kreuzweg</name>
+    <cmt>Die Siedlung Altenberger Kreuzweg wurde 1927-29 nach den Plänen von E. Mewes auf den Grundriß eines unregelmäßigen Fünfecks (Am Altenberger Kreuz, Im Mittelfeld, Siegburger Straße, Bahnstraße) als Ergänzung der Milchmädchensiedlung aus zu symmetrischen Reihen geordneten 15 Mehr- und Einfamilienhäusern errichtet. Städtebaulicher Mittelpunkt ist die Dreifaltigkeitskirche, Am Altenberger Kreuz, neu geschaffen von K. Band 1951-54 unter Einbeziehung der Mauerreste der kriegszerstörten Vorgängerin.<br/><i>Der Text beschreibt das umliegende Gebiet.</i></cmt>
+  </wpt>
 </gpx>
