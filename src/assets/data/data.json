@@ -15,7 +15,7 @@
           "title": "Start Kul|tur|pfad 2.1 Ro|den|kir|chen",
           "description": {
             "state": "#ok",
-            "value": "Die circa 5 km lange Strecke führt vom Palais Oppenheim in Bayenthal zur Großmarkthalle in Raderberg."
+            "value": "Die ca. 5 km lange Strecke führt vom Palais Oppenheim in Bayenthal zur Großmarkthalle in Raderberg."
           },
           "mapPosition": {
             "state": "#ok",
@@ -5180,7 +5180,7 @@
           "info": {
             "state": "#unknown"
           },
-          "notes": "Die nachfolgenden Infotafeln konnte auf den Karten nicht lokalisiert werden und wurden ausgelassen. Damit ist dies das vorläufige Ende des Pfades.",
+          "notes": "",
           "wiki": {
             "state": "#unknown"
           },
@@ -5195,7 +5195,6 @@
       "borough": "Porz",
       "trackNo": 2,
       "color": "#00ACF3",
-      "inactive": true,
       "points": {
         "7.2.0": {
           "trackPoint": 0,
@@ -5203,28 +5202,27 @@
           "quarter": "",
           "predecessor": "",
           "successor": "7.2.1",
-          "inactive": true,
-          "title": "",
+          "title": "Start Kul|tur|pfad 7.2 Porz",
           "description": {
-            "state": "#unknown",
-            "value": ""
+            "state": "#ok",
+            "value": "Der ca. 18 km lange Pfad führt vom Deutzer Hafen aus am Rhein entlang. Über Westhofen und Porz bis nach Langel, wo das voläufige Ende des Pfades liegt. Die nachfolgenden Infotafeln konnte auf den Karten nicht lokalisiert werden und wurden daher ausgelassen."
           },
           "mapPosition": {
-            "state": "#unknown",
-            "value": []
+            "state": "#check",
+            "value": [6.9735144, 50.9279366]
           },
           "buildings": {
-            "state": "#unknown"
+            "state": "#n/a"
           },
           "info": {
-            "state": "#unknown"
+            "state": "#n/a"
           },
           "notes": "",
           "wiki": {
-            "state": "#unknown"
+            "state": "#n/a"
           },
           "monumentNo": {
-            "state": "#unknown"
+            "state": "#n/a"
           }
         },
         "7.2.1": {
@@ -5233,15 +5231,14 @@
           "quarter": "Deutz",
           "predecessor": "7.2.0",
           "successor": "7.2.2",
-          "inactive": true,
-          "title": "Drehbrücke",
+          "title": "Dreh|brü|cke",
           "description": {
             "state": "#ok",
             "value": "Die aus der Gründerzeit des Deutzer Hafens (Stadtbezirk 1) stammende Drehbrücke, ein technisches Denkmal, wurde 1907 errichtet und 1908 dem Verkehr übergeben. Ihre elektrisch gesteuerte, genietete Gitterträgerkonstruktion mit dem Steuerhäuschen aus Stahlblechen ist bis heute vollständig erhalten geblieben. Auf der von ihr ausgehenden Alfred-Schütte-Allee erreicht man das Poller Rheinufer mit dem in den 20er Jahren angelegten öffentlichen Grünbereich mit Sportanlagen."
           },
           "mapPosition": {
             "state": "#ok",
-            "value": [ 6.97314244581821, 50.9277952838689 ]
+            "value": [ 6.9733608, 50.9278779 ]
           },
           "buildings": {
             "state": "#unknown"
@@ -5264,9 +5261,8 @@
           "trackSubpt": "",
           "quarter": "",
           "predecessor": "7.2.1",
-          "successor": "7.2.3",
-          "inactive": true,
-          "title": "Nikolaus-Kapelle",
+          "successor": "7.2.4",
+          "title": "Ni|ko|laus-Ka|pelle",
           "description": {
             "state": "#ok",
             "value": "Die dem Schutzpatron der Schiffer geweihte, ehem. zur Abtei St. Heribert in Deutz gehörende Nikolaus-Kapelle, St. Agatha-Straße, wurde um 1100 errichtet. Der kleine romanische Saalbau (restauriert 1959-64) aus verputztem Tuff- und Kieselmauerwerk mit eingezogenem Rechteckchor, Fachwerkgiebel und einem Dachreiter liegt inmitten des ehem., bis 1929 benutzten Friedhofes mit alten Grabsteinen und Eisenkreuzen (restauriert 1987 vn der Bürgervereinigung Ensen-Westhoven)."
@@ -5282,7 +5278,7 @@
           "info": {
             "state": "#unknown"
           },
-          "notes": "Die nachfolgende Infotafel konnte leider nicht gefunden werden.",
+          "notes": "Die nachfolgende Infotafel konnte auf den Karten nicht lokalisiert werden und wurde ausgelassen.",
           "wiki": {
             "state": "#ok",
             "value": "Nikolaus-Kapelle_%28K%C3%B6ln%29"
@@ -5326,10 +5322,9 @@
           "trackPoint": 4,
           "trackSubpt": "",
           "quarter": "Porz",
-          "predecessor": "7.2.3",
+          "predecessor": "7.2.2",
           "successor": "7.2.5",
-          "inactive": true,
-          "title": "Rheinuferpromenade",
+          "title": "Rhein|u|fer|pro|me|na|de",
           "description": {
             "state": "#ok",
             "value": "Die Rheinuferpromenade, Friedrich-Ebert-Ufer, mit Ufermauer, Treppenaufgang, Fahrkartenpavillon für die Schiffahrt, Löwenmonument und schmiedeeisernen Laternen wurde zwischen 1907 u. 1912 angelegt."
@@ -5344,7 +5339,7 @@
           "info": {
             "state": "#unknown"
           },
-          "notes": "",
+          "notes": "Die vorherige Infotafel konnte auf den Karten nicht lokalisiert werden und wurde ausgelassen.",
           "wiki": {
             "state": "#n/a"
           },
@@ -5359,8 +5354,7 @@
           "quarter": "Porz",
           "predecessor": "7.2.4",
           "successor": "7.2.6",
-          "inactive": true,
-          "title": "Porzer Rathaus",
+          "title": "Por|zer Rat|haus",
           "description": {
             "state": "#ok",
             "value": "Das Porzer Rathaus, Friedrich-Ebert-Ufer 64, ein dreigeschossiger mächtiger, siebenachsiger Bau mit wuchtigem Turm und Arkaden im Erdgeschoß, entstand 1909/10 nach Plänen des Regierungsbaumeisters Moritz. Der Erweiterungsbau mit Werksteinfassade stammt aus den Jahren 1955/56; weitere Neubauten aus den 70er und 80er Jahren. Heute ist das Porzer Rathaus Sitz der Bezirksvertretung des Stadtbezirks 7 und der Bezirksverwaltung."
@@ -5390,14 +5384,13 @@
           "quarter": "",
           "predecessor": "7.2.5",
           "successor": "7.2.7",
-          "inactive": true,
-          "title": "",
+          "title": "Un|be|kann|tes Ob|jekt",
           "description": {
             "state": "#unknown",
             "value": ""
           },
           "mapPosition": {
-            "state": "#unknown",
+            "state": "#check",
             "value": [ 7.0227886, 50.8633825 ]
           },
           "buildings": {
@@ -5420,8 +5413,7 @@
           "quarter": "Langel",
           "predecessor": "7.2.6",
           "successor": "7.2.8",
-          "inactive": true,
-          "title": "Fronhof",
+          "title": "Fron|hof",
           "description": {
             "state": "#ok",
             "value": "Begrenzt von der Frongasse, Rosengasse und Lülsdorfer Straße liegt der erstmals 965, dann 1225 im Urbar von St. Pantaleon in Köln erwähnte Fronhof. 1633 wurde der damals 178 Morgen große Hof, Zentrum eines grundherrschaftlichen Hofverbandes mit einer größeren Anzahl abhängiger Höfe, von einem Feuer vernichtet. Die danach neu entstandene Anlage ging 1803 in den Besitz des preußischen Staates über, der sie 1820 an die Gebrüder Immendorff verkaufte. Der nach starken Beschädigungen im Zweiten Weltkrieg wiederaufgebaute, heute teilw. veränderte Fronhof ist der Mittelpunkt des Langeler Oberdorfes in unmittelbarer Nachbarschaft der Kirche St. Clemens."
@@ -5451,8 +5443,7 @@
           "quarter": "Langel",
           "predecessor": "7.2.7",
           "successor": "7.2.9",
-          "inactive": true,
-          "title": "St. Clemens",
+          "title": "St. Cle|mens",
           "description": {
             "state": "#ok",
             "value": "Kathol. Pfarrkirche St. Clemens, Lülsdorfer Straße 114, erbaut 1890/91 von Langeler Steinmetzen und Maurern nach Plänen H. Nagelschmidts, eine neugotische dreischiffige Backstein-Hallenkirche mit Schieferdach und Vierkantturm im Westen. Von der Innenausstattung sind 3 gotische Schnitzaltäre und der Orgelprospekt erhalten geblieben und 1982/83 mit einer passenden Kanzel aus Kürten-Bechern ergänzt worden. Wiederherstellung der im Krieg zerstörten Glasfenster in drei Phasen ab 1953 und der ursprgl. Neugotischen Ausmalung 1978/80. Ersetzung der mittleren Chorfenster 1990 durch eine Heiligenfiguren zeigende Buntverglasung im Nazarenerstil a. d. J. 1900. Restliche Fensterflächen 1990 von K. Dedy gestaltet."
@@ -5484,8 +5475,7 @@
           "quarter": "Langel",
           "predecessor": "7.2.8",
           "successor": "7.2.10",
-          "inactive": true,
-          "title": "",
+          "title": "Un|be|kann|tes Ob|jekt",
           "description": {
             "state": "#unknown",
             "value": ""
@@ -5500,7 +5490,7 @@
           "info": {
             "state": "#unknown"
           },
-          "notes": "",
+          "notes": "Hier konnten wir leider keine Infotafel mehr finden und das Objekt nicht zuordnen.",
           "wiki": {
             "state": "#unknown"
           },
@@ -5514,8 +5504,7 @@
           "quarter": "Langel",
           "predecessor": "7.2.9",
           "successor": "7.2.11",
-          "inactive": true,
-          "title": "",
+          "title": "Un|be|kann|tes Ob|jekt",
           "description": {
             "state": "#unknown",
             "value": ""
@@ -5530,7 +5519,7 @@
           "info": {
             "state": "#unknown"
           },
-          "notes": "",
+          "notes": "Hier konnten wir leider keine Infotafel mehr finden und das Objekt nicht zuordnen.",
           "wiki": {
             "state": "#unknown"
           },
@@ -5544,8 +5533,7 @@
           "quarter": "Langel",
           "predecessor": "7.2.10",
           "successor": "7.2.12",
-          "inactive": true,
-          "title": "",
+          "title": "Un|be|kann|tes Ob|jekt",
           "description": {
             "state": "#unknown",
             "value": ""
@@ -5560,7 +5548,7 @@
           "info": {
             "state": "#unknown"
           },
-          "notes": "",
+          "notes": "Hier konnten wir leider keine Infotafel mehr finden und das Objekt nicht zuordnen.",
           "wiki": {
             "state": "#unknown"
           },
@@ -5574,15 +5562,14 @@
           "quarter": "Langel",
           "predecessor": "7.2.11",
           "successor": "7.2.13",
-          "inactive": true,
-          "title": "Sog. Friedenseiche (Naturdenkmal)",
+          "title": "Sog. Frie|dens|ei|che (Na|tur|denk|mal)",
           "description": {
             "state": "#ok",
             "value": "Die \"Friedenseiche\" wurde zum Gedenken an den deutsch-französischen Krieg 1870/71 und die Reichsgrndung von 1871 an der Wegekreuzung vom ehem. Langeler Unterdorf nach Lülsdorf und vom Oberdorf nach Zündorf gepflanzt."
           },
           "mapPosition": {
-            "state": "#check",
-            "value": [ 7.010136, 50.849376 ]
+            "state": "#ok",
+            "value": [ 7.008433, 50.8489877 ]
           },
           "buildings": {
             "state": "#unknown"
@@ -5604,15 +5591,14 @@
           "quarter": "Langel",
           "predecessor": "7.2.12",
           "successor": "7.2.14",
-          "inactive": true,
-          "title": "",
+          "title": "Un|be|kann|tes Ob|jekt",
           "description": {
             "state": "#unknown",
             "value": ""
           },
           "mapPosition": {
             "state": "#check",
-            "value": [ 7.013392, 50.851029 ]
+            "value": [ 7.0134073, 50.8510117 ]
           },
           "buildings": {
             "state": "#unknown"
@@ -5620,7 +5606,7 @@
           "info": {
             "state": "#unknown"
           },
-          "notes": "",
+          "notes": "Hier konnten wir leider keine Infotafel mehr finden und das Objekt nicht zuordnen.",
           "wiki": {
             "state": "#unknown"
           },
@@ -5633,9 +5619,8 @@
           "trackSubpt": "",
           "quarter": "Langel",
           "predecessor": "7.2.13",
-          "successor": "7.2.15",
-          "inactive": true,
-          "title": "ehem. Telegraphenstation",
+          "successor": "",
+          "title": "e|hem. Te|le|gra|phen|sta|tion",
           "description": {
             "state": "#ok",
             "value": "Die ehemalige, 1832/33 erbaute, baulich stark veränderte Telegraphenstation, Loorweg 155, mit einem heute drei-, früher viergeschossigen Turm, war Teil der preußischen optischen Telegraphenlinie zwischen Berlin und Koblenz. Der Turm verband das Signal in Spich mit demjenigen auf dem Westwerk von St. Pantaleon in Köln."
@@ -5651,43 +5636,13 @@
           "info": {
             "state": "#unknown"
           },
-          "notes": "",
+          "notes": "Die nachfolgenden Infotafeln konnte auf den Karten nicht lokalisiert werden und wurden ausgelassen. Damit ist dies das vorläufige Ende des Pfades.",
           "wiki": {
             "state": "#n/a"
           },
           "monumentNo": {
             "state": "#ok",
             "value": 4905
-          }
-        },
-        "7.2.99": {
-          "trackPoint": 99,
-          "trackSubpt": "",
-          "quarter": "",
-          "predecessor": "7.2.14",
-          "successor": "",
-          "inactive": true,
-          "title": "...",
-          "description": {
-            "state": "#unknown",
-            "value": ""
-          },
-          "mapPosition": {
-            "state": "#unknown",
-            "value": []
-          },
-          "buildings": {
-            "state": "#unknown"
-          },
-          "info": {
-            "state": "#unknown"
-          },
-          "notes": "",
-          "wiki": {
-            "state": "#unknown"
-          },
-          "monumentNo": {
-            "state": "#unknown"
           }
         }
       }
