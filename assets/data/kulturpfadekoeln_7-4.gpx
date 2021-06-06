@@ -148,17 +148,9 @@
       <trkpt lat="50.8690718" lon="7.043428"/>
       <trkpt lat="50.8692167" lon="7.0432461"/>
       <trkpt lat="50.86926359999999" lon="7.043182000000001"/>
-      <trkpt lat="50.8694292" lon="7.0431276"/>
-      <trkpt lat="50.8694672" lon="7.0431093"/>
-      <trkpt lat="50.8695157" lon="7.0430428"/>
-      <trkpt lat="50.8694672" lon="7.0431093"/>
-      <trkpt lat="50.8694292" lon="7.0431276"/>
-      <trkpt lat="50.8692636" lon="7.043182"/>
       <trkpt lat="50.8690712" lon="7.0428344"/>
       <trkpt lat="50.8689486" lon="7.0426385"/>
       <trkpt lat="50.868907099999994" lon="7.042582399999999"/>
-      <trkpt lat="50.8689435" lon="7.0425422"/>
-      <trkpt lat="50.8690141" lon="7.042463"/>
       <trkpt lat="50.8689435" lon="7.0425422"/>
       <trkpt lat="50.8689071" lon="7.0425824"/>
       <trkpt lat="50.8686248" lon="7.0428148"/>
@@ -242,4 +234,84 @@
       <trkpt lat="50.8658013" lon="7.0486185"/>
     </trkseg>
   </trk>
+  <wpt lat="50.8703045335" lon="7.0438863477">
+    <name>"Kleines Teehaus"</name>
+    <cmt>Zwischen Turmhof und Markt steht an der Rheinpromenade neben einer Trauerweide (Naturdenkmal) das "Kleine Teehaus" der ehem. Brauerei Immendorff, ein Jugendstil-Pavillon aus dem Jahre 1910.</cmt>
+  </wpt>
+  <wpt lat="50.8701957868" lon="7.04212821348">
+    <name>Groov</name>
+    <cmt>Bis zur Mitte des 18. Jh. eine auch zum Weiden- und Weinanbau benutzte Rheininsel, versandete seit dem Beginn der systematischen Uferbefestigung im Jahre 1815 das Wasser zwischen der Groov und dem Ufer immer mehr. Heute ist die Groov eine Halbinsel (Obere u. Untere Groov), ein beliebtes Ausflugsziel und Freizeitgelände.</cmt>
+  </wpt>
+  <wpt lat="50.8698431874" lon="7.04486744875">
+    <name>Fachwerkhaus</name>
+    <cmt>Das giebelständige Fachwerkhaus Gütergasse 21 wurde wahrscheinlich im 18. Jh. errichtet (restauriert 1987-90). Das Erdgeschoss soll einst die Dorfapotheke beherbergt haben.</cmt>
+  </wpt>
+  <wpt lat="50.8693407" lon="7.0446455">
+    <name>Siedlung Gütergasse</name>
+    <cmt>Im Bereich zw. Gütergasse, Hauptstr., Enggasse und Leinpfad wurde 1982-86 von G. Böhm die sich an der historischen dörflichen Bebauung Zündorfs orientierende Reihenhaussiedlung errichtet.</cmt>
+  </wpt>
+  <wpt lat="50.8704183" lon="7.046023">
+    <name>Turmhof und Werturm</name>
+    <cmt><i>Hier konnten wir leider keine Infotafel mehr finden und das Objekt nicht zuordnen. Vermutlich handelt es sich um den Turmhof und Werturm.</i></cmt>
+  </wpt>
+  <wpt lat="50.8699210085" lon="7.04465675119">
+    <name>ehem. Wohnhaus Pelletier</name>
+    <cmt>Das ehem. Wohnhaus des Kaufmanns Pelletier, Gütergasse 33-41, wurde 1750 vom Architekten J.G. Leydel erbaut. 1864 in ein Cellitinnen-Kloster mit Altenheim (St. Josephs-Altenheim) und einer neugotischen (heute profanisierten) Kapelle umgewandelt, entstand 1974 aus dem Komplex eine private Wohnanlage.</cmt>
+  </wpt>
+  <wpt lat="50.8743422" lon="7.0602817">
+    <name>Start Kulturpfad 7.4 Porz</name>
+    <cmt>Die Tour durch Zündorf ist etwa 6 km lang und startet an der Haltestelle Rosenhügel der Linie 7. Endpunkt ist dann die Haltestelle Zündorf.<br/>Die Reihenfolge einiger Infotafeln wurde für einen besseren Wegverlauf umsortiert.</cmt>
+  </wpt>
+  <wpt lat="50.8720948" lon="7.0582487">
+    <name>Jüdischer Friedhof</name>
+    <cmt>Aus der jüdischen Gemeinde gingen zahlreiche für Zündorf wichtige Unternehmer hervor. Eine Judengasse war hier 1825 und 1854 verzeichnet. 1880 entstand die bis 1938 bestehende Synagoge (Hauptstr. 159; heute ein Wohnhaus). Der ehemalige jüdische Friedhof ist zwischen Gartenweg und Hasenkaul gelegen<br/>Nach der Befreiung Deutschlands vom Nationalsozialismus 1945 ist die jüdische Gemeinde nicht wiederentstanden.</cmt>
+  </wpt>
+  <wpt lat="50.8696752" lon="7.043246">
+    <name>Marktplatz mit Nepomuk-Statue und Kriegerdenkmal</name>
+    <cmt>Der Marktplatz bildet mit der ihn begrenzenden, weitgehend noch geschlossen erhaltenen Bebauung ein für Zündorf charakteristisches Ensemble. Das Haus Am Markt 4 stammt in seinem Kern wohl ebenso aus dem 18. Jh. (Putzfassade 19. Jh.) wie die Hofanlage Am Markt 6, ein teilw. verputztes Fachwerkhaus mit werksteingefaßten Fenster- und Türgewänden. Zum Schutz gegen das Hochwasser ist die Front zum Rhein hin gemauert.<br/>Im Zentrum des Platzes steht die 1775 von den Zündorfer Schiffern gestiftete Statue des hl. Johannes aus Nepomuk, ihres Schutzpatrons.<br/>Das Kriegerdenkmal aus Haustein wurde 1932 zum Gedenken an die im Ersten Weltkrieg gefallenen Zündorfer errichtet.</cmt>
+  </wpt>
+  <wpt lat="50.8695313" lon="7.0437527">
+    <name>Enggasse</name>
+    <cmt>Die Enggasse bietet ein Ensemble 1½-2-geschossiger giebelständiger Fachwerk- bzw. Backsteinhäuser des 17.-19. Jh.: Nr. 9 (aus dem 17. Jh., 1984 nach historischem Vorbild erneuert); Nr. 15; Nr. 19 (ein Neubau von 1977-81 unter Verwendung einer alten Fachwerkfassade); Nr. 21; Nr. 16 (ein verputztes Backsteinhäuschen des 19. Jh. mit nach historischem Vorbild erneuerten Klappläden und Haus- und Hoftüren).</cmt>
+  </wpt>
+  <wpt lat="50.8685946646" lon="7.04435219459">
+    <name>Marktstraße</name>
+    <cmt>Häuser des 17. bis 19. Jh. auf der Marktstraße: Nr. 18 (ein Fachwerkbau des 18. Jh. mit doppelter Freitreppe u. zweiflügeliger geschnitzter Eichentür); Nr. 20 (1772 über älterem Vorgänger errichtetes ehem. Stapelhaus des Mülheimer Handelsherrn Dirk van Hees ein Fachwerkbau mit doppel...er Freitreppe); Nr. 22 (um 1880 gebautes 2-geschossiges, teilw. verputztes Eckhaus zum Markt mit erneuertem Fachwerk); Nr. 5 (ein teilw. verputztes Fachwerkhaus vom Ende 17. Jh.); Nr. 27 (ein 1832 inschriftlich datiertes Fachwerkhaus).</cmt>
+  </wpt>
+  <wpt lat="50.8683178" lon="7.0429855">
+    <name>St. Michael</name>
+    <cmt>St. Michael am Burgweg, die alte Pfarrkirche Niederzündorfs (11.–17. Jh.), auf einer leichten Anhöhe über einem alten Rheinarm gelegen, ist ein romanischer Saalbau mit reich verziertem Vierkantturm mit Rautenhelm (1170) im Westen, dreiseitigem Chor im Osten, Kapelle im Süden und Sakristei (1662) im Norden. Das nördl. Seitenschiff wurde 1906 abgebrochen. Im Innern 2 Tafelgemälde aus der Barthel Bruyn-Schule mit Kalvarienberg u. Anbetung der hl. 3 Könige (2. Hälfte 16. Jh.), ein merowingisches Ranklenrelief (7. Jh.) u. Grabsteine des 17. Jh. Der ummauerte Friedhofsbezirk ist mittelalterlichen Ursprungs; auf dem Eingangstor ein 1630 datiertes Grabkreuz.</cmt>
+  </wpt>
+  <wpt lat="50.8689435" lon="7.0425422">
+    <name>Historische Gebäude am Burgweg</name>
+    <cmt>Das 1½-geschossige Fachwerkhäuschen (mit verputzter Traufseite) Burgweg Nr. 9 datiert aus dem Jahr 1677. Der Bitzhof, Burgweg Nr. 12, stammt aus dem Jahre 1836. Das zweigeschossige Fachwerkhaus mit einläufiger Außentreppe wurde 1982 innen und außen aufwendig restauriert.</cmt>
+  </wpt>
+  <wpt lat="50.8687072984" lon="7.04500362024">
+    <name>Fachwerkhaus</name>
+    <cmt>Das aufwendig restaurierte Gebäude Hauptstr. 161, ein 1½ geschossiges verputztes Fachwerkhaus mit vorkragendem Obergeschaß, ist das vermutlich älteste erhaltene, aus dem 16. Jahrhundert stammende Haus seiner Art in Zündorf. Das Kellergewölbe ist mttelalterlich.</cmt>
+  </wpt>
+  <wpt lat="50.8674869" lon="7.0431302">
+    <name>St. Mariä Geburt</name>
+    <cmt>Die kathol. Pfarrkirche St. Mariä Geburt, Hauptstr. 141, 1895/97 nach den Plänen F. Langenbergs erbaut, ist eine dreischiffige neugotische Backstein-Hallenkirche mit mächtigem, das Ortsbild dominierenden schiefergedeckten Vierkantturm an der Eingangsseite. Im Inneren neben den Resten der originalen neugot. Ausstattung und Relikten as der alten Pfarrkirche (Holzskulptur der auf einer Mondsichel thronenden Muttergottes (eine moderne Ausstattung (v. G. Lossow) und seit 1962 von F. Pauli geschaffene Glasfenster. Neben der Kirche ein Wegkreuz (um 1800) aus farbig gefasstem Sandstein.</cmt>
+  </wpt>
+  <wpt lat="50.8665471" lon="7.0419358">
+    <name>Mellerhof</name>
+    <cmt>Der Mellerhof (ehem. Dulmanshof), Hauptstr. 117-119, heute eine Wohnanlage, war ursprünglich eine um 1800 angelegte geschlossene, vierflügelige Hofanlage (mit älterem Vorgänger), bestehend aus einem 2-geschossigen Fachwerk-Herrrenhaus und aus mehreren eingeschossigen Gesinde- und Wirtschaftsgebäuden in Backstein.<br/>An der Ecke Hauptstr./Houdainer Straße steht das "Mellerkreuz" aus dem Jahre 1711 mit den Wappenschilden der Stifter Theodor Dulman und Maria Elisabeth Bourel, erneuert 1817 von Adolf Meller und seiner Frau Anna, den neuen Hofeigentümern.</cmt>
+  </wpt>
+  <wpt lat="50.8642232552" lon="7.03836109135">
+    <name>Olefshof</name>
+    <cmt><i>Hier konnten wir leider keine Infotafel mehr finden und das Objekt nicht zuordnen. Vermutlich handelt es sich um den Olefshof und das zugehörige Wegkreuz.</i></cmt>
+  </wpt>
+  <wpt lat="50.8634751" lon="7.0373832">
+    <name>St. Martin</name>
+    <cmt>Die alte kathol. Pfarrkirche St. Martin von Oberzündorf, Hauptstr. 43-47, besteht aus dem um 1780 über den Fundamenten eines romanischen Vorgängerbaus errichteten einschiffigen Langhaus mit dreiseitigem Chor und einem Vierkantturm (12. Jh.) mit Knickhelm. Die Innenausstattung stammt aus dem 15.-.18.Jh.; Beseitigung der Kriegsschäden 1954; umfassende Restaurierung 1977/88. Bei der Kirche gelegen das von H.P. Tabeling 1771-74 errichtete Altenheim.<br/><i>Der Zugang erfolgt über das Gelände des Altenheims.</i></cmt>
+  </wpt>
+  <wpt lat="50.8608633661" lon="7.03401563428">
+    <name>Börschhof</name>
+    <cmt>Der Börschhof (ehemaliger Abtshof), Hauptstraße 2, ist eine geschlossene Hofanlage von 1780/81 mit 2-gechossigem, fünfachsigem Herrenhaus und eingeschossigen Wirtschaftsgebäuden (alle in Backstein). Der Hof markiert die südliche Grenze Zündorfs und prägt zusammen mit den anderen Hofanlagen das Dorfbild entlang der Hauptstraße.</cmt>
+  </wpt>
+  <wpt lat="50.8661438" lon="7.0450058">
+    <name>Wegekreuz</name>
+    <cmt><i>Hier konnten wir leider keine Infotafel mehr finden und das Objekt nicht zuordnen. Vermutlich handelt es sich um das Wegekreuz.</i></cmt>
+  </wpt>
 </gpx>
