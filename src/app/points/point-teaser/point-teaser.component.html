@@ -1,4 +1,4 @@
-<div class="wrapper">
+<div *ngIf="!point.inactive || optionsService.options.develop.showInactivePoints" class="wrapper">
   <h2>
     {{point.trackPoint}}{{point.trackSubpt}}
     <span class="u-hyphens" [innerHTML]="point.title"></span>
