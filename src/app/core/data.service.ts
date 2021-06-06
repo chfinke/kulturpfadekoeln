@@ -115,6 +115,7 @@ export interface Point {
   notes: string;
   wiki: PointWiki;
   monumentNo: PointMonumentNo;
+  inactive?: boolean;
 }
 
 export type Points = { [key: string]: Point };
@@ -132,7 +133,25 @@ export class DataService {
       this.http
         .get('./assets/data/data.json')
         .toPromise()
-        .then((res: Data) => {
+        .then((raw: Data) => {
+          const res: Data = {
+            tracks: {}
+          }
+          Object.keys(raw.tracks).forEach(trackId => {
+            const track = raw.tracks[trackId];
+            const points: Points = {};
+            Object.keys(track.points).forEach(pointId => {
+              const point = track.points[pointId];
+              points[pointId] = {
+                ...point,
+                title: point.title?.replace(/\|/g, '&shy;'),
+              }
+            });
+            res.tracks[trackId] = {
+              ...track,
+              points,
+            }
+          })
           this.data = res;
           resolve();
         });

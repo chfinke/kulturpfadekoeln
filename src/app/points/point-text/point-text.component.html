@@ -1,7 +1,7 @@
 <h1>
   <ng-container *ngIf="point.trackPoint !== 0">
     <small>
-      Infotafel {{ point.trackPoint }}
+      Infotafel {{ point.trackPoint }}{{ point.trackSubpt }}
     </small>
   </ng-container>
   <span class="u-hyphens" [innerHTML]="point.title"></span>
@@ -14,7 +14,7 @@
 <p *ngIf="point.description.value" [innerHTML]="point.description.value"></p>
 <p *ngIf="point.notes"><i>{{point.notes}}</i></p>
 
-<ng-container *ngIf="wikiArray || monumentNoArray">
+<ng-container *ngIf="wikiArray.length || monumentNoArray.length">
   <b>Sonstige Informationen:</b>
   <ul style="margin-top: 0px;">
     <li *ngFor="let wiki of wikiArray">
