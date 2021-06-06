@@ -19,12 +19,14 @@ const initialOptions: Options = {
   providedIn: 'root',
 })
 export class OptionsService {
-  private _options: Options;
+  private _options: Options = initialOptions;
   get options(): Options {
     return this._options;
   }
 
   constructor() {
-    getObjectItem('options').then(item => this._options = item || initialOptions);
+    getObjectItem('options').then(item => {
+      this._options = item || initialOptions;  
+    });
   }
 }

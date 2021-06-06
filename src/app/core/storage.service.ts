@@ -8,9 +8,10 @@ export const setStringItem = async (
 };
 
 export const setObjectItem = async (key: string, item: any): Promise<any> => {
-  return await setStringItem(key, JSON.stringify(item)).then((itemReturned) =>
-    JSON.parse(itemReturned)
-  );
+  return await localForage.setItem(key, item);
+  // return await setStringItem(key, JSON.stringify(item)).then((itemReturned) =>
+  //   JSON.parse(itemReturned)
+  // );
 };
 
 export const getStringItem = async (key: string): Promise<string> => {
