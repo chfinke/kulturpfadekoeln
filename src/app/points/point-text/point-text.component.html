@@ -1,6 +1,7 @@
 <h1>
   <ng-container *ngIf="point.trackPoint !== 0">
     <small>
+      <span *ngIf="showTrackName">Kulturpfad {{ track.boroughNo }}.{{ track.trackNo }} {{ track.borough }}<br/></span>
       Infotafel {{ point.trackPoint }}{{ point.trackSubpt }}
     </small>
   </ng-container>

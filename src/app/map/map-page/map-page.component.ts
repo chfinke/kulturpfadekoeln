@@ -17,7 +17,12 @@ export class MapPageComponent {
   detailTrack: Track;
   queryParams: Params;
 
-  constructor(private dataService: DataService, private mapService: MapService, private route: ActivatedRoute, private router: Router) {
+  constructor(
+    private dataService: DataService, 
+    private mapService: MapService, 
+    private route: ActivatedRoute, 
+    private router: Router,
+  ) {
     this.route.queryParams.subscribe((params) => {
       this.queryParams = params;
       this.filteredTrackId = params.track;

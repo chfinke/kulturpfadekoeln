@@ -12,6 +12,7 @@ import { MonumentNoItem, Point, Track, WikiItem, PointWiki, PointMonumentNo, Poi
 export class PointTextComponent implements OnChanges {
   @Input() point: Point;
   @Input() track: Track;
+  @Input() showTrackName: boolean;
 
   wikiArray: WikiItem[] = [];
   monumentNoArray: MonumentNoItem[] = [];
