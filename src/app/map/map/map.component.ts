@@ -269,6 +269,6 @@ export class MapComponent implements AfterViewInit {
   }
 
   onDownload(): void {
-    window.open(`/assets/data/kulturpfadekoeln_${this.trackId.replace('.', '-')}.gpx`, '_blank');
+    window.open(`./assets/data/kulturpfadekoeln_${this.trackId.replace('.', '-')}.gpx`, '_blank');
   }
 }
