@@ -9,9 +9,12 @@
 </app-map-static>
 
 <div class="preview">
-  <span style="padding-right: 180px;">
-    <span [innerHTML]="startingPoint?.description.value"></span>
-  </span>
+  <span [innerHTML]="startingPoint?.description.value"></span>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;
   <div class="preview__spacer">&nbsp;</div>
-  <a class="preview__link" [routerLink]="['/overview']" [queryParams]="{track: track?.boroughNo+'.'+track?.trackNo}">Kulturpfad&nbsp;anzeigen&nbsp;&rarr;</a><!-- change text padding if text changes here -->
+  <a class="preview__link" [routerLink]="['/overview']" [queryParams]="{track: track?.boroughNo+'.'+track?.trackNo}">Kulturpfad&nbsp;anzeigen&nbsp;&rarr;</a><!-- change spacer if text changes here -->
 </div>
