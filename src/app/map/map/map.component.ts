@@ -50,6 +50,7 @@ export class MapComponent implements AfterViewInit {
       mapId,
       {
         zoomSnap: 0.1,
+        zoomControl: !this.static,
       }
     );
 
@@ -60,6 +61,19 @@ export class MapComponent implements AfterViewInit {
       // attribution: see above
     }).addTo(map);
     // when changing this also adapt it in src/ngsw-config.json
+
+    if (this.static) {
+      map.dragging.disable();
+      map.touchZoom.disable();
+      map.doubleClickZoom.disable();
+      map.scrollWheelZoom.disable();
+      map.boxZoom.disable();
+      map.keyboard.disable();
+      if (map.tap) {
+        map.tap.disable();
+      }
+      // document.getElementById('map').style.cursor='default';
+    }
 
     this.mapService.setMap(map);
 
