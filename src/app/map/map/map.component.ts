@@ -5,11 +5,14 @@ import * as L from 'leaflet';
 
 import * as LGPX from 'leaflet-gpx';
 import 'leaflet.locatecontrol';
+import 'leaflet-easybutton';
+
 
 import { OptionsService } from '../../core/options.service';
 import { MapService } from '../map.service';
 import { DataService, PointBuildingsState, PointMapPositionState, Data } from '../../core/data.service';
 import { environment } from 'src/environments/environment';
+import { Router } from '@angular/router';
 
 @Component({
   selector: 'app-map',
@@ -29,6 +32,7 @@ export class MapComponent implements AfterViewInit {
     private optionsService: OptionsService,
     private mapService: MapService,
     private dataService: DataService,
+    private router: Router,
   ) { }
 
   ngAfterViewInit(): void {
@@ -46,7 +50,6 @@ export class MapComponent implements AfterViewInit {
       mapId,
       {
         zoomSnap: 0.1,
-        zoomControl: !this.static
       }
     );
 
@@ -57,19 +60,6 @@ export class MapComponent implements AfterViewInit {
       // attribution: see above
     }).addTo(map);
     // when changing this also adapt it in src/ngsw-config.json
-
-    if (this.static) {
-      map.dragging.disable();
-      map.touchZoom.disable();
-      map.doubleClickZoom.disable();
-      map.scrollWheelZoom.disable();
-      map.boxZoom.disable();
-      map.keyboard.disable();
-      if (map.tap) {
-        map.tap.disable();
-      }
-      // document.getElementById('map').style.cursor='default';
-    }
 
     this.mapService.setMap(map);
 
@@ -105,18 +95,32 @@ export class MapComponent implements AfterViewInit {
           },
         })
         .addTo(map);
-
-      const mapDiv = document.getElementById(mapId);
-      const resizeObserver = new ResizeObserver(() => {
-        map.invalidateSize();
-        this.mapService.restoreCenter();
-      });
-      resizeObserver.observe(mapDiv);
     }
 
-    // L.easyButton('fa fa-search', () => {
-    //   this.onSearch();
-    // }).addTo(map);
+    const mapDiv = document.getElementById(mapId);
+    const resizeObserver = new ResizeObserver(() => {
+      map.invalidateSize();
+      this.mapService.restoreCenter();
+    });
+    resizeObserver.observe(mapDiv);
+
+    if (this.static) {
+      L.easyButton(
+        'fa fa-arrows-alt',
+        () => { this.onMaximize(); },
+        'Vollbild'
+      ).addTo(map);
+    }
+
+    if (this.trackId) {
+      L.easyButton(
+        'fa fa-download',
+        () => {
+          this.onDownload();
+        },
+        'Herunterladen'
+      ).addTo(map);
+    }
   }
 
   async initData(): Promise<void> {
@@ -168,6 +172,7 @@ export class MapComponent implements AfterViewInit {
               marker.on('click', () => {
                 this.onDetail(pointId);
               });
+              marker.bindTooltip(`${track.boroughNo}.${track.trackNo}.${point.trackPoint}${point.trackSubpt} ${point.title}`);
               markerList.push(marker);
               marker.addTo(this.mapService.map);
             }
@@ -242,5 +247,14 @@ export class MapComponent implements AfterViewInit {
 
   onDetail(id: string): void {
     this.detail.emit(id);
+  }
+
+  onMaximize(): void {
+    const queryParams = { track: this.trackId };
+    this.router.navigate(['map'], { queryParams: queryParams, fragment: '' });
+  }
+
+  onDownload(): void {
+    window.open(`/assets/data/kulturpfadekoeln_${this.trackId.replace('.', '-')}.gpx`, '_blank');
   }
 }

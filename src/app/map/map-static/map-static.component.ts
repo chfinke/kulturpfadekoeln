@@ -1,4 +1,5 @@
 import { Component, EventEmitter, Input, OnInit, Output } from '@angular/core';
+import { Router } from '@angular/router';
 
 import { MapService } from '../map.service';
 
@@ -15,6 +16,13 @@ export class MapStaticComponent {
   @Input() classes: string;
   @Output() detail: EventEmitter<string> = new EventEmitter();
 
-  constructor() { }
+  constructor(
+    private router: Router,
+  ) { }
+
+  onDetail(id: string): void {
+    const queryParams = { track: this.trackId };
+    this.router.navigate(['map'], { queryParams: queryParams, fragment: id });
+  }
 
 }
