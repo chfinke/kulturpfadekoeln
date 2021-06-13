@@ -5004,7 +5004,7 @@
           "info": {
             "state": "#unknown"
           },
-          "notes": "Hier konnten wir leider keine Infotafel mehr finden und das Objekt nicht zuordnen. Die nachfolgenden Infotafeln konnte auf den Karten nicht lokalisiert werden und wurden ausgelassen.",
+          "notes": "Hier konnten wir leider keine Infotafel mehr finden und das Objekt nicht zuordnen. Es handelt sich aber wahrscheinlich um das  Wohnhaus Frankfurter Straße 482. Die nachfolgenden Infotafeln konnte auf den Karten nicht lokalisiert werden und wurden ausgelassen.",
           "wiki": {
             "state": "#unknown"
           },
@@ -5294,15 +5294,14 @@
           "quarter": "",
           "predecessor": "7.2.2",
           "successor": "7.2.4",
-          "inactive": true,
-          "title": "",
+          "title": "My|ri|a|me|ter|stein",
           "description": {
             "state": "#unknown",
             "value": ""
           },
           "mapPosition": {
-            "state": "#unknown",
-            "value": []
+            "state": "#check",
+            "value": [ 7.0449961, 50.8936688 ]
           },
           "buildings": {
             "state": "#unknown"
@@ -5310,7 +5309,7 @@
           "info": {
             "state": "#unknown"
           },
-          "notes": "",
+          "notes": "Die genaue Position wurde noch nicht ermittelt, befindet sich aber bei Rheinkilometer 679,48.",
           "wiki": {
             "state": "#unknown"
           },
@@ -6481,22 +6480,22 @@
           "quarter": "",
           "predecessor": "7.3.20",
           "successor": "7.3.22",
-          "title": "Un|be|kann|tes Ob|jekt",
+          "title": "Ge|bäu|de der ehem. IG-Far|ben-Fa|brik",
           "description": {
-            "state": "#unknown",
-            "value": ""
+            "state": "#check",
+            "value": "Die Gebäude der ehem. \"Fabrik für elektrische Zünder\" des IG-Farben-Konzerns, Am Hochkreuz/Frankfurter Str. 776, entstanden Ende des 19. Jh. In ihnen hatte die SA nach den Porzer Massenverhaftungen von Gegnern des Nationalsozialismus am 14./15.7. 1933 ein Gefängnis eingerichtet; das Kesselhaus diente als Folterkammer. In der Mitte des Hofes steht ein mächtiger Bergahorn (Naturdenkmal)."
           },
           "mapPosition": {
-            "state": "#check",
-            "value": [ 7.063396, 50.90513 ]
+            "state": "#ok",
+            "value": [ 7.063394, 50.904962 ]
           },
           "buildings": {
-            "state": "#unknown"
+            "state": "#check"
           },
           "info": {
             "state": "#unknown"
           },
-          "notes": "Hier konnten wir leider keine Infotafel mehr finden und das Objekt nicht zuordnen.",
+          "notes": "",
           "wiki": {
             "state": "#unknown"
           },
@@ -6683,10 +6682,10 @@
           "quarter": "Porz",
           "predecessor": "7.3.26",
           "successor": "7.3.28",
-          "title": "Vil|la Dr. Holl|stein, Vil|la Ah|ren, Vil|la Broi|scher",
+          "title": "Vil|la Dr. Holl|stein, Vil|la Ah|ren, Vil|la Broi|cher",
           "description": {
             "state": "#ok",
-            "value": "Zum historischen Ensemble der Hauptstraße gehören die Villa Dr. Hollstein (Nr. 303), die Villa Ahren (Nr. 305) sowie die Villa Broischer (Nr. 307), die am südlichen Ortsrand des alten Porz in bevorzugter Lage nahe am Rhein liegen. Sie wurden zwischen 1900 (Villa Dr. Hollstein) und 1912 errichtet. Trotz mancher Modernisierungsmaßname ist ihr aufwendiger Wohnstand noch ablesbar. Die Villa Dr. Hollstein besitzt noch den Vorgarten, die originalen schmiedeeisernen Tore mit dem Einfriedungsgitter, sowie die Remise. In den Villengärten stehen noch drei Blutbuchen als Naturdenkmäler."
+            "value": "Zum historischen Ensemble der Hauptstraße gehören die Villa Dr. Hollstein (Nr. 303), die Villa Ahren (Nr. 305) sowie die Villa Broicher (Nr. 307), die am südlichen Ortsrand des alten Porz in bevorzugter Lage nahe am Rhein liegen. Sie wurden zwischen 1900 (Villa Dr. Hollstein) und 1912 errichtet. Trotz mancher Modernisierungsmaßname ist ihr aufwendiger Wohnstand noch ablesbar. Die Villa Dr. Hollstein besitzt noch den Vorgarten, die originalen schmiedeeisernen Tore mit dem Einfriedungsgitter, sowie die Remise. In den Villengärten stehen noch drei Blutbuchen als Naturdenkmäler."
           },
           "mapPosition": {
             "state": "#ok",
