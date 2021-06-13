@@ -609,7 +609,7 @@
   </wpt>
   <wpt lat="50.8589515942" lon="7.03048628951">
     <name>ehem. Telegraphenstation</name>
-    <cmt>Die ehemalige, 1832/33 erbaute, baulich stark veränderte Telegraphenstation, Loorweg 155, mit einem heute drei-, früher viergeschossigen Turm, war Teil der preußischen optischen Telegraphenlinie zwischen Berlin und Koblenz. Der Turm verband das Signal in Spich mit demjenigen auf dem Westwerk von St. Pantaleon in Köln.</cmt>
+    <cmt>Die ehemalige, 1832/33 erbaute, baulich stark veränderte Telegraphenstation, Loorweg 155, mit einem heute drei-, früher viergeschossigen Turm, war Teil der preußischen optischen Telegraphenlinie zwischen Berlin und Koblenz. Der Turm verband das Signal in Spich mit demjenigen auf dem Westwerk von St. Pantaleon in Köln.<br/><i>Die nachfolgenden Infotafeln konnte auf den Karten nicht lokalisiert werden und wurden ausgelassen. Damit ist dies das vorläufige Ende des Pfades.</i></cmt>
   </wpt>
   <wpt lat="50.9279366" lon="6.9735144">
     <name>Start Kulturpfad 7.2 Porz</name>
@@ -623,6 +623,10 @@
     <name>Nikolaus-Kapelle</name>
     <cmt>Die dem Schutzpatron der Schiffer geweihte, ehem. zur Abtei St. Heribert in Deutz gehörende Nikolaus-Kapelle, St. Agatha-Straße, wurde um 1100 errichtet. Der kleine romanische Saalbau (restauriert 1959-64) aus verputztem Tuff- und Kieselmauerwerk mit eingezogenem Rechteckchor, Fachwerkgiebel und einem Dachreiter liegt inmitten des ehem., bis 1929 benutzten Friedhofes mit alten Grabsteinen und Eisenkreuzen (restauriert 1987 vn der Bürgervereinigung Ensen-Westhoven).<br/><i>Die nachfolgende Infotafel konnte auf den Karten nicht lokalisiert werden und wurde ausgelassen.</i></cmt>
   </wpt>
+  <wpt lat="50.8936688" lon="7.0449961">
+    <name>Myriameterstein</name>
+    <cmt><i>Die genaue Position wurde noch nicht ermittelt, befindet sich aber bei Rheinkilometer 679,48.</i></cmt>
+  </wpt>
   <wpt lat="50.8846978" lon="7.054029">
     <name>Rheinuferpromenade</name>
     <cmt>Die Rheinuferpromenade, Friedrich-Ebert-Ufer, mit Ufermauer, Treppenaufgang, Fahrkartenpavillon für die Schiffahrt, Löwenmonument und schmiedeeisernen Laternen wurde zwischen 1907 u. 1912 angelegt.<br/><i>Die vorherige Infotafel konnte auf den Karten nicht lokalisiert werden und wurde ausgelassen.</i></cmt>
@@ -634,6 +638,10 @@
   <wpt lat="50.8633825" lon="7.0227886">
     <name>Unbekanntes Objekt</name>
     <cmt><i>Hier konnten wir leider keine Infotafel mehr finden und das Objekt nicht zuordnen.</i></cmt>
+  </wpt>
+  <wpt lat="50.846453" lon="7.0034458">
+    <name>Fronhof</name>
+    <cmt>Begrenzt von der Frongasse, Rosengasse und Lülsdorfer Straße liegt der erstmals 965, dann 1225 im Urbar von St. Pantaleon in Köln erwähnte Fronhof. 1633 wurde der damals 178 Morgen große Hof, Zentrum eines grundherrschaftlichen Hofverbandes mit einer größeren Anzahl abhängiger Höfe, von einem Feuer vernichtet. Die danach neu entstandene Anlage ging 1803 in den Besitz des preußischen Staates über, der sie 1820 an die Gebrüder Immendorff verkaufte. Der nach starken Beschädigungen im Zweiten Weltkrieg wiederaufgebaute, heute teilw. veränderte Fronhof ist der Mittelpunkt des Langeler Oberdorfes in unmittelbarer Nachbarschaft der Kirche St. Clemens.</cmt>
   </wpt>
   <wpt lat="50.8457239699" lon="7.00420784821">
     <name>St. Clemens</name>
