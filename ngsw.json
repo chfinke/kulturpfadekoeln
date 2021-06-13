@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1622988394500,
+  "timestamp": 1623604210058,
   "index": "/index.html",
   "assetGroups": [
     {
@@ -14,7 +14,7 @@
         "/assets/icons/icon.svg",
         "/favicon.ico",
         "/index.html",
-        "/main.d6cd57ad868de7aa6be1.js",
+        "/main.f9720fd6fb6b48830b36.js",
         "/manifest.json",
         "/polyfills.9bf4dad123bd95dda86e.js",
         "/runtime.359d5ee4682f20e936e9.js",
@@ -76,13 +76,13 @@
     }
   ],
   "hashTable": {
-    "/assets/data/data.json": "22d5b134e567e620ba87fb7317aa03fa4fcd1a63",
+    "/assets/data/data.json": "82f173cab8a1d5037458e1c68f50aedf1c830343",
     "/assets/data/kulturpfadekoeln_2-1.gpx": "738fbe820d7fa1bbf6588e6664fd1da2227b16bf",
     "/assets/data/kulturpfadekoeln_2-2.gpx": "ce38f96fe1a775d94a75222a1805c58ed775fef9",
     "/assets/data/kulturpfadekoeln_2-4.gpx": "0be5466417c4ec6d043f0a9c5cb0b851c539828e",
-    "/assets/data/kulturpfadekoeln_7-1.gpx": "86741844cda3376b96bbcbaa3e1abbe222a8aa45",
-    "/assets/data/kulturpfadekoeln_7-2.gpx": "838ec6ef7f9cdb31e0d794638406eecdcd46956e",
-    "/assets/data/kulturpfadekoeln_7-3.gpx": "27e3b99e6602956d57cbb291c56ed0456ac63a6f",
+    "/assets/data/kulturpfadekoeln_7-1.gpx": "2fa323bd3acc011a476265abd2eebc59833babf2",
+    "/assets/data/kulturpfadekoeln_7-2.gpx": "a52bcdd2f489b23972f00681347e322ee41dd77e",
+    "/assets/data/kulturpfadekoeln_7-3.gpx": "189b52728d8a2c717d6c7fea8f28bf3d371604a2",
     "/assets/data/kulturpfadekoeln_7-4.gpx": "40bf74ea07365ac008567b2607ad7e611d91ba2d",
     "/assets/data/schema.json": "d6d05a46a466c6bea4d2e57bf38a9533c9e9984c",
     "/assets/examples/example_001.png": "fac14a739834252eb888e91e85fb65193ccf8a17",
@@ -101,10 +101,10 @@
     "/fontawesome-webfont.8b43027f47b20503057d.eot": "d980c2ce873dc43af460d4d572d441304499f400",
     "/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg": "98a8aa5cf7d62c2eff5f07ede8d844b874ef06ed",
     "/fontawesome-webfont.f691f37e57f04c152e23.woff": "28b782240b3e76db824e12c02754a9731a167527",
-    "/index.html": "d8a5220bd34d19f3b10f6cd4c2054f49ae0f7246",
+    "/index.html": "9a08f8a41703715b94530b6793b2ea5086ec8fd3",
     "/layers-2x.8f2c4d11474275fbc161.png": "152a162333e46d24f9d89f566312fc0c64011dee",
     "/layers.416d91365b44e4b4f477.png": "c9e7528e491a39232ba24a2706c6c739d6fb0f06",
-    "/main.d6cd57ad868de7aa6be1.js": "89f0f8585c9cc88d106c3d58919de2fe348b6b1d",
+    "/main.f9720fd6fb6b48830b36.js": "10d7dcab5fb75ea1634ed6a7e2f3618e922bc8da",
     "/manifest.json": "d5abf75f1e2c5ceef1d56daf30fffb2202feae0e",
     "/marker-icon.2b3e1faf89f94a483539.png": "60a90bcbb2b42b7ddb4556db94eb7c1084b0e5da",
     "/polyfills.9bf4dad123bd95dda86e.js": "763cd3b34dfa4600ebb9d9588ec7116988e98920",
