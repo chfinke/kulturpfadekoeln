@@ -226,6 +226,17 @@ a:visited {
 
 .map__info__content {
   overflow-y: auto;
+  display: flex;
+  flex-direction: column;
+  height: 100vh;
+}
+
+.map__info__content__text {
+  flex: 1 0 auto;
+}
+
+.map__info__content__navigation {
+  flex-shrink: 0;
 }
 
 .leaflet-control-attribution {
