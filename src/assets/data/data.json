@@ -4170,7 +4170,7 @@
           "title": "Start Kul|tur|pfad 7.1 Porz",
           "description": {
             "state": "#ok",
-            "value": "Der Pfad ist eine Rundtour und startet am S-Bahnhof Porz-Wahn. Von dort geht es nach Libur und dann über einen bisher unbekannten Wegabschnitt, für den die Infotafeln auf den Karten nicht lokalisiert werden konnten. Dann geht es dann über Urbach nach Wahn und zurück zu, Startpunkt.<br/>Die Reihenfolge einiger Infotafeln wurde für einen besseren Wegverlauf umsortiert."
+            "value": "Der Pfad ist eine Rundtour und startet am S-Bahnhof Porz-Wahn. Von dort geht es nach Libur und dann über einen bisher unbekannten Wegabschnitt, für den die Infotafeln auf den Karten nicht lokalisiert werden konnten. Dann geht es über Urbach und Elsdorf nach Wahn und zurück zum Startpunkt.<br/>Die Reihenfolge einiger Infotafeln wurde für einen besseren Wegverlauf teilweise umsortiert."
           },
           "mapPosition": {
             "state": "#ok",
@@ -5203,7 +5203,7 @@
           "title": "Start Kul|tur|pfad 7.2 Porz",
           "description": {
             "state": "#ok",
-            "value": "Der ca. 18 km lange Pfad führt vom Deutzer Hafen aus am Rhein entlang. Über Westhofen und Porz bis nach Langel, wo das voläufige Ende des Pfades liegt. Die nachfolgenden Infotafeln konnte auf den Karten nicht lokalisiert werden und wurden daher ausgelassen."
+            "value": "Der ca. 19,5 km lange Pfad führt vom Deutzer Hafen aus am Rhein entlang. Über Westhofen, Porz und Zündorf bis nach Langel. Ende ist dann die Endhaltestelle der Linie 7 in Zündorf."
           },
           "mapPosition": {
             "state": "#check",
@@ -5633,7 +5633,7 @@
           "info": {
             "state": "#unknown"
           },
-          "notes": "Die nachfolgenden Infotafeln konnte auf den Karten nicht lokalisiert werden und wurden ausgelassen. Damit ist dies das vorläufige Ende des Pfades.",
+          "notes": "",
           "wiki": {
             "state": "#n/a"
           },
