@@ -1,5 +1,5 @@
 import { Component, Input } from '@angular/core';
-import { OptionsService } from 'src/app/core/options.service';
+import { OptionsService } from 'src/app/options/options.service';
 
 import { Point } from '../../core/data.service';
 

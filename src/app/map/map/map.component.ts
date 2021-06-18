@@ -8,7 +8,7 @@ import 'leaflet.locatecontrol';
 import 'leaflet-easybutton';
 
 
-import { OptionsService } from '../../core/options.service';
+import { OptionsService } from '../../options/options.service';
 import { MapService } from '../map.service';
 import { DataService, PointBuildingsState, PointMapPositionState, Data } from '../../core/data.service';
 import { environment } from 'src/environments/environment';
