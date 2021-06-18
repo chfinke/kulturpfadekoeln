@@ -8,7 +8,7 @@ import 'leaflet.locatecontrol';
 import 'leaflet-easybutton';
 
 
-import { OptionsService } from '../../core/options.service';
+import { OptionsService } from '../../options/options.service';
 import { MapService } from '../map.service';
 import { DataService, PointBuildingsState, PointMapPositionState, Data } from '../../core/data.service';
 import { environment } from 'src/environments/environment';
@@ -166,7 +166,7 @@ export class MapComponent implements AfterViewInit {
         }).addTo(this.mapService.map);
       }
 
-      Object.entries(track.points).forEach(([pointId, point]) => {
+      Object.entries(track.points).reverse().forEach(([pointId, point]) => {
         if ((track.inactive || point.inactive) && !this.optionsService.options.develop.showInactivePoints) {
         } else if (point.mapPosition.state === PointMapPositionState.Unknown && !this.optionsService.options.develop.showStatusUnknownPoints) {
           if (environment.production === false) {

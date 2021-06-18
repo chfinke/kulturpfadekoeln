@@ -1,0 +1,16 @@
+<div class="wrapper">
+  <h1 class="title">
+    <img src="./assets/icons/icon-72x72.png" alt="Kulturpfade Köln">
+    Kulturpfade Köln
+  </h1>
+  <h2>Optionen</h2>
+
+  <h3>Entwicklung</h3>
+
+  <input type="checkbox" [checked]="service.options.develop.showInactivePoints" (change)="onChange($event, 'develop.showInactivePoints')">inaktive Infotafeln anzeigen
+  <br/>
+  <input type="checkbox" [checked]="service.options.develop.showStatusUnknownPoints" (change)="onChange($event, 'develop.showStatusUnknownPoints')">unbekannte Infotafeln anzeigen
+  <br/>
+  <br/>
+  <a [routerLink]="['/']">Zurück zur Startseite&nbsp;&rarr;</a>
+</div>
