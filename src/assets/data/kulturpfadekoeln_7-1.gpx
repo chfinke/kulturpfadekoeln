@@ -390,8 +390,105 @@
       <trkpt lat="50.875828400000003" lon="7.0829151000000001"/>
       <trkpt lat="50.8758135" lon="7.0828414999999998"/>
       <trkpt lat="50.875752400000003" lon="7.0825392999999996"/>
-    </trkseg>
-    <trkseg>
+      <trkpt lat="50.875661200000003" lon="7.0820885999999996"/>
+      <trkpt lat="50.875617499999997" lon="7.0817636000000004"/>
+      <trkpt lat="50.8754572" lon="7.0818786999999999"/>
+      <trkpt lat="50.875390600000003" lon="7.0819261999999998"/>
+      <trkpt lat="50.875301800000003" lon="7.0819894000000003"/>
+      <trkpt lat="50.875248999999997" lon="7.0820254"/>
+      <trkpt lat="50.875165099999997" lon="7.0820825000000003"/>
+      <trkpt lat="50.875104899999997" lon="7.0821071"/>
+      <trkpt lat="50.875049099999998" lon="7.0821277"/>
+      <trkpt lat="50.874973599999997" lon="7.0821446999999997"/>
+      <trkpt lat="50.874934199999998" lon="7.0821424000000004"/>
+      <trkpt lat="50.8748614" lon="7.0821382000000002"/>
+      <trkpt lat="50.874606100000001" lon="7.0820694"/>
+      <trkpt lat="50.874564700000001" lon="7.0820594000000003"/>
+      <trkpt lat="50.874141299999998" lon="7.0819568000000004"/>
+      <trkpt lat="50.873850400000002" lon="7.0818862999999999"/>
+      <trkpt lat="50.873358000000003" lon="7.0817055"/>
+      <trkpt lat="50.873290599999997" lon="7.0816808"/>
+      <trkpt lat="50.873263299999998" lon="7.0816708000000004"/>
+      <trkpt lat="50.873196499999999" lon="7.0816463000000001"/>
+      <trkpt lat="50.872806199999999" lon="7.0814554000000003"/>
+      <trkpt lat="50.872740100000001" lon="7.0814228000000004"/>
+      <trkpt lat="50.8723995" lon="7.0812328999999998"/>
+      <trkpt lat="50.872152399999997" lon="7.0811102000000004"/>
+      <trkpt lat="50.872028100000001" lon="7.0810522999999996"/>
+      <trkpt lat="50.871968099999997" lon="7.0809990999999997"/>
+      <trkpt lat="50.8719331" lon="7.0809490999999998"/>
+      <trkpt lat="50.871911699999998" lon="7.0809142999999999"/>
+      <trkpt lat="50.8718389" lon="7.0807836999999996"/>
+      <trkpt lat="50.871815499999997" lon="7.0807399999999996"/>
+      <trkpt lat="50.871782500000002" lon="7.0806585000000002"/>
+      <trkpt lat="50.871754099999997" lon="7.0805730999999996"/>
+      <trkpt lat="50.871729700000003" lon="7.0804705999999999"/>
+      <trkpt lat="50.871724200000003" lon="7.0804425000000002"/>
+      <trkpt lat="50.871706400000001" lon="7.0803523000000004"/>
+      <trkpt lat="50.8717027" lon="7.0803167"/>
+      <trkpt lat="50.871641099999998" lon="7.0798364999999999"/>
+      <trkpt lat="50.8716157" lon="7.0796386"/>
+      <trkpt lat="50.871641099999998" lon="7.0798364999999999"/>
+      <trkpt lat="50.8717027" lon="7.0803167"/>
+      <trkpt lat="50.871706400000001" lon="7.0803523000000004"/>
+      <trkpt lat="50.871694300000001" lon="7.0806655000000003"/>
+      <trkpt lat="50.8716838" lon="7.0808375999999997"/>
+      <trkpt lat="50.871683599999997" lon="7.0808825999999998"/>
+      <trkpt lat="50.871682999999997" lon="7.0809861999999999"/>
+      <trkpt lat="50.871695099999997" lon="7.0810949000000001"/>
+      <trkpt lat="50.871704100000002" lon="7.0811503"/>
+      <trkpt lat="50.8716516" lon="7.0811495000000004"/>
+      <trkpt lat="50.871595499999998" lon="7.0811495000000004"/>
+      <trkpt lat="50.871144700000002" lon="7.0812498000000001"/>
+      <trkpt lat="50.870421200000003" lon="7.0810579000000002"/>
+      <trkpt lat="50.870039200000001" lon="7.0810797000000001"/>
+      <trkpt lat="50.869614599999998" lon="7.0810890000000004"/>
+      <trkpt lat="50.869650999999998" lon="7.0826168000000003"/>
+      <trkpt lat="50.869648400000003" lon="7.0827555999999996"/>
+      <trkpt lat="50.8696591" lon="7.0829037000000001"/>
+      <trkpt lat="50.869666299999999" lon="7.0831533999999996"/>
+      <trkpt lat="50.869675700000002" lon="7.083386"/>
+      <trkpt lat="50.869678700000001" lon="7.0834944000000002"/>
+      <trkpt lat="50.869519599999997" lon="7.0835018999999999"/>
+      <trkpt lat="50.869409900000001" lon="7.0835093999999996"/>
+      <trkpt lat="50.869203200000001" lon="7.0835235000000001"/>
+      <trkpt lat="50.868868900000002" lon="7.0835464000000004"/>
+      <trkpt lat="50.8685677" lon="7.0835638999999997"/>
+      <trkpt lat="50.867950499999999" lon="7.0835996999999997"/>
+      <trkpt lat="50.867379" lon="7.0836271999999996"/>
+      <trkpt lat="50.8669546" lon="7.0836511"/>
+      <trkpt lat="50.866425499999998" lon="7.0836788999999998"/>
+      <trkpt lat="50.865904499999999" lon="7.0837092000000004"/>
+      <trkpt lat="50.865844899999999" lon="7.0837127999999998"/>
+      <trkpt lat="50.865757199999997" lon="7.0837181999999999"/>
+      <trkpt lat="50.865602699999997" lon="7.0837275999999996"/>
+      <trkpt lat="50.865301100000003" lon="7.0837383999999997"/>
+      <trkpt lat="50.865165500000003" lon="7.0837475999999997"/>
+      <trkpt lat="50.865025199999998" lon="7.0837558999999999"/>
+      <trkpt lat="50.864742900000003" lon="7.0837729999999999"/>
+      <trkpt lat="50.864609100000003" lon="7.0837805999999999"/>
+      <trkpt lat="50.864579499999998" lon="7.0837823000000002"/>
+      <trkpt lat="50.8645219" lon="7.0837854"/>
+      <trkpt lat="50.864406000000002" lon="7.0837916999999999"/>
+      <trkpt lat="50.864077199999997" lon="7.0838181999999996"/>
+      <trkpt lat="50.864025499999997" lon="7.0838172999999998"/>
+      <trkpt lat="50.863564500000003" lon="7.0838479000000003"/>
+      <trkpt lat="50.863318100000001" lon="7.0838590000000003"/>
+      <trkpt lat="50.863236800000003" lon="7.0838612999999997"/>
+      <trkpt lat="50.863228399999997" lon="7.0838083999999997"/>
+      <trkpt lat="50.863210299999999" lon="7.0837620000000001"/>
+      <trkpt lat="50.863184099999998" lon="7.0837266000000003"/>
+      <trkpt lat="50.863152399999997" lon="7.0837053000000001"/>
+      <trkpt lat="50.863118" lon="7.0837002"/>
+      <trkpt lat="50.863118200000002" lon="7.0835758000000002"/>
+      <trkpt lat="50.863117199999998" lon="7.0834739000000004"/>
+      <trkpt lat="50.863099599999998" lon="7.0829728000000003"/>
+      <trkpt lat="50.863087200000002" lon="7.0827080000000002"/>
+      <trkpt lat="50.862924499999998" lon="7.0814221000000002"/>
+      <trkpt lat="50.8628754" lon="7.0814271"/>
+      <trkpt lat="50.862748400000001" lon="7.0814370999999996"/>
+      <trkpt lat="50.862521399999999" lon="7.0814817000000003"/>
+      <trkpt lat="50.862483699999999" lon="7.0814957999999999"/>
       <trkpt lat="50.862333900000003" lon="7.0815533000000004"/>
       <trkpt lat="50.862302" lon="7.0815193000000001"/>
       <trkpt lat="50.8622467" lon="7.0815115000000004"/>
@@ -489,7 +586,11 @@
   </trk>
   <wpt lat="50.877732" lon="7.082512">
     <name>Unbekanntes Objekt</name>
-    <cmt><i>Hier konnten wir leider keine Infotafel mehr finden und das Objekt nicht zuordnen. Es handelt sich aber wahrscheinlich um das  Wohnhaus Frankfurter Straße 482. Die nachfolgenden Infotafeln konnte auf den Karten nicht lokalisiert werden und wurden ausgelassen.</i></cmt>
+    <cmt><i>Hier konnten wir leider keine Infotafel mehr finden und das Objekt nicht zuordnen. Es handelt sich aber wahrscheinlich um das  Wohnhaus Frankfurter Straße 482.</i></cmt>
+  </wpt>
+  <wpt lat="50.8716157" lon="7.0796386">
+    <name>Bergerhof</name>
+    <cmt>Das alte, 1789 dat. adlige Landgut Bergerhof, Gilsonstraße 68, ist eine geschlossene Hofanlage mit zwei Herrenhäusern (das ältere, im 19. Jh. aufgestockte aus Fachwerk). Der heutige Zustand ist das Resultat vielfacher Änderungen. Die Grundsubstanz der Anlage blieb allerdings im wesentlichen bestehen. Beim Bergerhof eine Wegekapelle aus verputztem Ziegelmauerwerk (jetzige Form 1925). Sie dient als Ausgangspunkt einer jährlich nach Pfingsten stattfindenden Wallfahrt nach Walldürn (Odenwald). Im Innern eine Pieta des 19. Jh.</cmt>
   </wpt>
   <wpt lat="50.879013" lon="7.082347">
     <name>Unbekanntes Objekt</name>
@@ -525,11 +626,15 @@
   </wpt>
   <wpt lat="50.856435" lon="7.086651">
     <name>St. Aegidius</name>
-    <cmt>Die kathol. Pfarrkirche St. Aegidius, Frankfurter Str. 179/Ecke St. Sebastianusstr., entstand 1893-95 nach Plänen A. Beckers als neugotische dreischiffige Backstein-Hallenkirche mit Vierkantturm. Im Inneren überspannt ein 1990-92 erneuertes Kreuzrippengewölbe die noch originale Ausstattung (meist von F. Hackenberg). Die Ausmalung wurde nach dem historischen Befund erneuert. Im Turmvorraum ein barockes Mamor-Epitaph (1656-85) des Wilhelm v. Zweiffel u. der Agnes Schall von Bell. Bei der Kirche der ehemalige Friedhof, von dem noch einige – teils barocke – Grabkreuze zeugen.<br/><i>Die nachfolgenden Infotafeln konnte auf den Karten nicht lokalisiert werden und wurden ausgelassen. Damit ist dies das vorläufige Ende des Pfades.</i></cmt>
+    <cmt>Die kathol. Pfarrkirche St. Aegidius, Frankfurter Str. 179/Ecke St. Sebastianusstr., entstand 1893-95 nach Plänen A. Beckers als neugotische dreischiffige Backstein-Hallenkirche mit Vierkantturm. Im Inneren überspannt ein 1990-92 erneuertes Kreuzrippengewölbe die noch originale Ausstattung (meist von F. Hackenberg). Die Ausmalung wurde nach dem historischen Befund erneuert. Im Turmvorraum ein barockes Mamor-Epitaph (1656-85) des Wilhelm v. Zweiffel u. der Agnes Schall von Bell. Bei der Kirche der ehemalige Friedhof, von dem noch einige – teils barocke – Grabkreuze zeugen.</cmt>
   </wpt>
   <wpt lat="50.857562" lon="7.082578">
     <name>Burg Wahn</name>
-    <cmt><i>Hier konnten wir leider keine Infotafel mehr finden. Die vorherigen Infotafeln konnte auf den Karten nicht lokalisiert werden und wurden ausgelassen.</i></cmt>
+    <cmt><i>Hier konnten wir leider keine Infotafel mehr finden.</i></cmt>
+  </wpt>
+  <wpt lat="50.8720281" lon="7.0810523">
+    <name>Unbekanntes Objekt</name>
+    <cmt><i>Hier konnten wir leider keine Infotafel mehr finden und das Objekt nicht zuordnen.</i></cmt>
   </wpt>
   <wpt lat="50.859017" lon="7.08343">
     <name>Haus Sophia</name>
@@ -577,6 +682,6 @@
   </wpt>
   <wpt lat="50.8583466" lon="7.079561">
     <name>Start Kulturpfad 7.1 Porz</name>
-    <cmt>Der Pfad startet in Libur und nimmt dann einen bisher unbekannten Wegabschnitt, für den die Infotafeln auf den Karten nicht lokalisiert werden konnten. Weiter geht es dann über Urbach nach Wahn. Ob der Pfad von hieraus noch weiter geht ist bisher nicht bekannt.<br/>Die Reihenfolge einiger Infotafeln wurde für einen besseren Wegverlauf umsortiert.</cmt>
+    <cmt>Der Pfad ist eine Rundtour und startet am S-Bahnhof Porz-Wahn. Von dort geht es nach Libur und dann über einen bisher unbekannten Wegabschnitt, für den die Infotafeln auf den Karten nicht lokalisiert werden konnten. Dann geht es dann über Urbach nach Wahn und zurück zu, Startpunkt.<br/>Die Reihenfolge einiger Infotafeln wurde für einen besseren Wegverlauf umsortiert.</cmt>
   </wpt>
 </gpx>

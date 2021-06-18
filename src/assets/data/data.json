@@ -4989,7 +4989,7 @@
           "trackSubpt": "",
           "quarter": "Urbach",
           "predecessor": "7.1.27",
-          "successor": "7.1.31",
+          "successor": "7.1.29",
           "title": "Un|be|kann|tes Ob|jekt",
           "description": {
             "state": "#unknown"
@@ -5004,7 +5004,7 @@
           "info": {
             "state": "#unknown"
           },
-          "notes": "Hier konnten wir leider keine Infotafel mehr finden und das Objekt nicht zuordnen. Es handelt sich aber wahrscheinlich um das  Wohnhaus Frankfurter Straße 482. Die nachfolgenden Infotafeln konnte auf den Karten nicht lokalisiert werden und wurden ausgelassen.",
+          "notes": "Hier konnten wir leider keine Infotafel mehr finden und das Objekt nicht zuordnen. Es handelt sich aber wahrscheinlich um das  Wohnhaus Frankfurter Straße 482.",
           "wiki": {
             "state": "#unknown"
           },
@@ -5018,15 +5018,14 @@
           "quarter": "",
           "predecessor": "7.1.28",
           "successor": "7.1.30",
-          "inactive": true,
-          "title": "",
+          "title": "Ber|ger|hof",
           "description": {
-            "state": "#unknown",
-            "value": ""
+            "state": "#ok",
+            "value": "Das alte, 1789 dat. adlige Landgut Bergerhof, Gilsonstraße 68, ist eine geschlossene Hofanlage mit zwei Herrenhäusern (das ältere, im 19. Jh. aufgestockte aus Fachwerk). Der heutige Zustand ist das Resultat vielfacher Änderungen. Die Grundsubstanz der Anlage blieb allerdings im wesentlichen bestehen. Beim Bergerhof eine Wegekapelle aus verputztem Ziegelmauerwerk (jetzige Form 1925). Sie dient als Ausgangspunkt einer jährlich nach Pfingsten stattfindenden Wallfahrt nach Walldürn (Odenwald). Im Innern eine Pieta des 19. Jh."
           },
           "mapPosition": {
-            "state": "#unknown",
-            "value": []
+            "state": "#ok",
+            "value": [ 7.0796386, 50.8716157 ]
           },
           "buildings": {
             "state": "#unknown"
@@ -5048,15 +5047,14 @@
           "quarter": "",
           "predecessor": "7.1.29",
           "successor": "7.1.31",
-          "inactive": true,
-          "title": "",
+          "title": "Un|be|kann|tes Ob|jekt",
           "description": {
             "state": "#unknown",
             "value": ""
           },
           "mapPosition": {
-            "state": "#unknown",
-            "value": []
+            "state": "#check",
+            "value": [ 7.0810523, 50.8720281 ]
           },
           "buildings": {
             "state": "#unknown"
@@ -5064,7 +5062,7 @@
           "info": {
             "state": "#unknown"
           },
-          "notes": "",
+          "notes": "Hier konnten wir leider keine Infotafel mehr finden und das Objekt nicht zuordnen.",
           "wiki": {
             "state": "#unknown"
           },
@@ -5076,7 +5074,7 @@
           "trackPoint": 31,
           "trackSubpt": "",
           "quarter": "",
-          "predecessor": "7.1.28",
+          "predecessor": "7.1.30",
           "successor": "7.1.32",
           "title": "Burg Wahn",
           "description": {
@@ -5093,7 +5091,7 @@
           "info": {
             "state": "#unknown"
           },
-          "notes": "Hier konnten wir leider keine Infotafel mehr finden. Die vorherigen Infotafeln konnte auf den Karten nicht lokalisiert werden und wurden ausgelassen.",
+          "notes": "Hier konnten wir leider keine Infotafel mehr finden.",
           "wiki": {
             "state": "#unknown"
           },
@@ -6827,7 +6825,7 @@
           "info": {
             "state": "#unknown"
           },
-          "notes": "Hier konnten wir leider keine Infotafel mehr finden.",
+          "notes": "Das Gebäude existiert leider nicht mehr und wir konnten auch keine Infotafel mehr finden.",
           "wiki": {
             "state": "#unknown"
           },
