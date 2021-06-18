@@ -4170,7 +4170,7 @@
           "title": "Start Kul|tur|pfad 7.1 Porz",
           "description": {
             "state": "#ok",
-            "value": "Der Pfad ist eine Rundtour und startet am S-Bahnhof Porz-Wahn. Von dort geht es nach Libur und dann über einen bisher unbekannten Wegabschnitt, für den die Infotafeln auf den Karten nicht lokalisiert werden konnten. Dann geht es dann über Urbach nach Wahn und zurück zu, Startpunkt.<br/>Die Reihenfolge einiger Infotafeln wurde für einen besseren Wegverlauf umsortiert."
+            "value": "Der Pfad ist eine Rundtour und startet am S-Bahnhof Porz-Wahn. Von dort geht es nach Libur und dann über einen bisher unbekannten Wegabschnitt, für den die Infotafeln auf den Karten nicht lokalisiert werden konnten. Dann geht es über Urbach und Elsdorf nach Wahn und zurück zum Startpunkt.<br/>Die Reihenfolge einiger Infotafeln wurde für einen besseren Wegverlauf teilweise umsortiert."
           },
           "mapPosition": {
             "state": "#ok",
@@ -4989,7 +4989,7 @@
           "trackSubpt": "",
           "quarter": "Urbach",
           "predecessor": "7.1.27",
-          "successor": "7.1.31",
+          "successor": "7.1.29",
           "title": "Un|be|kann|tes Ob|jekt",
           "description": {
             "state": "#unknown"
@@ -5004,7 +5004,7 @@
           "info": {
             "state": "#unknown"
           },
-          "notes": "Hier konnten wir leider keine Infotafel mehr finden und das Objekt nicht zuordnen. Es handelt sich aber wahrscheinlich um das  Wohnhaus Frankfurter Straße 482. Die nachfolgenden Infotafeln konnte auf den Karten nicht lokalisiert werden und wurden ausgelassen.",
+          "notes": "Hier konnten wir leider keine Infotafel mehr finden und das Objekt nicht zuordnen. Es handelt sich aber wahrscheinlich um das  Wohnhaus Frankfurter Straße 482.",
           "wiki": {
             "state": "#unknown"
           },
@@ -5018,15 +5018,14 @@
           "quarter": "",
           "predecessor": "7.1.28",
           "successor": "7.1.30",
-          "inactive": true,
-          "title": "",
+          "title": "Ber|ger|hof",
           "description": {
-            "state": "#unknown",
-            "value": ""
+            "state": "#ok",
+            "value": "Das alte, 1789 dat. adlige Landgut Bergerhof, Gilsonstraße 68, ist eine geschlossene Hofanlage mit zwei Herrenhäusern (das ältere, im 19. Jh. aufgestockte aus Fachwerk). Der heutige Zustand ist das Resultat vielfacher Änderungen. Die Grundsubstanz der Anlage blieb allerdings im wesentlichen bestehen. Beim Bergerhof eine Wegekapelle aus verputztem Ziegelmauerwerk (jetzige Form 1925). Sie dient als Ausgangspunkt einer jährlich nach Pfingsten stattfindenden Wallfahrt nach Walldürn (Odenwald). Im Innern eine Pieta des 19. Jh."
           },
           "mapPosition": {
-            "state": "#unknown",
-            "value": []
+            "state": "#ok",
+            "value": [ 7.0796386, 50.8716157 ]
           },
           "buildings": {
             "state": "#unknown"
@@ -5048,15 +5047,14 @@
           "quarter": "",
           "predecessor": "7.1.29",
           "successor": "7.1.31",
-          "inactive": true,
-          "title": "",
+          "title": "Un|be|kann|tes Ob|jekt",
           "description": {
             "state": "#unknown",
             "value": ""
           },
           "mapPosition": {
-            "state": "#unknown",
-            "value": []
+            "state": "#check",
+            "value": [ 7.0810523, 50.8720281 ]
           },
           "buildings": {
             "state": "#unknown"
@@ -5064,7 +5062,7 @@
           "info": {
             "state": "#unknown"
           },
-          "notes": "",
+          "notes": "Hier konnten wir leider keine Infotafel mehr finden und das Objekt nicht zuordnen.",
           "wiki": {
             "state": "#unknown"
           },
@@ -5076,7 +5074,7 @@
           "trackPoint": 31,
           "trackSubpt": "",
           "quarter": "",
-          "predecessor": "7.1.28",
+          "predecessor": "7.1.30",
           "successor": "7.1.32",
           "title": "Burg Wahn",
           "description": {
@@ -5093,7 +5091,7 @@
           "info": {
             "state": "#unknown"
           },
-          "notes": "Hier konnten wir leider keine Infotafel mehr finden. Die vorherigen Infotafeln konnte auf den Karten nicht lokalisiert werden und wurden ausgelassen.",
+          "notes": "Hier konnten wir leider keine Infotafel mehr finden.",
           "wiki": {
             "state": "#unknown"
           },
@@ -5205,7 +5203,7 @@
           "title": "Start Kul|tur|pfad 7.2 Porz",
           "description": {
             "state": "#ok",
-            "value": "Der ca. 18 km lange Pfad führt vom Deutzer Hafen aus am Rhein entlang. Über Westhofen und Porz bis nach Langel, wo das voläufige Ende des Pfades liegt. Die nachfolgenden Infotafeln konnte auf den Karten nicht lokalisiert werden und wurden daher ausgelassen."
+            "value": "Der ca. 19,5 km lange Pfad führt vom Deutzer Hafen aus am Rhein entlang. Über Westhofen, Porz und Zündorf bis nach Langel. Ende ist dann die Endhaltestelle der Linie 7 in Zündorf."
           },
           "mapPosition": {
             "state": "#check",
@@ -5635,7 +5633,7 @@
           "info": {
             "state": "#unknown"
           },
-          "notes": "Die nachfolgenden Infotafeln konnte auf den Karten nicht lokalisiert werden und wurden ausgelassen. Damit ist dies das vorläufige Ende des Pfades.",
+          "notes": "",
           "wiki": {
             "state": "#n/a"
           },
@@ -6818,8 +6816,8 @@
             "value": ""
           },
           "mapPosition": {
-            "state": "#unknown",
-            "value": [ 7.064818336712283, 50.88147079285061 ]
+            "state": "#ok",
+            "value": [ 7.0648032, 50.8815046 ]
           },
           "buildings": {
             "state": "#unknown"
@@ -6827,7 +6825,7 @@
           "info": {
             "state": "#unknown"
           },
-          "notes": "Hier konnten wir leider keine Infotafel mehr finden.",
+          "notes": "Das Gebäude existiert leider nicht mehr und wir konnten auch keine Infotafel mehr finden.",
           "wiki": {
             "state": "#unknown"
           },
