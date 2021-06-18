@@ -166,7 +166,7 @@ export class MapComponent implements AfterViewInit {
         }).addTo(this.mapService.map);
       }
 
-      Object.entries(track.points).forEach(([pointId, point]) => {
+      Object.entries(track.points).reverse().forEach(([pointId, point]) => {
         if ((track.inactive || point.inactive) && !this.optionsService.options.develop.showInactivePoints) {
         } else if (point.mapPosition.state === PointMapPositionState.Unknown && !this.optionsService.options.develop.showStatusUnknownPoints) {
           if (environment.production === false) {
