@@ -6816,8 +6816,8 @@
             "value": ""
           },
           "mapPosition": {
-            "state": "#unknown",
-            "value": [ 7.064818336712283, 50.88147079285061 ]
+            "state": "#ok",
+            "value": [ 7.0648032, 50.8815046 ]
           },
           "buildings": {
             "state": "#unknown"
