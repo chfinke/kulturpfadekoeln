@@ -23,9 +23,19 @@ export class MapComponent implements AfterViewInit {
   @Input() id: string;
   @Input() trackId: string;
   @Input() pointId: string;
-  @Input() detailTrack: Track;
+  _detailTrack: Track;
+  @Input() set detailTrack(detailTrack: Track) {
+    this._detailTrack = detailTrack;
+    if (this.btnDownload) {
+      if (detailTrack) {
+        this.btnDownload.enable();
+      } else {
+        this.btnDownload.disable(); // hides in combination with css
+      }
+    }
+  };
   _detailPoint: Point;
-  @Input() set detailPoint( detailPoint: Point) {
+  @Input() set detailPoint(detailPoint: Point) {
     this._detailPoint = detailPoint;
     if (this.btnNavigate) {
       if (detailPoint) {
@@ -38,6 +48,7 @@ export class MapComponent implements AfterViewInit {
   @Input() static: boolean;
   @Input() classes: string;
   @Output() detail: EventEmitter<string> = new EventEmitter();
+  btnDownload;
   btnNavigate;
 
   constructor(
@@ -138,15 +149,14 @@ export class MapComponent implements AfterViewInit {
       ).addTo(map);
     }
 
-    if (this.trackId) {
-      L.easyButton(
-        'fa fa-download',
-        () => {
-          this.onDownload();
-        },
-        'Herunterladen'
-      ).addTo(map);
-    }
+    this.btnDownload = L.easyButton(
+      'fa fa-download',
+      () => {
+        this.onDownload();
+      },
+      'Herunterladen'
+    ).addTo(map);
+    this.btnDownload.disable();
 
     this.btnNavigate = L.easyButton(
       'fas fa-directions',
@@ -293,6 +303,7 @@ export class MapComponent implements AfterViewInit {
   }
 
   onDownload(): void {
-    window.open(`./assets/data/kulturpfadekoeln_${this.trackId.replace('.', '-')}.gpx`, '_blank');
+    const href = `./assets/data/kulturpfadekoeln_${this._detailTrack.boroughNo}-${this._detailTrack.trackNo}.gpx`;
+    window.open(href, '_blank');
   }
 }
