@@ -7,10 +7,9 @@ import * as LGPX from 'leaflet-gpx';
 import 'leaflet.locatecontrol';
 import 'leaflet-easybutton';
 
-
 import { OptionsService } from '../../options/options.service';
 import { MapService } from '../map.service';
-import { DataService, PointBuildingsState, PointMapPositionState, Data } from '../../core/data.service';
+import { DataService, PointBuildingsState, PointMapPositionState, Data, Point, Track } from '../../core/data.service';
 import { environment } from 'src/environments/environment';
 import { Router } from '@angular/router';
 
@@ -24,9 +23,22 @@ export class MapComponent implements AfterViewInit {
   @Input() id: string;
   @Input() trackId: string;
   @Input() pointId: string;
+  @Input() detailTrack: Track;
+  _detailPoint: Point;
+  @Input() set detailPoint( detailPoint: Point) {
+    this._detailPoint = detailPoint;
+    if (this.btnNavigate) {
+      if (detailPoint) {
+        this.btnNavigate.enable();
+      } else {
+        this.btnNavigate.disable(); // hides in combination with css
+      }
+    }
+  };
   @Input() static: boolean;
   @Input() classes: string;
   @Output() detail: EventEmitter<string> = new EventEmitter();
+  btnNavigate;
 
   constructor(
     private optionsService: OptionsService,
@@ -135,6 +147,13 @@ export class MapComponent implements AfterViewInit {
         'Herunterladen'
       ).addTo(map);
     }
+
+    this.btnNavigate = L.easyButton(
+      'fas fa-directions',
+      () => { this.onNavigate(); },
+      'Zum Punkt navigieren'
+    ).addTo(map);
+    this.btnNavigate.disable(); // hides in combination with css
   }
 
   async initData(): Promise<void> {
@@ -266,6 +285,11 @@ export class MapComponent implements AfterViewInit {
   onMaximize(): void {
     const queryParams = { track: this.trackId };
     this.router.navigate(['map'], { queryParams: queryParams, fragment: '' });
+  }
+
+  onNavigate(): void {
+    const geoHref = `geo:${this._detailPoint.mapPosition.value[1]},${this._detailPoint.mapPosition.value[0]}`;
+    window.open(geoHref, '_blank');
   }
 
   onDownload(): void {

@@ -285,3 +285,11 @@ a:visited {
   }
 
 }
+
+.leaflet-bar.disabled,
+.leaflet-bar button.disabled {
+  opacity: 0;
+  border: none;
+  display: none;
+  height: -10px;
+}

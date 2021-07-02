@@ -7,11 +7,7 @@
   </ng-container>
   <span class="u-hyphens" [innerHTML]="point.title"></span>
 </h1>
-<p>
-  <a 
-    [href]="geoHref"
-  >{{point.trackPoint === 0 ? 'zum Startpunkt' : 'zur Infotafel'}} navigieren &#x21B1;</a>
-</p>
+
 <p *ngIf="point.description.value" [innerHTML]="point.description.value"></p>
 <p *ngIf="point.notes"><i>{{point.notes}}</i></p>
 
