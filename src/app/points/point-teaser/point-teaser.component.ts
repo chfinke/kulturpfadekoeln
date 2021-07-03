@@ -1,4 +1,5 @@
 import { Component, Input } from '@angular/core';
+import { OptionsService } from 'src/app/options/options.service';
 
 import { Point } from '../../core/data.service';
 
@@ -11,6 +12,6 @@ export class PointTeaserComponent {
   @Input() point: Point;
   @Input() trackId: string;
 
-  constructor() { }
+  constructor(public optionsService: OptionsService) {}
 
 }

@@ -1,7 +1,5 @@
 import { Component, Input, OnChanges } from '@angular/core';
 
-import { DomSanitizer, SafeUrl } from '@angular/platform-browser';
-
 import { MonumentNoItem, Point, Track, WikiItem, PointWiki, PointMonumentNo, PointWikiState, PointMonumentNoState } from '../../core/data.service';
 
 @Component({
@@ -12,18 +10,16 @@ import { MonumentNoItem, Point, Track, WikiItem, PointWiki, PointMonumentNo, Poi
 export class PointTextComponent implements OnChanges {
   @Input() point: Point;
   @Input() track: Track;
+  @Input() showTrackName: boolean;
 
   wikiArray: WikiItem[] = [];
   monumentNoArray: MonumentNoItem[] = [];
-  geoHref: SafeUrl = '';
 
-  constructor(private sanitizer: DomSanitizer) { }
+  constructor() { }
 
   ngOnChanges(): void {
     this.wikiArray = this.getWikiArray(this.point.wiki);
     this.monumentNoArray = this.getMonumentNoArray(this.point.monumentNo);
-
-    this.geoHref = this.sanitizer.bypassSecurityTrustUrl(`geo:${this.point.mapPosition.value[1]},${this.point.mapPosition.value[0]}`);
   }
 
   getWikiArray(wiki: PointWiki): WikiItem[] {

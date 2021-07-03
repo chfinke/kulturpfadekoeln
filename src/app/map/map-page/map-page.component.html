@@ -12,6 +12,8 @@
 
 <app-map
   [trackId]="filteredTrackId"
+  [detailTrack]="detailTrack"
+  [detailPoint]="detailPoint"
   (detail)="onDetail($event);"
 >
 <div class="map__info wrapper" *ngIf="detailPoint">
@@ -24,12 +26,15 @@
       <app-point-text
         [track]="detailTrack"
         [point]="detailPoint"
+        [showTrackName]="!filteredTrackId"
+        class="map__info__content__text"
       ></app-point-text>
       <app-point-navigation
         [track]="detailTrack"
         [point]="detailPoint"
         [mapQueryParams]="queryParams"
         (detail)="onDetail($event);"
+        class="map__info__content__navigation"
       ></app-point-navigation>
       <app-track-done
         *ngIf="!detailPoint.successor"

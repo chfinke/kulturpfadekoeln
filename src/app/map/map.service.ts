@@ -35,7 +35,7 @@ export class MapService {
   }
 
   setCenter(center: L.LatLng): void {
-    if (!this.map.getZoom()) {
+    if (!this.map?.getZoom()) {
     } else {
       this.map.panTo(center, {duration: 1});
     }

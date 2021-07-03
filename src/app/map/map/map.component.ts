@@ -5,10 +5,13 @@ import * as L from 'leaflet';
 
 import * as LGPX from 'leaflet-gpx';
 import 'leaflet.locatecontrol';
+import 'leaflet-easybutton';
 
+import { OptionsService } from '../../options/options.service';
 import { MapService } from '../map.service';
-import { DataService, PointBuildingsState, PointMapPositionState, Data } from '../../core/data.service';
+import { DataService, PointBuildingsState, PointMapPositionState, Data, Point, Track } from '../../core/data.service';
 import { environment } from 'src/environments/environment';
+import { Router } from '@angular/router';
 
 @Component({
   selector: 'app-map',
@@ -20,11 +23,40 @@ export class MapComponent implements AfterViewInit {
   @Input() id: string;
   @Input() trackId: string;
   @Input() pointId: string;
+  _detailTrack: Track;
+  @Input() set detailTrack(detailTrack: Track) {
+    this._detailTrack = detailTrack;
+    if (this.btnDownload) {
+      if (detailTrack) {
+        this.btnDownload.enable();
+      } else {
+        this.btnDownload.disable(); // hides in combination with css
+      }
+    }
+  };
+  _detailPoint: Point;
+  @Input() set detailPoint(detailPoint: Point) {
+    this._detailPoint = detailPoint;
+    if (this.btnNavigate) {
+      if (detailPoint) {
+        this.btnNavigate.enable();
+      } else {
+        this.btnNavigate.disable(); // hides in combination with css
+      }
+    }
+  };
   @Input() static: boolean;
   @Input() classes: string;
   @Output() detail: EventEmitter<string> = new EventEmitter();
+  btnDownload;
+  btnNavigate;
 
-  constructor(private mapService: MapService, private dataService: DataService) { }
+  constructor(
+    private optionsService: OptionsService,
+    private mapService: MapService,
+    private dataService: DataService,
+    private router: Router,
+  ) { }
 
   ngAfterViewInit(): void {
     this.initMap();
@@ -41,7 +73,7 @@ export class MapComponent implements AfterViewInit {
       mapId,
       {
         zoomSnap: 0.1,
-        zoomControl: !this.static
+        zoomControl: !this.static,
       }
     );
 
@@ -100,18 +132,38 @@ export class MapComponent implements AfterViewInit {
           },
         })
         .addTo(map);
-
-      const mapDiv = document.getElementById(mapId);
-      const resizeObserver = new ResizeObserver(() => {
-        map.invalidateSize();
-        this.mapService.restoreCenter();
-      });
-      resizeObserver.observe(mapDiv);
     }
 
-    // L.easyButton('fa fa-search', () => {
-    //   this.onSearch();
-    // }).addTo(map);
+    const mapDiv = document.getElementById(mapId);
+    const resizeObserver = new ResizeObserver(() => {
+      map.invalidateSize();
+      this.mapService.restoreCenter();
+    });
+    resizeObserver.observe(mapDiv);
+
+    if (this.static) {
+      L.easyButton(
+        'fa fa-arrows-alt',
+        () => { this.onMaximize(); },
+        'Vollbild'
+      ).addTo(map);
+    }
+
+    this.btnDownload = L.easyButton(
+      'fa fa-download',
+      () => {
+        this.onDownload();
+      },
+      'Herunterladen'
+    ).addTo(map);
+    this.btnDownload.disable();
+
+    this.btnNavigate = L.easyButton(
+      'fas fa-directions',
+      () => { this.onNavigate(); },
+      'Zum Punkt navigieren'
+    ).addTo(map);
+    this.btnNavigate.disable(); // hides in combination with css
   }
 
   async initData(): Promise<void> {
@@ -121,46 +173,53 @@ export class MapComponent implements AfterViewInit {
 
     const markerList = [];
     Object.entries(tracks).forEach(([trackId, track]) => {
-      new LGPX.GPX(
-        `./assets/data/kulturpfadekoeln_${track.boroughNo}-${track.trackNo}.gpx`, {
-        async: true,
-        gpx_options: {
-          parseElements: ['track'],
-        },
-        marker_options: {
-          startIconUrl: '',
-          endIconUrl: '',
-          shadowUrl: ''
-        },
-        polyline_options: {
-          color: track.color,
-          opacity: 0.5,
-          weight: 3,
-          lineCap: 'round',
-          interactive: false
-        }
-      }).addTo(this.mapService.map);
+      if (!track.inactive && !track.incomplete) {
+        new LGPX.GPX(
+          `./assets/data/kulturpfadekoeln_${track.boroughNo}-${track.trackNo}.gpx`, {
+          async: true,
+          gpx_options: {
+            parseElements: ['track'],
+          },
+          marker_options: {
+            startIconUrl: '',
+            endIconUrl: '',
+            shadowUrl: ''
+          },
+          polyline_options: {
+            color: track.color,
+            opacity: 0.5,
+            weight: 3,
+            lineCap: 'round',
+            interactive: false
+          }
+        }).addTo(this.mapService.map);
+      }
 
-      Object.entries(track.points).forEach(([pointId, point]) => {
-        if (point.mapPosition.state !== PointMapPositionState.Ok && point.mapPosition.state !== PointMapPositionState.Unknown) {
+      Object.entries(track.points).reverse().forEach(([pointId, point]) => {
+        if ((track.inactive || point.inactive) && !this.optionsService.options.develop.showInactivePoints) {
+        } else if (point.mapPosition.state === PointMapPositionState.Unknown && !this.optionsService.options.develop.showStatusUnknownPoints) {
           if (environment.production === false) {
             console.log('mapPosition not displayed:', pointId, point.mapPosition.state, point.mapPosition.value);
           }
         } else {
           if (point.mapPosition.value) {
-            const marker = L.circleMarker(this.mapService.swapCoordinates(point.mapPosition.value), {
-              radius: 8,
-              fillColor: point.trackPoint === 0 ? '#fff' : track.color,
-              color: '#000',
-              weight: 1,
-              opacity: 1,
-              fillOpacity: 0.8
-            });
-            marker.on('click', () => {
-              this.onDetail(pointId);
-            });
-            markerList.push(marker);
-            marker.addTo(this.mapService.map);
+            try {
+              const marker = L.circleMarker(this.mapService.swapCoordinates(point.mapPosition.value), {
+                radius: 8,
+                fillColor: point.trackPoint === 0 ? '#fff' : track.color,
+                color: '#000',
+                weight: 1,
+                opacity: point.inactive ? 0.5 : 1,
+                fillOpacity: point.inactive ? 0.1 : 0.8,
+              });
+              marker.on('click', () => {
+                this.onDetail(pointId);
+              });
+              marker.bindTooltip(`${track.boroughNo}.${track.trackNo}.${point.trackPoint}${point.trackSubpt} ${point.title}`);
+              markerList.push(marker);
+              marker.addTo(this.mapService.map);
+            }
+            catch {}
           }
         }
 
@@ -210,17 +269,41 @@ export class MapComponent implements AfterViewInit {
     } else if (markerList.length === 1) {
       this.mapService.map.setView(bounds.getNorthWest(), 15);
     } else {
-      this.mapService.map.fitBounds(
-        bounds,
-        {
-          paddingTopLeft: [38, 5],
-          paddingBottomRight: [5, 20],
-        },
-      );
+      try {
+        this.mapService.map.fitBounds(
+          bounds,
+          {
+            paddingTopLeft: [38, 5],
+            paddingBottomRight: [5, 20],
+          },
+        );
+      }
+      catch (error) {
+        if (markerList.length === 0) {
+          console.warn('empty map for track ', this.trackId);
+        } else {
+          console.error(error)
+        }
+      }
     }
   }
 
   onDetail(id: string): void {
     this.detail.emit(id);
+  }
+
+  onMaximize(): void {
+    const queryParams = { track: this.trackId };
+    this.router.navigate(['map'], { queryParams: queryParams, fragment: '' });
+  }
+
+  onNavigate(): void {
+    const geoHref = `geo:${this._detailPoint.mapPosition.value[1]},${this._detailPoint.mapPosition.value[0]}`;
+    window.open(geoHref, '_blank');
+  }
+
+  onDownload(): void {
+    const href = `./assets/data/kulturpfadekoeln_${this._detailTrack.boroughNo}-${this._detailTrack.trackNo}.gpx`;
+    window.open(href, '_blank');
   }
 }

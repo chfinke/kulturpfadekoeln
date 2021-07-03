@@ -8,9 +8,10 @@ export const setStringItem = async (
 };
 
 export const setObjectItem = async (key: string, item: any): Promise<any> => {
-  return await setStringItem(key, JSON.stringify(item)).then((itemReturned) =>
-    JSON.parse(itemReturned)
-  );
+  return await localForage.setItem(key, item);
+  // return await setStringItem(key, JSON.stringify(item)).then((itemReturned) =>
+  //   JSON.parse(itemReturned)
+  // );
 };
 
 export const getStringItem = async (key: string): Promise<string> => {
@@ -18,9 +19,10 @@ export const getStringItem = async (key: string): Promise<string> => {
 };
 
 export const getObjectItem = async (key: string): Promise<any> => {
-  return await getStringItem(key).then((itemReturned) =>
-    JSON.parse(itemReturned)
-  );
+  return await localForage.getItem(key);
+  // return await getStringItem(key).then((itemReturned) =>
+  //   JSON.parse(itemReturned)
+  // );
 };
 
 export const removeItem = async (key: string): Promise<void> => {

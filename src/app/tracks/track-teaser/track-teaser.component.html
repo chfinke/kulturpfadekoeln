@@ -7,8 +7,14 @@
   classes="map map__map--small u-h-fit"
 >
 </app-map-static>
-<p>
+
+<div class="preview">
   <span [innerHTML]="startingPoint?.description.value"></span>
-  {{' '}} 
-  <a [routerLink]="['/overview']" [queryParams]="{track: track?.boroughNo+'.'+track?.trackNo}">Kulturpfad&nbsp;anzeigen&nbsp;&rarr;</a>
-</p>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;
+  <div class="preview__spacer">&nbsp;</div>
+  <a class="preview__link" [routerLink]="['/overview']" [queryParams]="{track: track?.boroughNo+'.'+track?.trackNo}">Kulturpfad&nbsp;anzeigen&nbsp;&rarr;</a><!-- change spacer if text changes here -->
+</div>

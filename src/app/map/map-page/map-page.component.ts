@@ -3,6 +3,7 @@ import { Component } from '@angular/core';
 
 import { DataService, Point, Track } from '../../core/data.service';
 import { MapService } from '../map.service';
+import { SafeUrl } from '@angular/platform-browser';
 
 @Component({
   selector: 'app-map-page',
@@ -17,7 +18,12 @@ export class MapPageComponent {
   detailTrack: Track;
   queryParams: Params;
 
-  constructor(private dataService: DataService, private mapService: MapService, private route: ActivatedRoute, private router: Router) {
+  constructor(
+    private dataService: DataService, 
+    private mapService: MapService, 
+    private route: ActivatedRoute, 
+    private router: Router,
+  ) {
     this.route.queryParams.subscribe((params) => {
       this.queryParams = params;
       this.filteredTrackId = params.track;

@@ -1,16 +1,8 @@
-<div class="wrapper">
+<div *ngIf="!point.inactive || optionsService.options.develop.showInactivePoints" class="wrapper">
   <h2>
-    {{point.trackPoint}}
+    {{point.trackPoint}}{{point.trackSubpt}}
     <span class="u-hyphens" [innerHTML]="point.title"></span>
   </h2>
-  
-  <app-map-static
-    [id]="point.trackPoint"
-    [trackId]="trackId"
-    [pointId]="trackId+'.'+point.trackPoint"
-    classes="map map__map--small u-h-fit"
-  >
-  </app-map-static>
  
   <div class="preview">
     <span class="preview__text">

@@ -26,6 +26,7 @@ import { TrackTeaserComponent } from './tracks/track-teaser/track-teaser.compone
 import { TracksListComponent } from './tracks/tracks-list/tracks-list.component';
 import { HeaderComponent } from './ui/header/header.component';
 import { NewVersionInfoComponent } from './ui/new-version-info/new-version-info.component';
+import { OptionsPageComponent } from './options/options-page/options-page.component';
 
 @NgModule({
   declarations: [
@@ -48,6 +49,7 @@ import { NewVersionInfoComponent } from './ui/new-version-info/new-version-info.
     TracksListComponent,
     HeaderComponent,
     NewVersionInfoComponent,
+    OptionsPageComponent,
   ],
   imports: [
     BrowserModule,

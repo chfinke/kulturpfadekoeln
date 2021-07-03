@@ -1,20 +1,17 @@
 <h1>
   <ng-container *ngIf="point.trackPoint !== 0">
     <small>
-      Infotafel {{ point.trackPoint }}
+      <span *ngIf="showTrackName">Kulturpfad {{ track.boroughNo }}.{{ track.trackNo }} {{ track.borough }}<br/></span>
+      Infotafel {{ point.trackPoint }}{{ point.trackSubpt }}
     </small>
   </ng-container>
   <span class="u-hyphens" [innerHTML]="point.title"></span>
 </h1>
-<p>
-  <a 
-    [href]="geoHref"
-  >{{point.trackPoint === 0 ? 'zum Startpunkt' : 'zur Infotafel'}} navigieren &#x21B1;</a>
-</p>
+
 <p *ngIf="point.description.value" [innerHTML]="point.description.value"></p>
 <p *ngIf="point.notes"><i>{{point.notes}}</i></p>
 
-<ng-container *ngIf="wikiArray || monumentNoArray">
+<ng-container *ngIf="wikiArray.length || monumentNoArray.length">
   <b>Sonstige Informationen:</b>
   <ul style="margin-top: 0px;">
     <li *ngFor="let wiki of wikiArray">

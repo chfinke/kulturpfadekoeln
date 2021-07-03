@@ -5,6 +5,7 @@ import { MapPageComponent } from './map/map-page/map-page.component';
 import { TrackPageComponent } from './tracks/track-page/track-page.component';
 import { NotFoundPageComponent } from './errors/not-found-page/not-found-page.component';
 import { ImprintPageComponent } from './imprint/imprint-page/imprint-page.component';
+import { OptionsPageComponent } from './options/options-page/options-page.component';
 import { AuthGuardService as AuthGuard } from './core/auth-guard.service';
 
 const routes: Routes = [
@@ -20,6 +21,10 @@ const routes: Routes = [
   {
     path: 'overview',
     component: TrackPageComponent,
+  },
+  {
+    path: 'options',
+    component: OptionsPageComponent,
   },
   {
     path: 'imprint',
