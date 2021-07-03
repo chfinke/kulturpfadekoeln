@@ -171,7 +171,7 @@ export class MapComponent implements AfterViewInit {
 
     const markerList = [];
     Object.entries(tracks).forEach(([trackId, track]) => {
-      if (!track.inactive && !track.incomplete) {
+      if ((!track.inactive && !track.incomplete) || this.optionsService.options.develop.showInactiveTracks) {
         new LGPX.GPX(
           `./assets/data/kulturpfadekoeln_${track.boroughNo}-${track.trackNo}.gpx`, {
           async: true,
@@ -278,7 +278,7 @@ export class MapComponent implements AfterViewInit {
       }
       catch (error) {
         if (markerList.length === 0) {
-          console.warn('empty map for track ', this.trackId);
+          console.warn('empty map for track ', this._trackId);
         } else {
           console.error(error)
         }
@@ -291,7 +291,7 @@ export class MapComponent implements AfterViewInit {
   }
 
   onMaximize(): void {
-    const queryParams = { track: this.trackId };
+    const queryParams = { track: this._trackId };
     this.router.navigate(['map'], { queryParams: queryParams, fragment: '' });
   }
 
