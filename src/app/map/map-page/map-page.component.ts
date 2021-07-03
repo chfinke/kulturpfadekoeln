@@ -3,6 +3,7 @@ import { Component } from '@angular/core';
 
 import { DataService, Point, Track } from '../../core/data.service';
 import { MapService } from '../map.service';
+import { SafeUrl } from '@angular/platform-browser';
 
 @Component({
   selector: 'app-map-page',

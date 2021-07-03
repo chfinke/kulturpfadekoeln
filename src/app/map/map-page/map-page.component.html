@@ -12,6 +12,8 @@
 
 <app-map
   [trackId]="filteredTrackId"
+  [detailTrack]="detailTrack"
+  [detailPoint]="detailPoint"
   (detail)="onDetail($event);"
 >
 <div class="map__info wrapper" *ngIf="detailPoint">
