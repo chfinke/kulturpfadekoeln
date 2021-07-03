@@ -1143,7 +1143,7 @@
           "title": "Au|to|bahn|brü|cke",
           "description": {
             "state": "#ok",
-            "value": "Errichtet 1938 - 1941 durch P. Bonatz und F. Leonhardt im Zuge des Kölner Autobahnrings. Erste echte erdverankerte Kabelhängebrücke mit einer Mittelstützweite vom 378 m, seinerzeit weitestgespannte Hängebrücke Europas. Hauptmerkmale: monumentale Torsituation am Naturstein-Brückenkopf, Schlankheit der horizontalen Versteifungsträger, Spannweitenverhältnis zwischen den Trägern un den sie einrahmenden portalartigen Pylonen. 1945 Sprengung, 1952 - 1954 getreuer Wiederaufbau. Ab 1990 Verbreiterung der Brücke durch einen Zwillingsbau an der Nordseite."
+            "value": "Errichtet 1938 - 1941 durch P. Bonatz und F. Leonhardt im Zuge des Kölner Autobahnrings. Erste echte erdverankerte Kabelhängebrücke mit einer Mittelstützweite vom 378 m, seinerzeit weitestgespannte Hängebrücke Europas. Hauptmerkmale: monumentale Torsituation am Naturstein-Brückenkopf, Schlankheit der horizontalen Versteifungsträger, Spannweitenverhältnis zwischen den Trägern und den sie einrahmenden portalartigen Pylonen. 1945 Sprengung, 1952 - 1954 getreuer Wiederaufbau. Ab 1990 Verbreiterung der Brücke durch einen Zwillingsbau an der Nordseite."
           },
           "mapPosition": {
             "state": "#ok",
@@ -4457,7 +4457,7 @@
           "trackSubpt": "",
           "quarter": "Lind",
           "predecessor": "7.1.9",
-          "successor": "7.1.21",
+          "successor": "7.1.11",
           "title": "Weg|kreuz und Hof|an|lage",
           "description": {
             "state": "#ok",
@@ -4473,7 +4473,7 @@
           "info": {
             "state": "#unknown"
           },
-          "notes": "Die nachfolgenden Infotafeln konnte auf den Karten nicht lokalisiert werden und wurden ausgelassen.",
+          "notes": "",
           "wiki": {
             "state": "#unknown"
           },
@@ -4486,24 +4486,23 @@
           "trackSubpt": "",
           "quarter": "",
           "predecessor": "7.1.10",
-          "successor": "7.1.12",
-          "inactive": true,
-          "title": "",
+          "successor": "7.1.13",
+          "title": "Na|tur|denk|mal Scheu|er|müh|len|tei|che ",
           "description": {
-            "state": "#unknown",
-            "value": ""
+            "state": "#ok",
+            "value": "An den Scheuermühlenteichen in Wahn, am Rande der bergischen Heideterasse gelegen, existierte seit dem 13. Jh. eine von ihrem Wasser angetriebene Mühle. 1818 kaufte der preußische Staat den Freiherren Eltz zu Rübenach das Gelände ab und legte dort einen Exerzierplatz an. 1914 übernahm Preußen auch die seit 1852 mit Dampf betriebene Mühle. 1949 wurde das Mühlengebäude endgültig abgerissen. Die Mühlenteiche, ein beliebtes Naherholungsgebiet, wurden vom britischen Militär gesperrt. Seit den 60er Jahren sind sie für die Bevölkerung wieder freigegeben. Eine reiche Vegetation hat sich um die Teiche angesiedelt: Stil-Eichen, Baumweiden, Moorbirken, Schwarzerlen, vielerlei Gebüsche, Gräser und Farne."
           },
           "mapPosition": {
-            "state": "#unknown",
-            "value": []
+            "state": "#ok",
+            "value": [7.1175553, 50.8570639]
           },
           "buildings": {
-            "state": "#unknown"
+            "state": "#n/a"
           },
           "info": {
             "state": "#unknown"
           },
-          "notes": "",
+          "notes": "Die nachfolgende Infotafel konnte auf den Karten nicht lokalisiert werden und wurde ausgelassen.",
           "wiki": {
             "state": "#unknown"
           },
@@ -4545,17 +4544,16 @@
           "trackPoint": 13,
           "trackSubpt": "",
           "quarter": "",
-          "predecessor": "7.1.12",
-          "successor": "7.1.14",
-          "inactive": true,
-          "title": "",
+          "predecessor": "7.1.11",
+          "successor": "7.1.18",
+          "title": "Un|be|kann|tes Ob|jekt",
           "description": {
             "state": "#unknown",
             "value": ""
           },
           "mapPosition": {
-            "state": "#unknown",
-            "value": []
+            "state": "#check",
+            "value": [7.0851455, 50.8951559]
           },
           "buildings": {
             "state": "#unknown"
@@ -4563,7 +4561,7 @@
           "info": {
             "state": "#unknown"
           },
-          "notes": "",
+          "notes": "Hier konnten wir leider keine Infotafel mehr finden und das Objekt nicht zuordnen. Die vorherige sowie die nachfolgenden Infotafeln konnten auf den Karten nicht lokalisiert werden und wurden ausgelassen.",
           "wiki": {
             "state": "#unknown"
           },
@@ -4695,17 +4693,16 @@
           "trackPoint": 18,
           "trackSubpt": "",
           "quarter": "",
-          "predecessor": "7.1.17",
-          "successor": "7.1.19",
-          "inactive": true,
-          "title": "",
+          "predecessor": "7.1.13",
+          "successor": "7.1.20",
+          "title": "St. Mi|cha|el",
           "description": {
-            "state": "#unknown",
-            "value": ""
+            "state": "#ok",
+            "value": "Die kathol. Pfarrkirche St. Michael entstand 1903/04 nach Plänen Th. Kremers als neugotische dreischiffige Stufenhalle mit eingezogenem Chor, Backsteinfassade mit Werksteingliederungen, Sattel- und Pultdächern. Im Innern überspannt ein Kreuzgratgewölbe die drei Schiffe. Von der neugotischen Ausstattung sind der steinerne Hauptaltar und einige Skulpturen erhalten. Ihren Vierkantturm erhielt die Kirche erst 1956 (Bleiverkleidung vom Ende der 80er Jahre). St. Michael gehört zu den einfachen, den bescheidenen Mitteln einer Landgemeinde angepaßten Sakralbauten."
           },
           "mapPosition": {
-            "state": "#unknown",
-            "value": []
+            "state": "#ok",
+            "value": [7.0778439, 50.8933951]
           },
           "buildings": {
             "state": "#unknown"
@@ -4713,29 +4710,29 @@
           "info": {
             "state": "#unknown"
           },
-          "notes": "",
+          "notes": "Die vorherigen Infotafeln konnte auf den Karten nicht lokalisiert werden und wurden ausgelassen.",
           "wiki": {
             "state": "#unknown"
           },
           "monumentNo": {
-            "state": "#unknown"
+            "state": "#ok",
+            "value": 1277
           }
         },
         "7.1.19": {
           "trackPoint": 19,
           "trackSubpt": "",
           "quarter": "",
-          "predecessor": "7.1.18",
-          "successor": "7.1.20",
-          "inactive": true,
-          "title": "",
+          "predecessor": "7.1.20",
+          "successor": "7.1.21",
+          "title": "Un|be|kann|tes Ob|jekt",
           "description": {
             "state": "#unknown",
             "value": ""
           },
           "mapPosition": {
-            "state": "#unknown",
-            "value": []
+            "state": "#check",
+            "value": [7.0795026, 50.8896527]
           },
           "buildings": {
             "state": "#unknown"
@@ -4743,7 +4740,7 @@
           "info": {
             "state": "#unknown"
           },
-          "notes": "",
+          "notes": "Hier konnten wir leider keine Infotafel mehr finden und das Objekt nicht zuordnen. Es handelt sich aber wahrscheinlich um den Eiler Friedhof.",
           "wiki": {
             "state": "#unknown"
           },
@@ -4755,17 +4752,16 @@
           "trackPoint": 20,
           "trackSubpt": "",
           "quarter": "",
-          "predecessor": "7.1.19",
-          "successor": "7.1.21",
-          "inactive": true,
-          "title": "",
+          "predecessor": "7.1.18",
+          "successor": "7.1.19",
+          "title": "Un|be|kann|tes Ob|jekt",
           "description": {
             "state": "#unknown",
             "value": ""
           },
           "mapPosition": {
-            "state": "#unknown",
-            "value": []
+            "state": "#check",
+            "value": [7.0789883, 50.8922527]
           },
           "buildings": {
             "state": "#unknown"
@@ -4773,7 +4769,7 @@
           "info": {
             "state": "#unknown"
           },
-          "notes": "",
+          "notes": "Hier konnten wir leider keine Infotafel mehr finden und das Objekt nicht zuordnen.",
           "wiki": {
             "state": "#unknown"
           },
@@ -4785,7 +4781,7 @@
           "trackPoint": 21,
           "trackSubpt": "",
           "quarter": "Urbach",
-          "predecessor": "7.1.10",
+          "predecessor": "7.1.19",
           "successor": "7.1.24",
           "title": "Un|be|kann|tes Ob|jekt",
           "description": {
