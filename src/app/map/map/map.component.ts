@@ -21,7 +21,11 @@ import { Router } from '@angular/router';
 })
 export class MapComponent implements AfterViewInit {
   @Input() id: string;
-  @Input() trackId: string;
+  _trackId: string;
+  @Input() set trackId(trackId: string) {
+    this._trackId = trackId;
+    this.onToggleDownload();
+  }
   @Input() pointId: string;
   _detailTrack: Track;
   @Input() set detailTrack(detailTrack: Track) {
@@ -37,13 +41,7 @@ export class MapComponent implements AfterViewInit {
   _detailPoint: Point;
   @Input() set detailPoint(detailPoint: Point) {
     this._detailPoint = detailPoint;
-    if (this.btnNavigate) {
-      if (detailPoint) {
-        this.btnNavigate.enable();
-      } else {
-        this.btnNavigate.disable(); // hides in combination with css
-      }
-    }
+    this.onToggleDownload();
   };
   @Input() static: boolean;
   @Input() classes: string;
@@ -156,7 +154,7 @@ export class MapComponent implements AfterViewInit {
       },
       'Herunterladen'
     ).addTo(map);
-    this.btnDownload.disable();
+    this.onToggleDownload();
 
     this.btnNavigate = L.easyButton(
       'fas fa-directions',
@@ -169,7 +167,7 @@ export class MapComponent implements AfterViewInit {
   async initData(): Promise<void> {
     const data: Data = await this.dataService.getData();
 
-    const tracks = this.trackId ? [data.tracks[this.trackId]] : data.tracks;
+    const tracks = this._trackId ? [data.tracks[this._trackId]] : data.tracks;
 
     const markerList = [];
     Object.entries(tracks).forEach(([trackId, track]) => {
@@ -303,7 +301,19 @@ export class MapComponent implements AfterViewInit {
   }
 
   onDownload(): void {
-    const href = `./assets/data/kulturpfadekoeln_${this._detailTrack.boroughNo}-${this._detailTrack.trackNo}.gpx`;
-    window.open(href, '_blank');
+    // const href = this._detailTrack
+    //   ? `./assets/data/kulturpfadekoeln_${this._detailTrack.boroughNo}-${this._detailTrack.trackNo}.gpx`
+    //   : `./assets/data/kulturpfadekoeln_${this._trackId.replace('.', '-')}.gpx`;
+    // window.open(href, '_blank');
+  }
+  
+  onToggleDownload(): void {
+    if (this.btnDownload) {
+      if (this._detailTrack || this._trackId) {
+        this.btnDownload.enable();
+      } else {
+        this.btnDownload.disable(); // hides in combination with css
+      }
+    }
   }
 }
