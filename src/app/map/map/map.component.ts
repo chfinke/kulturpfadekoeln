@@ -42,6 +42,7 @@ export class MapComponent implements AfterViewInit {
   @Input() set detailPoint(detailPoint: Point) {
     this._detailPoint = detailPoint;
     this.onToggleDownload();
+    this.onToggleNavigate();
   };
   @Input() static: boolean;
   @Input() classes: string;
@@ -161,7 +162,7 @@ export class MapComponent implements AfterViewInit {
       () => { this.onNavigate(); },
       'Zum Punkt navigieren'
     ).addTo(map);
-    this.btnNavigate.disable(); // hides in combination with css
+    this.onToggleNavigate();
   }
 
   async initData(): Promise<void> {
@@ -313,6 +314,16 @@ export class MapComponent implements AfterViewInit {
         this.btnDownload.enable();
       } else {
         this.btnDownload.disable(); // hides in combination with css
+      }
+    }
+  }
+
+  onToggleNavigate(): void {
+    if (this.btnNavigate) {
+      if (this._detailPoint) {
+        this.btnNavigate.enable();
+      } else {
+        this.btnNavigate.disable(); // hides in combination with css
       }
     }
   }
