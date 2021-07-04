@@ -5,6 +5,7 @@ export interface Options {
   develop: {
     showInactivePoints: boolean;
     showStatusUnknownPoints: boolean;
+    showInactiveTracks: boolean;
   }
 }
 
@@ -12,6 +13,7 @@ const initialOptions: Options = {
   develop: {
     showInactivePoints: false,
     showStatusUnknownPoints: false,
+    showInactiveTracks: false,
   }
 };
 

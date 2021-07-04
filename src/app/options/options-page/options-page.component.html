@@ -11,6 +11,8 @@
   <br/>
   <input type="checkbox" [checked]="service.options.develop.showStatusUnknownPoints" (change)="onChange($event, 'develop.showStatusUnknownPoints')">unbekannte Infotafeln anzeigen
   <br/>
+  <input type="checkbox" [checked]="service.options.develop.showInactiveTracks" (change)="onChange($event, 'develop.showInactiveTracks')">unbekannte Routen anzeigen
+  <br/>
   <br/>
   <a [routerLink]="['/']">Zurück zur Startseite&nbsp;&rarr;</a>
 </div>
