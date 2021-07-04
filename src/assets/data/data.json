@@ -763,8 +763,8 @@
       "boroughNo": 2,
       "borough": "Rodenkirchen",
       "trackNo": 3,
-      "color": "",
-      "inactive": true,
+      "color": "#FFF200",
+      "inactive": false,
       "points": {
         "2.3.0": {
           "trackPoint": 0,
@@ -772,15 +772,14 @@
           "quarter": "",
           "predecessor": "",
           "successor": "2.3.1",
-          "inactive": true,
-          "title": "Start Kulturpfad 2.3 Marienburg",
+          "title": "Start Kul|tur|pfad 2.3 Ro|den|kir|chen",
           "description": {
-            "state": "#unknown",
-            "value": ""
+            "state": "#ok",
+            "value": "Die 7 km lange Rundtour startet am Bismarkturm nahe der Haltestelle Bayenthalgürtel und führt durch die Villenkolonie Marienburg."
           },
           "mapPosition": {
-            "state": "#check",
-            "value": [ 6.9775286, 50.9066641 ]
+            "state": "#ok",
+            "value": [ 6.9773486, 50.9065968 ]
           },
           "buildings": {
             "state": "#unknown"
@@ -802,14 +801,13 @@
           "quarter": "Marienburg",
           "predecessor": "2.3.0",
           "successor": "2.3.2",
-          "inactive": true,
-          "title": "Bismarkturm",
+          "title": "Bis|mark|turm",
           "description": {
-            "state": "#unknown",
-            "value": ""
+            "state": "#ok",
+            "value": "Markanter Abschluß des 1899 angelegten Bayenthalgürtels. Der 27 m hohe Turm wurde 1902 nach dem Entwurf von A. Hartmann in der Formensprache des Jugendstils erbaut. Auf der Frontseite blockhafte Bismarckfigur in Rüstung mit hohem Adlerschild. Im Zinnenkranz ehemals Feuerschale.<br/>Rheinuferstraße bzw. Oberländer Ufer.<br/>1895 — 1897 Anlage als breite Promenade. "
           },
           "mapPosition": {
-            "state": "#check",
+            "state": "#ok",
             "value": [ 6.9771879, 50.9065304 ]
           },
           "buildings": {
@@ -820,10 +818,12 @@
           },
           "notes": "",
           "wiki": {
-            "state": "#unknown"
+            "state": "#ok",
+            "value": "Bismarckturm_(Köln)"
           },
           "monumentNo": {
-            "state": "#unknown"
+            "state": "#ok",
+            "value": 183
           }
         },
         "2.3.2": {
@@ -831,16 +831,15 @@
           "trackSubpt": "",
           "quarter": "Marienburg",
           "predecessor": "2.3.1",
-          "successor": "2.3.3",
-          "inactive": true,
-          "title": "Villenviertel Marienburg",
+          "successor": "2.3.3a",
+          "title": "Vil|len|vier|tel Ma|ri|en|burg",
           "description": {
-            "state": "#unknown",
-            "value": ""
+            "state": "#ok",
+            "value": "Gehört zu den bedeutendsten Villenkolonien in Deutschland. Mit dem Kauf des namengebenden Gutes \"Marienburg\" um 1870 schuf der Fabrikant Ernst Leybold die Voraussetzung für die Anlegung des Viertels. Erst später nach der Gründung der Kölnischen Immobiliengesellschaft 1891 setzte zunächst in der Gegend Unter den Ulmen/Parkstraße eine stärkere Villenbebauung ein.<br/>Villa Schröder 1907 von E, Fabricius. Beispiel einer Marienburger Großvilla mit Kutscherhaus und großem Park. Verbindung von englischem Landhausstil mit Neurenaissanceformen."
           },
           "mapPosition": {
-            "state": "#check",
-            "value": [ 6.973889, 50.9051519 ]
+            "state": "#ok",
+            "value": [ 6.9734849, 50.9050215 ]
           },
           "buildings": {
             "state": "#unknown"
@@ -857,21 +856,20 @@
             "state": "#unknown"
           }
         },
-        "2.3.3": {
+        "2.3.3a": {
           "trackPoint": 3,
-          "trackSubpt": "",
+          "trackSubpt": "a",
           "quarter": "Marienburg",
           "predecessor": "2.3.2",
-          "successor": "2.3.4",
-          "inactive": true,
-          "title": "Marienburger Str. 11 und die \"Marienburg\"",
+          "successor": "2.3.3b",
+          "title": "Ma|ri|en|bur|ger Str. 11",
           "description": {
-            "state": "#unknown",
-            "value": ""
+            "state": "#ok",
+            "value": "Mit dem Bau des Rathauses 1879 in dieser Straße wurde Marienburg neues Zentrum der Gemeinde Rondorf. Zeugnis dieser Bauphase ist das neugotische Backsteinhaus Marienburger Straße 11 von 1882."
           },
           "mapPosition": {
-            "state": "#check",
-            "value": [ 6.978558946834916, 50.90225039952023 ]
+            "state": "#ok",
+            "value": [ 6.9785857, 50.9022603 ]
           },
           "buildings": {
             "state": "#unknown"
@@ -881,27 +879,58 @@
           },
           "notes": "",
           "wiki": {
-            "state": "#unknown"
+            "state": "#n/a"
           },
           "monumentNo": {
+            "state": "#ok",
+            "value": 2954
+          }
+        },
+        "2.3.3b": {
+          "trackPoint": 3,
+          "trackSubpt": "b",
+          "quarter": "Marienburg",
+          "predecessor": "2.3.3a",
+          "successor": "2.3.4",
+          "title": "\"Ma|ri|en|burg\"",
+          "description": {
+            "state": "#ok",
+            "value": "In der Parkstraße die \"Marienburg\" (Nr. 55), das um 1847 erbaute klassizistische Gutshaus .1880 nach Entwurf von J. Crones Umbau in ein Ausflugslokal mit Aussichtsturm im Neurenaissancestil. 1907 Umgestaltung in ein Wohnhaus für den Fabrikanten Schütte und Aufstellung des Brunnens."
+          },
+          "mapPosition": {
+            "state": "#ok",
+            "value": [6.9803232, 50.9004632]
+          },
+          "buildings": {
             "state": "#unknown"
+          },
+          "info": {
+            "state": "#unknown"
+          },
+          "notes": "",
+          "wiki": {
+            "state": "#ok",
+            "value": "Marienburg_(Köln,_Villa)"
+          },
+          "monumentNo": {
+            "state": "#ok",
+            "value": 5860
           }
         },
         "2.3.4": {
           "trackPoint": 4,
           "trackSubpt": "",
           "quarter": "Marienburg",
-          "predecessor": "2.3.3",
+          "predecessor": "2.3.3b",
           "successor": "2.3.5",
-          "inactive": true,
-          "title": "Villa Vorster",
+          "title": "Vil|la Vor|ster",
           "description": {
-            "state": "#unknown",
-            "value": ""
+            "state": "#ok",
+            "value": "Erbaut 1893 nach dem Entwurf von O. March für den Bauherrn Fritz Vorster. Eine der ersten deutschen Villen im englischen Landhausstil, beispielgebend für viele Villen des Viertels. So in der Leyboldstraße für die Villen Nr. 42/44, 1911/12 von P. Pott und Nr. 50/52 / Goethestraße 69, 1925 von Th. Merrill."
           },
           "mapPosition": {
-            "state": "#check",
-            "value": [ 6.977727, 50.9009304 ]
+            "state": "#ok",
+            "value": [ 6.9780123, 50.9008283 ]
           },
           "buildings": {
             "state": "#unknown"
@@ -914,7 +943,29 @@
             "state": "#unknown"
           },
           "monumentNo": {
-            "state": "#unknown"
+            "state": "#ok",
+            "value": [
+              {
+                "number": 7431,
+                "title": "Villa Vorster"
+              },
+              {
+                "number": 7171,
+                "title": "Leyboldstraße 42–44"
+              },
+              {
+                "number": 3119,
+                "title": "Leyboldstraße 50"
+              },
+              {
+                "number": 3120,
+                "title": "Leyboldstraße 52"
+              },
+              {
+                "number": 814,
+                "title": "Goethestraße 69"
+              }
+            ]
           }
         },
         "2.3.5": {
@@ -923,15 +974,14 @@
           "quarter": "Marienburg",
           "predecessor": "2.3.4",
           "successor": "2.3.6",
-          "inactive": true,
-          "title": "Zwischenwerk VIIIb",
+          "title": "Zwi|schen|werk VIIIb",
           "description": {
-            "state": "#unknown",
-            "value": ""
+            "state": "#ok",
+            "value": "Teil des 1873 - 1876 angelegten äußeren Festungsgürtels um das linksrheinische Köln. Trotz der Schleifung der Festungsanlagen gemäß dem Versailler Vertrag (1919) relativ komplette Erhaltung des Werkes. Monumentaler, erdbedeckter, von Graben umgebener Ziegelbau; Haupttor mit Eckpilastern, Türmchen und Wappenschild.<br/>1927 Umgestaltung und Einbeziehung in den Äußeren Grüngürtel nach dem Entwurf Th. Nußbaums. Auf dem eingeebneten Fortdach Schmuckanlage mit geometrischem Rosengarten. Im Gelände moderner Skulpturenpark."
           },
           "mapPosition": {
-            "state": "#check",
-            "value": [ 6.9821429, 50.8987378 ]
+            "state": "#ok",
+            "value": [ 6.9821012, 50.89871 ]
           },
           "buildings": {
             "state": "#unknown"
@@ -941,10 +991,11 @@
           },
           "notes": "",
           "wiki": {
-            "state": "#unknown"
+            "state": "#n/a"
           },
           "monumentNo": {
-            "state": "#unknown"
+            "state": "#ok",
+            "value": 215
           }
         },
         "2.3.6": {
@@ -953,15 +1004,14 @@
           "quarter": "Marienburg",
           "predecessor": "2.3.5",
           "successor": "2.3.7",
-          "inactive": true,
-          "title": "Allerheiligen-Kirche",
+          "title": "Al|ler|hei|li|gen-Kir|che",
           "description": {
             "state": "#unknown",
             "value": ""
           },
           "mapPosition": {
-            "state": "#check",
-            "value": [ 6.9674690064341, 50.89430467480777 ]
+            "state": "#ok",
+            "value": [6.9670674, 50.8942544]
           },
           "buildings": {
             "state": "#unknown"
@@ -969,12 +1019,13 @@
           "info": {
             "state": "#unknown"
           },
-          "notes": "",
+          "notes": "Hier konnten wir leider keine Infotafel mehr finden.",
           "wiki": {
-            "state": "#unknown"
+            "state": "#n/a"
           },
           "monumentNo": {
-            "state": "#unknown"
+            "state": "#ok",
+            "value": 7306
           }
         },
         "2.3.7": {
@@ -983,8 +1034,7 @@
           "quarter": "Marienburg",
           "predecessor": "2.3.6",
           "successor": "2.3.8",
-          "inactive": true,
-          "title": "Südpark",
+          "title": "Süd|park",
           "description": {
             "state": "#unknown",
             "value": ""
@@ -999,12 +1049,13 @@
           "info": {
             "state": "#unknown"
           },
-          "notes": "",
+          "notes": "Hier konnten wir leider keine Infotafel mehr finden. Der Text beschreibt das umliegende Gebiet.",
           "wiki": {
-            "state": "#unknown"
+            "state": "ok"
           },
           "monumentNo": {
-            "state": "#unknown"
+            "state": "#ok",
+            "value": 231
           }
         },
         "2.3.8": {
@@ -1013,11 +1064,10 @@
           "quarter": "Marienburg",
           "predecessor": "2.3.7",
           "successor": "2.3.9",
-          "inactive": true,
-          "title": "Goethestraße",
+          "title": "Goe|the|stra|ße",
           "description": {
-            "state": "#unknown",
-            "value": ""
+            "state": "#ok",
+            "value": "Gleich am Südpark die Villa Nr. 84 (1902). Ägyptischer Formenschmuck auf Wunsch des Bauherren, eines ehemaligen Kolonial-Offiziers.<br/>Weiter hervorzuheben sind die Villa Nr. 30, 1937 von J. Op Gen Oorth, die stilistisch auf das Herrenhaus des Barock zurückgeht, sowie die Villa Nr. 66, 1924 von Th. Merrill im amerikanischen Kolonialstil. Die Villa Nr. 64, 1922 von Cl. Klotz in klassizistischer Formensprache."
           },
           "mapPosition": {
             "state": "#check",
@@ -1031,10 +1081,42 @@
           },
           "notes": "",
           "wiki": {
-            "state": "#unknown"
+            "state": "#ok",
+            "value": [
+              {
+                "identifier": "St._Maria_Königin_(Köln)",
+                "title": "Kirche St. Maria Königin"
+              },
+              {
+                "identifier": "Goethestraße_66_(Köln)",
+                "title": "Goethestraße 66"
+              }
+            ]
           },
           "monumentNo": {
-            "state": "#unknown"
+            "state": "#ok",
+            "value": [
+              {
+                "number": 1476,
+                "title": "Goethestraße 84 / Pfarrhaus St. Maria Königin"
+              },
+              {
+                "number": 8469,
+                "title": "Goethestraße 84 / Kirche St. Maria Königin"
+              },
+              {
+                "number": 3569,
+                "title": "Goethestraße 30"
+              },
+              {
+                "number": 2798,
+                "title": "Goethestraße 64"
+              },
+              {
+                "number": 4752,
+                "title": "Goethestraße 66"
+              }
+            ]
           }
         },
         "2.3.9": {
@@ -1043,15 +1125,14 @@
           "quarter": "Marienburg",
           "predecessor": "2.3.8",
           "successor": "2.3.10",
-          "inactive": true,
-          "title": "Ev. Reformationskirche",
+          "title": "Ev. Re|for|ma|tions|kir|che",
           "description": {
-            "state": "#unknown",
-            "value": ""
+            "state": "#ok",
+            "value": "1903 - 1905 von O. March. Saalkirche mit tiefgezogenem Satteldach, Giebelfassaden und markantem Vierkantturm in rustiziertem Tuffstein. Im Aufbau englischen Pfarrkirchen nachempfunden. Freie Anwendung romanischer Formen im Sinne des Späthistorismus. Nach Kriegszerstörung 1959 - 1961 veränderter Wiederaufbau durch O. H. Vogel: Neufassung des Inneren; neues Chorhaus in Beton-Glas-Konstruktion im Süden, Gestaltung seiner Fensterwände in Form eines \"Triptychons\" von E. Keller. Von einem Park umgeben, bilden Kirche und Pfarrhaus im englischen Landhausstil ein Ensemble, das sich in die Villenumgebung einbindet."
           },
           "mapPosition": {
-            "state": "#check",
-            "value": [ 6.9699772, 50.9019877 ]
+            "state": "#ok",
+            "value": [6.970002, 50.9019073]
           },
           "buildings": {
             "state": "#unknown"
@@ -1061,10 +1142,12 @@
           },
           "notes": "",
           "wiki": {
-            "state": "#unknown"
+            "state": "#ok",
+            "value": "Reformationskirche_(Köln-Bayenthal)"
           },
           "monumentNo": {
-            "state": "#unknown"
+            "state": "#ok",
+            "value": 1096
           }
         },
         "2.3.10": {
@@ -1073,15 +1156,14 @@
           "quarter": "Marienburg",
           "predecessor": "2.3.9",
           "successor": "",
-          "inactive": true,
-          "title": "Pferdmengesstraße",
+          "title": "Pferd|men|ges|stra|ße",
           "description": {
-            "state": "#unknown",
-            "value": ""
+            "state": "#ok",
+            "value": "Hervorzuheben sind: 1. die herrschaftliche Villa Nr. 1, 1925 von Th. Merill im amerikanischen Kolonialstil; 2. Beispiele früher Bebauung u. a. die Doppelvilla Nr. 30/32, 1899 von J. Crones im romantisierenden Stil mit Elementen aus der Gotik und der Renaissance; 3. die stattliche Villa Pferdmenges (ehemals Villa Deichmann), Nr. 52, 1910/11 von P. Pott im neuklassizistischen Stil englischer Prägung."
           },
           "mapPosition": {
-            "state": "#check",
-            "value": [ 6.971805301704725, 50.904102715717514 ]
+            "state": "#ok",
+            "value": [6.9718413, 50.9040428]
           },
           "buildings": {
             "state": "#unknown"
@@ -1091,10 +1173,28 @@
           },
           "notes": "",
           "wiki": {
-            "state": "#unknown"
+            "state": "#n/a"
           },
           "monumentNo": {
-            "state": "#unknown"
+            "state": "#ok",
+            "value": [
+              {
+                "number": 3593,
+                "title": "Pferdmengesstraße 1"
+              },
+              {
+                "number": 3769,
+                "title": "Pferdmengesstraße 30"
+              },
+              {
+                "number": 2799,
+                "title": "Pferdmengesstraße 32"
+              },
+              {
+                "number": 3571,
+                "title": "Pferdmengesstraße 52"
+              }
+            ]
           }
         }
       }
