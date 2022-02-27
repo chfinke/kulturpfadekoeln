@@ -1,0 +1,250 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<gpx version="1.1"
+  xmlns="http://www.topografix.com/GPX/1/1"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <trk>
+    <trkseg>
+      <trkpt lat="50.897947799999997" lon="6.9885111999999996"></trkpt>
+      <trkpt lat="50.897654099999997" lon="6.9890166999999996"></trkpt>
+      <trkpt lat="50.897503" lon="6.9893061999999997"></trkpt>
+      <trkpt lat="50.897285199999999" lon="6.9896991000000002"></trkpt>
+      <trkpt lat="50.897168000000001" lon="6.9900219999999997"></trkpt>
+      <trkpt lat="50.897034900000001" lon="6.9902755000000001"></trkpt>
+      <trkpt lat="50.896921499999998" lon="6.9904396000000002"></trkpt>
+      <trkpt lat="50.896732900000003" lon="6.9906534000000002"></trkpt>
+      <trkpt lat="50.896462399999997" lon="6.9909432999999996"></trkpt>
+      <trkpt lat="50.895688300000003" lon="6.9917708000000003"></trkpt>
+      <trkpt lat="50.8954004" lon="6.9921443999999999"></trkpt>
+      <trkpt lat="50.895379900000002" lon="6.9921709999999999"></trkpt>
+      <trkpt lat="50.8954004" lon="6.9921443999999999"></trkpt>
+      <trkpt lat="50.895688300000003" lon="6.9917708000000003"></trkpt>
+      <trkpt lat="50.896462399999997" lon="6.9909432999999996"></trkpt>
+      <trkpt lat="50.896732900000003" lon="6.9906534000000002"></trkpt>
+      <trkpt lat="50.896921499999998" lon="6.9904396000000002"></trkpt>
+      <trkpt lat="50.897034900000001" lon="6.9902755000000001"></trkpt>
+      <trkpt lat="50.897168000000001" lon="6.9900219999999997"></trkpt>
+      <trkpt lat="50.897336000000003" lon="6.9902277970367432"></trkpt>
+      <trkpt lat="50.897226199999999" lon="6.9905165"></trkpt>
+      <trkpt lat="50.896130100000001" lon="6.9929074"></trkpt>
+      <trkpt lat="50.895889599999997" lon="6.9933972000000004"></trkpt>
+      <trkpt lat="50.895789000000001" lon="6.9936318000000002"></trkpt>
+      <trkpt lat="50.895487699999997" lon="6.9944116999999997"></trkpt>
+      <trkpt lat="50.895565400000002" lon="6.9945323000000004"></trkpt>
+      <trkpt lat="50.895577600000003" lon="6.9945931999999997"></trkpt>
+      <trkpt lat="50.895466999999996" lon="6.9948528000000003"></trkpt>
+      <trkpt lat="50.8954223" lon="6.9948079999999999"></trkpt>
+      <trkpt lat="50.895303599999998" lon="6.9946777000000004"></trkpt>
+      <trkpt lat="50.895286400000003" lon="6.9946744000000001"></trkpt>
+      <trkpt lat="50.895266499999998" lon="6.9946700999999996"></trkpt>
+      <trkpt lat="50.895145800000002" lon="6.9948794000000003"></trkpt>
+      <trkpt lat="50.895100100000001" lon="6.9949583000000004"></trkpt>
+      <trkpt lat="50.895221200000002" lon="6.9951523"></trkpt>
+      <trkpt lat="50.895100100000001" lon="6.9949583000000004"></trkpt>
+      <trkpt lat="50.895145800000002" lon="6.9948794000000003"></trkpt>
+      <trkpt lat="50.895266499999998" lon="6.9946700999999996"></trkpt>
+      <trkpt lat="50.895286400000003" lon="6.9946744000000001"></trkpt>
+      <trkpt lat="50.895296199999997" lon="6.9946546999999999"></trkpt>
+      <trkpt lat="50.895416699999998" lon="6.9943628999999996"></trkpt>
+      <trkpt lat="50.895487699999997" lon="6.9944116999999997"></trkpt>
+      <trkpt lat="50.895565400000002" lon="6.9945323000000004"></trkpt>
+      <trkpt lat="50.895577600000003" lon="6.9945931999999997"></trkpt>
+      <trkpt lat="50.895466999999996" lon="6.9948528000000003"></trkpt>
+      <trkpt lat="50.895448600000002" lon="6.9948978999999998"></trkpt>
+      <trkpt lat="50.895424900000002" lon="6.9949513000000003"></trkpt>
+      <trkpt lat="50.895402099999998" lon="6.9949921000000002"></trkpt>
+      <trkpt lat="50.895379300000002" lon="6.9950272"></trkpt>
+      <trkpt lat="50.8953536" lon="6.9950611"></trkpt>
+      <trkpt lat="50.895331599999999" lon="6.9950836000000001"></trkpt>
+      <trkpt lat="50.895221200000002" lon="6.9951523"></trkpt>
+      <trkpt lat="50.895017099999997" lon="6.9952800999999996"></trkpt>
+      <trkpt lat="50.894992899999998" lon="6.9953013999999998"></trkpt>
+      <trkpt lat="50.894977400000002" lon="6.9953320000000003"></trkpt>
+      <trkpt lat="50.894959900000003" lon="6.9953681999999997"></trkpt>
+      <trkpt lat="50.894815199999996" lon="6.9957265"></trkpt>
+      <trkpt lat="50.894789199999998" lon="6.9957900000000004"></trkpt>
+      <trkpt lat="50.894392500000002" lon="6.9967861999999998"></trkpt>
+      <trkpt lat="50.894218700000003" lon="6.9972091000000001"></trkpt>
+      <trkpt lat="50.894097500000001" lon="6.9975035999999999"></trkpt>
+      <trkpt lat="50.893954899999997" lon="6.9978511000000001"></trkpt>
+      <trkpt lat="50.893667700000002" lon="6.9984982999999996"></trkpt>
+      <trkpt lat="50.893597100000001" lon="6.9986584000000001"></trkpt>
+      <trkpt lat="50.893177299999998" lon="6.9996355000000001"></trkpt>
+      <trkpt lat="50.892862100000002" lon="7.0003440000000001"></trkpt>
+      <trkpt lat="50.892800700000002" lon="7.0005107000000004"></trkpt>
+      <trkpt lat="50.892588600000003" lon="7.0012170999999999"></trkpt>
+      <trkpt lat="50.892444500000003" lon="7.0017991000000004"></trkpt>
+      <trkpt lat="50.892357599999997" lon="7.0023391000000004"></trkpt>
+      <trkpt lat="50.892266200000002" lon="7.0029579999999996"></trkpt>
+      <trkpt lat="50.892191400000002" lon="7.0037415999999997"></trkpt>
+      <trkpt lat="50.892079000000003" lon="7.0055166"></trkpt>
+      <trkpt lat="50.8911765" lon="7.0052932999999999"></trkpt>
+      <trkpt lat="50.8909941" lon="7.0052452000000001"></trkpt>
+      <trkpt lat="50.890968899999997" lon="7.0054974999999997"></trkpt>
+      <trkpt lat="50.890188799999997" lon="7.0053158"></trkpt>
+      <trkpt lat="50.890173699999998" lon="7.0060849999999997"></trkpt>
+      <trkpt lat="50.889679800000003" lon="7.0060587999999999"></trkpt>
+      <trkpt lat="50.8896199" lon="7.0060466000000003"></trkpt>
+      <trkpt lat="50.8895658" lon="7.0060226999999999"></trkpt>
+      <trkpt lat="50.888639599999998" lon="7.0051249999999996"></trkpt>
+      <trkpt lat="50.887650299999997" lon="7.0041941999999997"></trkpt>
+      <trkpt lat="50.887610299999999" lon="7.0041425000000004"></trkpt>
+      <trkpt lat="50.887350099999999" lon="7.0035753999999999"></trkpt>
+      <trkpt lat="50.887321900000003" lon="7.0035147000000002"></trkpt>
+      <trkpt lat="50.887299400000003" lon="7.0034647999999997"></trkpt>
+      <trkpt lat="50.886906799999998" lon="7.0026074999999999"></trkpt>
+      <trkpt lat="50.886874499999998" lon="7.0025316000000002"></trkpt>
+      <trkpt lat="50.886796500000003" lon="7.0023676999999998"></trkpt>
+      <trkpt lat="50.886602400000001" lon="7.0025883999999996"></trkpt>
+      <trkpt lat="50.886796500000003" lon="7.0023676999999998"></trkpt>
+      <trkpt lat="50.886616500000002" lon="7.0019748999999996"></trkpt>
+      <trkpt lat="50.8862673" lon="7.0012188000000002"></trkpt>
+      <trkpt lat="50.885633900000002" lon="6.9998070999999999"></trkpt>
+      <trkpt lat="50.885246899999999" lon="6.9989733999999997"></trkpt>
+      <trkpt lat="50.885218100000003" lon="6.9988881999999997"></trkpt>
+      <trkpt lat="50.885109900000003" lon="6.9984563"></trkpt>
+      <trkpt lat="50.885080299999998" lon="6.9983630000000003"></trkpt>
+      <trkpt lat="50.884602299999997" lon="6.9987740000000001"></trkpt>
+      <trkpt lat="50.8833901" lon="6.9997654999999996"></trkpt>
+      <trkpt lat="50.882615700000002" lon="7.0004109000000003"></trkpt>
+      <trkpt lat="50.882391900000002" lon="7.0006173"></trkpt>
+      <trkpt lat="50.8822239" lon="7.0001401000000003"></trkpt>
+      <trkpt lat="50.881939099999997" lon="6.9993141000000003"></trkpt>
+      <trkpt lat="50.881578699999999" lon="6.9982521000000002"></trkpt>
+      <trkpt lat="50.881142799999999" lon="6.9969991"></trkpt>
+      <trkpt lat="50.881045200000003" lon="6.9967972999999999"></trkpt>
+      <trkpt lat="50.880940699999996" lon="6.9966214000000004"></trkpt>
+      <trkpt lat="50.880884000000002" lon="6.9964795999999998"></trkpt>
+      <trkpt lat="50.880861000000003" lon="6.9963259999999998"></trkpt>
+      <trkpt lat="50.880862" lon="6.9961351000000001"></trkpt>
+      <trkpt lat="50.880896100000001" lon="6.9956405000000004"></trkpt>
+      <trkpt lat="50.880893499999999" lon="6.9949845000000002"></trkpt>
+      <trkpt lat="50.880832900000001" lon="6.9937797000000002"></trkpt>
+      <trkpt lat="50.880848" lon="6.9936571000000001"></trkpt>
+      <trkpt lat="50.880902599999999" lon="6.9935387999999996"></trkpt>
+      <trkpt lat="50.881011700000002" lon="6.9934086999999998"></trkpt>
+      <trkpt lat="50.881510800000001" lon="6.9930184999999998"></trkpt>
+      <trkpt lat="50.882245500000003" lon="6.9924651000000004"></trkpt>
+      <trkpt lat="50.8830454" lon="6.9918528000000002"></trkpt>
+      <trkpt lat="50.883693700000002" lon="6.9913221999999999"></trkpt>
+      <trkpt lat="50.8830454" lon="6.9918528000000002"></trkpt>
+      <trkpt lat="50.882245500000003" lon="6.9924651000000004"></trkpt>
+      <trkpt lat="50.881510800000001" lon="6.9930184999999998"></trkpt>
+      <trkpt lat="50.881011700000002" lon="6.9934086999999998"></trkpt>
+      <trkpt lat="50.880902599999999" lon="6.9935387999999996"></trkpt>
+      <trkpt lat="50.880848" lon="6.9936571000000001"></trkpt>
+      <trkpt lat="50.880832900000001" lon="6.9937797000000002"></trkpt>
+      <trkpt lat="50.880893499999999" lon="6.9949845000000002"></trkpt>
+      <trkpt lat="50.880896100000001" lon="6.9956405000000004"></trkpt>
+      <trkpt lat="50.880862" lon="6.9961351000000001"></trkpt>
+      <trkpt lat="50.880861000000003" lon="6.9963259999999998"></trkpt>
+      <trkpt lat="50.880884000000002" lon="6.9964795999999998"></trkpt>
+      <trkpt lat="50.880940699999996" lon="6.9966214000000004"></trkpt>
+      <trkpt lat="50.881045200000003" lon="6.9967972999999999"></trkpt>
+      <trkpt lat="50.881142799999999" lon="6.9969991"></trkpt>
+      <trkpt lat="50.881578699999999" lon="6.9982521000000002"></trkpt>
+      <trkpt lat="50.881939099999997" lon="6.9993141000000003"></trkpt>
+      <trkpt lat="50.8822239" lon="7.0001401000000003"></trkpt>
+      <trkpt lat="50.882391900000002" lon="7.0006173"></trkpt>
+      <trkpt lat="50.881980900000002" lon="7.0010222999999998"></trkpt>
+      <trkpt lat="50.881599999999999" lon="7.0013858999999998"></trkpt>
+      <trkpt lat="50.881500899999999" lon="7.0014759"></trkpt>
+      <trkpt lat="50.880969899999997" lon="7.0019152"></trkpt>
+      <trkpt lat="50.8806467" lon="7.0021601999999996"></trkpt>
+      <trkpt lat="50.880266499999998" lon="7.0024119000000002"></trkpt>
+      <trkpt lat="50.879973900000003" lon="7.0025807999999996"></trkpt>
+      <trkpt lat="50.8796344" lon="7.0027311000000001"></trkpt>
+      <trkpt lat="50.878929800000002" lon="7.0030209000000001"></trkpt>
+      <trkpt lat="50.8785308" lon="7.0032091999999997"></trkpt>
+      <trkpt lat="50.878075600000003" lon="7.0033992999999999"></trkpt>
+      <trkpt lat="50.877877499999997" lon="7.0027730000000004"></trkpt>
+      <trkpt lat="50.8776571" lon="7.0021490000000002"></trkpt>
+      <trkpt lat="50.877589800000003" lon="7.0019780000000003"></trkpt>
+      <trkpt lat="50.877496800000003" lon="7.0018152000000002"></trkpt>
+      <trkpt lat="50.877493186203274" lon="7.0018176221900941"></trkpt>
+      <trkpt lat="50.877639000000002" lon="7.0015139"></trkpt>
+      <trkpt lat="50.877750499999998" lon="7.0012775999999999"></trkpt>
+      <trkpt lat="50.877774500000001" lon="7.0012128000000002"></trkpt>
+      <trkpt lat="50.8779416" lon="7.0007815999999998"></trkpt>
+      <trkpt lat="50.877996899999999" lon="7.0005541999999998"></trkpt>
+      <trkpt lat="50.878025999999998" lon="7.0002950999999998"></trkpt>
+      <trkpt lat="50.878025899999997" lon="7.0000610999999999"></trkpt>
+      <trkpt lat="50.8780134" lon="6.9999314000000004"></trkpt>
+      <trkpt lat="50.877991199999997" lon="6.9997831000000001"></trkpt>
+      <trkpt lat="50.877942900000001" lon="6.9995706999999996"></trkpt>
+      <trkpt lat="50.877837100000001" lon="6.9993255999999997"></trkpt>
+      <trkpt lat="50.877748599999997" lon="6.9992115000000004"></trkpt>
+      <trkpt lat="50.877681600000003" lon="6.9991756000000001"></trkpt>
+      <trkpt lat="50.8775865" lon="6.9991409000000004"></trkpt>
+      <trkpt lat="50.877454999999998" lon="6.9991395000000001"></trkpt>
+      <trkpt lat="50.877348099999999" lon="6.9991592999999996"></trkpt>
+      <trkpt lat="50.877215100000001" lon="6.9992074999999998"></trkpt>
+      <trkpt lat="50.877097800000001" lon="6.9992615000000002"></trkpt>
+      <trkpt lat="50.876905499999999" lon="6.9993816999999998"></trkpt>
+      <trkpt lat="50.876726599999998" lon="6.9995329000000002"></trkpt>
+      <trkpt lat="50.876571300000002" lon="6.9996979000000001"></trkpt>
+      <trkpt lat="50.876448400000001" lon="6.9998763000000004"></trkpt>
+      <trkpt lat="50.876367700000003" lon="7.0000239000000004"></trkpt>
+      <trkpt lat="50.876305700000003" lon="7.0001737999999998"></trkpt>
+      <trkpt lat="50.876249100000003" lon="7.0003867"></trkpt>
+      <trkpt lat="50.876220199999999" lon="7.0006313000000002"></trkpt>
+      <trkpt lat="50.8762203" lon="7.0008565999999997"></trkpt>
+      <trkpt lat="50.876256099999999" lon="7.0010725999999996"></trkpt>
+      <trkpt lat="50.876297000000001" lon="7.0011961999999999"></trkpt>
+      <trkpt lat="50.876363699999999" lon="7.0013686000000002"></trkpt>
+      <trkpt lat="50.876441800000002" lon="7.0014982000000003"></trkpt>
+      <trkpt lat="50.876543499999997" lon="7.0015846000000002"></trkpt>
+      <trkpt lat="50.876628199999999" lon="7.0016313999999999"></trkpt>
+      <trkpt lat="50.876755699999997" lon="7.0016746000000003"></trkpt>
+      <trkpt lat="50.876906599999998" lon="7.0016872000000001"></trkpt>
+      <trkpt lat="50.877106400000002" lon="7.0016790999999996"></trkpt>
+      <trkpt lat="50.877231799999997" lon="7.0017034000000002"></trkpt>
+      <trkpt lat="50.877387900000002" lon="7.0017541999999997"></trkpt>
+      <trkpt lat="50.877496800000003" lon="7.0018152000000002"></trkpt>
+    </trkseg>
+  </trk>
+  <wpt lat="50.8774968" lon="7.0018152">
+    <name>Diakonie-Dorf Michaelshoven</name>
+    <cmt>Erbaut 1955 - 1959 nach den Plänen von Dr. E. te Reh. Im Mittelpunkt die zeltförmige Erzengel-Michael-Kirche in ovaler Parkanlage, anfänglich von sechs Häusern umgeben. Die zweiflügeligen, leicht gewinkelten Flachdachbauten besitzen abwechslungsreiche Eingangslösungen, die als kommunikative Zentren dienen. Programm war naturnahes Leben in dörflicher Gemeinschaft für Flüchtlinge, Ausgebombte und Jugendliche ohne Schulabschluss, später auch für Behinderte und Senioren.<br/><i>Der Text beschreibt das umliegende Gebiet.</i></cmt>
+  </wpt>
+  <wpt lat="50.8834254547" lon="6.9915417458">
+    <name>Gut Schillingsrott (Lennartzhof)</name>
+    <cmt>Einzige erhaltene geschlossene Hofanlage von ehemals zehn größeren Rodenkirchener Höfen. Erstnennung 1171. Vor der Säkularisation 1802 im Besitz des Kölner Stiftes St. Georg. Das heutige barocke Herrenhaus mit Straßen- und Hoffassade aus dem 18. Jahrhundert. Die Lindenbäume nehmen Bezug auf die Fensterachsen. Wappen über der Eingangstür. Wirtschaftsbauten in geschlämmtem Backstein z.Z. 1809 datiert. Seit 1972 Restaurierung durch Heinz D. Stuckmann.</cmt>
+  </wpt>
+  <wpt lat="50.8866024" lon="7.0025884">
+    <name>St. Joseph</name>
+    <cmt>1954 - 1956, letztes Werk des bekannten Kirchenarchitekten D. Böhm. Vollendung durch G. Böhm. Schlichter Backstein-Hallenbau. Blockhafte Fronttürme im Osten und Westen verweisen auf Taufbecken und Altar im Inneren. Farbverglasung in den Lichtöffnungen des Westturms von W. Teuwen, seitliche Fenster von H. Berke. Ausgrenzung eines Vorplatzes durch im Winkel ansetzende niedrige Gemeindebauten.</cmt>
+  </wpt>
+  <wpt lat="50.8972592114" lon="6.9901238679">
+    <name>Maternus-Bildstock</name>
+    <cmt><i>Hier konnten wir leider keine Infotafel mehr finden.</i></cmt>
+  </wpt>
+  <wpt lat="50.8956883" lon="6.9917708">
+    <name>St. Maternus</name>
+    <cmt>Erbaut 1863 - 1867 nach den Plänen von V. Statz auf dem Gelände des ehemaligen Kartäuserhofes. Dreischiffige Backstein-Hallenkirche mit eingezogenem Chor und Einturmfassade. Bei der Formensprache Rückgriff auf die Hochgotik des 13./14. Jahrhunderts. Einziger Bauschmuck am Portal: Tympanon mit dem Hl. Maternus zwischen zwei Engeln vor einem Kölnpanorama. Türgriffbronzereliefs (innen) und Taufbeckendeckel (1978/79) von H. Kühnapfel. Madonna aus Alt-St. Maternus um 1470. Nebenliegendes, neugotisches ehemaliges Pfarrhaus um 1870.</cmt>
+  </wpt>
+  <wpt lat="50.8977331825" lon="6.98888058794">
+    <name>Autobahnbrücke</name>
+    <cmt>Errichtet 1938 - 1941 durch P. Bonatz und F. Leonhardt im Zuge des Kölner Autobahnrings. Erste echte erdverankerte Kabelhängebrücke mit einer Mittelstützweite vom 378 m, seinerzeit weitestgespannte Hängebrücke Europas. Hauptmerkmale: monumentale Torsituation am Naturstein-Brückenkopf, Schlankheit der horizontalen Versteifungsträger, Spannweitenverhältnis zwischen den Trägern und den sie einrahmenden portalartigen Pylonen. 1945 Sprengung, 1952 - 1954 getreuer Wiederaufbau. Ab 1990 Verbreiterung der Brücke durch einen Zwillingsbau an der Nordseite.</cmt>
+  </wpt>
+  <wpt lat="50.897948" lon="6.988519">
+    <name>Start Kulturpfad 2.4 Rodenkirchen</name>
+    <cmt>Der Pfad führt über ca. 7 km durch Rodenkirchen.<br/>Startpunkt ist die Autobahnbrücke und Endpunkt im Diakonie-Dorf Michaelshoven.</cmt>
+  </wpt>
+  <wpt lat="50.892135733" lon="7.00462068314">
+    <name>Haus Brügelmann</name>
+    <cmt><i>Hier konnten wir leider keine Infotafel mehr finden.</i></cmt>
+  </wpt>
+  <wpt lat="50.8931773" lon="6.9996355">
+    <name>Villenensemble</name>
+    <cmt><i>Hier konnten wir leider keine Infotafel mehr finden und das Objekt nicht zuordnen.</i></cmt>
+  </wpt>
+  <wpt lat="50.8954673" lon="6.9948528">
+    <name>Umgebung von Alt-St. Maternus</name>
+    <cmt><i>Hier konnten wir leider keine Infotafel mehr finden.</i></cmt>
+  </wpt>
+  <wpt lat="50.8964624" lon="6.9909433">
+    <name>Villa Malta</name>
+    <cmt>Erbaut 1904/5 für den ehemaligen Bürgermeister E. Steisel. Die Jugendstil-Villa von den Architektenbrüdern Schauppmeyer hat das Aussehen einer Burg. Villen im sog. Burgenstil waren beliebt. Vielansichtiger Bau: Straßenfassade mit Treppengiebel, malerische asymmetrische Staffelung der Anbauten um hohen Aussichtsturm zur Rheinseite. Hieß zuerst "Villa Angonia", später "Villa Maria" und seit 1975 nach vorletztem Besitzer, dem Malteserorden, "Villa Malta".</cmt>
+  </wpt>
+</gpx>
