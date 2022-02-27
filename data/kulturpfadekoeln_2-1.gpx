@@ -1,0 +1,180 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<gpx version="1.1"
+  xmlns="http://www.topografix.com/GPX/1/1"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <trk>
+    <trkseg>
+      <trkpt lat="50.9085628" lon="6.9760147"/>
+      <trkpt lat="50.9073509" lon="6.9770946"/>
+      <trkpt lat="50.9072971" lon="6.9770438"/>
+      <trkpt lat="50.9066404" lon="6.9765871"/>
+      <trkpt lat="50.9066219" lon="6.9765395"/>
+      <trkpt lat="50.9066142" lon="6.9764812"/>
+      <trkpt lat="50.906609" lon="6.9764168"/>
+      <trkpt lat="50.9066079" lon="6.9763558"/>
+      <trkpt lat="50.9069264" lon="6.9758697"/>
+      <trkpt lat="50.9073078" lon="6.9751784"/>
+      <trkpt lat="50.9074963" lon="6.9748762"/>
+      <trkpt lat="50.9077874" lon="6.9742519"/>
+      <trkpt lat="50.9079432" lon="6.9739179"/>
+      <trkpt lat="50.9081092" lon="6.9735304"/>
+      <trkpt lat="50.9082732" lon="6.9731709"/>
+      <trkpt lat="50.9083713" lon="6.9729677"/>
+      <trkpt lat="50.9085" lon="6.9727431"/>
+      <trkpt lat="50.9086774" lon="6.9725068"/>
+      <trkpt lat="50.9088403" lon="6.9723526"/>
+      <trkpt lat="50.9091616" lon="6.9721646"/>
+      <trkpt lat="50.9094527" lon="6.9719634"/>
+      <trkpt lat="50.9096553" lon="6.9718"/>
+      <trkpt lat="50.9097829" lon="6.971697"/>
+      <trkpt lat="50.9100472" lon="6.9714481"/>
+      <trkpt lat="50.9106788" lon="6.9706931"/>
+      <trkpt lat="50.9113505" lon="6.9699275"/>
+      <trkpt lat="50.9115244" lon="6.9697739"/>
+      <trkpt lat="50.9119211" lon="6.9694329"/>
+      <trkpt lat="50.9121107" lon="6.9692598"/>
+      <trkpt lat="50.9122685" lon="6.9691113"/>
+      <trkpt lat="50.9123549" lon="6.96903"/>
+      <trkpt lat="50.9125674" lon="6.9687635"/>
+      <trkpt lat="50.9129102" lon="6.96835"/>
+      <trkpt lat="50.9129661" lon="6.9681745"/>
+      <trkpt lat="50.9135503" lon="6.9673949"/>
+      <trkpt lat="50.9133418" lon="6.967487"/>
+      <trkpt lat="50.9128903" lon="6.96782"/>
+      <trkpt lat="50.9127698" lon="6.967923"/>
+      <trkpt lat="50.9126376" lon="6.9680322"/>
+      <trkpt lat="50.9120776" lon="6.9682909"/>
+      <trkpt lat="50.9113625" lon="6.9686215"/>
+      <trkpt lat="50.9106578" lon="6.9689558"/>
+      <trkpt lat="50.9103814" lon="6.9690919"/>
+      <trkpt lat="50.9101488" lon="6.9692157"/>
+      <trkpt lat="50.9098946" lon="6.9693694"/>
+      <trkpt lat="50.9096338" lon="6.9695279"/>
+      <trkpt lat="50.9095822" lon="6.9695621"/>
+      <trkpt lat="50.9094507" lon="6.9687583"/>
+      <trkpt lat="50.9093395" lon="6.9680501"/>
+      <trkpt lat="50.909382" lon="6.9680272"/>
+      <trkpt lat="50.909158" lon="6.9667682"/>
+      <trkpt lat="50.9091068" lon="6.9667101"/>
+      <trkpt lat="50.9091423" lon="6.9665066"/>
+      <trkpt lat="50.9093518" lon="6.9664073"/>
+      <trkpt lat="50.90960360000001" lon="6.966287999999999"/>
+      <trkpt lat="50.9096357" lon="6.9664694"/>
+      <trkpt lat="50.9098685" lon="6.9678252"/>
+      <trkpt lat="50.9104207" lon="6.9675869"/>
+      <trkpt lat="50.9107844" lon="6.9674327"/>
+      <trkpt lat="50.9110442" lon="6.967338"/>
+      <trkpt lat="50.9107684" lon="6.9659128"/>
+      <trkpt lat="50.9102908" lon="6.9661371"/>
+      <trkpt lat="50.9096357" lon="6.9664694"/>
+      <trkpt lat="50.9096036" lon="6.966288"/>
+      <trkpt lat="50.9094123" lon="6.9651687"/>
+      <trkpt lat="50.9093176" lon="6.9646314"/>
+      <trkpt lat="50.9092179" lon="6.964652"/>
+      <trkpt lat="50.9091623" lon="6.9646293"/>
+      <trkpt lat="50.909119" lon="6.9646042"/>
+      <trkpt lat="50.9090664" lon="6.9645251"/>
+      <trkpt lat="50.9090345" lon="6.9644496"/>
+      <trkpt lat="50.9088349" lon="6.9633342"/>
+      <trkpt lat="50.9088156" lon="6.9632264"/>
+      <trkpt lat="50.9087986" lon="6.9631217"/>
+      <trkpt lat="50.9087239" lon="6.9631403"/>
+      <trkpt lat="50.9086749" lon="6.9631562"/>
+      <trkpt lat="50.9079404" lon="6.9633953"/>
+      <trkpt lat="50.9078269" lon="6.9634293"/>
+      <trkpt lat="50.9072638" lon="6.9635626"/>
+      <trkpt lat="50.9071481" lon="6.9635899"/>
+      <trkpt lat="50.9070009" lon="6.9636326"/>
+      <trkpt lat="50.9069582" lon="6.9636445"/>
+      <trkpt lat="50.9065798" lon="6.9637495"/>
+      <trkpt lat="50.9062829" lon="6.9638313"/>
+      <trkpt lat="50.9059264" lon="6.9639355"/>
+      <trkpt lat="50.9059125" lon="6.9638253"/>
+      <trkpt lat="50.9058974" lon="6.9636968"/>
+      <trkpt lat="50.9058433" lon="6.9632409"/>
+      <trkpt lat="50.9057512" lon="6.9624637"/>
+      <trkpt lat="50.9056493" lon="6.9616038"/>
+      <trkpt lat="50.9055809" lon="6.9610265"/>
+      <trkpt lat="50.9057916" lon="6.9609396"/>
+      <trkpt lat="50.9056212" lon="6.9590915"/>
+      <trkpt lat="50.9056021" lon="6.9588492"/>
+      <trkpt lat="50.9055679" lon="6.9584324"/>
+      <trkpt lat="50.9055679" lon="6.9584144"/>
+      <trkpt lat="50.9055784" lon="6.958285499999999"/>
+      <trkpt lat="50.90517980938727" lon="6.957947393893669"/>
+      <trkpt lat="50.9055784" lon="6.958285499999999"/>
+      <trkpt lat="50.906128" lon="6.9587657"/>
+      <trkpt lat="50.906758" lon="6.9593075"/>
+      <trkpt lat="50.9072388" lon="6.95972"/>
+      <trkpt lat="50.9073782" lon="6.9598397"/>
+      <trkpt lat="50.9075998" lon="6.9600298"/>
+      <trkpt lat="50.9077277" lon="6.9601395"/>
+      <trkpt lat="50.908416" lon="6.9607249"/>
+      <trkpt lat="50.9095951" lon="6.9617606"/>
+      <trkpt lat="50.9096735" lon="6.9618268"/>
+      <trkpt lat="50.9098667" lon="6.9619899"/>
+      <trkpt lat="50.9102841" lon="6.9623422"/>
+      <trkpt lat="50.9104993" lon="6.9625238"/>
+      <trkpt lat="50.910577" lon="6.9626116"/>
+      <trkpt lat="50.9109166" lon="6.9625041"/>
+      <trkpt lat="50.9108603" lon="6.9622829"/>
+      <trkpt lat="50.9108273" lon="6.9620959"/>
+      <trkpt lat="50.9106863" lon="6.960345"/>
+      <trkpt lat="50.9106713" lon="6.9600769"/>
+      <trkpt lat="50.911094" lon="6.9600139"/>
+      <trkpt lat="50.9112148" lon="6.9599934"/>
+      <trkpt lat="50.9113579" lon="6.959969"/>
+      <trkpt lat="50.911984" lon="6.9599296"/>
+      <trkpt lat="50.9126216" lon="6.9598324"/>
+    </trkseg>
+  </trk>
+  <wpt lat="50.906758" lon="6.9593075">
+    <name>Benediktinerinnenkloster</name>
+    <cmt>Erbaut 1894/95. Das Herz-Jesu-Kloster ist eine um einen Innenhof geschlossene neugotische Anlage in umfriedetem großen Garten. Das Tympanon des Hauptportals zeigt die "Anbetung des Lammes", eine Szene aus der Offenbarung des Johannes. In der Kapelle, die nur der Offentlichkeit zugänglich ist, Flügelaltar aus dem 16. Jahrhundert. Nach Kriegsbeschädigung Wiederherstellung der Anlage bis 1969.</cmt>
+  </wpt>
+  <wpt lat="50.9126216" lon="6.9598324">
+    <name>Großmarkthalle</name>
+    <cmt>Errichtet 1936-1940 nach den Plänen von Th. Teichen auf dem Gelände des mittelalterlichen jüdischen Friedhofs ("Judenbüchel" oder "Am Todten Juden").<br/>Mit dem parabelförmigen Querschnitt und dem Akzent der beiden gestaffelten Shedbauten an der Nordseite ist die Halle ein Beispiel für das Weiterleben des Stils des "Neuen Bauens" im "Dritten Reich". Luftschutzhochbunker (links), 1942 von H. Schumacher. Er erhielt zur Tarnung das Aussehen einer Kirche.</cmt>
+  </wpt>
+  <wpt lat="50.9058974" lon="6.9636968">
+    <name>Arbeiter-Kolonie Wilhelmsruhe</name>
+    <cmt>Erbaut 1888 - 1902 nach den Plänen der Architekten Sardemann und Scherz. Stiftung des Prof. Gerhard vom Rath für die Arbeiter des "Rheinischen Aktienvereins für Zuckerfabrikation". Von sieben senkrecht zur Bonner Straße ausgerichteten Häuserzeilen blieb einzig die südlichste erhalten. Frühe vorbildliche Arbeitersiedlung: ansprechende, reich gegliederte Architektur; Außenanlagen ehemals mit Nutzgärten, Höfen und Stallungen, von denen einige noch bestehen.</cmt>
+  </wpt>
+  <wpt lat="50.9051798094" lon="6.95794739389">
+    <name>St. Mariä-Empfängnis</name>
+    <cmt>Erbaut 1906 - 1908 nach den Entwürfen von C. Rüdell und R. Odenthel im neugotischen Stil als Backstein-Hallenkirche mit Querschiff, polygonalem Chor und Untergeachoß des Vierkantturms. Turmabschluß 1927/29 im expressionistischen Stil durch A. Böll und H. Neuhaus. Nach Kriegsbeachädigung veränderter Wiederaufbau in drei Phasen: 1951 (H. Hansen), 1961 (J. Schürmann) und 1980/81 (K. J. Ernst). Madonna über Westportal 1930 von E. Schmitz jr.. Von den Werken des Künstlers Th. Heiermann ist das große Retabel (1987) mit Szenen aus dem Marienleben hervorzuheben.</cmt>
+  </wpt>
+  <wpt lat="50.9105542101" lon="6.97084203264">
+    <name>Alteburger Straße</name>
+    <cmt>Hier wird 1856 die Maschinenbau AG, die spätere BAMAG, gegründet: Bayenthal entwickelt sich zum Industrievorort (auf dem ehemaligen Fabrikgelände heute der Wohnpark Bayenthal).<br/>Von den ersten Arbeiterhäusern Bayenthals sind zwei Ensembles erhalten: die Häuser Nr. 265-275 mit niedrigen Anbauten zur Straßenseite statt zum Hof hin (um 1880) und die schlichten Dreifensterhäuser Nr. 182-190 (um 1860).<br/>Von ihrer einstigen Bedeutung als Hauptstraße zeugt die seltene Geschlossenheit von Gründerzeit-Häusern im Stil von Neugotik und Neurenaissance (um 1880 - 1900).</cmt>
+  </wpt>
+  <wpt lat="50.9135503" lon="6.9673949">
+    <name>Privatbrauerei Küppers</name>
+    <cmt><i>Hier konnten wir leider keine Infotafel mehr finden.</i></cmt>
+  </wpt>
+  <wpt lat="50.9085628" lon="6.9760147">
+    <name>Start Kulturpfad 2.1 Rodenkirchen</name>
+    <cmt>Die circa 5 km lange Strecke führt vom Palais Oppenheim in Bayenthal zur Großmarkthalle in Raderberg.</cmt>
+  </wpt>
+  <wpt lat="50.9081070906" lon="6.97642077685">
+    <name>Palais Oppenheim</name>
+    <cmt><i>Hier konnten wir leider keine Infotafel mehr finden.</i></cmt>
+  </wpt>
+  <wpt lat="50.9098685" lon="6.9678252">
+    <name>St. Josef-Haus</name>
+    <cmt>1896 zugleich mit ehemals benachbartem Pfarrhaus nach den Plänen von Th. Roß im neugotischen Stil erbaut. Zunächst Hospital der Schwestern der Genossenschaft der armen Dienstmägde Jesu Christi.<br/>1905 - 1984 "St. Josef-Zufluchtshaus" für alleinstehende Mütter unter Leitung der Genossenschaft der Cellitinnen nach Regeln des Hl. Augustinus e.V.‚ Köln, Severinstraße. Einrichtung des kath. Fürsorge-Vereins für Mädchen, Frauen und Kinder.<br/>Heute Wohnanlage.</cmt>
+  </wpt>
+  <wpt lat="50.9104388752" lon="6.96606755821">
+    <name>St. Antonius-Krankenhaus</name>
+    <cmt>Erbaut 1906 - 1910 nach den Plänen von P. Gaertner (Inschrift am Eingangsportal) im Auftrag der Cellitinnen nach Regeln des Hl. Augustinus e.V.‚ Köln, Severinstraße.<br/>Mehrflügeliger Komplex mit Formenanleihen aus der deutschen Renaissance, bei der St. Hildegardis-Kapelle aus der Spätgotik. Chor der Kapelle mit hervorragender Jugendstil-Ausstattung.<br/>Erster großer Krankenhausbau (über 150 Betten) im Kölner Süden mit für damalige Verhältnisse beispielhaften modernen Einrichtungen hygienischer und technischer Art.</cmt>
+  </wpt>
+  <wpt lat="50.9098624405" lon="6.96938894484">
+    <name>Stadthäuser Goltsteinstraße</name>
+    <cmt>Die Geschäftshäuser Nr. 75 und Nr. 77 von 1907 sind Zeugnisse der Entwicklung der Goltsteinstraße zur Haupt- und Geschäftsstraße nach Anlage der Straßenbahn 1904.<br/> Haus Nr. 75 mit phantasievoller Fassade. Im Fries der Schaufensterrahmung weist die Darstellung eines Storches am Kindernest auf die einstige Besitzerin, eine Hebamme. Tradition des Gemüseiadens seit Bestehen des Hauses.</cmt>
+  </wpt>
+  <wpt lat="50.9093518" lon="6.9664073">
+    <name>St. Matthias</name>
+    <cmt>Erbaut 1902 - 1904 nach dem Entwurf von Th. Kremer im neugotischen Stil. Hallenkirche mit Westturm und polygonalem Chor. Gestaltung der Totengedächtniskapelle von W. Remmes. 1926 Sakristeianbau.<br/>1951 - 1953 Wiederaufbau durch D. und G. Böhm, dabei Neufassung des Innenraumes: stärkere Rundpfeiler, Faltdecken zwischen den Jochen, neue Fensterzone. Bronzeportale und Sakramentshäuschen von H. Rheindorf.<br/>Mathiaskirchplatz 1904 nach dem Konzept von F. Encke. Die regelmäßige Schmuck- und Spielplatzanlage ist axial auf die Kirche ausgerichtet.</cmt>
+  </wpt>
+</gpx>
