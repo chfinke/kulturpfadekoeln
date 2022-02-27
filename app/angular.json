@@ -27,6 +27,11 @@
                 "glob": "*",
                 "input": "../data",
                 "output": "assets/data"
+              },
+              {
+                "glob": "*",
+                "input": "../data/generated/gpx-with-waypoints",
+                "output": "assets/data/gpx"
               }
             ],
             "styles": [

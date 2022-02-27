@@ -1,0 +1,294 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<gpx version="1.1"
+  xmlns="http://www.topografix.com/GPX/1/1"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <trk>
+    <trkseg>
+      <trkpt lat="50.906596799999988" lon="6.9773485999999991"/>
+      <trkpt lat="50.906530399999994" lon="6.9771878999999997"/>
+      <trkpt lat="50.906561499999988" lon="6.9771481"/>
+      <trkpt lat="50.906587099999996" lon="6.9770674000000001"/>
+      <trkpt lat="50.906588900000003" lon="6.9770041000000003"/>
+      <trkpt lat="50.906576800000011" lon="6.9769436000000002"/>
+      <trkpt lat="50.9065619" lon="6.9769088000000004"/>
+      <trkpt lat="50.906530899999986" lon="6.9768687000000007"/>
+      <trkpt lat="50.906483799999982" lon="6.976846000000001"/>
+      <trkpt lat="50.906461799999988" lon="6.9765600000000001"/>
+      <trkpt lat="50.906381899999978" lon="6.9763650000000004"/>
+      <trkpt lat="50.906221799999983" lon="6.9759282000000002"/>
+      <trkpt lat="50.906142599999974" lon="6.9757122000000003"/>
+      <trkpt lat="50.905622199999996" lon="6.9742924999999998"/>
+      <trkpt lat="50.905294499999982" lon="6.9734031000000005"/>
+      <trkpt lat="50.905212500000005" lon="6.9731722999999999"/>
+      <trkpt lat="50.905156600000005" lon="6.9731623000000003"/>
+      <trkpt lat="50.905098199999983" lon="6.9731892999999996"/>
+      <trkpt lat="50.905052599999998" lon="6.9732567000000012"/>
+      <trkpt lat="50.90502819999999" lon="6.9733381999999997"/>
+      <trkpt lat="50.905062699999981" lon="6.9734436999999998"/>
+      <trkpt lat="50.905021500000004" lon="6.9734848999999999"/>
+      <trkpt lat="50.904020399999993" lon="6.9744090999999999"/>
+      <trkpt lat="50.903366599999998" lon="6.9750126999999997"/>
+      <trkpt lat="50.901600599999981" lon="6.9767219999999996"/>
+      <trkpt lat="50.901639399999986" lon="6.9768701000000002"/>
+      <trkpt lat="50.901908199999994" lon="6.9776026"/>
+      <trkpt lat="50.902095399999986" lon="6.9781383999999997"/>
+      <trkpt lat="50.902407999999987" lon="6.978986400000001"/>
+      <trkpt lat="50.902812699999998" lon="6.9800845999999988"/>
+      <trkpt lat="50.902245499999985" lon="6.9806281999999999"/>
+      <trkpt lat="50.901907599999994" lon="6.9809431000000002"/>
+      <trkpt lat="50.901820000000001" lon="6.9809844999999999"/>
+      <trkpt lat="50.901726999999987" lon="6.9809878000000003"/>
+      <trkpt lat="50.901667099999983" lon="6.9809549000000004"/>
+      <trkpt lat="50.901436599999997" lon="6.9807199000000004"/>
+      <trkpt lat="50.9013597" lon="6.9806353999999988"/>
+      <trkpt lat="50.901242499999995" lon="6.9805457999999989"/>
+      <trkpt lat="50.90109409999998" lon="6.9804625999999992"/>
+      <trkpt lat="50.900988800000007" lon="6.9804161999999996"/>
+      <trkpt lat="50.900831899999986" lon="6.980397"/>
+      <trkpt lat="50.900656599999991" lon="6.9804094999999995"/>
+      <trkpt lat="50.90057059999998" lon="6.9803855999999991"/>
+      <trkpt lat="50.900463200000004" lon="6.9803232"/>
+      <trkpt lat="50.900359899999984" lon="6.9802354999999991"/>
+      <trkpt lat="50.900290699999992" lon="6.9801559000000006"/>
+      <trkpt lat="50.90021389999999" lon="6.9800198"/>
+      <trkpt lat="50.90017289999998" lon="6.9798917000000005"/>
+      <trkpt lat="50.90015970000001" lon="6.9797556000000007"/>
+      <trkpt lat="50.900168599999994" lon="6.9794742000000003"/>
+      <trkpt lat="50.900176700000003" lon="6.9793272000000002"/>
+      <trkpt lat="50.900197900000002" lon="6.9793276999999998"/>
+      <trkpt lat="50.900234799999993" lon="6.9792949999999996"/>
+      <trkpt lat="50.900256399999996" lon="6.9792373999999988"/>
+      <trkpt lat="50.900256900000009" lon="6.9791705000000013"/>
+      <trkpt lat="50.900236299999996" lon="6.9791121"/>
+      <trkpt lat="50.900557299999988" lon="6.9786627000000001"/>
+      <trkpt lat="50.900682899999985" lon="6.9784186000000004"/>
+      <trkpt lat="50.900930399999986" lon="6.9777269999999998"/>
+      <trkpt lat="50.901001199999989" lon="6.9775947000000009"/>
+      <trkpt lat="50.900969500000009" lon="6.9774846999999998"/>
+      <trkpt lat="50.900941499999995" lon="6.9774209000000003"/>
+      <trkpt lat="50.900903499999998" lon="6.9773712999999997"/>
+      <trkpt lat="50.900044100000002" lon="6.9769076000000005"/>
+      <trkpt lat="50.898526699999991" lon="6.9761153"/>
+      <trkpt lat="50.898606999999991" lon="6.976912500000001"/>
+      <trkpt lat="50.898611200000005" lon="6.9771026000000003"/>
+      <trkpt lat="50.898602999999987" lon="6.9773201"/>
+      <trkpt lat="50.898575700000009" lon="6.9777452999999996"/>
+      <trkpt lat="50.898519799999988" lon="6.9782023000000004"/>
+      <trkpt lat="50.898305700000009" lon="6.9794200000000011"/>
+      <trkpt lat="50.898214399999986" lon="6.9798454999999997"/>
+      <trkpt lat="50.898122799999996" lon="6.9802616999999998"/>
+      <trkpt lat="50.898152699999983" lon="6.9804041999999997"/>
+      <trkpt lat="50.898135199999999" lon="6.9805237"/>
+      <trkpt lat="50.898132199999999" lon="6.9806917999999998"/>
+      <trkpt lat="50.898105199999996" lon="6.9809383"/>
+      <trkpt lat="50.898061699999978" lon="6.9811446999999998"/>
+      <trkpt lat="50.898120799999987" lon="6.9812178999999999"/>
+      <trkpt lat="50.898160799999992" lon="6.9813109000000013"/>
+      <trkpt lat="50.898299199999997" lon="6.9816235999999998"/>
+      <trkpt lat="50.898354599999998" lon="6.9817340000000003"/>
+      <trkpt lat="50.898463499999998" lon="6.9819000000000013"/>
+      <trkpt lat="50.898534700000006" lon="6.9819931999999998"/>
+      <trkpt lat="50.898640899999982" lon="6.9820693"/>
+      <trkpt lat="50.898709999999987" lon="6.9821011999999998"/>
+      <trkpt lat="50.898640899999982" lon="6.9820693"/>
+      <trkpt lat="50.898534700000006" lon="6.9819931999999998"/>
+      <trkpt lat="50.898463499999998" lon="6.9819000000000013"/>
+      <trkpt lat="50.898354599999998" lon="6.9817340000000003"/>
+      <trkpt lat="50.898299199999997" lon="6.9816235999999998"/>
+      <trkpt lat="50.898160799999992" lon="6.9813109000000013"/>
+      <trkpt lat="50.898120799999987" lon="6.9812178999999999"/>
+      <trkpt lat="50.898061699999978" lon="6.9811446999999998"/>
+      <trkpt lat="50.898105199999996" lon="6.9809383"/>
+      <trkpt lat="50.898132199999999" lon="6.9806917999999998"/>
+      <trkpt lat="50.898135199999999" lon="6.9805237"/>
+      <trkpt lat="50.898152699999983" lon="6.9804041999999997"/>
+      <trkpt lat="50.898122799999996" lon="6.9802616999999998"/>
+      <trkpt lat="50.898214399999986" lon="6.9798454999999997"/>
+      <trkpt lat="50.898305700000009" lon="6.9794200000000011"/>
+      <trkpt lat="50.898519799999988" lon="6.9782023000000004"/>
+      <trkpt lat="50.898575700000009" lon="6.9777452999999996"/>
+      <trkpt lat="50.898602999999987" lon="6.9773201"/>
+      <trkpt lat="50.898611200000005" lon="6.9771026000000003"/>
+      <trkpt lat="50.898606999999991" lon="6.976912500000001"/>
+      <trkpt lat="50.898526699999991" lon="6.9761153"/>
+      <trkpt lat="50.898435399999997" lon="6.9753203000000008"/>
+      <trkpt lat="50.898425999999994" lon="6.9752524999999999"/>
+      <trkpt lat="50.898419600000004" lon="6.9752061000000012"/>
+      <trkpt lat="50.898253299999986" lon="6.9736206000000003"/>
+      <trkpt lat="50.898072199999987" lon="6.9719218999999999"/>
+      <trkpt lat="50.897870999999995" lon="6.9701278999999996"/>
+      <trkpt lat="50.897659400000002" lon="6.9681588000000003"/>
+      <trkpt lat="50.897432299999998" lon="6.9682364999999997"/>
+      <trkpt lat="50.897256599999977" lon="6.9683371000000012"/>
+      <trkpt lat="50.897063799999984" lon="6.9684701000000002"/>
+      <trkpt lat="50.896831299999988" lon="6.9686731999999996"/>
+      <trkpt lat="50.896778099999992" lon="6.9685895000000002"/>
+      <trkpt lat="50.896692699999988" lon="6.9684989999999996"/>
+      <trkpt lat="50.896610799999998" lon="6.9684404000000004"/>
+      <trkpt lat="50.896518999999977" lon="6.9683850999999999"/>
+      <trkpt lat="50.896422399999999" lon="6.9683410999999991"/>
+      <trkpt lat="50.89630240000001" lon="6.9682985000000004"/>
+      <trkpt lat="50.896064499999973" lon="6.9682588000000001"/>
+      <trkpt lat="50.89580500000001" lon="6.9682408999999996"/>
+      <trkpt lat="50.895500899999981" lon="6.9682375000000008"/>
+      <trkpt lat="50.895222599999983" lon="6.9682462000000012"/>
+      <trkpt lat="50.894747999999979" lon="6.9682848000000002"/>
+      <trkpt lat="50.894721699999984" lon="6.9678088000000011"/>
+      <trkpt lat="50.894689599999985" lon="6.9672261999999998"/>
+      <trkpt lat="50.894682499999988" lon="6.9670968999999996"/>
+      <trkpt lat="50.894677799999982" lon="6.9669699000000005"/>
+      <trkpt lat="50.894559399999977" lon="6.9669977000000003"/>
+      <trkpt lat="50.894435199999982" lon="6.9670253999999998"/>
+      <trkpt lat="50.894423299999985" lon="6.967029000000001"/>
+      <trkpt lat="50.894293400000002" lon="6.9670606000000008"/>
+      <trkpt lat="50.894254400000001" lon="6.9670674000000012"/>
+      <trkpt lat="50.894293400000002" lon="6.9670606000000008"/>
+      <trkpt lat="50.894423299999985" lon="6.967029000000001"/>
+      <trkpt lat="50.894435199999982" lon="6.9670253999999998"/>
+      <trkpt lat="50.894559399999977" lon="6.9669977000000003"/>
+      <trkpt lat="50.894677799999982" lon="6.9669699000000005"/>
+      <trkpt lat="50.894682499999988" lon="6.9670968999999996"/>
+      <trkpt lat="50.894689599999985" lon="6.9672261999999998"/>
+      <trkpt lat="50.894721699999984" lon="6.9678088000000011"/>
+      <trkpt lat="50.894747999999979" lon="6.9682848000000002"/>
+      <trkpt lat="50.89477119999998" lon="6.9689142999999998"/>
+      <trkpt lat="50.894774900000002" lon="6.9691853999999998"/>
+      <trkpt lat="50.894780699999998" lon="6.9696192999999997"/>
+      <trkpt lat="50.894777500000004" lon="6.9702723000000004"/>
+      <trkpt lat="50.894774300000002" lon="6.9709059"/>
+      <trkpt lat="50.894779800000002" lon="6.9710621000000002"/>
+      <trkpt lat="50.894781999999992" lon="6.9711245999999996"/>
+      <trkpt lat="50.894796699999993" lon="6.9713592000000002"/>
+      <trkpt lat="50.894813399999997" lon="6.9716151999999996"/>
+      <trkpt lat="50.894844799999987" lon="6.9719201000000002"/>
+      <trkpt lat="50.894882299999985" lon="6.9722255999999998"/>
+      <trkpt lat="50.895588099999983" lon="6.9722176999999999"/>
+      <trkpt lat="50.895800699999995" lon="6.9721238000000012"/>
+      <trkpt lat="50.8959464" lon="6.9720696999999996"/>
+      <trkpt lat="50.896168099999997" lon="6.9720145999999996"/>
+      <trkpt lat="50.89636609999998" lon="6.9720067999999999"/>
+      <trkpt lat="50.896632899999972" lon="6.972055000000001"/>
+      <trkpt lat="50.89686549999999" lon="6.9720535999999997"/>
+      <trkpt lat="50.897158099999984" lon="6.9720513000000004"/>
+      <trkpt lat="50.897287600000013" lon="6.9720634000000006"/>
+      <trkpt lat="50.897365999999991" lon="6.9720708000000009"/>
+      <trkpt lat="50.897904099999984" lon="6.9719743999999997"/>
+      <trkpt lat="50.898072199999987" lon="6.9719218999999999"/>
+      <trkpt lat="50.898300699999993" lon="6.9718454999999997"/>
+      <trkpt lat="50.898813199999992" lon="6.9715892000000004"/>
+      <trkpt lat="50.900746799999993" lon="6.9704603000000001"/>
+      <trkpt lat="50.900885199999991" lon="6.9703847000000012"/>
+      <trkpt lat="50.901384499999992" lon="6.9701867000000011"/>
+      <trkpt lat="50.90146889999999" lon="6.9701569000000001"/>
+      <trkpt lat="50.901907299999976" lon="6.970002"/>
+      <trkpt lat="50.901987699999978" lon="6.9699771999999998"/>
+      <trkpt lat="50.902172399999991" lon="6.9699134000000003"/>
+      <trkpt lat="50.902553800000014" lon="6.969802500000001"/>
+      <trkpt lat="50.903087999999975" lon="6.9696221000000005"/>
+      <trkpt lat="50.903325799999983" lon="6.9695251999999996"/>
+      <trkpt lat="50.903996599999992" lon="6.9692145999999999"/>
+      <trkpt lat="50.904058499999991" lon="6.9691960000000002"/>
+      <trkpt lat="50.904103099999993" lon="6.969182599999999"/>
+      <trkpt lat="50.904120099999986" lon="6.9692809999999987"/>
+      <trkpt lat="50.904315299999993" lon="6.9704084000000011"/>
+      <trkpt lat="50.904505100000009" lon="6.9712839000000004"/>
+      <trkpt lat="50.904521800000005" lon="6.9713676000000007"/>
+      <trkpt lat="50.904558099999996" lon="6.971549500000001"/>
+      <trkpt lat="50.904508800000002" lon="6.9715750999999999"/>
+      <trkpt lat="50.904442199999984" lon="6.9716097000000001"/>
+      <trkpt lat="50.904290199999991" lon="6.9716931999999998"/>
+      <trkpt lat="50.903789399999994" lon="6.9719930000000003"/>
+      <trkpt lat="50.902960799999988" lon="6.972542100000001"/>
+      <trkpt lat="50.901446799999981" lon="6.9735424000000004"/>
+      <trkpt lat="50.901240899999983" lon="6.9736783999999998"/>
+      <trkpt lat="50.901592781692578" lon="6.9767021043317801"/>
+      <trkpt lat="50.903366599999998" lon="6.9750126999999997"/>
+      <trkpt lat="50.903406300000007" lon="6.9750681999999991"/>
+      <trkpt lat="50.903429399999993" lon="6.9751139999999987"/>
+      <trkpt lat="50.903608200000001" lon="6.9756083999999996"/>
+      <trkpt lat="50.903745399999998" lon="6.9760131000000012"/>
+      <trkpt lat="50.904013599999985" lon="6.9767649"/>
+      <trkpt lat="50.90408339999999" lon="6.9769785000000004"/>
+      <trkpt lat="50.904253699999998" lon="6.9774750000000001"/>
+      <trkpt lat="50.904263199999995" lon="6.9775249000000006"/>
+      <trkpt lat="50.904261699999992" lon="6.9775725"/>
+      <trkpt lat="50.904246099999995" lon="6.9776115000000001"/>
+      <trkpt lat="50.904158299999978" lon="6.9776891000000001"/>
+      <trkpt lat="50.904123199999994" lon="6.9777395000000002"/>
+      <trkpt lat="50.904113099999982" lon="6.9777804999999997"/>
+      <trkpt lat="50.904117899999981" lon="6.9778294000000001"/>
+      <trkpt lat="50.9045244" lon="6.9789842000000002"/>
+      <trkpt lat="50.904547700000009" lon="6.9790397000000004"/>
+      <trkpt lat="50.904593499999983" lon="6.9790871999999995"/>
+      <trkpt lat="50.904622999999994" lon="6.9791023000000001"/>
+      <trkpt lat="50.9046521" lon="6.9790999000000005"/>
+      <trkpt lat="50.904825000000002" lon="6.9790782"/>
+      <trkpt lat="50.904865699999995" lon="6.9790872999999989"/>
+      <trkpt lat="50.904917099999999" lon="6.9791486999999988"/>
+      <trkpt lat="50.904984399999989" lon="6.9790273999999997"/>
+      <trkpt lat="50.905177700000003" lon="6.9786818999999998"/>
+      <trkpt lat="50.905295399999993" lon="6.9784722000000006"/>
+      <trkpt lat="50.905386899999989" lon="6.9782958000000006"/>
+      <trkpt lat="50.905959499999994" lon="6.9772891000000001"/>
+      <trkpt lat="50.906251599999983" lon="6.9768363000000013"/>
+      <trkpt lat="50.906367600000003" lon="6.9769610000000011"/>
+      <trkpt lat="50.906359599999995" lon="6.9770231999999996"/>
+      <trkpt lat="50.9063692" lon="6.9771013000000002"/>
+      <trkpt lat="50.906391399999976" lon="6.977154099999999"/>
+      <trkpt lat="50.906431999999995" lon="6.9771976999999996"/>
+      <trkpt lat="50.906471199999999" lon="6.9772106000000003"/>
+      <trkpt lat="50.9065108" lon="6.9772015000000005"/>
+      <trkpt lat="50.906530399999994" lon="6.9771878999999997"/>
+      <trkpt lat="50.906596799999988" lon="6.9773485999999991"/>
+    </trkseg>
+  </trk>
+  <wpt lat="50.9065968" lon="6.9773486">
+    <name>Start Kulturpfad 2.3 Rodenkirchen</name>
+    <cmt>Die 7 km lange Rundtour startet am Bismarkturm nahe der Haltestelle Bayenthalgürtel und führt durch die Villenkolonie Marienburg.</cmt>
+  </wpt>
+  <wpt lat="50.9065304" lon="6.9771879">
+    <name>Bismarkturm</name>
+    <cmt>Markanter Abschluß des 1899 angelegten Bayenthalgürtels. Der 27 m hohe Turm wurde 1902 nach dem Entwurf von A. Hartmann in der Formensprache des Jugendstils erbaut. Auf der Frontseite blockhafte Bismarckfigur in Rüstung mit hohem Adlerschild. Im Zinnenkranz ehemals Feuerschale.<br/>Rheinuferstraße bzw. Oberländer Ufer.<br/>1895 — 1897 Anlage als breite Promenade.</cmt>
+  </wpt>
+  <wpt lat="50.9050215" lon="6.9734849">
+    <name>Villenviertel Marienburg</name>
+    <cmt>Gehört zu den bedeutendsten Villenkolonien in Deutschland. Mit dem Kauf des namengebenden Gutes "Marienburg" um 1870 schuf der Fabrikant Ernst Leybold die Voraussetzung für die Anlegung des Viertels. Erst später nach der Gründung der Kölnischen Immobiliengesellschaft 1891 setzte zunächst in der Gegend Unter den Ulmen/Parkstraße eine stärkere Villenbebauung ein.<br/>Villa Schröder 1907 von E, Fabricius. Beispiel einer Marienburger Großvilla mit Kutscherhaus und großem Park. Verbindung von englischem Landhausstil mit Neurenaissanceformen.</cmt>
+  </wpt>
+  <wpt lat="50.9022603" lon="6.9785857">
+    <name>Marienburger Str. 11</name>
+    <cmt>Mit dem Bau des Rathauses 1879 in dieser Straße wurde Marienburg neues Zentrum der Gemeinde Rondorf. Zeugnis dieser Bauphase ist das neugotische Backsteinhaus Marienburger Straße 11 von 1882.</cmt>
+  </wpt>
+  <wpt lat="50.9004632" lon="6.9803232">
+    <name>"Marienburg"</name>
+    <cmt>In der Parkstraße die "Marienburg" (Nr. 55), das um 1847 erbaute klassizistische Gutshaus .1880 nach Entwurf von J. Crones Umbau in ein Ausflugslokal mit Aussichtsturm im Neurenaissancestil. 1907 Umgestaltung in ein Wohnhaus für den Fabrikanten Schütte und Aufstellung des Brunnens.</cmt>
+  </wpt>
+  <wpt lat="50.9008283" lon="6.9780123">
+    <name>Villa Vorster</name>
+    <cmt>Erbaut 1893 nach dem Entwurf von O. March für den Bauherrn Fritz Vorster. Eine der ersten deutschen Villen im englischen Landhausstil, beispielgebend für viele Villen des Viertels. So in der Leyboldstraße für die Villen Nr. 42/44, 1911/12 von P. Pott und Nr. 50/52 / Goethestraße 69, 1925 von Th. Merrill.</cmt>
+  </wpt>
+  <wpt lat="50.89871" lon="6.9821012">
+    <name>Zwischenwerk VIIIb</name>
+    <cmt>Teil des 1873 - 1876 angelegten äußeren Festungsgürtels um das linksrheinische Köln. Trotz der Schleifung der Festungsanlagen gemäß dem Versailler Vertrag (1919) relativ komplette Erhaltung des Werkes. Monumentaler, erdbedeckter, von Graben umgebener Ziegelbau; Haupttor mit Eckpilastern, Türmchen und Wappenschild.<br/>1927 Umgestaltung und Einbeziehung in den Äußeren Grüngürtel nach dem Entwurf Th. Nußbaums. Auf dem eingeebneten Fortdach Schmuckanlage mit geometrischem Rosengarten. Im Gelände moderner Skulpturenpark.</cmt>
+  </wpt>
+  <wpt lat="50.8942544" lon="6.9670674">
+    <name>Allerheiligen-Kirche</name>
+    <cmt><i>Hier konnten wir leider keine Infotafel mehr finden.</i></cmt>
+  </wpt>
+  <wpt lat="50.8959464" lon="6.9720697">
+    <name>Südpark</name>
+    <cmt><i>Hier konnten wir leider keine Infotafel mehr finden. Der Text beschreibt das umliegende Gebiet.</i></cmt>
+  </wpt>
+  <wpt lat="50.897366" lon="6.9720708">
+    <name>Goethestraße</name>
+    <cmt>Gleich am Südpark die Villa Nr. 84 (1902). Ägyptischer Formenschmuck auf Wunsch des Bauherren, eines ehemaligen Kolonial-Offiziers.<br/>Weiter hervorzuheben sind die Villa Nr. 30, 1937 von J. Op Gen Oorth, die stilistisch auf das Herrenhaus des Barock zurückgeht, sowie die Villa Nr. 66, 1924 von Th. Merrill im amerikanischen Kolonialstil. Die Villa Nr. 64, 1922 von Cl. Klotz in klassizistischer Formensprache.</cmt>
+  </wpt>
+  <wpt lat="50.9019073" lon="6.970002">
+    <name>Ev. Reformationskirche</name>
+    <cmt>1903 - 1905 von O. March. Saalkirche mit tiefgezogenem Satteldach, Giebelfassaden und markantem Vierkantturm in rustiziertem Tuffstein. Im Aufbau englischen Pfarrkirchen nachempfunden. Freie Anwendung romanischer Formen im Sinne des Späthistorismus. Nach Kriegszerstörung 1959 - 1961 veränderter Wiederaufbau durch O. H. Vogel: Neufassung des Inneren; neues Chorhaus in Beton-Glas-Konstruktion im Süden, Gestaltung seiner Fensterwände in Form eines "Triptychons" von E. Keller. Von einem Park umgeben, bilden Kirche und Pfarrhaus im englischen Landhausstil ein Ensemble, das sich in die Villenumgebung einbindet.</cmt>
+  </wpt>
+  <wpt lat="50.9040428" lon="6.9718413">
+    <name>Pferdmengesstraße</name>
+    <cmt>Hervorzuheben sind: 1. die herrschaftliche Villa Nr. 1, 1925 von Th. Merill im amerikanischen Kolonialstil; 2. Beispiele früher Bebauung u. a. die Doppelvilla Nr. 30/32, 1899 von J. Crones im romantisierenden Stil mit Elementen aus der Gotik und der Renaissance; 3. die stattliche Villa Pferdmenges (ehemals Villa Deichmann), Nr. 52, 1910/11 von P. Pott im neuklassizistischen Stil englischer Prägung.</cmt>
+  </wpt>
+</gpx>

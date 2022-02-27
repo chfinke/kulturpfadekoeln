@@ -1,14 +1,15 @@
 #!/usr/bin/env python3
 # # -*- coding: utf-8 -*-
 
+# @TODO add documentation
+
 import sys
 import json
-reload(sys)
-sys.setdefaultencoding('utf-8')
 
+# @TODO check for input params
 trackId = sys.argv[1]
 
-with open('src/assets/data/data.json',) as f:
+with open('../data.json',) as f:
   data = json.load(f) 
 
 points = data['tracks'][trackId]['points']
@@ -32,16 +33,7 @@ for pointId in points:
     if description:
       description += '<br/>'
     description += '<i>' + point['notes'] + '</i>'
-  print('  <cmt>{description}</cmt>').format(
+  print('  <cmt>{description}</cmt>'.format(
     description=description.strip()
-  )
+  ))
   print('</wpt>')
-
-
-
-
-
-
-
-
-

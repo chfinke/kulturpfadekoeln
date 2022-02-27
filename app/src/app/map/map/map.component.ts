@@ -174,7 +174,7 @@ export class MapComponent implements AfterViewInit {
     Object.entries(tracks).forEach(([trackId, track]) => {
       if ((!track.inactive && !track.incomplete) || this.optionsService.options.develop.showInactiveTracks) {
         new LGPX.GPX(
-          `./assets/data/kulturpfadekoeln_${track.boroughNo}-${track.trackNo}.gpx`, {
+          `./assets/data/gpx/kulturpfadekoeln_${track.boroughNo}-${track.trackNo}.gpx`, {
           async: true,
           gpx_options: {
             parseElements: ['track'],
@@ -303,8 +303,8 @@ export class MapComponent implements AfterViewInit {
 
   onDownload(): void {
     // const href = this._detailTrack
-    //   ? `./assets/data/kulturpfadekoeln_${this._detailTrack.boroughNo}-${this._detailTrack.trackNo}.gpx`
-    //   : `./assets/data/kulturpfadekoeln_${this._trackId.replace('.', '-')}.gpx`;
+    //   ? `./assets/data/gpx/kulturpfadekoeln_${this._detailTrack.boroughNo}-${this._detailTrack.trackNo}.gpx`
+    //   : `./assets/data/gpx/kulturpfadekoeln_${this._trackId.replace('.', '-')}.gpx`;
     // window.open(href, '_blank');
   }
   
