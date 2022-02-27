@@ -627,7 +627,7 @@
           "info": {
             "state": "#unknown"
           },
-          "notes": "",
+          "notes": "Der Text beschreibt das umliegende Gebiet.",
           "wiki": {
             "state": "#ok",
             "value": "S%C3%BCdfriedhof_%28K%C3%B6ln%29"
@@ -703,15 +703,14 @@
           "quarter": "Raderthal",
           "predecessor": "2.2.9",
           "successor": "2.2.11",
-          "inactive": true,
-          "title": "Volkspark",
+          "title": "Volks|park",
           "description": {
             "state": "#unknown",
             "value": ""
           },
           "mapPosition": {
-            "state": "#unknown",
-            "value": []
+            "state": "#check",
+            "value": [6.9594758, 50.8967955]
           },
           "buildings": {
             "state": "#unknown"
@@ -719,7 +718,7 @@
           "info": {
             "state": "#unknown"
           },
-          "notes": "",
+          "notes": "Hier konnten wir leider keine Infotafel mehr finden.",
           "wiki": {
             "state": "#unknown"
           },
@@ -733,15 +732,14 @@
           "quarter": "Raderthal",
           "predecessor": "2.2.10",
           "successor": "",
-          "inactive": true,
-          "title": "Wasserwerk Hochkirchen",
+          "title": "Was|ser|werk Hoch|kir|chen",
           "description": {
-            "state": "#unknown",
-            "value": ""
+            "state": "#ok",
+            "value": "Neben der modernen Anlage stehen noch das Wohnhaus und ein Nebengebäude sowie die originale Einfriedung des 1903 - 1905 nach den Plänen von P. Gaertner erbauten ersten Wasserwerks. Das alte Maschinenhaus des Schöpfwerks ist nicht mehr vorhanden. Die Formensprache dieser Bauten ist der deutschen Renaissance nachempfunden."
           },
           "mapPosition": {
-            "state": "#unknown",
-            "value": []
+            "state": "#ok",
+            "value": [6.9664056, 50.8887079]
           },
           "buildings": {
             "state": "#unknown"
@@ -751,10 +749,11 @@
           },
           "notes": "",
           "wiki": {
-            "state": "#unknown"
+            "state": "#n/a"
           },
           "monumentNo": {
-            "state": "#unknown"
+            "state": "#ok",
+            "value": 7730
           }
         }
       }
@@ -1051,7 +1050,7 @@
           },
           "notes": "Hier konnten wir leider keine Infotafel mehr finden. Der Text beschreibt das umliegende Gebiet.",
           "wiki": {
-            "state": "ok"
+            "state": "#ok"
           },
           "monumentNo": {
             "state": "#ok",
@@ -8525,7 +8524,6 @@
       "borough": "Mülheim",
       "trackNo": 1,
       "color": "",
-      "inactive": true,
       "points": {
         "9.1.0": {
           "trackPoint": 0,
@@ -8533,11 +8531,10 @@
           "quarter": "",
           "predecessor": "",
           "successor": "9.1.1",
-          "inactive": true,
           "title": "Start",
           "description": {
-            "state": "#unknown",
-            "value": ""
+            "state": "#ok",
+            "value": "Im Schatten der Mülheimer Brücke liegt der alte Ortskern Mülheims. Die einst das Rheinufer beherrschende Clemenskirche sowie die in ihrer unmittelbaren Nachbarschaft auf der Kaimauer stehende Johann-von-Nepomuk-Statue galten früher dem Schiffer als Wahrzeichen Mülheims."
           },
           "mapPosition": {
             "state": "#unknown",
@@ -8565,8 +8562,8 @@
           "successor": "9.1.2",
           "title": "Cle|mens|kir|che",
           "description": {
-            "state": "#n/a",
-            "value": ""
+            "state": "#pk",
+            "value": "Die Clemenskirche wurde im 12. Jahrhundert gegründet. Von der romanischen Saalkirche haben sich Bauteile in dem hallenartigen Erweiterungsbau aus den Jahrzehnten um 1700 erhalten. Aus dieser Zeit stammen die Schweifgiebel über den Seitenschiffen, der Chorturm mit Haube und Laterne und die nach 1945 nicht wieder aufgebaute West-Vorhalle."
           },
           "mapPosition": {
             "state": "#ok",
@@ -8595,8 +8592,8 @@
           "successor": "9.1.3a",
           "title": "Ba|rock|bau|ten",
           "description": {
-            "state": "#n/a",
-            "value": ""
+            "state": "#ok",
+            "value": "Palaisartige barocke Patrizierbauten im Mülheimer Altstadtbereich an der Mülheimer Freiheit und Krahnenstraße haben heute im übrigen Kölner Stadtgebiet keine Parallelen; sie sind Zeugen der einst wohlhabenden bergischen Stadt. Namenhafte Architekten wie Georg Leydel und Hubert Bongartz entwarfen diese Wohnbauten, deren äußere Gestalt gemeinsame Grundzüge prägen: zweigeschossige breitgelagerte Putzbauten, Werksteingliederung und Mansarddächer."
           },
           "mapPosition": {
             "state": "#ok",
@@ -8625,7 +8622,7 @@
           "title": "Stadt|brun|nen Mül|hei|mi|a",
           "description": {
             "state": "#ok",
-            "value": "1884 vom Bildhauer Wilhelm Albermann entworfen. Geschenk des Verschönerungsvereins Mülheim und des Geheimen Baurats Hermann Pflaume. Anstelle einer ehemaligen städtischen Pumpe aufgestellt. Die personifizierte Stadt Mülheim (Mülheimia) auf einem Säulenbündel. Drei mittelalterlich gekleidete Knaben unterhalb als Symbol für Mülheimer Wirtschaftszweige: Handel, Industrie und Landwirtschaft"
+            "value": "Stadtbrunnen Mülheimia. Dreischalenbrunnen. 1884 vom Bildhauer Wilhelm Albermann entworfen. Geschenk des Verschönerungsvereins Mülheim und des Geheimen Baurats Hermann Pfaume. Anstelle einer ehemaligen städtischen Pumpe aufgestellt. Die personifizierte Stadt Mülheim (Mülheimia) auf einem Säulenbündel. Drei mittelalterlich gekleidete Knaben als Symbol für Mülheims VWirtschaftszweige: Handel, Industrie und Landwirtschaft."
           },
           "mapPosition": {
             "state": "#ok",
@@ -8656,7 +8653,7 @@
           "title": "Pfer|de|bahn|sta|tion",
           "description": {
             "state": "#ok",
-            "value": "Krahnenstraße 1. Endstation der Pferdebahn. Pferdeköpfe als Ausdruck für die Nutzung des Gebäudes. Einstige Toreinfahrt heute verplast."
+            "value": "Zwei Pferdeköpfe als Fassadenschmuck weisen auf die einstige Nutzung des Hauses Krahnenstr. 1 als Straßenbahnhof der Pferdebahn hin. Die ehemalige Toreinfahrt ist durch eine Verglasung der Torzone beibehalten."
           },
           "mapPosition": {
             "state": "#ok",
@@ -8685,8 +8682,8 @@
           "successor": "9.1.5",
           "title": "Grün|der|zeit|li|che Wohn|bau|ten, St. An|to|ni|us|kir|che",
           "description": {
-            "state": "#n/a",
-            "value": ""
+            "state": "#ok",
+            "value": "Die Straßen der ersten Mülheimer Stadterweiterungen wie die Regentenstraße haben wenig von ihrer alten Bausubstanz erhalten. Lediglich die Münsterer Straße vermittelt noch etwas von dem früheren gründerzeitlich geprägtern Straßeneindruck mit den hier relativ reichen Hausfassaden. Umso mehr überrascht die dichte, nahezu vollkommen erhaltene Bebauung an der Schützenhofstraße, Von-Sparr-Straße, Tiefenthalstraße, Hacketäuerstraße sowie dem anliegenden Teilstück der Berliner Straße aus der Zeit um die Jahrhundertwende. Umfangreiche Stuckdekorationen mit einem Formenrepertoire aus den historischen Stilepochen und dem Jugendstil; gelegentlich vorkommende Giebelaufbauten, allerdings ohne jegliche Vorbauten, kennzeichnen diese viergeschossige Mietwohnbebauung für eine weinger finanzkräftige Bevölkerung.<br/>Die St. Antoniuskirche verleiht diesem gründerzeitlichen Viertel eigenwillige individuelle Note. Der schlichte neugotische Bau entstand 1904-06 und 1916-21 nach dem Entwurf von Heinrich Renard. Mit den zahlreichen kleinen Türmen der vielfältig gegliederten Dachzone harmonieren die neuen Eingangspavillons von 1968 an der Südfassade."
           },
           "mapPosition": {
             "state": "#ok",
@@ -8717,7 +8714,7 @@
           "title": "Werkbauten des Carlswerks",
           "description": {
             "state": "#unknown",
-            "value": ""
+            "value": "Die Firma Felten & Guilleaume ließ sich im Jahre 1874 am Rande Mülheims nieder, da ihr im Altstadtgebiet Kölns keine Ausdehnungsmöglichkeiten mehr gegeben waren. Die zahlreichen Fabrikbauten im Umkreis der Schanzenstraße aus den ersten Jahren nach der Niederlassung bis etwa zum Ersten Weltkrieg zeugen vom ungeheuren Wachstum der Firma an diesem neuen Standort. Die Werkbauten in Backstein geben eine typische Auswahl der Industriearchitektur aus der Zeit, in der Pilaster, Rundbogenfriese und sonstige plastische Gliederungselemente als funktionslose Zutaten die Bauten schmückten. Das ehemalige Gasweck der, Stadt Mülheim an der Schanzenstraße mit seinem unterschiedlichen Zierrat wie Zinnen, Rundfenstern, einem mit welscher Haube bekrönten Turm und dgl. mehr bildet hier den Höhepunkt der architektonischen Ausgestaltung von Industriebauten."
           },
           "mapPosition": {
             "state": "#check",
@@ -8747,7 +8744,7 @@
           "title": "F & G-Siedlung",
           "description": {
             "state": "#unknown",
-            "value": ""
+            "value": "Wohnbauten an der Zehnt- und Keupstraße. Von der Firma Felten & Guilleaume für ihre Arbeiter und Angestellten errichtete dreigeschossige Mietstockwerkbauten und zweieinhalbgeschossige Eigenheime mit je 3 Achsen. Schlichte Backsteinbauten mit Flachbogenfenstern vom Jahre 1880. Beispielhafte Wohnungsfürsorge: Bebauung mit Gartenland ohne Hinterbauten; Eigenheime mit Vorgärten."
           },
           "mapPosition": {
             "state": "#unknown",
@@ -8777,7 +8774,7 @@
           "title": "Villa Hahnenburg",
           "description": {
             "state": "#unknown",
-            "value": ""
+            "value": "Die Villa Hahnenburg, im Jahre 1872 vom Brauereibesitzer Hahn neben seinem Besitz errichtet, ist mit dem umgebenden Park das Beispiel eines großzügig gestalteten Fabrikantensitzes. Das herrschaftliche Gebäude sollte sich damals in Grundriß- und Fassadengestaltung von der üblichen Kölner Bebauung abheben: Berliner Bauten dienten als Vorbild. Die dem Schloßbau nachempfundene Grundrißgestaltung mit den beiden seitlichen vorgezogenen Gebäudepartien, dem zurückgesetzten Mitteltrakt mit Eingang, vorgelagerter Loggia und Balkon sowie die noble, spätklassizistische Formensprache besitzen heute in Köln Seltenheitswert."
           },
           "mapPosition": {
             "state": "#unknown",
@@ -8807,7 +8804,7 @@
           "title": "Evangelischer Friedhof",
           "description": {
             "state": "#unknown",
-            "value": ""
+            "value": "An die frühe Aufnahme von Protestanten in der einstigen Stadt Mülheim erinnert der evangelische Friedhof an der Bergisch Gladbacher Straße; die ersten Gräber wurden bereits im 17. Jahrhundert belegt. Entlang der Friedhofsmauer fanden zahlreiche historisch und künstlerisch wertvolle Grabdenkmäler eine neue Aufstellung."
           },
           "mapPosition": {
             "state": "#check",
@@ -8837,7 +8834,7 @@
           "title": "Genovevabrunnen",
           "description": {
             "state": "#unknown",
-            "value": ""
+            "value": "Den Genovevabrunnen am Clevischen Ring schuf E. Hertel um 1912. Familie Martin schenkte diesen schmukken Brunnen, bei dem bronzene Figuren auf dem gestuften polygonalen Steinpostament inmitten einer steinernen, gerundeten Brunnenschale stehen. Dargestellt ist Genoveva von Brabant, die im 8. Jahrhundert lebte, der Legende nach von ihrem Mann des Ehebruchs bezichtigt und deshalb im Wald ausgesetzt wurde. Nach 6 Jahren wurde ihre Unschuld erkannt. Gleich einer Schutzmantelmadonna umfängt die notdürftig gekleidete Genoveva mit ihrem langen, herunterfallenden Haar und den ausgebreiteten Armen eine Hirschkuh, die ihr der Legende nach während ihrer Verbannung Milch als Nahrung spendete. Die Hirschkuh wiederum wendet sich dem zu Füßen Genovevas sitzenden Sohne „Schmerzensreich\" zu, der mit seiner Mutter 6 Jahre im Wald verbrachte. Der Brunnen war namengebend für die Genovevastraße."
           },
           "mapPosition": {
             "state": "#check",
@@ -8867,7 +8864,7 @@
           "title": "Lutherkirche",
           "description": {
             "state": "#unknown",
-            "value": ""
+            "value": "Von der Lutherkirche, 1893-95 von Hermann Pflaume d. Ä. erbaut, konnte nur der Westturm erhalten werden - allerdings ohne die ehemals reichgegliederte Haube. Der im Stil der „Deutschen Renaissance\" (Stil der Lutherzeit) gestaltete Turm ist mit dem Farbakkord Grün-Rot seiner Natursteinverkleidung ein wesentlicher Akzent des Mülheimer Stadtbildes. Die Kirchengemeinde nutzt seit 1949 die Notkirche an der Adamsstraße in der Achse des Kirchturms, einen schlichten Saalbau aus Holzbindern, Ziegelwänden und einem umlaufenden Lichtband, entworfen von Otto Barthing. Mit dieser serienmäßig hergestellten Konstruktion konnte in der Nachkriegszeit an vielen Orten die Raumnot der Pfarrgemeinden behoben werden."
           },
           "mapPosition": {
             "state": "#unknown",
@@ -8894,10 +8891,10 @@
           "predecessor": "9.1.10",
           "successor": "9.1.12",
           "inactive": true,
-          "title": "Liebfrauenlirche",
+          "title": "Liebfrauenkirche",
           "description": {
             "state": "#unknown",
-            "value": ""
+            "value": "Die Liebfrauenkirche wurde 1857-64 nach Plänen des Kölner Dombaumeisters Zwirner als neugotische Backstein-Basilika erbaut. 1953-55 ersetzte Rudolf Schwarz den zerstörten Ostteil (Querschiff und Chor) durch den hallenartigen, lichten Chorbau mit schlanken Betonstützen, vergoldeten Stahlträgem und Faltdecke. Die Fensterbänder schuf Anton Wendling 1958. Der Turm erhielt 1965 den schlanken Helm mit Eckspitzen und Krone. (Entwurf: Maria Schwarz)."
           },
           "mapPosition": {
             "state": "#unknown",
@@ -8927,7 +8924,7 @@
           "title": "Bärenhof",
           "description": {
             "state": "#unknown",
-            "value": ""
+            "value": "Buchheimen Straße 29: Bärenhof, im Auftrag von Joseph Zacharias Bertoldi 1780 erbaut. Das zweigeschossige Herrenhaus wurde früher beiderseits von Einfahrten flankiert. Zusammen mit den rückwärtigen Wirtschaftsgebäuden bestand hier eine für den Kölner Raum typische geschlossene Hofanlage. Am Bau des vornehen Wohnhauses beteiligten sich vermutlich Handwerker, die auch am Schloß in Benrath mitgewirkt hatten. Den Namen Bärenhof leitete Bertoldi in volkstümlicher Art von seinem Namen her. Er setzte den Bären auch in sein Wappen, welches er im Giebelfeld abbilden ließ. Sein Portrait erscheint im Balkongitter."
           },
           "mapPosition": {
             "state": "#unknown",
@@ -8957,7 +8954,7 @@
           "title": "Friedenskirche",
           "description": {
             "state": "#unknown",
-            "value": ""
+            "value": "Die Friedenskirche, 1784 von Wilhelm Helbig erbaut, ist Nachfolgerin der zuvor durch hohen Eisgang zerstörten ältesten Mülheimer evangelischen Kirche. Die barocke Einrichtung wurde 1944 zerstört. Einfacher Zentralbau auf Kreis- und Kreuzgründriß. Turmbau 1845-48 vom Kölner Dombaumeister Zwirner."
           },
           "mapPosition": {
             "state": "#unknown",
@@ -8987,7 +8984,7 @@
           "title": "Stadtmauertor",
           "description": {
             "state": "#unknown",
-            "value": ""
+            "value": "Als einziger Rest der ehemaligen Stadtmauer Mülheims überdauerte das Tor zur Ratsstraße an der Wallstraße. Ansonsten weist der Name der Wallstraße auf die ehemalige Befestigung hin, deren Verlauf dieser Straßenzug bis heute noch genau nachzeichnet."
           },
           "mapPosition": {
             "state": "#unknown",
