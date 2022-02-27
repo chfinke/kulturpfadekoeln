@@ -8,8 +8,6 @@
     "test": "ng test",
     "lint": "ng lint",
     "e2e": "ng e2e",
-    "create-picture-index": "python3 scripts/create-picture-index.py > src/assets/data/pictures.json",
-    "lint-data": "jsonlint src/assets/data/data.json --quiet --validate src/assets/data/schema.json",
     "deploy": "ng deploy"
   },
   "private": true,
