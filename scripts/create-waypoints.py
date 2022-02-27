@@ -17,10 +17,11 @@ for pointId in points:
   if 'inactive' in point.keys() and point['inactive']:
     continue
 
-  print('<wpt lat="{lat}" lon="{lon}">'.format(
-    lat=point['mapPosition']['value'][1], 
-    lon=point['mapPosition']['value'][0] 
-  ))
+  if len(point['mapPosition']['value']) == 2:
+    print('<wpt lat="{lat}" lon="{lon}">'.format(
+      lat=point['mapPosition']['value'][1], 
+      lon=point['mapPosition']['value'][0] 
+    ))
   print('  <name>{title}</name>'.format(
     title=point['title'].replace('|', '')
   ))
